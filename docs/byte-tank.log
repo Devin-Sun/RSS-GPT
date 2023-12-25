@@ -5242,3 +5242,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [New York City Guide](http://lopespm.github.io/notes/2023/12/25/nyc.html)
 append_entries: 1
 Finish: 2023-12-25 02:29:59.928758
+------------------------------------------------------
+Started: 2023-12-25 04:22:57.264650
+Existing_entries: 23
+Fetching from https://lopespm.com/atom.xml
+append_entries: 0
+Finish: 2023-12-25 04:22:57.507160
