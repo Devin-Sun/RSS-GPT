@@ -5233,3 +5233,12 @@ Existing_entries: 22
 Fetching from https://lopespm.com/atom.xml
 append_entries: 0
 Finish: 2023-12-25 01:21:08.328956
+------------------------------------------------------
+Started: 2023-12-25 02:29:52.774109
+Existing_entries: 22
+Fetching from https://lopespm.com/atom.xml
+Token length: 28266
+Summarized using GPT-3.5-turbo-1106
+Append: [New York City Guide](http://lopespm.github.io/notes/2023/12/25/nyc.html)
+append_entries: 1
+Finish: 2023-12-25 02:29:59.928758
