@@ -133,6 +133,20 @@ def gpt_summary(query,model,language):
     )
     return completion.choices[0].message.content
 
+def generate_arxiv_urls(keywords,baseurl="http://export.arxiv.org/api/"):
+    """
+    Generate arxiv search url based on keywords
+
+    Args:
+    baseurl: http://export.arxiv.org/api/
+    keywords: "llm, image generation"
+    """
+    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    keywords = keywords.split(",")
+    query = ' OR '.join([f'all:"{keyword}"' for keyword in keywords])
+    url = f'{baseurl}query?search_query={query}&sortBy=submittedDate&sortOrder=descending&startDate={current_date}&endDate={current_date}'
+    return [url.replace(' ', '%20')]
+
 def output(sec, language):
     """ output
     This function is used to output the summary of the RSS feed.
@@ -149,6 +163,10 @@ def output(sec, language):
     rss_urls = get_cfg(sec, 'url')
     rss_urls = rss_urls.split(',')
 
+    if get_cfg(sec, 'name') == "arxiv-daily":
+        keywords = get_cfg(sec, 'keywords')
+        rss_urls = generate_arxiv_urls(keywords)
+         
     # RSS feed filter apply, filter title, article or link, summarize title, article or link
     filter_apply = get_cfg(sec, 'filter_apply')
 
