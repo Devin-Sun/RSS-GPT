@@ -144,7 +144,8 @@ def generate_arxiv_urls(keywords,baseurl="http://export.arxiv.org/api/"):
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
     keywords = keywords.split(",")
     query = ' OR '.join([f'all:"{keyword}"' for keyword in keywords])
-    url = f'{baseurl}query?search_query={query}&sortBy=submittedDate&sortOrder=descending&startDate={current_date}&endDate={current_date}'
+    #url = f'{baseurl}query?search_query={query}&sortBy=submittedDate&sortOrder=descending&startDate={current_date}&endDate={current_date}'
+    url = f'{baseurl}query?search_query={query}&sortBy=submittedDate&sortOrder=descending'
     return [url.replace(' ', '%20')]
 
 def output(sec, language):
