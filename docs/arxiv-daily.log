@@ -40,3 +40,24 @@ Filter: [Spurious self-feedback of mean-field predictions inflates infection
   curves](http://arxiv.org/abs/2312.14851v1)
 append_entries: 0
 Finish: 2023-12-26 12:13:51.711601
+------------------------------------------------------
+Started: 2023-12-26 12:57:30.045166
+Existing_entries: 0
+Fetching from http://export.arxiv.org/api/query?search_query=all:"llm"%20OR%20all:"multimodal"%20OR%20all:"%20image%20generation"%20OR%20all:"video%20generation"%20OR%20all:"%203D%20generation"%20OR%20all:"virtual%20human"%20OR%20all:"%20agent"&sortBy=submittedDate&sortOrder=descending
+Filter: [A Survey of Reinforcement Learning from Human Feedback](http://arxiv.org/abs/2312.14925v1)
+Filter: [Scalable Agent-Based Modeling for Complex Financial Market Simulations](http://arxiv.org/abs/2312.14903v1)
+Filter: [NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language
+  Models via Complexity Classes](http://arxiv.org/abs/2312.14890v1)
+Filter: [Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning](http://arxiv.org/abs/2312.14878v1)
+Filter: [Robust Knowledge Extraction from Large Language Models using Social
+  Choice Theory](http://arxiv.org/abs/2312.14877v1)
+Filter: [Numerical Reasoning for Financial Reports](http://arxiv.org/abs/2312.14870v1)
+Filter: [VIEScore: Towards Explainable Metrics for Conditional Image Synthesis
+  Evaluation](http://arxiv.org/abs/2312.14867v1)
+Filter: [YAYI 2: Multilingual Open-Source Large Language Models](http://arxiv.org/abs/2312.14862v1)
+Filter: [Turbulence: Systematically and Automatically Testing Instruction-Tuned
+  Large Language Models for Code](http://arxiv.org/abs/2312.14856v1)
+Filter: [Spurious self-feedback of mean-field predictions inflates infection
+  curves](http://arxiv.org/abs/2312.14851v1)
+append_entries: 0
+Finish: 2023-12-26 12:57:30.879808
