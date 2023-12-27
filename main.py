@@ -164,9 +164,6 @@ def output(sec, language):
     rss_urls = get_cfg(sec, 'url')
     rss_urls = rss_urls.split(',')
 
-    if get_cfg(sec, 'name') == "arxiv-daily":
-        keywords = get_cfg(sec, 'keywords')
-        rss_urls = generate_arxiv_urls(keywords)
          
     # RSS feed filter apply, filter title, article or link, summarize title, article or link
     filter_apply = get_cfg(sec, 'filter_apply')
