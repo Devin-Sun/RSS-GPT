@@ -4,6 +4,65 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards
+  Embodied AI</title>
+<link>http://arxiv.org/abs/2312.16170v1</link>
+<guid>http://arxiv.org/abs/2312.16170v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 计算机视觉, 机器人, 3D场景理解, 多模态感知数据集, Embodied Perceptron
+
+总结:<br><br>本文介绍了一种新的多模态、自我中心的3D感知数据集和基准测试，名为EmbodiedScan，以及一个基于此数据集的基线框架Embodied Perceptron。该数据集包含了超过5k个扫描，包括100万个自我中心的RGB-D视图，160k个涵盖760个类别的3D定向框和80个常见类别的密集语义占用。Embodied Perceptron能够处理任意数量的多模态输入，并展示出卓越的3D感知能力，不仅在基本3D感知任务和语言相关任务方面，在实际环境中也能取得显著成果。该研究填补了传统研究在3D场景理解方面的空白，为计算机视觉和机器人领域的进一步研究提供了有益的参考。GitHub链接提供了代码、数据集和基准测试。 <div>
+In the realm of computer vision and robotics, embodied agents are expected to
+explore their environment and carry out human instructions. This necessitates
+the ability to fully understand 3D scenes given their first-person observations
+and contextualize them into language for interaction. However, traditional
+research focuses more on scene-level input and output setups from a global
+view. To address the gap, we introduce EmbodiedScan, a multi-modal, ego-centric
+3D perception dataset and benchmark for holistic 3D scene understanding. It
+encompasses over 5k scans encapsulating 1M ego-centric RGB-D views, 1M language
+prompts, 160k 3D-oriented boxes spanning over 760 categories, some of which
+partially align with LVIS, and dense semantic occupancy with 80 common
+categories. Building upon this database, we introduce a baseline framework
+named Embodied Perceptron. It is capable of processing an arbitrary number of
+multi-modal inputs and demonstrates remarkable 3D perception capabilities, both
+within the two series of benchmarks we set up, i.e., fundamental 3D perception
+tasks and language-grounded tasks, and in the wild. Codes, datasets, and
+benchmarks will be available at https://github.com/OpenRobotLab/EmbodiedScan.
+]]></content:encoded>
+<pubDate>2023-12-26T18:59:11Z</pubDate>
+<pubDate>2023-12-26T18:59:11Z</pubDate>
+</item>
+<item>
+<title>From Text to Multimodal: A Comprehensive Survey of Adversarial Example
+  Generation in Question Answering Systems</title>
+<link>http://arxiv.org/abs/2312.16156v1</link>
+<guid>http://arxiv.org/abs/2312.16156v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 对抗性机器学习, 问答系统, 文本, 多模态, 模型漏洞
+
+总结: 
+本文综合评述了在问答系统领域中对抗性示例生成技术，包括文本和多模态情景。首先概述了传统问答模型，然后通过对基于规则的扰动和先进的生成模型的探讨，研究了对抗性示例的生成技术。之后，扩展到多模态问答系统，分析了各种方法，并对生成模型、seq2seq架构和混合方法进行了研究。研究覆盖了不同的防御策略、对抗性数据集和评估指标，并展示了对抗性问答方面的全面文献。最后，考虑了对抗性问题生成的未来发展方向，突出了可以推进文本和多模态问答系统在对抗性挑战方面的潜在研究方向。 <div>
+Integrating adversarial machine learning with Question Answering (QA) systems
+has emerged as a critical area for understanding the vulnerabilities and
+robustness of these systems. This article aims to comprehensively review
+adversarial example-generation techniques in the QA field, including textual
+and multimodal contexts. We examine the techniques employed through systematic
+categorization, providing a comprehensive, structured review. Beginning with an
+overview of traditional QA models, we traverse the adversarial example
+generation by exploring rule-based perturbations and advanced generative
+models. We then extend our research to include multimodal QA systems, analyze
+them across various methods, and examine generative models, seq2seq
+architectures, and hybrid methodologies. Our research grows to different
+defense strategies, adversarial datasets, and evaluation metrics and
+illustrates the comprehensive literature on adversarial QA. Finally, the paper
+considers the future landscape of adversarial question generation, highlighting
+potential research directions that can advance textual and multimodal QA
+systems in the context of adversarial challenges.
+]]></content:encoded>
+<pubDate>2023-12-26T18:30:29Z</pubDate>
+<pubDate>2023-12-26T18:30:29Z</pubDate>
+</item>
 
 </channel>
 </rss>
