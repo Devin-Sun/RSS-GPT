@@ -82,3 +82,9 @@ Filter: [Spurious self-feedback of mean-field predictions inflates infection
   curves](http://arxiv.org/abs/2312.14851v1)
 append_entries: 0
 Finish: 2023-12-27 00:36:14.314373
+------------------------------------------------------
+Started: 2023-12-27 07:57:43.583144
+Existing_entries: 0
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2023-12-27 07:57:44.122516

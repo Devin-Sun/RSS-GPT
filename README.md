@@ -51,4 +51,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
 - https://rsshub.app/36kr/motif/327686782977 -> https://Devin-Sun.github.io/RSS-GPT/36kr-ai.xml
-- http://export.arxiv.org/api/ -> https://Devin-Sun.github.io/RSS-GPT/arxiv-daily.xml
+- https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending -> https://Devin-Sun.github.io/RSS-GPT/arxiv-daily.xml

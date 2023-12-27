@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>ArXiv Query: search_query=all:"llm" OR all:"multimodal" OR all:" image generation" OR all:"video generation" OR all:" 3D generation" OR all:"virtual human" OR all:" agent"&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
-<link>http://arxiv.org/api/DR6ShMTSp+h2k5xCDHd6dBu+wiI</link>
+<title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
+<link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 
 </channel>

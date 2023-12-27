@@ -55,4 +55,4 @@
 如果你觉得本项目有帮助，欢迎 star。
 
 - https://rsshub.app/36kr/motif/327686782977 -> https://Devin-Sun.github.io/RSS-GPT/36kr-ai.xml
-- http://export.arxiv.org/api/ -> https://Devin-Sun.github.io/RSS-GPT/arxiv-daily.xml
+- https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending -> https://Devin-Sun.github.io/RSS-GPT/arxiv-daily.xml
