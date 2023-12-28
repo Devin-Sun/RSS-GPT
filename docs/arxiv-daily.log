@@ -132,3 +132,21 @@ Filter: [The Clustered Orienteering Problem with Subgroups](http://arxiv.org/abs
 Filter: [Large-scale Long-tailed Disease Diagnosis on Radiology Images](http://arxiv.org/abs/2312.16151v1)
 append_entries: 0
 Finish: 2023-12-28 00:37:31.249292
+------------------------------------------------------
+Started: 2023-12-28 12:14:13.849464
+Existing_entries: 2
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Principled Instructions Are All You Need for Questioning LLaMA-1/2,
+  GPT-3.5/4](http://arxiv.org/abs/2312.16171v1)
+Filter: [Social-Transmotion: Promptable Human Trajectory Prediction](http://arxiv.org/abs/2312.16168v1)
+Filter: [Age of Information in Gossip Networks: A Friendly Introduction and
+  Literature Survey](http://arxiv.org/abs/2312.16163v1)
+Filter: [SymmPI: Predictive Inference for Data with Group Symmetries](http://arxiv.org/abs/2312.16160v1)
+Filter: [Zero-Shot Cross-Lingual Reranking with Large Language Models for
+  Low-Resource Languages](http://arxiv.org/abs/2312.16159v1)
+Filter: [Association rule mining with earthquake data collected from Turkiye
+  region](http://arxiv.org/abs/2312.16158v1)
+Filter: [The Clustered Orienteering Problem with Subgroups](http://arxiv.org/abs/2312.16154v1)
+Filter: [Large-scale Long-tailed Disease Diagnosis on Radiology Images](http://arxiv.org/abs/2312.16151v1)
+append_entries: 0
+Finish: 2023-12-28 12:14:15.015237
