@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards
   Embodied AI</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 计算机视觉, 机器人, 3D场景理解, 多模态感知数据集, Embodied Perceptron
 
-总结:<br><br>本文介绍了一种新的多模态、自我中心的3D感知数据集和基准测试，名为EmbodiedScan，以及一个基于此数据集的基线框架Embodied Perceptron。该数据集包含了超过5k个扫描，包括100万个自我中心的RGB-D视图，160k个涵盖760个类别的3D定向框和80个常见类别的密集语义占用。Embodied Perceptron能够处理任意数量的多模态输入，并展示出卓越的3D感知能力，不仅在基本3D感知任务和语言相关任务方面，在实际环境中也能取得显著成果。该研究填补了传统研究在3D场景理解方面的空白，为计算机视觉和机器人领域的进一步研究提供了有益的参考。GitHub链接提供了代码、数据集和基准测试。 <div>
+总结:<br /><br />本文介绍了一种新的多模态、自我中心的3D感知数据集和基准测试，名为EmbodiedScan，以及一个基于此数据集的基线框架Embodied Perceptron。该数据集包含了超过5k个扫描，包括100万个自我中心的RGB-D视图，160k个涵盖760个类别的3D定向框和80个常见类别的密集语义占用。Embodied Perceptron能够处理任意数量的多模态输入，并展示出卓越的3D感知能力，不仅在基本3D感知任务和语言相关任务方面，在实际环境中也能取得显著成果。该研究填补了传统研究在3D场景理解方面的空白，为计算机视觉和机器人领域的进一步研究提供了有益的参考。GitHub链接提供了代码、数据集和基准测试。 <div>
 In the realm of computer vision and robotics, embodied agents are expected to
 explore their environment and carry out human instructions. This necessitates
 the ability to fully understand 3D scenes given their first-person observations
@@ -30,7 +31,6 @@ within the two series of benchmarks we set up, i.e., fundamental 3D perception
 tasks and language-grounded tasks, and in the wild. Codes, datasets, and
 benchmarks will be available at https://github.com/OpenRobotLab/EmbodiedScan.
 ]]></content:encoded>
-<pubDate>2023-12-26T18:59:11Z</pubDate>
 <pubDate>2023-12-26T18:59:11Z</pubDate>
 </item>
 <item>
@@ -61,8 +61,6 @@ potential research directions that can advance textual and multimodal QA
 systems in the context of adversarial challenges.
 ]]></content:encoded>
 <pubDate>2023-12-26T18:30:29Z</pubDate>
-<pubDate>2023-12-26T18:30:29Z</pubDate>
 </item>
-
 </channel>
 </rss>
