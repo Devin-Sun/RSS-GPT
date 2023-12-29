@@ -150,3 +150,9 @@ Filter: [The Clustered Orienteering Problem with Subgroups](http://arxiv.org/abs
 Filter: [Large-scale Long-tailed Disease Diagnosis on Radiology Images](http://arxiv.org/abs/2312.16151v1)
 append_entries: 0
 Finish: 2023-12-28 12:14:15.015237
+------------------------------------------------------
+Started: 2023-12-29 00:30:27.669118
+Existing_entries: 2
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2023-12-29 00:30:28.542446
