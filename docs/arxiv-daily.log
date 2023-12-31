@@ -213,3 +213,22 @@ Filter: [An Improved Baseline for Reasoning Segmentation with Large Language
 Filter: [Fast Inference of Mixture-of-Experts Language Models with Offloading](http://arxiv.org/abs/2312.17238v1)
 append_entries: 0
 Finish: 2023-12-30 12:12:58.773825
+------------------------------------------------------
+Started: 2023-12-31 00:40:24.179962
+Existing_entries: 2
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse
+  Views](http://arxiv.org/abs/2312.17250v1)
+Filter: [Do Androids Know They're Only Dreaming of Electric Sheep?](http://arxiv.org/abs/2312.17249v1)
+Filter: [Rethinking Model-based, Policy-based, and Value-based Reinforcement
+  Learning via the Lens of Representation Complexity](http://arxiv.org/abs/2312.17248v1)
+Filter: [Amodal Ground Truth and Completion in the Wild](http://arxiv.org/abs/2312.17247v1)
+Filter: [The LLM Surgeon](http://arxiv.org/abs/2312.17244v1)
+Filter: [Unsupervised Universal Image Segmentation](http://arxiv.org/abs/2312.17243v1)
+Filter: [Learning to Generate Text in Arbitrary Writing Styles](http://arxiv.org/abs/2312.17242v1)
+Filter: [Compact Neural Graphics Primitives with Learned Hash Probing](http://arxiv.org/abs/2312.17241v1)
+Filter: [An Improved Baseline for Reasoning Segmentation with Large Language
+  Model](http://arxiv.org/abs/2312.17240v1)
+Filter: [Fast Inference of Mixture-of-Experts Language Models with Offloading](http://arxiv.org/abs/2312.17238v1)
+append_entries: 0
+Finish: 2023-12-31 00:40:25.001576
