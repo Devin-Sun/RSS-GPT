@@ -232,3 +232,9 @@ Filter: [An Improved Baseline for Reasoning Segmentation with Large Language
 Filter: [Fast Inference of Mixture-of-Experts Language Models with Offloading](http://arxiv.org/abs/2312.17238v1)
 append_entries: 0
 Finish: 2023-12-31 00:40:25.001576
+------------------------------------------------------
+Started: 2023-12-31 12:13:32.735158
+Existing_entries: 2
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2023-12-31 12:13:33.221412
