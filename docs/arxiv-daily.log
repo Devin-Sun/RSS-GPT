@@ -257,3 +257,31 @@ Filter: [An Improved Baseline for Reasoning Segmentation with Large Language
 Filter: [Fast Inference of Mixture-of-Experts Language Models with Offloading](http://arxiv.org/abs/2312.17238v1)
 append_entries: 0
 Finish: 2024-01-01 00:41:24.157236
+------------------------------------------------------
+Started: 2024-01-01 12:14:02.116634
+Existing_entries: 2
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1120
+Summarized using GPT-3.5-turbo-1106
+Append: [K-PERM: Personalized Response Generation Using Dynamic Knowledge
+  Retrieval and Persona-Adaptive Queries](http://arxiv.org/abs/2312.17748v1)
+Filter: [Physics-informed Graphical Neural Network for Power System State
+  Estimation](http://arxiv.org/abs/2312.17738v1)
+Token length: 1252
+Summarized using GPT-3.5-turbo-1106
+Append: [MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with
+  Constrained Communications in 3D Environments](http://arxiv.org/abs/2312.17731v1)
+Filter: [Comparing Effectiveness and Efficiency of Interactive Application
+  Security Testing (IAST) and Runtime Application Self-Protection (RASP) Tools
+  in a Large Java-based System](http://arxiv.org/abs/2312.17726v1)
+Filter: [An Experimental Study of Satisfaction Response: Evaluation of Online
+  Collaborative Learning](http://arxiv.org/abs/2312.17722v1)
+Filter: [A Quick Primer on Machine Learning in Wireless Communications](http://arxiv.org/abs/2312.17713v1)
+Filter: [Principled Gradient-based Markov Chain Monte Carlo for Text Generation](http://arxiv.org/abs/2312.17710v1)
+Filter: [The six ways to build trust and reduce privacy concern in a Central Bank
+  Digital Currency (CBDC)](http://arxiv.org/abs/2312.17708v1)
+Filter: [TuPy-E: detecting hate speech in Brazilian Portuguese social media with
+  a novel dataset and comprehensive analysis of models](http://arxiv.org/abs/2312.17704v1)
+Filter: [A fixed-stress type splitting method for nonlinear poroelasticity](http://arxiv.org/abs/2312.17698v1)
+append_entries: 2
+Finish: 2024-01-01 12:14:20.984237

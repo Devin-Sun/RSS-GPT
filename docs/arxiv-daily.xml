@@ -4,6 +4,65 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>K-PERM: Personalized Response Generation Using Dynamic Knowledge
+  Retrieval and Persona-Adaptive Queries</title>
+<link>http://arxiv.org/abs/2312.17748v1</link>
+<guid>http://arxiv.org/abs/2312.17748v1</guid>
+<content:encoded><![CDATA[
+<div> 个性化、对话代理、知识、K-PERM、FoCus数据集
+<br><br>
+对话代理的个性化可以提高对话质量和用户参与度，但缺乏外部知识以适当地满足用户的个性特点。为了增强个性化响应的相关性和全面性，文章提出了一个两步方法，包括选择性地整合用户个性和用补充信息来情景化回应。作者们开发了K-PERM（知识引导的个性化与奖励调节），这是一个动态对话代理，结合了这些元素。K-PERM在流行的FoCus数据集上取得了最先进的性能，该数据集包含有关全球地标的真实个性化对话。作者还表明，使用K-PERM的回应可以提高最先进的LLMs（例如GPT 3.5）的性能10.5％，突显了K-PERM对个性化聊天机器人的影响。 <div>
+Personalizing conversational agents can enhance the quality of conversations
+and increase user engagement. However, they often lack external knowledge to
+appropriately tend to a user's persona. This is particularly crucial for
+practical applications like mental health support, nutrition planning,
+culturally sensitive conversations, or reducing toxic behavior in
+conversational agents. To enhance the relevance and comprehensiveness of
+personalized responses, we propose using a two-step approach that involves (1)
+selectively integrating user personas and (2) contextualizing the response with
+supplementing information from a background knowledge source. We develop K-PERM
+(Knowledge-guided PErsonalization with Reward Modulation), a dynamic
+conversational agent that combines these elements. K-PERM achieves
+state-of-the-art performance on the popular FoCus dataset, containing
+real-world personalized conversations concerning global landmarks. We show that
+using responses from K-PERM can improve performance in state-of-the-art LLMs
+(GPT 3.5) by 10.5%, highlighting the impact of K-PERM for personalizing
+chatbots.
+]]></content:encoded>
+<pubDate>2023-12-29T18:59:58Z</pubDate>
+<pubDate>2023-12-29T18:59:58Z</pubDate>
+</item>
+<item>
+<title>MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with
+  Constrained Communications in 3D Environments</title>
+<link>http://arxiv.org/abs/2312.17731v1</link>
+<guid>http://arxiv.org/abs/2312.17731v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 多机器人系统, 相对定位, 3D姿态估计, 超宽带测距标签, 误差校正
+总结:
+本文提出了一种新颖的多机器人系统中的相对定位方法，使用超宽带(UWB)测距标签进行3D姿态估计。相比先前的方法，本文的方法通过使用本地收集到的UWB测距数据以及先验状态约束，并在违反约束时进行检测，可以避免通信网络能力不足和团队规模增加时可能出现的问题。通过利用已学习的平均测距偏差校正，我们实现了19%的定位误差改进，实验结果显示平均绝对位置误差为0.24米，航向误差为9.5度。与其他最新方法相比，本文的方法表现得更好，同时在通信成本显著较高的方法中也具有竞争力。此外，我们还提供了数据集供他人使用。 <br><br>总结: 本文提出了一种新的多机器人系统的相对定位方法，通过使用UWB测距标签和误差校正来提高定位精度，并在保持竞争力的同时降低了通信成本。 <div>
+Inter-agent relative localization is critical for many multi-robot systems
+operating in the absence of external positioning infrastructure or prior
+environmental knowledge. We propose a novel inter-agent relative 3D pose
+estimation system where each participating agent is equipped with several
+ultra-wideband (UWB) ranging tags. Prior work typically supplements noisy UWB
+range measurements with additional continuously transmitted data, such as
+odometry, leading to potential scaling issues with increased team size and/or
+decreased communication network capability. By equipping each agent with
+multiple UWB antennas, our approach addresses these concerns by using only
+locally collected UWB range measurements, a priori state constraints, and
+detections of when said constraints are violated. Leveraging our learned mean
+ranging bias correction, we gain a 19% positional error improvement giving us
+experimental mean absolute position and heading errors of 0.24m and 9.5 degrees
+respectively. When compared to other state-of-the-art approaches, our work
+demonstrates improved performance over similar systems, while remaining
+competitive with methods that have significantly higher communication costs.
+Additionally, we make our datasets available.
+]]></content:encoded>
+<pubDate>2023-12-29T18:40:05Z</pubDate>
+<pubDate>2023-12-29T18:40:05Z</pubDate>
+</item>
 
 <item>
 <title>EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards
