@@ -285,3 +285,9 @@ Filter: [TuPy-E: detecting hate speech in Brazilian Portuguese social media with
 Filter: [A fixed-stress type splitting method for nonlinear poroelasticity](http://arxiv.org/abs/2312.17698v1)
 append_entries: 2
 Finish: 2024-01-01 12:14:20.984237
+------------------------------------------------------
+Started: 2024-01-02 00:36:43.893074
+Existing_entries: 4
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-01-02 00:36:56.048433
