@@ -291,3 +291,9 @@ Existing_entries: 4
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-01-02 00:36:56.048433
+------------------------------------------------------
+Started: 2024-01-03 00:37:12.103089
+Existing_entries: 4
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-01-03 00:37:13.078142
