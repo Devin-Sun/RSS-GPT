@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>TREC iKAT 2023: The Interactive Knowledge Assistance Track Overview</title>
 <link>http://arxiv.org/abs/2401.01330v1</link>
 <guid>http://arxiv.org/abs/2401.01330v1</guid>
 <content:encoded><![CDATA[
-<div> TREC iKAT, Conversational Search Agents, personalized context, decisional search tasks, information operators <br>
-<br>
+<div> TREC iKAT, Conversational Search Agents, personalized context, decisional search tasks, information operators <br />
+<br />
 总结: 本文介绍了TREC iKAT对话式检索的研究领域，强调了对话搜索代理的个性化适应能力和决策性搜索任务的重要性。文章描述了任务、主题、数据收集和评估框架，并总结了提交的研究成果。文章强调了不同用户角色和其信息需求的多样性，以及对话式检索的个性化上下文对于提高搜索效率的重要性。 <div>
 Conversational Information Seeking stands as a pivotal research area with
 significant contributions from previous works. The TREC Interactive Knowledge
@@ -35,9 +36,7 @@ collection, and evaluation framework. We further review the submissions and
 summarize the findings.
 ]]></content:encoded>
 <pubDate>2024-01-02T18:40:03Z</pubDate>
-<pubDate>2024-01-02T18:40:03Z</pubDate>
 </item>
-
 <item>
 <title>K-PERM: Personalized Response Generation Using Dynamic Knowledge
   Retrieval and Persona-Adaptive Queries</title>
