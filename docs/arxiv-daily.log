@@ -303,3 +303,25 @@ Existing_entries: 4
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-01-03 12:14:41.221656
+------------------------------------------------------
+Started: 2024-01-04 00:37:40.780023
+Existing_entries: 4
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Street Gaussians for Modeling Dynamic Urban Scenes](http://arxiv.org/abs/2401.01339v1)
+Filter: [Diagonal Gaussian Mixture Models and Higher Order Tensor Decompositions](http://arxiv.org/abs/2401.01337v1)
+Filter: [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language
+  Models](http://arxiv.org/abs/2401.01335v1)
+Token length: 1529
+Summarized using GPT-3.5-turbo-1106
+Append: [TREC iKAT 2023: The Interactive Knowledge Assistance Track Overview](http://arxiv.org/abs/2401.01330v1)
+Filter: [Self-Supervised Millimeter Wave Indoor Localization using Tiny Neural
+  Networks](http://arxiv.org/abs/2401.01329v1)
+Filter: [An Autoregressive Text-to-Graph Framework for Joint Entity and Relation
+  Extraction](http://arxiv.org/abs/2401.01326v1)
+Filter: [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](http://arxiv.org/abs/2401.01325v1)
+Filter: [Lower Bounds on Cardinality of Reducts for Decision Tables from Closed
+  Classes](http://arxiv.org/abs/2401.01324v1)
+Filter: [A Knowledge Compilation Map for Quantum Information](http://arxiv.org/abs/2401.01322v1)
+Filter: [Classifying Words with 3-sort Automata](http://arxiv.org/abs/2401.01314v1)
+append_entries: 1
+Finish: 2024-01-04 00:37:44.406277
