@@ -361,3 +361,27 @@ Filter: [On the hardness of learning under symmetries](http://arxiv.org/abs/2401
 Filter: [Step length measurement in the wild using FMCW radar](http://arxiv.org/abs/2401.01868v1)
 append_entries: 0
 Finish: 2024-01-05 00:37:47.275870
+------------------------------------------------------
+Started: 2024-01-05 12:14:39.509733
+Existing_entries: 5
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Learning to Prompt with Text Only Supervision for Vision-Language Models](http://arxiv.org/abs/2401.02418v1)
+Filter: [Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic
+  Speech Recognition](http://arxiv.org/abs/2401.02417v1)
+Token length: 1598
+Summarized using GPT-3.5-turbo-1106
+Append: [ODIN: A Single Model for 2D and 3D Perception](http://arxiv.org/abs/2401.02416v1)
+Token length: 1107
+Summarized using GPT-3.5-turbo-1106
+Append: [LLaMA Pro: Progressive LLaMA with Block Expansion](http://arxiv.org/abs/2401.02415v1)
+Filter: [Bring Metric Functions into Diffusion Models](http://arxiv.org/abs/2401.02414v1)
+Filter: [Simulation-Based Inference with Quantile Regression](http://arxiv.org/abs/2401.02413v1)
+Filter: [LLM Augmented LLMs: Expanding Capabilities through Composition](http://arxiv.org/abs/2401.02412v1)
+Filter: [What You See is What You GAN: Rendering Every Pixel for High-Fidelity
+  Geometry in 3D GANs](http://arxiv.org/abs/2401.02411v1)
+Filter: [Multi-segmented non-isothermal compositional liquid gas well model for
+  geothermal processes](http://arxiv.org/abs/2401.02406v1)
+Filter: [Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for
+  Spatial Tasks](http://arxiv.org/abs/2401.02404v1)
+append_entries: 2
+Finish: 2024-01-05 12:15:08.355415
