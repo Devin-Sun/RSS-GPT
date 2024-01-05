@@ -343,3 +343,21 @@ Filter: [On the hardness of learning under symmetries](http://arxiv.org/abs/2401
 Filter: [Step length measurement in the wild using FMCW radar](http://arxiv.org/abs/2401.01868v1)
 append_entries: 0
 Finish: 2024-01-04 12:14:13.071412
+------------------------------------------------------
+Started: 2024-01-05 00:37:46.611039
+Existing_entries: 5
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Architectural Design for Secure Smart Contract Development](http://arxiv.org/abs/2401.01891v1)
+Filter: [LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry](http://arxiv.org/abs/2401.01887v1)
+Filter: [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](http://arxiv.org/abs/2401.01885v1)
+Filter: [A rewriting-logic-with-SMT-based formal analysis and parameter synthesis
+  framework for parametric time Petri nets](http://arxiv.org/abs/2401.01884v1)
+Filter: [Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports](http://arxiv.org/abs/2401.01883v1)
+Filter: [Robust Control Barrier Functions using Uncertainty Estimation with
+  Application to Mobile Robots](http://arxiv.org/abs/2401.01881v1)
+Filter: [Theoretical guarantees on the best-of-n alignment policy](http://arxiv.org/abs/2401.01879v1)
+Filter: [Graph Neural Networks for Surfactant Multi-Property Prediction](http://arxiv.org/abs/2401.01874v1)
+Filter: [On the hardness of learning under symmetries](http://arxiv.org/abs/2401.01869v1)
+Filter: [Step length measurement in the wild using FMCW radar](http://arxiv.org/abs/2401.01868v1)
+append_entries: 0
+Finish: 2024-01-05 00:37:47.275870
