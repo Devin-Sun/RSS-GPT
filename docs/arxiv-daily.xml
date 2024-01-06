@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>ODIN: A Single Model for 2D and 3D Perception</title>
 <link>http://arxiv.org/abs/2401.02416v1</link>
 <guid>http://arxiv.org/abs/2401.02416v1</guid>
 <content:encoded><![CDATA[
 <div> 3D perception benchmarks, ScanNet, point clouds, transformer architecture, ODIN
-<br>
+<br />
 这篇论文介绍了一个名为ODIN的模型，它能够同时处理2D RGB图像和3D点云数据，并使用了一种交替融合2D和3D信息的transformer架构。模型通过区分处理的token的位置编码来区分2D和3D特征操作。ODIN在ScanNet200、Matterport3D和AI2THOR 3D实例分割基准测试中实现了最先进的性能，并在ScanNet、S3DIS和COCO基准测试上实现了有竞争力的表现。当使用实际感知的3D点云代替从3D网格采样的点云时，它比所有先前的工作表现出更高的性能。在可指导的具身代理架构中用作3D感知引擎时，在TEACh对话动作基准测试中创造了新的最先进技术。 <div>
 State-of-the-art models on contemporary 3D perception benchmarks like ScanNet
 consume and label dataset-provided 3D point clouds, obtained through post
@@ -35,7 +36,6 @@ state-of-the-art on the TEACh action-from-dialogue benchmark. Our code and
 checkpoints can be found at the project website: https://odin-seg.github.io.
 ]]></content:encoded>
 <pubDate>2024-01-04T18:59:25Z</pubDate>
-<pubDate>2024-01-04T18:59:25Z</pubDate>
 </item>
 <item>
 <title>LLaMA Pro: Progressive LLaMA with Block Expansion</title>
@@ -43,10 +43,10 @@ checkpoints can be found at the project website: https://odin-seg.github.io.
 <guid>http://arxiv.org/abs/2401.02415v1</guid>
 <content:encoded><![CDATA[
 <div> LLaMA, post-pretraining, Transformer blocks, programming, mathematics
-<br>
+<br />
 Large Language Models（LLMs）通过扩展Transformer模块的方法进行新的后预训练，从而在编程和数学领域取得了显著的进展。新模型LLaMA Pro-8.3B在通用任务、编程和数学领域表现出色，并在各种基准测试中取得了先进的性能。该研究为整合自然语言和编程语言提供了宝贵的见解，并为在各种环境中有效运行的先进语言代理的发展奠定了坚实的基础。 
-<br><br>总结: 
-<br>LLaMA Pro-8.3B是通过扩展Transformer模块的后预训练方法得到的新模型，在通用任务、编程和数学领域获得了出色的性能。该研究为整合自然语言和编程语言提供了宝贵的见解，并为在各种环境中有效运行的先进语言代理的发展奠定了坚实的基础。 <div>
+<br /><br />总结: 
+<br />LLaMA Pro-8.3B是通过扩展Transformer模块的后预训练方法得到的新模型，在通用任务、编程和数学领域获得了出色的性能。该研究为整合自然语言和编程语言提供了宝贵的见解，并为在各种环境中有效运行的先进语言代理的发展奠定了坚实的基础。 <div>
 Humans generally acquire new skills without compromising the old; however,
 the opposite holds for Large Language Models (LLMs), e.g., from LLaMA to
 CodeLLaMA. To this end, we propose a new post-pretraining method for LLMs with
@@ -64,9 +64,7 @@ foundation for developing advanced language agents that operate effectively in
 various environments.
 ]]></content:encoded>
 <pubDate>2024-01-04T18:59:12Z</pubDate>
-<pubDate>2024-01-04T18:59:12Z</pubDate>
 </item>
-
 <item>
 <title>TREC iKAT 2023: The Interactive Knowledge Assistance Track Overview</title>
 <link>http://arxiv.org/abs/2401.01330v1</link>
