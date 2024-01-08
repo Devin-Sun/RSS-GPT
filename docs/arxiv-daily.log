@@ -475,3 +475,26 @@ Filter: [Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for
   Spatial Tasks](http://arxiv.org/abs/2401.02404v1)
 append_entries: 0
 Finish: 2024-01-08 00:38:56.254969
+------------------------------------------------------
+Started: 2024-01-08 12:15:08.657426
+Existing_entries: 7
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Denoising Vision Transformers](http://arxiv.org/abs/2401.02957v1)
+Filter: [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes
+  Interactively](http://arxiv.org/abs/2401.02955v1)
+Filter: [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](http://arxiv.org/abs/2401.02954v1)
+Filter: [Optimizing Dataflow Systems for Scalable Interactive Visualization](http://arxiv.org/abs/2401.02952v1)
+Token length: 818
+Summarized using GPT-3.5-turbo-1106
+Append: [The Tactician's Web of Large-Scale Formal Knowledge](http://arxiv.org/abs/2401.02950v1)
+Token length: 1601
+Summarized using GPT-3.5-turbo-1106
+Append: [Graph2Tac: Learning Hierarchical Representations of Math Concepts in
+  Theorem proving](http://arxiv.org/abs/2401.02949v1)
+Filter: [Hashing Modulo Context-Sensitive $α$-Equivalence](http://arxiv.org/abs/2401.02948v1)
+Filter: [An a posteriori error analysis based on equilibrated stresses for finite
+  element approximations of frictional contact](http://arxiv.org/abs/2401.02944v1)
+Filter: [Digital-analog quantum learning on Rydberg atom arrays](http://arxiv.org/abs/2401.02940v1)
+Filter: [Locally Adaptive Neural 3D Morphable Models](http://arxiv.org/abs/2401.02937v1)
+append_entries: 2
+Finish: 2024-01-08 12:15:33.698343

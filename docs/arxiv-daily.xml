@@ -4,6 +4,63 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>The Tactician's Web of Large-Scale Formal Knowledge</title>
+<link>http://arxiv.org/abs/2401.02950v1</link>
+<guid>http://arxiv.org/abs/2401.02950v1</guid>
+<content:encoded><![CDATA[
+<div> Coq proof assistant, formal mathematical knowledge, machine learning, interconnected web, proof engineering
+<br><br>总结:
+Tactician's Web是一个基于Coq证明助手构建的平台，提供了一个庞大而强大的机器检查的数学知识网络，方便机器学习、分析和证明工程。该平台导出一个数据集，其中包含广泛的形式化理论，呈现为定义、定理、证明术语、策略和证明状态的网络。紧密集成的Coq提供了使代理商可用于证明工程师作为实用工具的独特可能性。理论被编码为语义图和人类可读的文本，各自具有独特的优点和缺点。证明代理可以通过相同丰富的数据表示与Coq交互，并且可以自动在一组定理上进行基准测试。 <div>
+The Tactician's Web is a platform offering a large web of strongly
+interconnected, machine-checked, formal mathematical knowledge conveniently
+packaged for machine learning, analytics, and proof engineering. Built on top
+of the Coq proof assistant, the platform exports a dataset containing a wide
+variety of formal theories, presented as a web of definitions, theorems, proof
+terms, tactics, and proof states. Theories are encoded both as a semantic graph
+(rendered below) and as human-readable text, each with a unique set of
+advantages and disadvantages. Proving agents may interact with Coq through the
+same rich data representation and can be automatically benchmarked on a set of
+theorems. Tight integration with Coq provides the unique possibility to make
+agents available to proof engineers as practical tools.
+]]></content:encoded>
+<pubDate>2024-01-05T18:52:35Z</pubDate>
+<pubDate>2024-01-05T18:52:35Z</pubDate>
+</item>
+<item>
+<title>Graph2Tac: Learning Hierarchical Representations of Math Concepts in
+  Theorem proving</title>
+<link>http://arxiv.org/abs/2401.02949v1</link>
+<guid>http://arxiv.org/abs/2401.02949v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 数学, AI代理, Coq证明助手, 图神经网络, 定义嵌入
+
+总结: <br><br>这篇文章讨论了数学和其应用中的概念，提到了在AI代理进行新定理证明时，需要实时将新信息融入其知识库，特别是在Coq证明助手中。作者使用了基于图的数据集，构建了图神经网络Graph2Tac(G2T)，能够考虑到导致当前目标的整个定义层次。同时，他们还提出了一项新的定义嵌入任务，用于计算训练中未见的数学概念的表示。这些方法使神经网络的性能能够与最先进的k最近邻预测器相媲美。 <div>
+Concepts abound in mathematics and its applications. They vary greatly
+between subject areas, and new ones are introduced in each mathematical paper
+or application. A formal theory builds a hierarchy of definitions, theorems and
+proofs that reference each other. When an AI agent is proving a new theorem,
+most of the mathematical concepts and lemmas relevant to that theorem may have
+never been seen during training. This is especially true in the Coq proof
+assistant, which has a diverse library of Coq projects, each with its own
+definitions, lemmas, and even custom tactic procedures used to prove those
+lemmas. It is essential for agents to incorporate such new information into
+their knowledge base on the fly. We work towards this goal by utilizing a new,
+large-scale, graph-based dataset for machine learning in Coq. We leverage a
+faithful graph-representation of Coq terms that induces a directed graph of
+dependencies between definitions to create a novel graph neural network,
+Graph2Tac (G2T), that takes into account not only the current goal, but also
+the entire hierarchy of definitions that led to the current goal. G2T is an
+online model that is deeply integrated into the users' workflow and can adapt
+in real time to new Coq projects and their definitions. It complements well
+with other online models that learn in real time from new proof scripts. Our
+novel definition embedding task, which is trained to compute representations of
+mathematical concepts not seen during training, boosts the performance of the
+neural network to rival state-of-the-art k-nearest neighbor predictors.
+]]></content:encoded>
+<pubDate>2024-01-05T18:52:09Z</pubDate>
+<pubDate>2024-01-05T18:52:09Z</pubDate>
+</item>
 
 <item>
 <title>ODIN: A Single Model for 2D and 3D Perception</title>
