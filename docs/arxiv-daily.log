@@ -498,3 +498,19 @@ Filter: [Digital-analog quantum learning on Rydberg atom arrays](http://arxiv.or
 Filter: [Locally Adaptive Neural 3D Morphable Models](http://arxiv.org/abs/2401.02937v1)
 append_entries: 2
 Finish: 2024-01-08 12:15:33.698343
+------------------------------------------------------
+Started: 2024-01-09 00:38:26.466804
+Existing_entries: 9
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Denoising Vision Transformers](http://arxiv.org/abs/2401.02957v1)
+Filter: [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes
+  Interactively](http://arxiv.org/abs/2401.02955v1)
+Filter: [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](http://arxiv.org/abs/2401.02954v1)
+Filter: [Optimizing Dataflow Systems for Scalable Interactive Visualization](http://arxiv.org/abs/2401.02952v1)
+Filter: [Hashing Modulo Context-Sensitive $α$-Equivalence](http://arxiv.org/abs/2401.02948v1)
+Filter: [An a posteriori error analysis based on equilibrated stresses for finite
+  element approximations of frictional contact](http://arxiv.org/abs/2401.02944v1)
+Filter: [Digital-analog quantum learning on Rydberg atom arrays](http://arxiv.org/abs/2401.02940v1)
+Filter: [Locally Adaptive Neural 3D Morphable Models](http://arxiv.org/abs/2401.02937v1)
+append_entries: 0
+Finish: 2024-01-09 00:38:26.981579
