@@ -514,3 +514,24 @@ Filter: [Digital-analog quantum learning on Rydberg atom arrays](http://arxiv.or
 Filter: [Locally Adaptive Neural 3D Morphable Models](http://arxiv.org/abs/2401.02937v1)
 append_entries: 0
 Finish: 2024-01-09 00:38:26.981579
+------------------------------------------------------
+Started: 2024-01-09 12:15:07.963630
+Existing_entries: 9
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for
+  Memory-Efficient Finetuning](http://arxiv.org/abs/2401.04105v1)
+Token length: 1317
+Summarized using GPT-3.5-turbo-1106
+Append: [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](http://arxiv.org/abs/2401.04099v1)
+Filter: [Modeling AoII in Push- and Pull-Based Sampling of Continuous Time Markov
+  Chains](http://arxiv.org/abs/2401.04098v1)
+Filter: [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](http://arxiv.org/abs/2401.04092v1)
+Filter: [Mixtral of Experts](http://arxiv.org/abs/2401.04088v1)
+Filter: [A Priori Determination of the Pretest Probability](http://arxiv.org/abs/2401.04086v1)
+Filter: [Improved motif-scaffolding with SE(3) flow matching](http://arxiv.org/abs/2401.04082v1)
+Filter: [MoE-Mamba: Efficient Selective State Space Models with Mixture of
+  Experts](http://arxiv.org/abs/2401.04081v1)
+Filter: [RudolfV: A Foundation Model by Pathologists for Pathologists](http://arxiv.org/abs/2401.04079v1)
+Filter: [LoFi User Scheduling for Multiuser MIMO Wireless Systems](http://arxiv.org/abs/2401.04077v1)
+append_entries: 1
+Finish: 2024-01-09 12:15:32.714516

@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>AGG: Amortized Generative 3D Gaussians for Single Image to 3D</title>
+<link>http://arxiv.org/abs/2401.04099v1</link>
+<guid>http://arxiv.org/abs/2401.04099v1</guid>
+<content:encoded><![CDATA[
+<div> 3D content creation, 3D Gaussian splatting, Amortized Generative 3D Gaussian framework, optimization-based, super-resolution
+
+3D内容创建需求增长，研究了各种3D表示以从单个图像生成3D对象。最近，基于3D高斯光斑的模型在3D重建和生成方面取得了优异的渲染效果。然而，基于3D高斯光斑的方法通常是基于优化的，需要许多计算昂贵的分数蒸馏步骤。为了克服这些挑战，引入了一种摊销生成3D高斯框架（AGG），它可以立即从单个图像生成3D高斯，无需每个实例进行优化。AGG利用中间混合表示，将生成3D高斯位置和其他外观属性进行联合优化。此外，还提出了一个级联管道，首先生成3D数据的粗表示，然后利用3D高斯超分辨率模块进行上采样。我们的方法与现有的基于优化的3D高斯框架和利用其他3D表示的基于采样的管线进行了评估，结果表明AGG在生成能力上具有竞争优势，无论是定性还是定量，同时速度快几个数量级。项目页面：https://ir1d.github.io/AGG/ <br><br>总结: 3D内容创建需求增长，研究了各种3D表示以从单个图像生成3D对象。基于3D高斯光斑的模型在3D重建和生成方面表现出色，但通常是基于优化的，需要许多计算昂贵的分数蒸馏步骤。为了克服这些挑战，引入了一种摊销生成3D高斯框架（AGG），它可以立即从单个图像生成3D高斯，无需每个实例进行优化。除此之外，提出了一个级联管道，首先生成3D数据的粗表示，然后利用3D高斯超分辨率模块进行上采样。我们的方法在生成能力上具有竞争优势，无论是定性还是定量，同时速度快几个数量级。 <div>
+Given the growing need for automatic 3D content creation pipelines, various
+3D representations have been studied to generate 3D objects from a single
+image. Due to its superior rendering efficiency, 3D Gaussian splatting-based
+models have recently excelled in both 3D reconstruction and generation. 3D
+Gaussian splatting approaches for image to 3D generation are often
+optimization-based, requiring many computationally expensive score-distillation
+steps. To overcome these challenges, we introduce an Amortized Generative 3D
+Gaussian framework (AGG) that instantly produces 3D Gaussians from a single
+image, eliminating the need for per-instance optimization. Utilizing an
+intermediate hybrid representation, AGG decomposes the generation of 3D
+Gaussian locations and other appearance attributes for joint optimization.
+Moreover, we propose a cascaded pipeline that first generates a coarse
+representation of the 3D data and later upsamples it with a 3D Gaussian
+super-resolution module. Our method is evaluated against existing
+optimization-based 3D Gaussian frameworks and sampling-based pipelines
+utilizing other 3D representations, where AGG showcases competitive generation
+abilities both qualitatively and quantitatively while being several orders of
+magnitude faster. Project page: https://ir1d.github.io/AGG/
+]]></content:encoded>
+<pubDate>2024-01-08T18:56:33Z</pubDate>
+<pubDate>2024-01-08T18:56:33Z</pubDate>
+</item>
 
 <item>
 <title>The Tactician's Web of Large-Scale Formal Knowledge</title>
