@@ -535,3 +535,9 @@ Filter: [RudolfV: A Foundation Model by Pathologists for Pathologists](http://ar
 Filter: [LoFi User Scheduling for Multiuser MIMO Wireless Systems](http://arxiv.org/abs/2401.04077v1)
 append_entries: 1
 Finish: 2024-01-09 12:15:32.714516
+------------------------------------------------------
+Started: 2024-01-10 00:38:28.006465
+Existing_entries: 10
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-01-10 00:38:29.085253
