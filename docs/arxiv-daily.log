@@ -627,3 +627,22 @@ Filter: [Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL
   Networks](http://arxiv.org/abs/2401.05308v1)
 append_entries: 0
 Finish: 2024-01-12 00:38:17.563348
+------------------------------------------------------
+Started: 2024-01-12 12:14:58.098619
+Existing_entries: 10
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Distilling Vision-Language Models on Millions of Videos](http://arxiv.org/abs/2401.06129v1)
+Filter: [E$^{2}$GAN: Efficient Training of Efficient GANs for Image-to-Image
+  Translation](http://arxiv.org/abs/2401.06127v1)
+Filter: [Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural
+  Rendering Priors](http://arxiv.org/abs/2401.06126v1)
+Filter: [Improved Capacity Outer Bound for Private Quadratic Monomial Computation](http://arxiv.org/abs/2401.06125v1)
+Filter: [Manipulating Feature Visualizations with Gradient Slingshots](http://arxiv.org/abs/2401.06122v1)
+Filter: [TOFU: A Task of Fictitious Unlearning for LLMs](http://arxiv.org/abs/2401.06121v1)
+Filter: [Extreme Compression of Large Language Models via Additive Quantization](http://arxiv.org/abs/2401.06118v1)
+Filter: [Gaussian Shadow Casting for Neural Characters](http://arxiv.org/abs/2401.06116v1)
+Filter: [Axis Tour: Word Tour Determines the Order of Axes in ICA-transformed
+  Embeddings](http://arxiv.org/abs/2401.06112v1)
+Filter: [Holey graphs: very large Betti numbers are testable](http://arxiv.org/abs/2401.06109v1)
+append_entries: 0
+Finish: 2024-01-12 12:14:58.790974
