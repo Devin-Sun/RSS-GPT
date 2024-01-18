@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Multimodal assessment of best possible self as a self-regulatory
   activity for the classroom</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 最佳可能自我，积极心理干预，心身效应，自我调节资源，大学生
 
-最佳可能自我（BPS）是一种被证明可以增强幸福感的积极心理干预，包括描述理想未来情景的写作活动。这篇论文比较了为教室环境改编的BPS活动和与之时间匹配的对照活动（NA）对心理生理效应的影响。三十三名本科生参与了这项研究，评估了三个时间段（之前，期间，之后）的状态焦虑（状态-特质焦虑量表，STAI）、情感（情感滑块，AS）和心脏迷走神经活动（心率变异性，HRV）作为自我调节资源使用的指标。结果显示，与NA相比，BPS导致了积极情绪价值（期间）的显著增加，并且整体上更高水平的心脏迷走神经活动（HRV）。这些发现表明，BPS作为一种自我调节技术具有潜在的特性，旨在培养积极情绪，对自我调节资源产生积极影响。由于BPS不需要专业知识或专门技术来进行管理，教育者在教学和学生实践自我调节时可能会选择这种适当的活动。这项研究呈现了对大学生进行的一个简短BPS活动的自我调节效应的可复制的多模态方法的证据。<br><br>总结:本研究展示了BPS活动对大学生的自我调节效应的证据，表明BPS在提高积极情感和积极影响自我调节资源方面具有潜力。 BPS活动可以在教学中用于教育者教学和学生实践自我调节。 <div>
+最佳可能自我（BPS）是一种被证明可以增强幸福感的积极心理干预，包括描述理想未来情景的写作活动。这篇论文比较了为教室环境改编的BPS活动和与之时间匹配的对照活动（NA）对心理生理效应的影响。三十三名本科生参与了这项研究，评估了三个时间段（之前，期间，之后）的状态焦虑（状态-特质焦虑量表，STAI）、情感（情感滑块，AS）和心脏迷走神经活动（心率变异性，HRV）作为自我调节资源使用的指标。结果显示，与NA相比，BPS导致了积极情绪价值（期间）的显著增加，并且整体上更高水平的心脏迷走神经活动（HRV）。这些发现表明，BPS作为一种自我调节技术具有潜在的特性，旨在培养积极情绪，对自我调节资源产生积极影响。由于BPS不需要专业知识或专门技术来进行管理，教育者在教学和学生实践自我调节时可能会选择这种适当的活动。这项研究呈现了对大学生进行的一个简短BPS活动的自我调节效应的可复制的多模态方法的证据。<br /><br />总结:本研究展示了BPS活动对大学生的自我调节效应的证据，表明BPS在提高积极情感和积极影响自我调节资源方面具有潜力。 BPS活动可以在教学中用于教育者教学和学生实践自我调节。 <div>
 Best possible self (BPS) is a positive psychological intervention shown to
 enhance well-being which involves writing a description of an ideal future
 scenario. This paper presents a comparison of psychophysiological effects of a
@@ -33,9 +34,7 @@ replicable multimodal approach of the self-regulatory effects of a brief BPS
 activity on undergraduate students.
 ]]></content:encoded>
 <pubDate>2024-01-16T15:11:12Z</pubDate>
-<pubDate>2024-01-16T15:11:12Z</pubDate>
 </item>
-
 <item>
 <title>AGG: Amortized Generative 3D Gaussians for Single Image to 3D</title>
 <link>http://arxiv.org/abs/2401.04099v1</link>
