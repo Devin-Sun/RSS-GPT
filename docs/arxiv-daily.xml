@@ -4,6 +4,42 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Vlogger: Make Your Dream A Vlog</title>
+<link>http://arxiv.org/abs/2401.09414v1</link>
+<guid>http://arxiv.org/abs/2401.09414v1</guid>
+<content:encoded><![CDATA[
+<div> Vlogger, AI, video blog, Large Language Model, 生成<br>
+Script, Actor, ShowMaker, Voicer, 模型合作生成vlog的四个关键角色<br>
+
+总结:<br>
+本文介绍了Vlogger，这是一个用于生成用户描述的分钟级视频博客的通用AI系统。与几秒钟的短视频不同，vlog通常包含一个复杂的故事情节和多样化的场景，这对大多数现有的视频生成方法来说是一个挑战。为了突破这一瓶颈，Vlogger巧妙地利用大型语言模型（LLM）作为导演，并将vlog的长视频生成任务分解为四个关键阶段。在这些阶段中，我们调用各种基础模型来扮演vlog专业人员的关键角色，包括（1）脚本，（2）演员，（3）ShowMaker和（4）Voicer。通过这种模仿人类的设计，我们的Vlogger可以通过自上而下的规划和自下而上的拍摄，以可解释的合作方式生成vlog。此外，我们还引入了一个新颖的视频扩散模型ShowMaker，它在我们的Vlogger中充当了一个摄影师的角色，用于生成每个拍摄场景的视频片段。通过巧妙地结合脚本和演员作为文本和视觉提示，它可以有效地增强片段的时空连贯性。此外，我们为ShowMaker设计了一个简洁的混合训练范式，提升了其T2V生成和预测能力。最后，广泛的实验证明，我们的方法在零样本T2V生成和预测任务上取得了最先进的性能。更重要的是，Vlogger可以从开放世界描述中生成超过5分钟的vlog，而且在脚本和演员上不会丢失视频的连贯性。所有代码和模型都可以在https://github.com/zhuangshaobin/Vlogger上找到。 <div>
+In this work, we present Vlogger, a generic AI system for generating a
+minute-level video blog (i.e., vlog) of user descriptions. Different from short
+videos with a few seconds, vlog often contains a complex storyline with
+diversified scenes, which is challenging for most existing video generation
+approaches. To break through this bottleneck, our Vlogger smartly leverages
+Large Language Model (LLM) as Director and decomposes a long video generation
+task of vlog into four key stages, where we invoke various foundation models to
+play the critical roles of vlog professionals, including (1) Script, (2) Actor,
+(3) ShowMaker, and (4) Voicer. With such a design of mimicking human beings,
+our Vlogger can generate vlogs through explainable cooperation of top-down
+planning and bottom-up shooting. Moreover, we introduce a novel video diffusion
+model, ShowMaker, which serves as a videographer in our Vlogger for generating
+the video snippet of each shooting scene. By incorporating Script and Actor
+attentively as textual and visual prompts, it can effectively enhance
+spatial-temporal coherence in the snippet. Besides, we design a concise mixed
+training paradigm for ShowMaker, boosting its capacity for both T2V generation
+and prediction. Finally, the extensive experiments show that our method
+achieves state-of-the-art performance on zero-shot T2V generation and
+prediction tasks. More importantly, Vlogger can generate over 5-minute vlogs
+from open-world descriptions, without loss of video coherence on script and
+actor. The code and model is all available at
+https://github.com/zhuangshaobin/Vlogger.
+]]></content:encoded>
+<pubDate>2024-01-17T18:55:12Z</pubDate>
+<pubDate>2024-01-17T18:55:12Z</pubDate>
+</item>
 
 <item>
 <title>Multimodal assessment of best possible self as a self-regulatory
