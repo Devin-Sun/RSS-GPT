@@ -908,3 +908,24 @@ Filter: [Deciphering Textual Authenticity: A Generalized Strategy through the
   Text](http://arxiv.org/abs/2401.09407v1)
 append_entries: 1
 Finish: 2024-01-18 12:15:26.932580
+------------------------------------------------------
+Started: 2024-01-19 00:38:30.083028
+Existing_entries: 12
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LionHeart: A Layer-based Mapping Framework for Heterogeneous Systems
+  with Analog In-Memory Computing Tiles](http://arxiv.org/abs/2401.09420v1)
+Filter: [GARField: Group Anything with Radiance Fields](http://arxiv.org/abs/2401.09419v1)
+Filter: [Vision Mamba: Efficient Visual Representation Learning with
+  Bidirectional State Space Model](http://arxiv.org/abs/2401.09417v1)
+Filter: [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware
+  Diffusion](http://arxiv.org/abs/2401.09416v1)
+Filter: [Randomized Kaczmarz with geometrically smoothed momentum](http://arxiv.org/abs/2401.09415v1)
+Filter: [POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images](http://arxiv.org/abs/2401.09413v1)
+Filter: [Weakly-Private Information Retrieval From MDS-Coded Distributed Storage](http://arxiv.org/abs/2401.09412v1)
+Filter: [Through the Looking-Glass: Transparency Implications and Challenges in
+  Enterprise AI Knowledge Systems](http://arxiv.org/abs/2401.09410v1)
+Filter: [Deciphering Textual Authenticity: A Generalized Strategy through the
+  Lens of Large Language Semantics for Detecting Human vs. Machine-Generated
+  Text](http://arxiv.org/abs/2401.09407v1)
+append_entries: 0
+Finish: 2024-01-19 00:38:31.041669
