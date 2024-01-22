@@ -4,6 +4,30 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Applications of flow models to the generation of correlated lattice QCD
+  ensembles</title>
+<link>http://arxiv.org/abs/2401.10874v1</link>
+<guid>http://arxiv.org/abs/2401.10874v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: normalizing flows, lattice quantum field theory, variance reduction, gauge theories, QCD observables
+总结: 
+本研究利用机器学习的正规化流在晶格量子场论的背景下生成不同作用参数下统计相关的晶格规范场集合。这项工作展示了如何利用这些相关性来减少计算观测量时的方差。通过一种新颖的残余流架构，演示了三种概念验证应用：规范理论的连续极限、QCD观测量的质量依赖性，以及基于费曼-赫尔曼方法的强子矩阵元素。在所有三种情况下，实验证明当机器学习流被纳入时，与使用无关集合或直接重加权进行的相同计算相比，统计不确定性显著减少。 <br><br> <div>
+Machine-learned normalizing flows can be used in the context of lattice
+quantum field theory to generate statistically correlated ensembles of lattice
+gauge fields at different action parameters. This work demonstrates how these
+correlations can be exploited for variance reduction in the computation of
+observables. Three different proof-of-concept applications are demonstrated
+using a novel residual flow architecture: continuum limits of gauge theories,
+the mass dependence of QCD observables, and hadronic matrix elements based on
+the Feynman-Hellmann approach. In all three cases, it is shown that statistical
+uncertainties are significantly reduced when machine-learned flows are
+incorporated as compared with the same calculations performed with uncorrelated
+ensembles or direct reweighting.
+]]></content:encoded>
+<pubDate>2024-01-19T18:33:52Z</pubDate>
+<pubDate>2024-01-19T18:33:52Z</pubDate>
+</item>
 
 <item>
 <title>Vlogger: Make Your Dream A Vlog</title>
