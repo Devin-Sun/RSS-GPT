@@ -1067,3 +1067,23 @@ Append: [Applications of flow models to the generation of correlated lattice QCD
   ensembles](http://arxiv.org/abs/2401.10874v1)
 append_entries: 1
 Finish: 2024-01-22 12:15:46.283674
+------------------------------------------------------
+Started: 2024-01-23 00:39:03.179821
+Existing_entries: 13
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](http://arxiv.org/abs/2401.10891v1)
+Filter: [Event detection from novel data sources: Leveraging satellite imagery
+  alongside GPS traces](http://arxiv.org/abs/2401.10890v1)
+Filter: [Synthesizing Moving People with 3D Control](http://arxiv.org/abs/2401.10889v1)
+Filter: [SCENES: Subpixel Correspondence Estimation With Epipolar Supervision](http://arxiv.org/abs/2401.10886v1)
+Filter: [RetinaVR: Democratizing Vitreoretinal Surgery Training with a Portable
+  and Affordable Virtual Reality Simulator in the Metaverse](http://arxiv.org/abs/2401.10883v1)
+Filter: [Reinforcement learning for question answering in programming domain
+  using public community scoring as a human feedback](http://arxiv.org/abs/2401.10882v1)
+Filter: [DynaVis: Dynamically Synthesized UI Widgets for Visualization Editing](http://arxiv.org/abs/2401.10880v1)
+Filter: [Accuracy Analysis of Physics-Informed Neural Networks for Approximating
+  the Critical SQG Equation](http://arxiv.org/abs/2401.10879v1)
+Filter: [The Cadaver in the Machine: The Social Practices of Measurement and
+  Validation in Motion Capture Technology](http://arxiv.org/abs/2401.10877v1)
+append_entries: 0
+Finish: 2024-01-23 00:39:04.196271
