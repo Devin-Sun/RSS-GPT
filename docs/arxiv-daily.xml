@@ -4,6 +4,77 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation</title>
+<link>http://arxiv.org/abs/2401.12208v1</link>
+<guid>http://arxiv.org/abs/2401.12208v1</guid>
+<content:encoded><![CDATA[
+<div> CheXinstruct, CheXagent, vision-language模型, CXR解释, CheXbench
+<br>
+本文介绍了针对胸部X光片（CXR）解释的自动化模型CheXagent的开发。作者首先介绍了CheXinstruct数据集，然后提出了CheXagent模型，该模型包括临床大型语言模型（LLM）、视觉编码器和用于桥接视觉和语言模态的网络。此外，引入了CheXbench评估框架，用于系统评估FMs在8个临床相关的CXR解释任务上的表现。研究结果表明，CheXagent在CheXbench任务上的表现优于先前开发的通用和医学领域的FMs。此外，作者还进行了模型公平性评估，以突出潜在的性别、种族和年龄方面的性能差异。这项工作的详细信息可以在https://stanford-aimi.github.io/chexagent.html找到。
+<br><br>总结: 本文介绍了针对CXR解释的自动化模型CheXagent的开发，包括数据集、模型架构和评估框架。研究结果显示CheXagent在临床相关任务上表现优异，而且还进行了公平性评估。 <div>
+Chest X-rays (CXRs) are the most frequently performed imaging test in
+clinical practice. Recent advances in the development of vision-language
+foundation models (FMs) give rise to the possibility of performing automated
+CXR interpretation, which can assist physicians with clinical decision-making
+and improve patient outcomes. However, developing FMs that can accurately
+interpret CXRs is challenging due to the (1) limited availability of
+large-scale vision-language datasets in the medical image domain, (2) lack of
+vision and language encoders that can capture the complexities of medical data,
+and (3) absence of evaluation frameworks for benchmarking the abilities of FMs
+on CXR interpretation. In this work, we address these challenges by first
+introducing \emph{CheXinstruct} - a large-scale instruction-tuning dataset
+curated from 28 publicly-available datasets. We then present \emph{CheXagent} -
+an instruction-tuned FM capable of analyzing and summarizing CXRs. To build
+CheXagent, we design a clinical large language model (LLM) for parsing
+radiology reports, a vision encoder for representing CXR images, and a network
+to bridge the vision and language modalities. Finally, we introduce
+\emph{CheXbench} - a novel benchmark designed to systematically evaluate FMs
+across 8 clinically-relevant CXR interpretation tasks. Extensive quantitative
+evaluations and qualitative reviews with five expert radiologists demonstrate
+that CheXagent outperforms previously-developed general- and medical-domain FMs
+on CheXbench tasks. Furthermore, in an effort to improve model transparency, we
+perform a fairness evaluation across factors of sex, race and age to highlight
+potential performance disparities. Our project is at
+\url{https://stanford-aimi.github.io/chexagent.html}.
+]]></content:encoded>
+<pubDate>2024-01-22T18:51:07Z</pubDate>
+<pubDate>2024-01-22T18:51:07Z</pubDate>
+</item>
+<item>
+<title>Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization</title>
+<link>http://arxiv.org/abs/2401.12205v1</link>
+<guid>http://arxiv.org/abs/2401.12205v1</guid>
+<content:encoded><![CDATA[
+<div> logic synthesis, chip design, hardware description languages, ABC-RL, quality-of-result
+
+逻辑综合是芯片设计中的关键阶段，涉及将硬件描述语言（如Verilog）中编码的芯片规格优化为使用布尔逻辑门的高效实现。研究发现，预先训练的代理在面对全新设计时可能会偏离轨迹，对搜索轨迹产生不利影响。为解决这一挑战，提出了ABC-RL，一种根据训练数据集中的相似度分数计算出的精心调整建议的技术。实验结果显示，ABC-RL能够显著提高合成电路的结果质量（QoR），与当前最先进的技术相比，提高了最高达24.8%。此外，ABC-RL在运行时间上也取得了惊人的成就，与当前最先进的方法相比，实现了高达9倍的减少（等质量结果的情况下）。<br><br>总结: 逻辑综合是芯片设计过程中的关键阶段，需要细致调整合成方法以适应各种硬件设计。ABC-RL技术通过精心调整预训练代理的建议，实现了合成电路质量的显著提高（最高24.8%）。与此同时，ABC-RL还取得了显著的运行时间减少（高达9倍）。 <div>
+Logic synthesis, a pivotal stage in chip design, entails optimizing chip
+specifications encoded in hardware description languages like Verilog into
+highly efficient implementations using Boolean logic gates. The process
+involves a sequential application of logic minimization heuristics (``synthesis
+recipe"), with their arrangement significantly impacting crucial metrics such
+as area and delay. Addressing the challenge posed by the broad spectrum of
+design complexities - from variations of past designs (e.g., adders and
+multipliers) to entirely novel configurations (e.g., innovative processor
+instructions) - requires a nuanced `synthesis recipe` guided by human expertise
+and intuition. This study conducts a thorough examination of learning and
+search techniques for logic synthesis, unearthing a surprising revelation:
+pre-trained agents, when confronted with entirely novel designs, may veer off
+course, detrimentally affecting the search trajectory. We present ABC-RL, a
+meticulously tuned $\alpha$ parameter that adeptly adjusts recommendations from
+pre-trained agents during the search process. Computed based on similarity
+scores through nearest neighbor retrieval from the training dataset, ABC-RL
+yields superior synthesis recipes tailored for a wide array of hardware
+designs. Our findings showcase substantial enhancements in the
+Quality-of-result (QoR) of synthesized circuits, boasting improvements of up to
+24.8% compared to state-of-the-art techniques. Furthermore, ABC-RL achieves an
+impressive up to 9x reduction in runtime (iso-QoR) when compared to current
+state-of-the-art methodologies.
+]]></content:encoded>
+<pubDate>2024-01-22T18:46:30Z</pubDate>
+<pubDate>2024-01-22T18:46:30Z</pubDate>
+</item>
 
 <item>
 <title>Applications of flow models to the generation of correlated lattice QCD
