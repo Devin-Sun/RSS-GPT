@@ -1133,3 +1133,25 @@ Filter: [Unsupervised Machine Learning for the Classification of Astrophysical
   X-ray Sources](http://arxiv.org/abs/2401.12203v1)
 append_entries: 0
 Finish: 2024-01-24 00:39:09.828388
+------------------------------------------------------
+Started: 2024-01-24 12:15:30.034053
+Existing_entries: 15
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Zero-Shot Learning for the Primitives of 3D Affordance in General
+  Objects](http://arxiv.org/abs/2401.12978v1)
+Filter: [GALA: Generating Animatable Layered Assets from a Single Scan](http://arxiv.org/abs/2401.12979v1)
+Filter: [IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images](http://arxiv.org/abs/2401.12977v1)
+Token length: 1349
+Summarized using GPT-3.5-turbo-1106
+Append: [HAZARD Challenge: Embodied Decision Making in Dynamically Changing
+  Environments](http://arxiv.org/abs/2401.12975v1)
+Filter: [SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location
+  on MRI](http://arxiv.org/abs/2401.12974v1)
+Filter: [In-Context Language Learning: Arhitectures and Algorithms](http://arxiv.org/abs/2401.12973v1)
+Filter: [On the Efficacy of Text-Based Input Modalities for Action Anticipation](http://arxiv.org/abs/2401.12972v1)
+Filter: [Raidar: geneRative AI Detection viA Rewriting](http://arxiv.org/abs/2401.12970v1)
+Filter: [Measure transport with kernel mean embeddings](http://arxiv.org/abs/2401.12967v1)
+Filter: [Workspace Optimization Techniques to Improve Prediction of Human Motion
+  During Human-Robot Collaboration](http://arxiv.org/abs/2401.12965v1)
+append_entries: 1
+Finish: 2024-01-24 12:15:50.611652
