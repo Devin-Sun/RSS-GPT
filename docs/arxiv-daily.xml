@@ -4,6 +4,40 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web
+  Tasks</title>
+<link>http://arxiv.org/abs/2401.13649v1</link>
+<guid>http://arxiv.org/abs/2401.13649v1</guid>
+<content:encoded><![CDATA[
+<div> benchmark, autonomous agents, multimodal, VisualWebArena, web
+
+在现有的基准测试基本上主要集中在基于文本的代理上，忽略了许多需要视觉信息来有效解决的自然任务。因此，我们引入了VisualWebArena，这是一个旨在评估多模态网络代理在现实中视觉相关任务表现的基准。它包括一系列多样化和复杂的基于网络的任务，评估自主多模态代理的各种能力。通过广泛的定量和定性分析，我们确定了文本-只有LLM代理的几个局限性，并揭示了最先进的多模态语言代理的能力差距。VisualWebArena为评估多模态自主语言代理提供了一个框架，并为构建更强大的网络自主代理提供了见解。 <div>
+Autonomous agents capable of planning, reasoning, and executing actions on
+the web offer a promising avenue for automating computer tasks. However, the
+majority of existing benchmarks primarily focus on text-based agents,
+neglecting many natural tasks that require visual information to effectively
+solve. Given that most computer interfaces cater to human perception, visual
+information often augments textual data in ways that text-only models struggle
+to harness effectively. To bridge this gap, we introduce VisualWebArena, a
+benchmark designed to assess the performance of multimodal web agents on
+realistic \textit{visually grounded tasks}. VisualWebArena comprises of a set
+of diverse and complex web-based tasks that evaluate various capabilities of
+autonomous multimodal agents. To perform on this benchmark, agents need to
+accurately process image-text inputs, interpret natural language instructions,
+and execute actions on websites to accomplish user-defined objectives. We
+conduct an extensive evaluation of state-of-the-art LLM-based autonomous
+agents, including several multimodal models. Through extensive quantitative and
+qualitative analysis, we identify several limitations of text-only LLM agents,
+and reveal gaps in the capabilities of state-of-the-art multimodal language
+agents. VisualWebArena provides a framework for evaluating multimodal
+autonomous language agents, and offers insights towards building stronger
+autonomous agents for the web. Our code, baseline models, and data is publicly
+available at https://jykoh.com/vwa.
+]]></content:encoded>
+<pubDate>2024-01-24T18:35:21Z</pubDate>
+<pubDate>2024-01-24T18:35:21Z</pubDate>
+</item>
 
 <item>
 <title>HAZARD Challenge: Embodied Decision Making in Dynamically Changing

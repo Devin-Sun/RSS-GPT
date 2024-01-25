@@ -1173,3 +1173,28 @@ Filter: [Workspace Optimization Techniques to Improve Prediction of Human Motion
   During Human-Robot Collaboration](http://arxiv.org/abs/2401.12965v1)
 append_entries: 0
 Finish: 2024-01-25 00:39:01.678416
+------------------------------------------------------
+Started: 2024-01-25 12:15:22.897966
+Existing_entries: 16
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Predicting the Impact of Crashes Across Release Channels](http://arxiv.org/abs/2401.13667v1)
+Filter: [Algebraic methods for solving recognition problems with non-crossing
+  classes](http://arxiv.org/abs/2401.13666v1)
+Filter: [The Definitive Guide to Policy Gradients in Deep Reinforcement Learning:
+  Theory, Algorithms and Implementations](http://arxiv.org/abs/2401.13662v1)
+Filter: [MambaByte: Token-free Selective State Space Model](http://arxiv.org/abs/2401.13660v1)
+Filter: [Inadequacy of common stochastic neural networks for reliable clinical
+  decision support](http://arxiv.org/abs/2401.13657v1)
+Filter: [Navigating Multidimensional Ideologies with Reddit's Political Compass:
+  Economic Conflict and Social Affinity](http://arxiv.org/abs/2401.13656v1)
+Filter: [HetDAPAC: Distributed Attribute-Based Private Access Control with
+  Heterogeneous Attributes](http://arxiv.org/abs/2401.13653v1)
+Filter: [Graph-Informed Neural Networks for Sparse Grid-Based Discontinuity
+  Detectors](http://arxiv.org/abs/2401.13652v1)
+Filter: [Tyche: Stochastic In-Context Learning for Medical Image Segmentation](http://arxiv.org/abs/2401.13650v1)
+Token length: 1552
+Summarized using GPT-3.5-turbo-1106
+Append: [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web
+  Tasks](http://arxiv.org/abs/2401.13649v1)
+append_entries: 1
+Finish: 2024-01-25 12:15:31.463581
