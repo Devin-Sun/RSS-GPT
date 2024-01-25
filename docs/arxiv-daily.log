@@ -1155,3 +1155,21 @@ Filter: [Workspace Optimization Techniques to Improve Prediction of Human Motion
   During Human-Robot Collaboration](http://arxiv.org/abs/2401.12965v1)
 append_entries: 1
 Finish: 2024-01-24 12:15:50.611652
+------------------------------------------------------
+Started: 2024-01-25 00:39:01.008849
+Existing_entries: 16
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Zero-Shot Learning for the Primitives of 3D Affordance in General
+  Objects](http://arxiv.org/abs/2401.12978v1)
+Filter: [GALA: Generating Animatable Layered Assets from a Single Scan](http://arxiv.org/abs/2401.12979v1)
+Filter: [IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images](http://arxiv.org/abs/2401.12977v1)
+Filter: [SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location
+  on MRI](http://arxiv.org/abs/2401.12974v1)
+Filter: [In-Context Language Learning: Arhitectures and Algorithms](http://arxiv.org/abs/2401.12973v1)
+Filter: [On the Efficacy of Text-Based Input Modalities for Action Anticipation](http://arxiv.org/abs/2401.12972v1)
+Filter: [Raidar: geneRative AI Detection viA Rewriting](http://arxiv.org/abs/2401.12970v1)
+Filter: [Measure transport with kernel mean embeddings](http://arxiv.org/abs/2401.12967v1)
+Filter: [Workspace Optimization Techniques to Improve Prediction of Human Motion
+  During Human-Robot Collaboration](http://arxiv.org/abs/2401.12965v1)
+append_entries: 0
+Finish: 2024-01-25 00:39:01.678416
