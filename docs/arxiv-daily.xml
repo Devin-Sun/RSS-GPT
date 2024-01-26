@@ -4,6 +4,30 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Deconstructing Denoising Diffusion Models for Self-Supervised Learning</title>
+<link>http://arxiv.org/abs/2401.14404v1</link>
+<guid>http://arxiv.org/abs/2401.14404v1</guid>
+<content:encoded><![CDATA[
+<div> Denoising Diffusion Models, representation learning, self-supervised learning, deconstructive procedure, classical methods
+<br>
+本研究探讨了最初用于图像生成的去噪扩散模型（DDM）的表示学习能力。我们的方法是逐步解构DDM，逐渐将其转化为经典的去噪自编码器（DAE）。这种解构性过程使我们能够探索现代DDM的各种组件如何影响自监督表示学习。我们观察到，只有很少现代组件对于学习良好的表示是至关重要的，而许多其他组件则是非必要的。我们的研究最终得出了一个高度简化的方法，在很大程度上类似于经典的DAE。我们希望我们的研究能重新引起人们对现代自监督学习领域内一系列经典方法的兴趣。
+<br><br>总结: Denoising Diffusion Models的表示学习能力得到探讨；研究采用逐步解构DDM的方法，发现现代DDMs的很多组件对良好的自监督表示学习并不是必要的；研究最终得出了一个高度简化的方法，类似于经典的DAE；希望研究能重新引起人们对现代自监督学习领域内经典方法的兴趣。 <div>
+In this study, we examine the representation learning abilities of Denoising
+Diffusion Models (DDM) that were originally purposed for image generation. Our
+philosophy is to deconstruct a DDM, gradually transforming it into a classical
+Denoising Autoencoder (DAE). This deconstructive procedure allows us to explore
+how various components of modern DDMs influence self-supervised representation
+learning. We observe that only a very few modern components are critical for
+learning good representations, while many others are nonessential. Our study
+ultimately arrives at an approach that is highly simplified and to a large
+extent resembles a classical DAE. We hope our study will rekindle interest in a
+family of classical methods within the realm of modern self-supervised
+learning.
+]]></content:encoded>
+<pubDate>2024-01-25T18:59:57Z</pubDate>
+<pubDate>2024-01-25T18:59:57Z</pubDate>
+</item>
 
 <item>
 <title>VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web
