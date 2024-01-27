@@ -1260,3 +1260,22 @@ Filter: [Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label
   Pairs](http://arxiv.org/abs/2401.14387v1)
 append_entries: 0
 Finish: 2024-01-27 00:35:52.786962
+------------------------------------------------------
+Started: 2024-01-27 12:11:56.823315
+Existing_entries: 18
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Multimodal Pathway: Improve Transformers with Irrelevant Data from Other
+  Modalities](http://arxiv.org/abs/2401.14405v1)
+Filter: [Adaptive Mobile Manipulation for Articulated Objects In the Open World](http://arxiv.org/abs/2401.14403v1)
+Filter: [Range-Agnostic Multi-View Depth Estimation With Keyframe Selection](http://arxiv.org/abs/2401.14401v1)
+Filter: [Modular Adaptation of Multilingual Encoders to Written Swiss German
+  Dialect](http://arxiv.org/abs/2401.14400v1)
+Filter: [pix2gestalt: Amodal Segmentation by Synthesizing Wholes](http://arxiv.org/abs/2401.14398v1)
+Filter: [O(1) Insertion for Random Walk d-ary Cuckoo Hashing up to the Load
+  Threshold](http://arxiv.org/abs/2401.14394v1)
+Filter: [Rethinking Patch Dependence for Masked Autoencoders](http://arxiv.org/abs/2401.14391v1)
+Filter: [Smooth Ranking SVM via Cutting-Plane Method](http://arxiv.org/abs/2401.14388v1)
+Filter: [Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label
+  Pairs](http://arxiv.org/abs/2401.14387v1)
+append_entries: 0
+Finish: 2024-01-27 12:11:57.380271
