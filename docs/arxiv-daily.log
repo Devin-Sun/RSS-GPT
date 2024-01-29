@@ -1336,3 +1336,28 @@ Filter: [Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label
   Pairs](http://arxiv.org/abs/2401.14387v1)
 append_entries: 0
 Finish: 2024-01-29 00:35:56.184688
+------------------------------------------------------
+Started: 2024-01-29 12:14:21.938679
+Existing_entries: 18
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](http://arxiv.org/abs/2401.15077v1)
+Token length: 978
+Summarized using GPT-3.5-turbo-1106
+Append: [Annotated Hands for Generative Models](http://arxiv.org/abs/2401.15075v1)
+Filter: [From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on
+  Generalizability, Trustworthiness and Causality through Four Modalities](http://arxiv.org/abs/2401.15071v1)
+Filter: [Pairing Orthographically Variant Literary Words to Standard Equivalents
+  Using Neural Edit Distance Models](http://arxiv.org/abs/2401.15068v1)
+Filter: [Expert with Clustering: Hierarchical Online Preference Learning
+  Framework](http://arxiv.org/abs/2401.15062v1)
+Filter: [Digital-analog hybrid matrix multiplication processor for optical neural
+  networks](http://arxiv.org/abs/2401.15061v1)
+Token length: 1164
+Summarized using GPT-3.5-turbo-1106
+Append: [Fully Independent Communication in Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2401.15059v1)
+Filter: [Subset Adaptive Relaying for Streaming Erasure Codes](http://arxiv.org/abs/2401.15056v1)
+Filter: [Deep learning-based approach for tomato classification in complex scenes](http://arxiv.org/abs/2401.15055v1)
+Append: [LongFin: A Multimodal Document Understanding Model for Long Financial
+  Domain Documents](http://arxiv.org/abs/2401.15050v1)
+append_entries: 3
+Finish: 2024-01-29 12:14:40.172606

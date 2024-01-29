@@ -4,6 +4,90 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Annotated Hands for Generative Models</title>
+<link>http://arxiv.org/abs/2401.15075v1</link>
+<guid>http://arxiv.org/abs/2401.15075v1</guid>
+<content:encoded><![CDATA[
+<div> 生成模型, 手图像, 训练框架, 语义标注, 图像质量
+<br>
+生成模型如GANs和扩散模型在图像生成方面取得了令人瞩目的成就，但在生成手部图像方面却表现不佳。本文提出了一种新颖的训练框架，通过在训练图像中增加三个额外的通道，提供手部的标注信息，从而改善生成模型生成手部图像的能力。通过在合成手部图像数据集和真实照片上进行实验，证明了该方法的有效性。最终通过使用现成的手部检测器，测量生成的手部图像的质量得到了提升。 <br><br>总结: <br>生成模型在图像生成方面表现突出，但在生成手部图像方面表现不佳；本文提出了一种新的训练框架，通过增加手部标注信息改善生成模型的能力；在合成和真实数据集上验证了方法的有效性；最终通过手部检测器测量了生成手部图像的质量。 <div>
+Generative models such as GANs and diffusion models have demonstrated
+impressive image generation capabilities. Despite these successes, these
+systems are surprisingly poor at creating images with hands. We propose a novel
+training framework for generative models that substantially improves the
+ability of such systems to create hand images. Our approach is to augment the
+training images with three additional channels that provide annotations to
+hands in the image. These annotations provide additional structure that coax
+the generative model to produce higher quality hand images. We demonstrate this
+approach on two different generative models: a generative adversarial network
+and a diffusion model. We demonstrate our method both on a new synthetic
+dataset of hand images and also on real photographs that contain hands. We
+measure the improved quality of the generated hands through higher confidence
+in finger joint identification using an off-the-shelf hand detector.
+]]></content:encoded>
+<pubDate>2024-01-26T18:57:54Z</pubDate>
+<pubDate>2024-01-26T18:57:54Z</pubDate>
+</item>
+<item>
+<title>Fully Independent Communication in Multi-Agent Reinforcement Learning</title>
+<link>http://arxiv.org/abs/2401.15059v1</link>
+<guid>http://arxiv.org/abs/2401.15059v1</guid>
+<content:encoded><![CDATA[
+<div> 多智能体强化学习, 通信方法, 参数共享, 网络容量, 学习效率
+<br>
+本文研究了多智能体强化学习中独立学习者如何进行通信，提出了一种新的学习方案作为解决方案。研究结果表明，尽管存在挑战，独立智能体仍然可以根据我们的方法学习通信策略。此外，我们利用这种方法研究了MARL中的通信如何受到不同网络容量的影响，无论是共享参数还是不共享参数。我们观察到通信并不总是必要的，并且在使用通信时需要考虑选择的智能体网络大小，以实现高效的学习。
+<br><br>总结: 
+本文研究了在多智能体强化学习中独立学习者如何进行通信，并提出了一种新的学习方案作为解决方案。实验结果表明，独立智能体可以学习通信策略，并且证明了在学习效率方面网络容量的选择对通信的影响。 <div>
+Multi-Agent Reinforcement Learning (MARL) comprises a broad area of research
+within the field of multi-agent systems. Several recent works have focused
+specifically on the study of communication approaches in MARL. While multiple
+communication methods have been proposed, these might still be too complex and
+not easily transferable to more practical contexts. One of the reasons for that
+is due to the use of the famous parameter sharing trick. In this paper, we
+investigate how independent learners in MARL that do not share parameters can
+communicate. We demonstrate that this setting might incur into some problems,
+to which we propose a new learning scheme as a solution. Our results show that,
+despite the challenges, independent agents can still learn communication
+strategies following our method. Additionally, we use this method to
+investigate how communication in MARL is affected by different network
+capacities, both for sharing and not sharing parameters. We observe that
+communication may not always be needed and that the chosen agent network sizes
+need to be considered when used together with communication in order to achieve
+efficient learning.
+]]></content:encoded>
+<pubDate>2024-01-26T18:42:01Z</pubDate>
+<pubDate>2024-01-26T18:42:01Z</pubDate>
+</item>
+<item>
+<title>LongFin: A Multimodal Document Understanding Model for Long Financial
+  Domain Documents</title>
+<link>http://arxiv.org/abs/2401.15050v1</link>
+<guid>http://arxiv.org/abs/2401.15050v1</guid>
+<content:encoded><![CDATA[
+
+Document AI is a growing research field that focuses on the comprehension and
+extraction of information from scanned and digital documents to make everyday
+business operations more efficient. Numerous downstream tasks and datasets have
+been introduced to facilitate the training of AI models capable of parsing and
+extracting information from various document types such as receipts and scanned
+forms. Despite these advancements, both existing datasets and models fail to
+address critical challenges that arise in industrial contexts. Existing
+datasets primarily comprise short documents consisting of a single page, while
+existing models are constrained by a limited maximum length, often set at 512
+tokens. Consequently, the practical application of these methods in financial
+services, where documents can span multiple pages, is severely impeded. To
+overcome these challenges, we introduce LongFin, a multimodal document AI model
+capable of encoding up to 4K tokens. We also propose the LongForms dataset, a
+comprehensive financial dataset that encapsulates several industrial challenges
+in financial documents. Through an extensive evaluation, we demonstrate the
+effectiveness of the LongFin model on the LongForms dataset, surpassing the
+performance of existing public models while maintaining comparable results on
+existing single-page benchmarks.
+]]></content:encoded>
+<pubDate>2024-01-26T18:23:45Z</pubDate>
+<pubDate>2024-01-26T18:23:45Z</pubDate>
+</item>
 
 <item>
 <title>Deconstructing Denoising Diffusion Models for Self-Supervised Learning</title>
