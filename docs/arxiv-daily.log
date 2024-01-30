@@ -1378,3 +1378,26 @@ Filter: [Subset Adaptive Relaying for Streaming Erasure Codes](http://arxiv.org/
 Filter: [Deep learning-based approach for tomato classification in complex scenes](http://arxiv.org/abs/2401.15055v1)
 append_entries: 0
 Finish: 2024-01-30 00:35:41.016037
+------------------------------------------------------
+Started: 2024-01-30 12:13:18.603611
+Existing_entries: 21
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Computer Vision for Primate Behavior Analysis in the Wild](http://arxiv.org/abs/2401.16424v1)
+Filter: [Synchformer: Efficient Synchronization from Sparse Cues](http://arxiv.org/abs/2401.16423v1)
+Filter: [Strategic Usage in a Multi-Learner Setting](http://arxiv.org/abs/2401.16422v1)
+Filter: [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length
+  Extrapolation](http://arxiv.org/abs/2401.16421v1)
+Token length: 1282
+Summarized using GPT-3.5-turbo-1106
+Append: [InternLM-XComposer2: Mastering Free-form Text-Image Composition and
+  Comprehension in Vision-Language Large Model](http://arxiv.org/abs/2401.16420v1)
+Filter: [Semi-parametric Expert Bayesian Network Learning with Gaussian Processes
+  and Horseshoe Priors](http://arxiv.org/abs/2401.16419v1)
+Filter: [Boolean Logic as an Error feedback mechanism](http://arxiv.org/abs/2401.16418v1)
+Filter: [Channel Coding with Mean and Variance Cost Constraints](http://arxiv.org/abs/2401.16417v1)
+Filter: [Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene
+  Reconstruction with 4D Gaussian Splatting](http://arxiv.org/abs/2401.16416v1)
+Filter: [A Causal Model for Quantifying Multipartite Classical and Quantum
+  Correlations](http://arxiv.org/abs/2401.16414v1)
+append_entries: 1
+Finish: 2024-01-30 12:13:26.544799

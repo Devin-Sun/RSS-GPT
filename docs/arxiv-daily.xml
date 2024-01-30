@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>InternLM-XComposer2: Mastering Free-form Text-Image Composition and
+  Comprehension in Vision-Language Large Model</title>
+<link>http://arxiv.org/abs/2401.16420v1</link>
+<guid>http://arxiv.org/abs/2401.16420v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: InternLM-XComposer2, PLoRA, 多模态理解, 高质量内容, GitHub链接
+总结:
+InternLM-XComposer2是一种先进的视觉语言模型，擅长自由形式的文本-图像组合和理解。它采用了Partial LoRA (PLoRA)方法，通过额外的LoRA参数对图像标记进行处理，从而在保持预训练语言知识完整性的同时，实现了精确的视觉理解和具有文学才华的文本组成。在实验结果中，InternLM-XComposer2在高质量长文本多模态内容的生成和跨各种基准测试中表现出了优越性能，不仅明显优于现有的多模态模型，而且在某些评估中甚至能够与甚至超过了GPT-4V和Gemini Pro。这突显了它在多模态理解领域的出色能力。InternLM-XComposer2模型系列的7B参数现已在https://github.com/InternLM/InternLM-XComposer公开提供。 <div>
+We introduce InternLM-XComposer2, a cutting-edge vision-language model
+excelling in free-form text-image composition and comprehension. This model
+goes beyond conventional vision-language understanding, adeptly crafting
+interleaved text-image content from diverse inputs like outlines, detailed
+textual specifications, and reference images, enabling highly customizable
+content creation. InternLM-XComposer2 proposes a Partial LoRA (PLoRA) approach
+that applies additional LoRA parameters exclusively to image tokens to preserve
+the integrity of pre-trained language knowledge, striking a balance between
+precise vision understanding and text composition with literary talent.
+Experimental results demonstrate the superiority of InternLM-XComposer2 based
+on InternLM2-7B in producing high-quality long-text multi-modal content and its
+exceptional vision-language understanding performance across various
+benchmarks, where it not only significantly outperforms existing multimodal
+models but also matches or even surpasses GPT-4V and Gemini Pro in certain
+assessments. This highlights its remarkable proficiency in the realm of
+multimodal understanding. The InternLM-XComposer2 model series with 7B
+parameters are publicly available at
+https://github.com/InternLM/InternLM-XComposer.
+]]></content:encoded>
+<pubDate>2024-01-29T18:59:02Z</pubDate>
+<pubDate>2024-01-29T18:59:02Z</pubDate>
+</item>
 
 <item>
 <title>Annotated Hands for Generative Models</title>
