@@ -4,6 +4,67 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Weaver: Foundation Models for Creative Writing</title>
+<link>http://arxiv.org/abs/2401.17268v1</link>
+<guid>http://arxiv.org/abs/2401.17268v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Weaver, 大型语言模型, 写作能力, 领域专用, 预训练<br>
+总结: <br>
+本文介绍了Weaver，它是专门用于内容创作的大型语言模型家族的首个成员。Weaver经过精心筛选的语料库预训练，专注于提高大型语言模型的写作能力。通过新颖的方法进行微调，使Weaver能够生成更接近人类的文本，并能够遵循更多样化的创作指令。Weaver家族包括不同规模的模型，适用于不同的应用场景，并可以根据查询的复杂性进行动态调度。研究表明，Weaver模型在评估语言模型写作能力的基准测试中表现优异，超过了比它们大数倍的通用语言模型。此外，Weaver还原生支持检索增强生成和函数调用，并展示了这些能力在改进AI辅助写作系统中的各种应用案例。最后，文章讨论并总结了预训练和微调领域特定语言模型的指南和最佳实践。 <div>
+This work introduces Weaver, our first family of large language models (LLMs)
+dedicated to content creation. Weaver is pre-trained on a carefully selected
+corpus that focuses on improving the writing capabilities of large language
+models. We then fine-tune Weaver for creative and professional writing purposes
+and align it to the preference of professional writers using a suit of novel
+methods for instruction data synthesis and LLM alignment, making it able to
+produce more human-like texts and follow more diverse instructions for content
+creation. The Weaver family consists of models of Weaver Mini (1.8B), Weaver
+Base (6B), Weaver Pro (14B), and Weaver Ultra (34B) sizes, suitable for
+different applications and can be dynamically dispatched by a routing agent
+according to query complexity to balance response quality and computation cost.
+Evaluation on a carefully curated benchmark for assessing the writing
+capabilities of LLMs shows Weaver models of all sizes outperform generalist
+LLMs several times larger than them. Notably, our most-capable Weaver Ultra
+model surpasses GPT-4, a state-of-the-art generalist LLM, on various writing
+scenarios, demonstrating the advantage of training specialized LLMs for writing
+purposes. Moreover, Weaver natively supports retrieval-augmented generation
+(RAG) and function calling (tool usage). We present various use cases of these
+abilities for improving AI-assisted writing systems, including integration of
+external knowledge bases, tools, or APIs, and providing personalized writing
+assistance. Furthermore, we discuss and summarize a guideline and best
+practices for pre-training and fine-tuning domain-specific LLMs.
+]]></content:encoded>
+<pubDate>2024-01-30T18:58:43Z</pubDate>
+<pubDate>2024-01-30T18:58:43Z</pubDate>
+</item>
+<item>
+<title>ReacLLaMA: Merging chemical and textual information in chemical
+  reactivity AI models</title>
+<link>http://arxiv.org/abs/2401.17267v1</link>
+<guid>http://arxiv.org/abs/2401.17267v1</guid>
+<content:encoded><![CDATA[
+<div> Graphormer, reactivity model, chemical information, procedural text, accuracy
+
+总结:<br>
+本文提出了利用过程文本来增强Graphormer反应性模型并提高其准确性的方法。两种主要方法分别是训练一个适配器Graphormer模型，该模型提供了一个由GPT-2衍生的文本过程的潜在表示（ReacLLaMA-Adapter），以及使用LLaMA 2模型对数据集的未标记部分进行标记，然后在扩展数据集上训练Graphormer模型（Zero-Shot Labeling ReacLLaMA）。这两种方法都增强了对不利反应的识别能力，从而提供了更准确的模型，并改善了特异性。 <div>
+Chemical reactivity models are developed to predict chemical reaction
+outcomes in the form of classification (success/failure) or regression (product
+yield) tasks. The vast majority of the reported models are trained solely on
+chemical information such as reactants, products, reagents, and solvents, but
+not on the details of a synthetic protocol. Herein incorporation of procedural
+text with the aim to augment the Graphormer reactivity model and improve its
+accuracy is presented. Two major approaches are used: training an adapter
+Graphormer model that is provided with a GPT-2-derived latent representation of
+the text procedure (ReacLLaMA-Adapter) and labeling an unlabeled part of a
+dataset with the LLaMA 2 model followed by training the Graphormer on an
+extended dataset (Zero-Shot Labeling ReacLLaMA). Both methodologies enhance the
+discernment of unpromising reactions, thereby providing more accurate models
+with improved specificity.
+]]></content:encoded>
+<pubDate>2024-01-30T18:57:08Z</pubDate>
+<pubDate>2024-01-30T18:57:08Z</pubDate>
+</item>
 
 <item>
 <title>InternLM-XComposer2: Mastering Free-form Text-Image Composition and
