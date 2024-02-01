@@ -1463,3 +1463,29 @@ Filter: [Low Thrust Trajectory Design Using A Semi-Analytic Approach](http://arx
 Filter: [Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v1)
 append_entries: 0
 Finish: 2024-02-01 00:37:31.954408
+------------------------------------------------------
+Started: 2024-02-01 12:13:49.728268
+Existing_entries: 24
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Motion Guidance: Diffusion-Based Image Editing with Differentiable
+  Motion Estimators](http://arxiv.org/abs/2401.18085v1)
+Token length: 981
+Summarized using GPT-3.5-turbo-1106
+Append: [Binding Touch to Everything: Learning Unified Multimodal Tactile
+  Representations](http://arxiv.org/abs/2401.18084v1)
+Filter: [Improved Scene Landmark Detection for Camera Localization](http://arxiv.org/abs/2401.18083v1)
+Filter: [KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache
+  Quantization](http://arxiv.org/abs/2401.18079v1)
+Token length: 1222
+Summarized using GPT-3.5-turbo-1106
+Append: [CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting](http://arxiv.org/abs/2401.18075v1)
+Filter: [Do Language Models Exhibit the Same Cognitive Biases in Problem Solving
+  as Human Learners?](http://arxiv.org/abs/2401.18070v1)
+Filter: [Classification-Oriented Semantic Wireless Communications](http://arxiv.org/abs/2401.18069v1)
+Filter: [Reduced-Order Model of Power Converters to Optimize Power
+  Hardware-In-the-Loop Technology in Dc-Distributed Systems](http://arxiv.org/abs/2401.18067v1)
+Filter: [Game susceptibility, Correlation and Payoff capacity as a measure of
+  Cooperative behavior in the thermodynamic limit of some Social dilemmas](http://arxiv.org/abs/2401.18065v1)
+Filter: [Neural Locality Sensitive Hashing for Entity Blocking](http://arxiv.org/abs/2401.18064v1)
+append_entries: 2
+Finish: 2024-02-01 12:14:30.775735
