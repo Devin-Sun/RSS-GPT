@@ -1445,3 +1445,21 @@ Filter: [Low Thrust Trajectory Design Using A Semi-Analytic Approach](http://arx
 Filter: [Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v1)
 append_entries: 2
 Finish: 2024-01-31 12:14:09.430748
+------------------------------------------------------
+Started: 2024-02-01 00:37:31.322802
+Existing_entries: 24
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [A simple, strong baseline for building damage detection on the xBD
+  dataset](http://arxiv.org/abs/2401.17271v1)
+Filter: [YOLO-World: Real-Time Open-Vocabulary Object Detection](http://arxiv.org/abs/2401.17270v1)
+Filter: [Effect of Weight Quantization on Learning Models by Typical Case
+  Analysis](http://arxiv.org/abs/2401.17269v1)
+Filter: [Proactive Detection of Voice Cloning with Localized Watermarking](http://arxiv.org/abs/2401.17264v1)
+Filter: [Robust Prompt Optimization for Defending Language Models Against
+  Jailbreaking Attacks](http://arxiv.org/abs/2401.17263v1)
+Filter: [You Only Need One Step: Fast Super-Resolution with Stable Diffusion via
+  Scale Distillation](http://arxiv.org/abs/2401.17258v1)
+Filter: [Low Thrust Trajectory Design Using A Semi-Analytic Approach](http://arxiv.org/abs/2401.17257v1)
+Filter: [Weak-to-Strong Jailbreaking on Large Language Models](http://arxiv.org/abs/2401.17256v1)
+append_entries: 0
+Finish: 2024-02-01 00:37:31.954408
