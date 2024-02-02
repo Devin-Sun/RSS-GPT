@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Binding Touch to Everything: Learning Unified Multimodal Tactile
   Representations</title>
@@ -11,13 +12,13 @@
 <guid>http://arxiv.org/abs/2401.18084v1</guid>
 <content:encoded><![CDATA[
 <div> tactile, multimodal learning, UniTouch, vision-based touch sensors, zero-shot setting
-<br><br>
+<br /><br />
 1. 该研究介绍了UniTouch，一个统一的触觉模型，用于连接多种传感器从而实现触觉与视觉、语言和声音等多模态学习。
 2. 通过将UniTouch嵌入与预训练的图像嵌入相关联，并提出可学习的传感器特定标记，使模型能够同时学习从一组异构触觉传感器中获取信息。
 3. UniTouch能够在零-shot设置下进行各种触觉感知任务，从机器人抓取预测到触觉图像问题回答等。
 4. 该模型具有巨大的潜在应用价值，能够解决触觉与其他模态之间的关联问题，对人类和计算系统都具有重大意义。
 5. UniTouch是首个展示了这些能力的模型，具有重大的研究意义和应用前景。
-<br><br>总结: <br>本研究介绍了UniTouch，一个能够联合不同传感器的触觉模型，实现触觉与其他模态的学习。该模型能够进行多种触觉感知任务，并具有广泛的应用前景。 <div>
+<br /><br />总结: <br />本研究介绍了UniTouch，一个能够联合不同传感器的触觉模型，实现触觉与其他模态的学习。该模型能够进行多种触觉感知任务，并具有广泛的应用前景。 <div>
 The ability to associate touch with other modalities has huge implications
 for humans and computational systems. However, multimodal learning with touch
 remains challenging due to the expensive data collection process and
@@ -33,7 +34,6 @@ answering. To the best of our knowledge, UniTouch is the first to demonstrate
 such capabilities. Project page: https://cfeng16.github.io/UniTouch/
 ]]></content:encoded>
 <pubDate>2024-01-31T18:59:57Z</pubDate>
-<pubDate>2024-01-31T18:59:57Z</pubDate>
 </item>
 <item>
 <title>CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting</title>
@@ -42,7 +42,7 @@ such capabilities. Project page: https://cfeng16.github.io/UniTouch/
 <content:encoded><![CDATA[
 <div> 关键词: CARFF, Conditional Auto-encoded Radiance Field, 3D Scene Forecasting, Neural Radiance Field, CARLA driving simulator
 
-CARFF是一种用于预测未来3D场景的方法，可以根据过去的观测（如2D自我中心图像）将图像映射到潜在的3D场景配置分布，并预测假设场景随时间的演变。该方法利用概率编码器将潜在场景表示映射到全局神经辐射场（NeRF），以表示3D场景模型，从而实现可解释的预测和简单的下游应用。此方法通过考虑环境状态和动态的不确定性复杂情景，扩展了以往的神经渲染工作。我们使用姿势条件VAE和NeRF的两阶段训练来学习3D表示。此外，我们利用混合密度网络，自回归地预测潜在场景表示作为一种部分可观察的马尔可夫决策过程。我们在CARLA驾驶模拟器中展示了我们方法的实用性，CARFF可用于实现复杂多智能体自动驾驶场景的高效轨迹和应急规划，包括视觉遮挡。<br><br>总结: CARFF是一种用于预测未来3D场景的方法，利用概率编码器和全局神经辐射场表示潜在的3D场景模型，扩展了以往的神经渲染工作。该方法通过两阶段训练学习3D表示，并利用混合密度网络自回归地预测潜在场景表示。在CARLA驾驶模拟器中展示了方法的实用性，可用于复杂多智能体自动驾驶场景的轨迹和应急规划。 <div>
+CARFF是一种用于预测未来3D场景的方法，可以根据过去的观测（如2D自我中心图像）将图像映射到潜在的3D场景配置分布，并预测假设场景随时间的演变。该方法利用概率编码器将潜在场景表示映射到全局神经辐射场（NeRF），以表示3D场景模型，从而实现可解释的预测和简单的下游应用。此方法通过考虑环境状态和动态的不确定性复杂情景，扩展了以往的神经渲染工作。我们使用姿势条件VAE和NeRF的两阶段训练来学习3D表示。此外，我们利用混合密度网络，自回归地预测潜在场景表示作为一种部分可观察的马尔可夫决策过程。我们在CARLA驾驶模拟器中展示了我们方法的实用性，CARFF可用于实现复杂多智能体自动驾驶场景的高效轨迹和应急规划，包括视觉遮挡。<br /><br />总结: CARFF是一种用于预测未来3D场景的方法，利用概率编码器和全局神经辐射场表示潜在的3D场景模型，扩展了以往的神经渲染工作。该方法通过两阶段训练学习3D表示，并利用混合密度网络自回归地预测潜在场景表示。在CARLA驾驶模拟器中展示了方法的实用性，可用于复杂多智能体自动驾驶场景的轨迹和应急规划。 <div>
 We propose CARFF: Conditional Auto-encoded Radiance Field for 3D Scene
 Forecasting, a method for predicting future 3D scenes given past observations,
 such as 2D ego-centric images. Our method maps an image to a distribution over
@@ -62,9 +62,7 @@ contingency planning in complex multi-agent autonomous driving scenarios
 involving visual occlusions.
 ]]></content:encoded>
 <pubDate>2024-01-31T18:56:09Z</pubDate>
-<pubDate>2024-01-31T18:56:09Z</pubDate>
 </item>
-
 <item>
 <title>Weaver: Foundation Models for Creative Writing</title>
 <link>http://arxiv.org/abs/2401.17268v1</link>
