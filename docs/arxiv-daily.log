@@ -1568,3 +1568,23 @@ Filter: [SymbolicAI: A framework for logic-based approaches combining generative
   models and solvers](http://arxiv.org/abs/2402.00854v1)
 append_entries: 0
 Finish: 2024-02-03 12:12:56.796062
+------------------------------------------------------
+Started: 2024-02-04 00:38:42.214458
+Existing_entries: 26
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AToM: Amortized Text-to-Mesh using 2D Diffusion](http://arxiv.org/abs/2402.00867v1)
+Filter: [We're Not Using Videos Effectively: An Updated Domain Adaptive Video
+  Segmentation Baseline](http://arxiv.org/abs/2402.00868v1)
+Filter: [Towards Optimal Feature-Shaping Methods for Out-of-Distribution
+  Detection](http://arxiv.org/abs/2402.00865v1)
+Filter: [ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields](http://arxiv.org/abs/2402.00864v1)
+Filter: [Geometry Transfer for Stylizing Radiance Fields](http://arxiv.org/abs/2402.00863v1)
+Filter: [Evaluating Large Language Models for Generalization and Robustness via
+  Data Compression](http://arxiv.org/abs/2402.00861v1)
+Filter: [Can Large Language Models Understand Context?](http://arxiv.org/abs/2402.00858v1)
+Filter: [Early Time Classification with Accumulated Accuracy Gap Control](http://arxiv.org/abs/2402.00857v1)
+Filter: [Towards Efficient and Exact Optimization of Language Model Alignment](http://arxiv.org/abs/2402.00856v1)
+Filter: [SymbolicAI: A framework for logic-based approaches combining generative
+  models and solvers](http://arxiv.org/abs/2402.00854v1)
+append_entries: 0
+Finish: 2024-02-04 00:38:43.096890
