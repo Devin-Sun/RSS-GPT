@@ -1656,3 +1656,24 @@ Filter: [L2G2G: a Scalable Local-to-Global Network Embedding with Graph
   Autoencoders](http://arxiv.org/abs/2402.01614v1)
 append_entries: 2
 Finish: 2024-02-05 12:14:08.986094
+------------------------------------------------------
+Started: 2024-02-06 00:35:24.372966
+Existing_entries: 28
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [kNN Algorithm for Conditional Mean and Variance Estimation with
+  Automated Uncertainty Quantification and Variable Selection](http://arxiv.org/abs/2402.01635v1)
+Filter: [Beyond Lengthscales: No-regret Bayesian Optimisation With Unknown
+  Hyperparameters Of Any Type](http://arxiv.org/abs/2402.01632v1)
+Filter: [Position Paper: Generalized grammar rules and structure-based
+  generalization beyond classical equivariance for lexical tasks and
+  transduction](http://arxiv.org/abs/2402.01629v1)
+Filter: [Stochastic Two Points Method for Deep Model Zeroth-order Optimization](http://arxiv.org/abs/2402.01621v1)
+Filter: [KB-Plugin: A Plug-and-play Framework for Large Language Models to Induce
+  Programs over Low-resourced Knowledge Bases](http://arxiv.org/abs/2402.01619v1)
+Filter: [Style Vectors for Steering Generative Large Language Model](http://arxiv.org/abs/2402.01618v1)
+Filter: [A GP-based Robust Motion Planning Framework for Agile Autonomous Robot
+  Navigation and Recovery in Unknown Environments](http://arxiv.org/abs/2402.01617v1)
+Filter: [L2G2G: a Scalable Local-to-Global Network Embedding with Graph
+  Autoencoders](http://arxiv.org/abs/2402.01614v1)
+append_entries: 0
+Finish: 2024-02-06 00:35:25.303549

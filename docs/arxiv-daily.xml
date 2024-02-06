@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
 <link>http://arxiv.org/abs/2402.01622v1</link>
 <guid>http://arxiv.org/abs/2402.01622v1</guid>
 <content:encoded><![CDATA[
-<div> 语言代理，人工智能，旅行规划，规划基准，挑战性测试<br>
-<br>
-人工智能自诞生以来一直将规划作为核心追求，但早期的人工智能代理主要专注于受限环境，因为缺乏人类级别规划所需的许多认知基础。然而，最近由大型语言模型（LLM）驱动的语言代理展现出了有趣的能力，如工具使用和推理。但这些语言代理能否在超出以往人工智能代理能力范围的更复杂环境中进行规划呢？为了推动这一调查，提出了“TravelPlanner”规划基准，侧重于旅行规划，这是一个常见的真实世界规划场景。它提供了一个丰富的沙盒环境，各种工具用于访问近400万条数据记录，以及1225个精心策划的规划意图和参考计划。全面的评估显示，当前的语言代理尚不能处理此类复杂规划任务，即使GPT-4的成功率也只有0.6％。语言代理在保持任务、使用正确工具收集信息或跟踪多个约束方面很困难。但我们注意到，语言代理仅仅有可能解决这样一个复杂的问题本身已经是非平凡的进步。TravelPlanner为未来语言代理提供了一个具有挑战性但有意义的试验平台。 <br><br>总结: <div>
+<div> 语言代理，人工智能，旅行规划，规划基准，挑战性测试<br />
+<br />
+人工智能自诞生以来一直将规划作为核心追求，但早期的人工智能代理主要专注于受限环境，因为缺乏人类级别规划所需的许多认知基础。然而，最近由大型语言模型（LLM）驱动的语言代理展现出了有趣的能力，如工具使用和推理。但这些语言代理能否在超出以往人工智能代理能力范围的更复杂环境中进行规划呢？为了推动这一调查，提出了“TravelPlanner”规划基准，侧重于旅行规划，这是一个常见的真实世界规划场景。它提供了一个丰富的沙盒环境，各种工具用于访问近400万条数据记录，以及1225个精心策划的规划意图和参考计划。全面的评估显示，当前的语言代理尚不能处理此类复杂规划任务，即使GPT-4的成功率也只有0.6％。语言代理在保持任务、使用正确工具收集信息或跟踪多个约束方面很困难。但我们注意到，语言代理仅仅有可能解决这样一个复杂的问题本身已经是非平凡的进步。TravelPlanner为未来语言代理提供了一个具有挑战性但有意义的试验平台。 <br /><br />总结: <div>
 Planning has been part of the core pursuit for artificial intelligence since
 its conception, but earlier AI agents mostly focused on constrained settings
 because many of the cognitive substrates necessary for human-level planning
@@ -32,7 +33,6 @@ itself non-trivial progress. TravelPlanner provides a challenging yet
 meaningful testbed for future language agents.
 ]]></content:encoded>
 <pubDate>2024-02-02T18:39:51Z</pubDate>
-<pubDate>2024-02-02T18:39:51Z</pubDate>
 </item>
 <item>
 <title>MAGDi: Structured Distillation of Multi-Agent Interaction Graphs
@@ -40,9 +40,9 @@ meaningful testbed for future language agents.
 <link>http://arxiv.org/abs/2402.01620v1</link>
 <guid>http://arxiv.org/abs/2402.01620v1</guid>
 <content:encoded><![CDATA[
-<div> 多智能体交互; 大型语言模型; 知识蒸馏; 推理能力; 效率提升<br>
-<br>
-多智能体交互的研究展示了大型语言模型在各种推理任务上的重大改进。然而，这些方法需要多个模型进行长时间的生成，并且成本高昂。此外，这些多智能体方法无法提供一个最终的、用于高效推理的单一模型。为了解决这一问题，文章介绍了一种新方法MAGDi，用于将多个大型语言模型之间的推理交互进行结构化蒸馏，以训练较小的模型。MAGDi通过将多智能体交互表示为图形，利用图编码器增强基础学生模型，并使用三种目标函数进行知识蒸馏：下一个标记的预测、正确和错误推理之间的对比损失，以及基于图的目标函数来模拟交互结构。实验证明，MAGDi提高了较小模型的推理能力，在七个广泛使用的常识和数学推理基准测试上表现优异，超过了几种从单个老师和多个老师进行蒸馏的方法。此外，MAGDi的效率也比其老师高一个数量级。作者进行了广泛的分析，表明MAGDi能够增强对跨领域任务的泛化能力，与基础学生模型的大小和强度呈正比，以及在应用自洽性时（一种依赖于模型多样性的推理技术）能够获得更大的改进（通过我们的多老师训练）。<br><br>总结: <br>多智能体交互的研究展示了大型语言模型在各种推理任务上的重大改进；MAGDi通过结构化蒸馏提高了较小模型的推理能力；MAGDi在常识和数学推理基准测试上表现出色，且效率明显优于其老师；MAGDi增强了对跨领域任务的泛化能力，并且与基础学生模型的大小和强度呈正比；MAGDi在应用自洽性时能够获得更大的改进。 <div>
+<div> 多智能体交互; 大型语言模型; 知识蒸馏; 推理能力; 效率提升<br />
+<br />
+多智能体交互的研究展示了大型语言模型在各种推理任务上的重大改进。然而，这些方法需要多个模型进行长时间的生成，并且成本高昂。此外，这些多智能体方法无法提供一个最终的、用于高效推理的单一模型。为了解决这一问题，文章介绍了一种新方法MAGDi，用于将多个大型语言模型之间的推理交互进行结构化蒸馏，以训练较小的模型。MAGDi通过将多智能体交互表示为图形，利用图编码器增强基础学生模型，并使用三种目标函数进行知识蒸馏：下一个标记的预测、正确和错误推理之间的对比损失，以及基于图的目标函数来模拟交互结构。实验证明，MAGDi提高了较小模型的推理能力，在七个广泛使用的常识和数学推理基准测试上表现优异，超过了几种从单个老师和多个老师进行蒸馏的方法。此外，MAGDi的效率也比其老师高一个数量级。作者进行了广泛的分析，表明MAGDi能够增强对跨领域任务的泛化能力，与基础学生模型的大小和强度呈正比，以及在应用自洽性时（一种依赖于模型多样性的推理技术）能够获得更大的改进（通过我们的多老师训练）。<br /><br />总结: <br />多智能体交互的研究展示了大型语言模型在各种推理任务上的重大改进；MAGDi通过结构化蒸馏提高了较小模型的推理能力；MAGDi在常识和数学推理基准测试上表现出色，且效率明显优于其老师；MAGDi增强了对跨领域任务的泛化能力，并且与基础学生模型的大小和强度呈正比；MAGDi在应用自洽性时能够获得更大的改进。 <div>
 Multi-agent interactions between Large Language Model (LLM) agents have shown
 major improvements on diverse reasoning tasks. However, these involve long
 generations from multiple models across several rounds, making them expensive.
@@ -65,9 +65,7 @@ training) when applying self-consistency - an inference technique that relies
 on model diversity.
 ]]></content:encoded>
 <pubDate>2024-02-02T18:35:14Z</pubDate>
-<pubDate>2024-02-02T18:35:14Z</pubDate>
 </item>
-
 <item>
 <title>Binding Touch to Everything: Learning Unified Multimodal Tactile
   Representations</title>
