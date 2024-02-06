@@ -4,6 +4,92 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>V-IRL: Grounding Virtual Intelligence in Real Life</title>
+<link>http://arxiv.org/abs/2402.03310v1</link>
+<guid>http://arxiv.org/abs/2402.03310v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 感知, AI代理, 环境, 虚拟平台, 互动
+总结:<br><br>这篇文章介绍了一个名为V-IRL的平台，旨在通过虚拟环境让AI代理能够在真实世界中交互。该平台能够帮助开发能够完成各种实际任务的代理，并且可作为一个广阔的测试基地，用于测量在感知、决策和与全球各地真实世界数据交互等能力方面的进展。通过在虚拟而又真实的环境中实现代理的具体体现，可以弥合数字世界和真实世界之间的现实差距。 <div>
+There is a sensory gulf between the Earth that humans inhabit and the digital
+realms in which modern AI agents are created. To develop AI agents that can
+sense, think, and act as flexibly as humans in real-world settings, it is
+imperative to bridge the realism gap between the digital and physical worlds.
+How can we embody agents in an environment as rich and diverse as the one we
+inhabit, without the constraints imposed by real hardware and control? Towards
+this end, we introduce V-IRL: a platform that enables agents to scalably
+interact with the real world in a virtual yet realistic environment. Our
+platform serves as a playground for developing agents that can accomplish
+various practical tasks and as a vast testbed for measuring progress in
+capabilities spanning perception, decision-making, and interaction with
+real-world data across the entire globe.
+]]></content:encoded>
+<pubDate>2024-02-05T18:59:36Z</pubDate>
+<pubDate>2024-02-05T18:59:36Z</pubDate>
+</item>
+<item>
+<title>AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion</title>
+<link>http://arxiv.org/abs/2402.03309v1</link>
+<guid>http://arxiv.org/abs/2402.03309v1</guid>
+<content:encoded><![CDATA[
+<div> acoustic-optical neural surface reconstruction, underwater perception, 3D surface reconstruction, baselines, multimodal fusion<br>
+<br>
+在水下感知和三维表面重建领域存在着诸多挑战，涉及到建筑、安全、海洋考古和环境监测等广泛领域的应用。由于恶劣的操作条件、脆弱的环境和有限的导航控制，潜水器通常需要限制其运动范围，因此也限制了其测量基线。我们的研究开发了一种基于物理的多模式声光神经表面重建框架（AONeuS），能够有效地将高分辨率的RGB测量与低分辨率的深度成像声纳测量相结合。通过融合这些互补的模态，我们的框架可以从受限基线上捕获的测量中重建准确的高分辨率三维表面。通过大量的模拟和实验，我们证明AONeuS显著优于最近的仅RGB和仅声纳的反差分渲染表面重建方法。我们的论文结果可通过以下网址查看：https://aoneus.github.io/ <br><br>总结: 水下感知和三维表面重建面临诸多挑战，AONeuS框架成功融合了声光神经表面重建，能够在受限的基线下实现准确的高分辨率三维表面重建，并且优于之前的方法。 <div>
+Underwater perception and 3D surface reconstruction are challenging problems
+with broad applications in construction, security, marine archaeology, and
+environmental monitoring. Treacherous operating conditions, fragile
+surroundings, and limited navigation control often dictate that submersibles
+restrict their range of motion and, thus, the baseline over which they can
+capture measurements. In the context of 3D scene reconstruction, it is
+well-known that smaller baselines make reconstruction more challenging. Our
+work develops a physics-based multimodal acoustic-optical neural surface
+reconstruction framework (AONeuS) capable of effectively integrating
+high-resolution RGB measurements with low-resolution depth-resolved imaging
+sonar measurements. By fusing these complementary modalities, our framework can
+reconstruct accurate high-resolution 3D surfaces from measurements captured
+over heavily-restricted baselines. Through extensive simulations and in-lab
+experiments, we demonstrate that AONeuS dramatically outperforms recent
+RGB-only and sonar-only inverse-differentiable-rendering--based surface
+reconstruction methods. A website visualizing the results of our paper is
+located at this address: https://aoneus.github.io/
+]]></content:encoded>
+<pubDate>2024-02-05T18:59:31Z</pubDate>
+<pubDate>2024-02-05T18:59:31Z</pubDate>
+</item>
+<item>
+<title>Do Diffusion Models Learn Semantically Meaningful and Efficient
+  Representations?</title>
+<link>http://arxiv.org/abs/2402.03305v1</link>
+<guid>http://arxiv.org/abs/2402.03305v1</guid>
+<content:encoded><![CDATA[
+
+Diffusion models are capable of impressive feats of image generation with
+uncommon juxtapositions such as astronauts riding horses on the moon with
+properly placed shadows. These outputs indicate the ability to perform
+compositional generalization, but how do the models do so? We perform
+controlled experiments on conditional DDPMs learning to generate 2D spherical
+Gaussian bumps centered at specified $x$- and $y$-positions. Our results show
+that the emergence of semantically meaningful latent representations is key to
+achieving high performance. En route to successful performance over learning,
+the model traverses three distinct phases of latent representations: (phase A)
+no latent structure, (phase B) a 2D manifold of disordered states, and (phase
+C) a 2D ordered manifold. Corresponding to each of these phases, we identify
+qualitatively different generation behaviors: 1) multiple bumps are generated,
+2) one bump is generated but at inaccurate $x$ and $y$ locations, 3) a bump is
+generated at the correct $x$ and y location. Furthermore, we show that even
+under imbalanced datasets where features ($x$- versus $y$-positions) are
+represented with skewed frequencies, the learning process for $x$ and $y$ is
+coupled rather than factorized, demonstrating that simple vanilla-flavored
+diffusion models cannot learn efficient representations in which localization
+in $x$ and $y$ are factorized into separate 1D tasks. These findings suggest
+the need for future work to find inductive biases that will push generative
+models to discover and exploit factorizable independent structures in their
+inputs, which will be required to vault these models into more data-efficient
+regimes.
+]]></content:encoded>
+<pubDate>2024-02-05T18:58:38Z</pubDate>
+<pubDate>2024-02-05T18:58:38Z</pubDate>
+</item>
 
 <item>
 <title>TravelPlanner: A Benchmark for Real-World Planning with Language Agents</title>
