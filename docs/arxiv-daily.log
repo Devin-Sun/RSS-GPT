@@ -1717,3 +1717,28 @@ Filter: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open
   Language Models](http://arxiv.org/abs/2402.03300v1)
 append_entries: 0
 Finish: 2024-02-07 00:34:12.167713
+------------------------------------------------------
+Started: 2024-02-07 12:13:12.008907
+Existing_entries: 31
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1311
+Summarized using GPT-3.5-turbo-1106
+Append: [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](http://arxiv.org/abs/2402.04253v1)
+Token length: 1107
+Summarized using GPT-3.5-turbo-1106
+Append: [EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters](http://arxiv.org/abs/2402.04252v1)
+Filter: [Linear-time Minimum Bayes Risk Decoding with Reference Aggregation](http://arxiv.org/abs/2402.04251v1)
+Filter: [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming
+  and Robust Refusal](http://arxiv.org/abs/2402.04249v1)
+Filter: [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning
+  Tasks](http://arxiv.org/abs/2402.04248v1)
+Append: [Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science](http://arxiv.org/abs/2402.04247v1)
+Filter: [Invariant Set Estimation for Piecewise Affine Dynamical Systems Using
+  Piecewise Affine Barrier Function](http://arxiv.org/abs/2402.04243v1)
+Filter: [Algebraic identifiability of partial differential equation models](http://arxiv.org/abs/2402.04241v1)
+Filter: [CAST: Clustering Self-Attention using Surrogate Tokens for Efficient
+  Transformers](http://arxiv.org/abs/2402.04239v1)
+Filter: [CogCoM: Train Large Vision-Language Models Diving into Details through
+  Chain of Manipulations](http://arxiv.org/abs/2402.04236v1)
+append_entries: 3
+Finish: 2024-02-07 12:13:23.413330
