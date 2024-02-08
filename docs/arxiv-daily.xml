@@ -4,6 +4,40 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Language-Based Augmentation to Address Shortcut Learning in Object Goal
+  Navigation</title>
+<link>http://arxiv.org/abs/2402.05090v1</link>
+<guid>http://arxiv.org/abs/2402.05090v1</guid>
+<content:encoded><![CDATA[
+<div> DRL, Object-Goal Navigation, Shortcut learning, Language-Based (L-B) augmentation, Vision-Language Model (VLM)
+<br><br>总结:
+本文研究了深度强化学习在目标导航中的应用，发现在训练环境中存在快捷学习的问题，即代理程序学习到了针对特定环境细节的策略。作者设计了一个实验，证明了快捷学习的存在，并提出了基于语言的增强方法来解决这一问题。他们发现，通过在视觉-语言模型的多模态特征空间中进行增强，可以降低代理程序在新环境中的成功率下降，从而解决了快捷学习问题。 <div>
+Deep Reinforcement Learning (DRL) has shown great potential in enabling
+robots to find certain objects (e.g., `find a fridge') in environments like
+homes or schools. This task is known as Object-Goal Navigation (ObjectNav). DRL
+methods are predominantly trained and evaluated using environment simulators.
+Although DRL has shown impressive results, the simulators may be biased or
+limited. This creates a risk of shortcut learning, i.e., learning a policy
+tailored to specific visual details of training environments. We aim to deepen
+our understanding of shortcut learning in ObjectNav, its implications and
+propose a solution. We design an experiment for inserting a shortcut bias in
+the appearance of training environments. As a proof-of-concept, we associate
+room types to specific wall colors (e.g., bedrooms with green walls), and
+observe poor generalization of a state-of-the-art (SOTA) ObjectNav method to
+environments where this is not the case (e.g., bedrooms with blue walls). We
+find that shortcut learning is the root cause: the agent learns to navigate to
+target objects, by simply searching for the associated wall color of the target
+object's room. To solve this, we propose Language-Based (L-B) augmentation. Our
+key insight is that we can leverage the multimodal feature space of a
+Vision-Language Model (VLM) to augment visual representations directly at the
+feature-level, requiring no changes to the simulator, and only an addition of
+one layer to the model. Where the SOTA ObjectNav method's success rate drops
+69%, our proposal has only a drop of 23%.
+]]></content:encoded>
+<pubDate>2024-02-07T18:44:27Z</pubDate>
+<pubDate>2024-02-07T18:44:27Z</pubDate>
+</item>
 
 <item>
 <title>AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls</title>
