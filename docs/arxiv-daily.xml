@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls</title>
 <link>http://arxiv.org/abs/2402.04253v1</link>
 <guid>http://arxiv.org/abs/2402.04253v1</guid>
 <content:encoded><![CDATA[
-<div> APIs, AnyTool, GPT-4, evaluation protocol, benchmark<br>
-<br>总结:
+<div> APIs, AnyTool, GPT-4, evaluation protocol, benchmark<br />
+<br />总结:
 本文介绍了一个名为AnyTool的大型语言模型代理，旨在通过利用大量工具来解决用户查询的方式来彻底改革工具的利用。通过利用超过16,000个来自Rapid API的API，任何工具主要包括三个元素：具有分层结构的API检索器、旨在使用一组选择的API候选解决用户查询的求解器，以及一个自我反思机制，当初始解决方案不可行时重新激活AnyTool。AnyTool由GPT-4的函数调用功能驱动，消除了训练外部模块的需要。作者还重新访问了之前作品引入的评估协议，并确定了这一协议存在的限制，导致人为地高通过率。通过修改评估协议以更好地反映实际应用场景，他们引入了另一个基准，称为AnyToolBench。在各种数据集上进行的实验表明，AnyTool优于强基准，例如ToolLLM和专门用于工具利用的GPT-4变体。例如，在ToolBench的平均通过率上，AnyTool的表现优于ToolLLM 35.4%。代码将在https://github.com/dyabel/AnyTool 上提供。 <div>
 We introduce AnyTool, a large language model agent designed to revolutionize
 the utilization of a vast array of tools in addressing user queries. We utilize
@@ -32,16 +33,15 @@ average pass rate on ToolBench. Code will be available at
 https://github.com/dyabel/AnyTool.
 ]]></content:encoded>
 <pubDate>2024-02-06T18:59:57Z</pubDate>
-<pubDate>2024-02-06T18:59:57Z</pubDate>
 </item>
 <item>
 <title>EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters</title>
 <link>http://arxiv.org/abs/2402.04252v1</link>
 <guid>http://arxiv.org/abs/2402.04252v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: CLIP, EVA-CLIP-18B, 18-billion参数, 图像分类基准, EVA-style弱到强视觉模型缩放<br>
-<br>
-这篇文章介绍了EVA-CLIP-18B，这是迄今为止最大、最强大的开源CLIP模型，拥有180亿个参数。该模型在27个广泛认可的图像分类基准中取得了异常出色的零样本top-1准确率达80.7%，表现优于其前身EVA-CLIP（50亿参数）和其他开源CLIP模型。令人惊讶的是，尽管保持对LAION-2B和COYO-700M的20亿图像文本配对的训练数据集不变，EVA-CLIP模型规模的扩大仍然能够保持一致的性能改进。EVA-CLIP-18B展示了EVA风格的弱到强视觉模型缩放的潜力。通过公开发布模型权重，希望能促进未来在视觉和多模型基础模型上的研究。<br><br>总结: 本文介绍了EVA-CLIP-18B，这是迄今为止最大、最强大的开源CLIP模型，拥有180亿个参数。该模型表现出色，通过公开发布模型权重，希望促进未来研究。 <div>
+<div> 关键词: CLIP, EVA-CLIP-18B, 18-billion参数, 图像分类基准, EVA-style弱到强视觉模型缩放<br />
+<br />
+这篇文章介绍了EVA-CLIP-18B，这是迄今为止最大、最强大的开源CLIP模型，拥有180亿个参数。该模型在27个广泛认可的图像分类基准中取得了异常出色的零样本top-1准确率达80.7%，表现优于其前身EVA-CLIP（50亿参数）和其他开源CLIP模型。令人惊讶的是，尽管保持对LAION-2B和COYO-700M的20亿图像文本配对的训练数据集不变，EVA-CLIP模型规模的扩大仍然能够保持一致的性能改进。EVA-CLIP-18B展示了EVA风格的弱到强视觉模型缩放的潜力。通过公开发布模型权重，希望能促进未来在视觉和多模型基础模型上的研究。<br /><br />总结: 本文介绍了EVA-CLIP-18B，这是迄今为止最大、最强大的开源CLIP模型，拥有180亿个参数。该模型表现出色，通过公开发布模型权重，希望促进未来研究。 <div>
 Scaling up contrastive language-image pretraining (CLIP) is critical for
 empowering both vision and multimodal models. We present EVA-CLIP-18B, the
 largest and most powerful open-source CLIP model to date, with 18-billion
@@ -59,14 +59,12 @@ weights made publicly available, we hope to facilitate future research in
 vision and multimodal foundation models.
 ]]></content:encoded>
 <pubDate>2024-02-06T18:59:48Z</pubDate>
-<pubDate>2024-02-06T18:59:48Z</pubDate>
 </item>
 <item>
 <title>Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science</title>
 <link>http://arxiv.org/abs/2402.04247v1</link>
 <guid>http://arxiv.org/abs/2402.04247v1</guid>
 <content:encoded><![CDATA[
-
 Intelligent agents powered by large language models (LLMs) have demonstrated
 substantial promise in autonomously conducting experiments and facilitating
 scientific discoveries across various disciplines. While their capabilities are
@@ -89,9 +87,7 @@ development of improved models, robust benchmarks, and comprehensive
 regulations to address these issues effectively.
 ]]></content:encoded>
 <pubDate>2024-02-06T18:54:07Z</pubDate>
-<pubDate>2024-02-06T18:54:07Z</pubDate>
 </item>
-
 <item>
 <title>V-IRL: Grounding Virtual Intelligence in Real Life</title>
 <link>http://arxiv.org/abs/2402.03310v1</link>
