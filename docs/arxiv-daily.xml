@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large
   Language Models</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2402.05935v1</guid>
 <content:encoded><![CDATA[
 <div> SPHINX-X, Multimodality, Large Language Model, dataset, training efficiency
-<br><br>
+<br /><br />
 总结:SPHINX-X是在SPHINX基础上开发的一系列大型多模态语言模型（MLLM），通过修改框架并简化多阶段训练，提高了架构和训练效率。他们组建了一个包括语言、视觉和视觉-语言任务的多领域、多模态数据集，并且通过TinyLlama1.1B、InternLM2-7B、LLaMA2-13B和Mixtral8x7B等不同基础LLM的训练，获得了参数大小和多语言能力各异的MLLM。综合基准测试显示了多模态性能与数据和参数规模之间的强相关性。代码和模型已经在https://github.com/Alpha-VLLM/LLaMA2-Accessory上发布。 <div>
 We propose SPHINX-X, an extensive Multimodality Large Language Model (MLLM)
 series developed upon SPHINX. To improve the architecture and training
@@ -30,7 +31,6 @@ and parameter scales. Code and models are released at
 https://github.com/Alpha-VLLM/LLaMA2-Accessory
 ]]></content:encoded>
 <pubDate>2024-02-08T18:59:48Z</pubDate>
-<pubDate>2024-02-08T18:59:48Z</pubDate>
 </item>
 <item>
 <title>An Interactive Agent Foundation Model</title>
@@ -39,7 +39,7 @@ https://github.com/Alpha-VLLM/LLaMA2-Accessory
 <content:encoded><![CDATA[
 <div> Agent-based systems, multi-task agent training paradigm, versatile AI framework, Robotics, Gaming AI, Healthcare
 
-发展中的人工智能系统正从创建静态的、特定任务的模型转变为能够在广泛应用中表现良好的动态的基于代理的系统。本文提出了一个交互式Agent Foundation模型，采用新颖的多任务代理训练范式，用于跨多个领域、数据集和任务训练AI代理。我们的训练范式统一了各种预训练策略，包括视觉蒙版自动编码器、语言建模和下一个动作预测，实现了多才多艺的、适应性强的AI框架。我们展示了我们的框架在三个不同领域--机器人技术、游戏人工智能和医疗保健领域的性能。我们的模型展示了它在每个领域产生有意义和上下文相关的输出的能力。我们的方法的优势在于其通用性，利用各种数据源，如机器人序列、游戏数据、大规模视频数据集和文字信息，进行有效的多模态和多任务学习。我们的方法为开发通用、行动取向、多模态系统提供了一个有前途的途径。<br><br>总结: 人工智能系统的发展正在朝着能够适用于多领域的动态代理系统转变，该模型利用多任务训练范式和多种预训练策略，展示了在机器人技术、游戏人工智能和医疗保健领域的良好性能，为开发通用而多才多艺的AI系统提供了有前途的方向。 <div>
+发展中的人工智能系统正从创建静态的、特定任务的模型转变为能够在广泛应用中表现良好的动态的基于代理的系统。本文提出了一个交互式Agent Foundation模型，采用新颖的多任务代理训练范式，用于跨多个领域、数据集和任务训练AI代理。我们的训练范式统一了各种预训练策略，包括视觉蒙版自动编码器、语言建模和下一个动作预测，实现了多才多艺的、适应性强的AI框架。我们展示了我们的框架在三个不同领域--机器人技术、游戏人工智能和医疗保健领域的性能。我们的模型展示了它在每个领域产生有意义和上下文相关的输出的能力。我们的方法的优势在于其通用性，利用各种数据源，如机器人序列、游戏数据、大规模视频数据集和文字信息，进行有效的多模态和多任务学习。我们的方法为开发通用、行动取向、多模态系统提供了一个有前途的途径。<br /><br />总结: 人工智能系统的发展正在朝着能够适用于多领域的动态代理系统转变，该模型利用多任务训练范式和多种预训练策略，展示了在机器人技术、游戏人工智能和医疗保健领域的良好性能，为开发通用而多才多艺的AI系统提供了有前途的方向。 <div>
 The development of artificial intelligence systems is transitioning from
 creating static, task-specific models to dynamic, agent-based systems capable
 of performing well in a wide range of applications. We propose an Interactive
@@ -57,14 +57,12 @@ effective multimodal and multi-task learning. Our approach provides a promising
 avenue for developing generalist, action-taking, multimodal systems.
 ]]></content:encoded>
 <pubDate>2024-02-08T18:58:02Z</pubDate>
-<pubDate>2024-02-08T18:58:02Z</pubDate>
 </item>
 <item>
 <title>WebLINX: Real-World Website Navigation with Multi-Turn Dialogue</title>
 <link>http://arxiv.org/abs/2402.05930v1</link>
 <guid>http://arxiv.org/abs/2402.05930v1</guid>
 <content:encoded><![CDATA[
-
 We propose the problem of conversational web navigation, where a digital
 agent controls a web browser and follows user instructions to solve real-world
 tasks in a multi-turn dialogue fashion. To support this problem, we introduce
@@ -86,9 +84,7 @@ that can generalize to novel settings. Our code, data and models are available
 for research: https://mcgill-nlp.github.io/weblinx
 ]]></content:encoded>
 <pubDate>2024-02-08T18:58:02Z</pubDate>
-<pubDate>2024-02-08T18:58:02Z</pubDate>
 </item>
-
 <item>
 <title>Language-Based Augmentation to Address Shortcut Learning in Object Goal
   Navigation</title>
