@@ -1872,3 +1872,19 @@ Filter: [Mean field control of droplet dynamics with high order finite element
   computations](http://arxiv.org/abs/2402.05923v1)
 append_entries: 0
 Finish: 2024-02-11 00:38:47.932849
+------------------------------------------------------
+Started: 2024-02-11 12:12:16.523064
+Existing_entries: 38
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [InstaGen: Enhancing Object Detection by Training on Synthetic Dataset](http://arxiv.org/abs/2402.05937v1)
+Filter: [Classifying Nodes in Graphs without GNNs](http://arxiv.org/abs/2402.05934v1)
+Filter: [Time Series Diffusion in the Frequency Domain](http://arxiv.org/abs/2402.05933v1)
+Filter: [Driving Everywhere with Large Language Model Policy Adaptation](http://arxiv.org/abs/2402.05932v1)
+Filter: [Sharp Rates in Dependent Learning Theory: Avoiding Sample Size Deflation
+  for the Square Loss](http://arxiv.org/abs/2402.05928v1)
+Filter: [On the Convergence of Zeroth-Order Federated Tuning in Large Language
+  Models](http://arxiv.org/abs/2402.05926v1)
+Filter: [Mean field control of droplet dynamics with high order finite element
+  computations](http://arxiv.org/abs/2402.05923v1)
+append_entries: 0
+Finish: 2024-02-11 12:12:17.173686
