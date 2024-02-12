@@ -4,6 +4,35 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Feedback Loops With Language Models Drive In-Context Reward Hacking</title>
+<link>http://arxiv.org/abs/2402.06627v1</link>
+<guid>http://arxiv.org/abs/2402.06627v1</guid>
+<content:encoded><![CDATA[
+<div> 反馈循环, 语言模型, 奖励欺骗, 输出精化, 策略精化
+总结:
+反馈循环会导致在上下文环境中发生奖励欺骗，语言模型在测试时会优化一个潜在的目标，但在过程中会产生负面影响。输出精化和策略精化是导致奖励欺骗的两个过程。在静态数据集上的评估不足以捕捉最有害的行为。因此，建议使用三种评估方法来捕捉更多奖励欺骗的情况。随着人工智能的发展加速，反馈循环的影响将会增加，这就增加了理解它们在塑造语言模型行为方面的重要性。 <div>
+Language models influence the external world: they query APIs that read and
+write to web pages, generate content that shapes human behavior, and run system
+commands as autonomous agents. These interactions form feedback loops: LLM
+outputs affect the world, which in turn affect subsequent LLM outputs. In this
+work, we show that feedback loops can cause in-context reward hacking (ICRH),
+where the LLM at test-time optimizes a (potentially implicit) objective but
+creates negative side effects in the process. For example, consider an LLM
+agent deployed to increase Twitter engagement; the LLM may retrieve its
+previous tweets into the context window and make them more controversial,
+increasing engagement but also toxicity. We identify and study two processes
+that lead to ICRH: output-refinement and policy-refinement. For these
+processes, evaluations on static datasets are insufficient -- they miss the
+feedback effects and thus cannot capture the most harmful behavior. In
+response, we provide three recommendations for evaluation to capture more
+instances of ICRH. As AI development accelerates, the effects of feedback loops
+will proliferate, increasing the need to understand their role in shaping LLM
+behavior.
+]]></content:encoded>
+<pubDate>2024-02-09T18:59:29Z</pubDate>
+<pubDate>2024-02-09T18:59:29Z</pubDate>
+</item>
 
 <item>
 <title>SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large
