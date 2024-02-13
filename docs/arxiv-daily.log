@@ -1927,3 +1927,23 @@ Filter: [Bakry-Émery-Ricci curvature: An alternative network geometry measure
 Filter: [The Complexity of Sequential Prediction in Dynamical Systems](http://arxiv.org/abs/2402.06614v1)
 append_entries: 1
 Finish: 2024-02-12 12:13:51.299258
+------------------------------------------------------
+Started: 2024-02-13 00:36:11.581245
+Existing_entries: 39
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Computing Optimal Commitments to Strategies and Outcome-Conditional
+  Utility Transfers](http://arxiv.org/abs/2402.06626v1)
+Filter: [Understanding the Effects of Iterative Prompting on Truthfulness](http://arxiv.org/abs/2402.06625v1)
+Filter: [Empirically Exploring How Novices Write Software Models in Alloy](http://arxiv.org/abs/2402.06624v1)
+Filter: [A two-stage algorithm in evolutionary product unit neural networks for
+  classification](http://arxiv.org/abs/2402.06622v1)
+Filter: [Aya Dataset: An Open-Access Collection for Multilingual Instruction
+  Tuning](http://arxiv.org/abs/2402.06619v1)
+Filter: [Polynomial parametrisation of the canonical iterates to the solution of
+  $-γg'= g^{-1}$](http://arxiv.org/abs/2402.06618v1)
+Filter: [FaBERT: Pre-training BERT on Persian Blogs](http://arxiv.org/abs/2402.06617v1)
+Filter: [Bakry-Émery-Ricci curvature: An alternative network geometry measure
+  in the expanding toolbox of graph Ricci curvatures](http://arxiv.org/abs/2402.06616v1)
+Filter: [The Complexity of Sequential Prediction in Dynamical Systems](http://arxiv.org/abs/2402.06614v1)
+append_entries: 0
+Finish: 2024-02-13 00:36:12.519281

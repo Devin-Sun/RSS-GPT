@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Feedback Loops With Language Models Drive In-Context Reward Hacking</title>
 <link>http://arxiv.org/abs/2402.06627v1</link>
@@ -31,9 +32,7 @@ will proliferate, increasing the need to understand their role in shaping LLM
 behavior.
 ]]></content:encoded>
 <pubDate>2024-02-09T18:59:29Z</pubDate>
-<pubDate>2024-02-09T18:59:29Z</pubDate>
 </item>
-
 <item>
 <title>SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large
   Language Models</title>
