@@ -1947,3 +1947,28 @@ Filter: [Bakry-Émery-Ricci curvature: An alternative network geometry measure
 Filter: [The Complexity of Sequential Prediction in Dynamical Systems](http://arxiv.org/abs/2402.06614v1)
 append_entries: 0
 Finish: 2024-02-13 00:36:12.519281
+------------------------------------------------------
+Started: 2024-02-13 12:13:30.521360
+Existing_entries: 39
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [FAST: Factorizable Attention for Speeding up Transformers](http://arxiv.org/abs/2402.07901v1)
+Filter: [Wavefront Randomization Improves Deconvolution](http://arxiv.org/abs/2402.07900v1)
+Filter: [A systematic investigation of learnability from single child linguistic
+  input](http://arxiv.org/abs/2402.07899v1)
+Filter: [A holographic mobile-based application for practicing pronunciation of
+  basic English vocabulary for Spanish speaking children](http://arxiv.org/abs/2402.07897v1)
+Filter: [Suppressing Pink Elephants with Direct Principle Feedback](http://arxiv.org/abs/2402.07896v1)
+Filter: [Detection of Spider Mites on Labrador Beans through Machine Learning
+  Approaches Using Custom Datasets](http://arxiv.org/abs/2402.07895v1)
+Token length: 1390
+Summarized using GPT-3.5-turbo-1106
+Append: [MODIPHY: Multimodal Obscured Detection for IoT using PHantom
+  Convolution-Enabled Faster YOLO](http://arxiv.org/abs/2402.07894v1)
+Filter: [Label-Efficient Model Selection for Text Generation](http://arxiv.org/abs/2402.07891v1)
+Token length: 1154
+Summarized using GPT-3.5-turbo-1106
+Append: [MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement
+  Learning](http://arxiv.org/abs/2402.07890v1)
+Filter: [Toward an Android Static Analysis Approach for Data Protection](http://arxiv.org/abs/2402.07889v1)
+append_entries: 2
+Finish: 2024-02-13 12:13:40.111225
