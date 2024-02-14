@@ -1989,3 +1989,25 @@ Filter: [Label-Efficient Model Selection for Text Generation](http://arxiv.org/a
 Filter: [Toward an Android Static Analysis Approach for Data Protection](http://arxiv.org/abs/2402.07889v1)
 append_entries: 0
 Finish: 2024-02-14 00:35:56.524277
+------------------------------------------------------
+Started: 2024-02-14 12:14:06.858327
+Existing_entries: 41
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality
+  3D Generation](http://arxiv.org/abs/2402.08682v1)
+Filter: [Mitigating Object Hallucination in Large Vision-Language Models via
+  Classifier-Free Guidance](http://arxiv.org/abs/2402.08680v1)
+Filter: [COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability](http://arxiv.org/abs/2402.08679v1)
+Filter: [Graph Mamba: Towards Learning on Graphs with State Space Models](http://arxiv.org/abs/2402.08678v1)
+Filter: [A Convergence Analysis of Approximate Message Passing with Non-Separable
+  Functions and Applications to Multi-Class Classification](http://arxiv.org/abs/2402.08676v1)
+Filter: [Human Curriculum Effects Emerge with In-Context Learning in Neural
+  Networks](http://arxiv.org/abs/2402.08674v1)
+Filter: [Model Assessment and Selection under Temporal Distribution Shift](http://arxiv.org/abs/2402.08672v1)
+Filter: [Are Semi-Dense Detector-Free Methods Good at Matching Local Features?](http://arxiv.org/abs/2402.08671v1)
+Token length: 1180
+Summarized using GPT-3.5-turbo-1106
+Append: [Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models](http://arxiv.org/abs/2402.08670v1)
+Filter: [Target Score Matching](http://arxiv.org/abs/2402.08667v1)
+append_entries: 1
+Finish: 2024-02-14 12:14:11.828769

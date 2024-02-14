@@ -4,6 +4,34 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models</title>
+<link>http://arxiv.org/abs/2402.08670v1</link>
+<guid>http://arxiv.org/abs/2402.08670v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: large vision-language models, multimodal recommendations, Rec-GPT4V, user preferences, image sequence dynamics
+
+总结: <br><br>这篇文章讨论了大型视觉语言模型在多模态推荐中的应用，指出了其存在的挑战和复杂性。为了克服这些问题，提出了一种名为Rec-GPT4V的新颖推理方案：Visual-Summary Thought（VST），并利用用户历史作为上下文用户偏好来解决LVLMs缺乏用户偏好知识的问题。接下来，文章介绍了如何利用LVLMs生成项目图像摘要，并结合项目标题在自然语言空间中查询用户对候选项目的偏好。最后，通过对四个数据集和三种LVLMs进行全面实验，结果表明了VST的有效性。 <div>
+The development of large vision-language models (LVLMs) offers the potential
+to address challenges faced by traditional multimodal recommendations thanks to
+their proficient understanding of static images and textual dynamics. However,
+the application of LVLMs in this field is still limited due to the following
+complexities: First, LVLMs lack user preference knowledge as they are trained
+from vast general datasets. Second, LVLMs suffer setbacks in addressing
+multiple image dynamics in scenarios involving discrete, noisy, and redundant
+image sequences. To overcome these issues, we propose the novel reasoning
+scheme named Rec-GPT4V: Visual-Summary Thought (VST) of leveraging large
+vision-language models for multimodal recommendation. We utilize user history
+as in-context user preferences to address the first challenge. Next, we prompt
+LVLMs to generate item image summaries and utilize image comprehension in
+natural language space combined with item titles to query the user preferences
+over candidate items. We conduct comprehensive experiments across four datasets
+with three LVLMs: GPT4-V, LLaVa-7b, and LLaVa-13b. The numerical results
+indicate the efficacy of VST.
+]]></content:encoded>
+<pubDate>2024-02-13T18:51:18Z</pubDate>
+<pubDate>2024-02-13T18:51:18Z</pubDate>
+</item>
 
 <item>
 <title>MODIPHY: Multimodal Obscured Detection for IoT using PHantom
