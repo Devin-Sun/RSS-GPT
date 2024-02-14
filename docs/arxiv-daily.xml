@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MODIPHY: Multimodal Obscured Detection for IoT using PHantom
   Convolution-Enabled Faster YOLO</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 模型压缩, YOLO Phantom, 低光条件, 多模态数据, 实时性能
 
-总结:<br>
+总结:<br />
 本研究介绍了一种名为"YOLO Phantom"的小型YOLO模型，利用全新的Phantom卷积块实现了可比较的准确性，同时减少了43%的参数和模型大小，减少了19%的GFLOPs。YOLO Phantom利用多模态RGB-红外数据进行迁移学习，解决了低光和遮挡问题，使其在恶劣条件下具有强大的视觉能力。在物联网平台上，与先进的低光和RGB摄像头无缝连接，连接到基于AWS的通知端点，实现了高效的实时目标检测。基准测试显示，与基线YOLOv8n模型相比，热成像和RGB检测的帧率提升了17%和14%。为了贡献于社区，代码和多模态数据集都在GitHub上可用。 <div>
 Low-light conditions and occluded scenarios impede object detection in
 real-world Internet of Things (IoT) applications like autonomous vehicles and
@@ -34,7 +35,6 @@ detection, respectively, compared to the baseline YOLOv8n model. For community
 contribution, both the code and the multimodal dataset are available on GitHub.
 ]]></content:encoded>
 <pubDate>2024-02-12T18:56:53Z</pubDate>
-<pubDate>2024-02-12T18:56:53Z</pubDate>
 </item>
 <item>
 <title>MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement
@@ -42,9 +42,9 @@ contribution, both the code and the multimodal dataset are available on GitHub.
 <link>http://arxiv.org/abs/2402.07890v1</link>
 <guid>http://arxiv.org/abs/2402.07890v1</guid>
 <content:encoded><![CDATA[
-<div> Distributed decision-making, multi-agent systems, interactive behavior learning, Dense Reinforcement Learning, agent influence maps<br>
-<br>
-在多智能体系统中，分布式决策面临着巨大挑战，尤其是在合作和竞争系统中的交互式行为学习方面。为了缓解这种复杂性，本文介绍了一种半集中式的Dense强化学习算法，通过智能体影响图（AIMs）来增强对StarCraft多智能体挑战（SMAC）场景中有效的多智能体控制的学习。我们扩展了MAIDRL中的DenseNet，并引入了半集中式多智能体Dense-CNN强化学习（MAIDCRL），通过将卷积层结合到深度模型架构中，并在同质和异质场景中进行性能评估。结果显示，CNN使得MAIDCRL显著提高了学习性能，并在复杂的异质SMAC场景中取得了更快的学习速度。我们进一步调查了模型的稳定性和鲁棒性。统计数据表明，我们的模型不仅在所有给定场景中实现了更高的胜率，而且提升了智能体的细粒度决策过程的学习。 <br><br>总结: <br>该研究介绍了一种半集中式Dense-CNN强化学习算法MAIDCRL，该算法通过智能体影响图（AIMs）在StarCraft多智能体挑战（SMAC）场景中实现了有效的多智能体控制。研究结果表明，在异质场景中，CNN-enabled MAIDCRL显著提高了学习性能并实现了更快的学习速度。该模型不仅在所有给定场景中实现了更高的胜率，而且提升了智能体的细粒度决策过程的学习。 <div>
+<div> Distributed decision-making, multi-agent systems, interactive behavior learning, Dense Reinforcement Learning, agent influence maps<br />
+<br />
+在多智能体系统中，分布式决策面临着巨大挑战，尤其是在合作和竞争系统中的交互式行为学习方面。为了缓解这种复杂性，本文介绍了一种半集中式的Dense强化学习算法，通过智能体影响图（AIMs）来增强对StarCraft多智能体挑战（SMAC）场景中有效的多智能体控制的学习。我们扩展了MAIDRL中的DenseNet，并引入了半集中式多智能体Dense-CNN强化学习（MAIDCRL），通过将卷积层结合到深度模型架构中，并在同质和异质场景中进行性能评估。结果显示，CNN使得MAIDCRL显著提高了学习性能，并在复杂的异质SMAC场景中取得了更快的学习速度。我们进一步调查了模型的稳定性和鲁棒性。统计数据表明，我们的模型不仅在所有给定场景中实现了更高的胜率，而且提升了智能体的细粒度决策过程的学习。 <br /><br />总结: <br />该研究介绍了一种半集中式Dense-CNN强化学习算法MAIDCRL，该算法通过智能体影响图（AIMs）在StarCraft多智能体挑战（SMAC）场景中实现了有效的多智能体控制。研究结果表明，在异质场景中，CNN-enabled MAIDCRL显著提高了学习性能并实现了更快的学习速度。该模型不仅在所有给定场景中实现了更高的胜率，而且提升了智能体的细粒度决策过程的学习。 <div>
 Distributed decision-making in multi-agent systems presents difficult
 challenges for interactive behavior learning in both cooperative and
 competitive systems. To mitigate this complexity, MAIDRL presents a
@@ -63,9 +63,7 @@ achieves higher winning rate in all the given scenarios but also boosts the
 agent's learning process in fine-grained decision-making.
 ]]></content:encoded>
 <pubDate>2024-02-12T18:53:20Z</pubDate>
-<pubDate>2024-02-12T18:53:20Z</pubDate>
 </item>
-
 <item>
 <title>Feedback Loops With Language Models Drive In-Context Reward Hacking</title>
 <link>http://arxiv.org/abs/2402.06627v1</link>
