@@ -2030,3 +2030,25 @@ Filter: [Are Semi-Dense Detector-Free Methods Good at Matching Local Features?](
 Filter: [Target Score Matching](http://arxiv.org/abs/2402.08667v1)
 append_entries: 0
 Finish: 2024-02-15 00:35:55.385687
+------------------------------------------------------
+Started: 2024-02-15 12:13:14.228131
+Existing_entries: 42
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential
+  Reasoning Ability](http://arxiv.org/abs/2402.09404v1)
+Filter: [Auditing Private Prediction](http://arxiv.org/abs/2402.09403v1)
+Filter: [Reinforcement Learning from Human Feedback with Active Queries](http://arxiv.org/abs/2402.09401v1)
+Filter: [Get More with LESS: Synthesizing Recurrence with KV Cache Compression
+  for Efficient LLM Inference](http://arxiv.org/abs/2402.09398v1)
+Filter: [Long-form evaluation of model editing](http://arxiv.org/abs/2402.09394v1)
+Filter: [LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement
+  Learning](http://arxiv.org/abs/2402.09392v1)
+Filter: [LlaSMol: Advancing Large Language Models for Chemistry with a
+  Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset](http://arxiv.org/abs/2402.09391v1)
+Filter: [HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context
+  Learning in Factuality Evaluation](http://arxiv.org/abs/2402.09390v1)
+Filter: [Entropy-regularized Point-based Value Iteration](http://arxiv.org/abs/2402.09388v1)
+Filter: [Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-downs
+  with Neural Differential Equations and Reinforcement Learning](http://arxiv.org/abs/2402.09387v1)
+append_entries: 0
+Finish: 2024-02-15 12:13:15.520301
