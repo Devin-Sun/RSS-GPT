@@ -2052,3 +2052,13 @@ Filter: [Active Disruption Avoidance and Trajectory Design for Tokamak Ramp-down
   with Neural Differential Equations and Reinforcement Learning](http://arxiv.org/abs/2402.09387v1)
 append_entries: 0
 Finish: 2024-02-15 12:13:15.520301
+------------------------------------------------------
+Started: 2024-02-16 00:35:00.819048
+Existing_entries: 42
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential
+  Reasoning Ability](http://arxiv.org/abs/2402.09404v1)
+Filter: [Auditing Private Prediction](http://arxiv.org/abs/2402.09403v1)
+Filter: [Reinforcement Learning from Human Feedback with Active Queries](http://arxiv.org/abs/2402.09401v1)
+append_entries: 0
+Finish: 2024-02-16 00:35:01.639156
