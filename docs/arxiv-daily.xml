@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>A Trembling House of Cards? Mapping Adversarial Attacks against Language
   Agents</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 语言代理、大型语言模型、自动化技术、安全风险、攻击场景
 总结: 
-语言代理基于大型语言模型的自动化技术发展迅猛，但其在安全风险方面存在着新的挑战。本文首次系统地探讨了针对语言代理的对抗性攻击，并提出了12种潜在的攻击场景，涵盖了不同的攻击策略。在三个主要组成部分（感知、大脑、行动）的框架下，对攻击场景进行了全面讨论，并与先前应用于大型语言模型的成功攻击策略进行了联系。强调了在广泛部署语言代理之前，我们迫切需要全面了解语言代理的风险。 <br><br> <div>
+语言代理基于大型语言模型的自动化技术发展迅猛，但其在安全风险方面存在着新的挑战。本文首次系统地探讨了针对语言代理的对抗性攻击，并提出了12种潜在的攻击场景，涵盖了不同的攻击策略。在三个主要组成部分（感知、大脑、行动）的框架下，对攻击场景进行了全面讨论，并与先前应用于大型语言模型的成功攻击策略进行了联系。强调了在广泛部署语言代理之前，我们迫切需要全面了解语言代理的风险。 <br /><br /> <div>
 Language agents powered by large language models (LLMs) have seen exploding
 development. Their capability of using language as a vehicle for thought and
 communication lends an incredible level of flexibility and versatility. People
@@ -35,9 +36,7 @@ urgency to gain a thorough understanding of language agent risks before their
 widespread deployment.
 ]]></content:encoded>
 <pubDate>2024-02-15T18:51:32Z</pubDate>
-<pubDate>2024-02-15T18:51:32Z</pubDate>
 </item>
-
 <item>
 <title>Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models</title>
 <link>http://arxiv.org/abs/2402.08670v1</link>
