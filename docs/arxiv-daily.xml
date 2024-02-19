@@ -4,6 +4,70 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Fusion of Diffusion Weighted MRI and Clinical Data for Predicting
+  Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning</title>
+<link>http://arxiv.org/abs/2402.10894v1</link>
+<guid>http://arxiv.org/abs/2402.10894v1</guid>
+<content:encoded><![CDATA[
+<div> 病中风，扩散加权MRI，健康结构概要，预测功能结果，深度融合学习网络
+
+总结:<br>
+文章探讨了使用扩散加权MRI模态结合健康结构概要对预测中风患者功能结果的有效性，以促进早期干预。提出了两阶段训练的深度融合学习网络，采用监督对比学习来学习区分特征，预测患者在中风发作后3个月是否需要长期护理。研究发现，所提出的融合模型在AUC、F1分数和准确性方面均表现优异，优于现有模型，尤其在医疗领域的结合图像和结构数据模型中。此外，扩散加权MRI可以与其他临床变量结合以获得更好的普适性和准确性，甚至可以替代NIHSS以实现同等水平的准确性。 <div>
+Stroke is a common disabling neurological condition that affects about
+one-quarter of the adult population over age 25; more than half of patients
+still have poor outcomes, such as permanent functional dependence or even
+death, after the onset of acute stroke. The aim of this study is to investigate
+the efficacy of diffusion-weighted MRI modalities combining with structured
+health profile on predicting the functional outcome to facilitate early
+intervention. A deep fusion learning network is proposed with two-stage
+training: the first stage focuses on cross-modality representation learning and
+the second stage on classification. Supervised contrastive learning is
+exploited to learn discriminative features that separate the two classes of
+patients from embeddings of individual modalities and from the fused multimodal
+embedding. The network takes as the input DWI and ADC images, and structured
+health profile data. The outcome is the prediction of the patient needing
+long-term care at 3 months after the onset of stroke. Trained and evaluated
+with a dataset of 3297 patients, our proposed fusion model achieves 0.87, 0.80
+and 80.45% for AUC, F1-score and accuracy, respectively, outperforming existing
+models that consolidate both imaging and structured data in the medical domain.
+If trained with comprehensive clinical variables, including NIHSS and
+comorbidities, the gain from images on making accurate prediction is not
+considered substantial, but significant. However, diffusion-weighted MRI can
+replace NIHSS to achieve comparable level of accuracy combining with other
+readily available clinical variables for better generalization.
+]]></content:encoded>
+<pubDate>2024-02-16T18:51:42Z</pubDate>
+<pubDate>2024-02-16T18:51:42Z</pubDate>
+</item>
+<item>
+<title>When is Tree Search Useful for LLM Planning? It Depends on the
+  Discriminator</title>
+<link>http://arxiv.org/abs/2402.10890v1</link>
+<guid>http://arxiv.org/abs/2402.10890v1</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型，语言代理，规划方法，迭代校正，树搜索<br>
+这篇论文研究了大语言模型在多步问题下的解决方法，使用了语言代理框架的三个组件：生成器，鉴别器和规划方法。实验表明，使用迭代校正和树搜索这两种高级规划方法要求鉴别器至少有90%准确率才能取得明显的改进效果，而当前的大语言模型的鉴别能力并未达到这一要求。另外，使用基于大语言模型的鉴别器时，高级规划方法可能未能很好地平衡准确性和效率，例如，相较于其他两种方法，树搜索至少慢了10-20倍，但带来的性能提升微乎其微，这阻碍了其在实际应用中的使用。总结：<br><br>这篇论文研究了大语言模型在多步问题下的解决方法，使用了语言代理框架的三个组件：生成器，鉴别器和规划方法。实验表明，使用迭代校正和树搜索这两种高级规划方法要求鉴别器至少有90%准确率才能取得明显的改进效果，而当前的大语言模型的鉴别能力并未达到这一要求。另外，使用基于大语言模型的鉴别器时，高级规划方法可能未能很好地平衡准确性和效率，例如，相较于其他两种方法，树搜索至少慢了10-20倍，但带来的性能提升微乎其微，这阻碍了其在实际应用中的使用。 <div>
+In this paper, we examine how large language models (LLMs) solve multi-step
+problems under a language agent framework with three components: a generator, a
+discriminator, and a planning method. We investigate the practical utility of
+two advanced planning methods, iterative correction and tree search. We present
+a comprehensive analysis of how discrimination accuracy affects the overall
+performance of agents when using these two methods or a simpler method,
+re-ranking. Experiments on two tasks, text-to-SQL parsing and mathematical
+reasoning, show that: (1) advanced planning methods demand discriminators with
+at least 90% accuracy to achieve significant improvements over re-ranking; (2)
+current LLMs' discrimination abilities have not met the needs of advanced
+planning methods to achieve such improvements; (3) with LLM-based
+discriminators, advanced planning methods may not adequately balance accuracy
+and efficiency. For example, compared to the other two methods, tree search is
+at least 10--20 times slower but leads to negligible performance gains, which
+hinders its real-world applications. Code and data will be released at
+https://github.com/OSU-NLP-Group/llm-planning-eval.
+]]></content:encoded>
+<pubDate>2024-02-16T18:45:58Z</pubDate>
+<pubDate>2024-02-16T18:45:58Z</pubDate>
+</item>
 
 <item>
 <title>A Trembling House of Cards? Mapping Adversarial Attacks against Language

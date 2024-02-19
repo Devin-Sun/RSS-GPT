@@ -2180,3 +2180,28 @@ Filter: [Unlocking the Potential of Transformers in Time Series Forecasting with
   Sharpness-Aware Minimization and Channel-Wise Attention](http://arxiv.org/abs/2402.10198v1)
 append_entries: 0
 Finish: 2024-02-19 00:36:45.652757
+------------------------------------------------------
+Started: 2024-02-19 12:14:12.290883
+Existing_entries: 43
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [The Price of Adaptivity in Stochastic Convex Optimization](http://arxiv.org/abs/2402.10898v1)
+Filter: [PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong
+  Vision-language Adapter](http://arxiv.org/abs/2402.10896v1)
+Token length: 1652
+Summarized using GPT-3.5-turbo-1106
+Append: [Fusion of Diffusion Weighted MRI and Clinical Data for Predicting
+  Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning](http://arxiv.org/abs/2402.10894v1)
+Filter: [RLVF: Learning from Verbal Feedback without Overgeneralization](http://arxiv.org/abs/2402.10893v1)
+Filter: [Proving membership in LLM pretraining data via data watermarks](http://arxiv.org/abs/2402.10892v1)
+Filter: [Instruction Diversity Drives Generalization To Unseen Tasks](http://arxiv.org/abs/2402.10891v1)
+Token length: 1192
+Summarized using GPT-3.5-turbo-1106
+Append: [When is Tree Search Useful for LLM Planning? It Depends on the
+  Discriminator](http://arxiv.org/abs/2402.10890v1)
+Filter: [Evaluation of EAP Usage for Authenticating Eduroam Users in 5G Networks](http://arxiv.org/abs/2402.10889v1)
+Filter: [Explainability for Machine Learning Models: From Data Adaptability to
+  User Perception](http://arxiv.org/abs/2402.10888v1)
+Filter: [Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for
+  Scribble-based Medical Image Segmentation](http://arxiv.org/abs/2402.10887v1)
+append_entries: 2
+Finish: 2024-02-19 12:14:34.668037
