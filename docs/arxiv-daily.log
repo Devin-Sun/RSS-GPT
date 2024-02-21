@@ -2242,3 +2242,23 @@ Filter: [A synthetic data approach for domain generalization of NLI models](http
 Filter: [A Critical Evaluation of AI Feedback for Aligning Large Language Models](http://arxiv.org/abs/2402.12366v1)
 append_entries: 0
 Finish: 2024-02-20 12:13:33.421680
+------------------------------------------------------
+Started: 2024-02-21 00:35:48.219840
+Existing_entries: 45
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based
+  View Synthesis](http://arxiv.org/abs/2402.12377v1)
+Filter: [FiT: Flexible Vision Transformer for Diffusion Model](http://arxiv.org/abs/2402.12376v1)
+Filter: [Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding](http://arxiv.org/abs/2402.12374v1)
+Filter: [LTL learning on GPUs](http://arxiv.org/abs/2402.12373v1)
+Filter: [HunFlair2 in a cross-corpus evaluation of named entity recognition and
+  normalization tools](http://arxiv.org/abs/2402.12372v1)
+Filter: [Computing Enclosing Depth](http://arxiv.org/abs/2402.12371v1)
+Filter: [AnaloBench: Benchmarking the Identification of Abstract and Long-context
+  Analogies](http://arxiv.org/abs/2402.12370v1)
+Filter: [Short-Period Variables in TESS Full-Frame Image Light Curves Identified
+  via Convolutional Neural Networks](http://arxiv.org/abs/2402.12369v1)
+Filter: [A synthetic data approach for domain generalization of NLI models](http://arxiv.org/abs/2402.12368v1)
+Filter: [A Critical Evaluation of AI Feedback for Aligning Large Language Models](http://arxiv.org/abs/2402.12366v1)
+append_entries: 0
+Finish: 2024-02-21 00:35:48.786491
