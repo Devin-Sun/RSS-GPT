@@ -2262,3 +2262,25 @@ Filter: [A synthetic data approach for domain generalization of NLI models](http
 Filter: [A Critical Evaluation of AI Feedback for Aligning Large Language Models](http://arxiv.org/abs/2402.12366v1)
 append_entries: 0
 Finish: 2024-02-21 00:35:48.786491
+------------------------------------------------------
+Started: 2024-02-21 12:13:46.812654
+Existing_entries: 45
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey](http://arxiv.org/abs/2402.13255v1)
+Token length: 1224
+Summarized using GPT-3.5-turbo-1106
+Append: [CounterCurate: Enhancing Physical and Semantic Visio-Linguistic
+  Compositional Reasoning via Counterfactual Examples](http://arxiv.org/abs/2402.13254v1)
+Filter: [BiMediX: Bilingual Medical Mixture of Experts LLM](http://arxiv.org/abs/2402.13253v1)
+Filter: [Improving Robustness for Joint Optimization of Camera Poses and
+  Decomposed Low-Rank Tensorial Radiance Fields](http://arxiv.org/abs/2402.13252v1)
+Filter: [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](http://arxiv.org/abs/2402.13251v1)
+Filter: [Video ReCap: Recursive Captioning of Hour-Long Videos](http://arxiv.org/abs/2402.13250v1)
+Filter: [TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue
+  Summarization](http://arxiv.org/abs/2402.13249v1)
+Filter: [Game theory of undirected graphical models](http://arxiv.org/abs/2402.13246v1)
+Filter: [Are Fact-Checking Tools Reliable? An Evaluation of Google Fact Check](http://arxiv.org/abs/2402.13244v1)
+Filter: [VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic
+  Planning](http://arxiv.org/abs/2402.13243v1)
+append_entries: 1
+Finish: 2024-02-21 12:13:54.131573

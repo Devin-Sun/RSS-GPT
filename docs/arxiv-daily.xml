@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>CounterCurate: Enhancing Physical and Semantic Visio-Linguistic
+  Compositional Reasoning via Counterfactual Examples</title>
+<link>http://arxiv.org/abs/2402.13254v1</link>
+<guid>http://arxiv.org/abs/2402.13254v1</guid>
+<content:encoded><![CDATA[
+<div> 对应关键词: CounterCurate, visio-linguistic compositional reasoning, physically grounded reasoning, data augmentation, semantic counterfactuals
+
+本研究提出了CounterCurate框架，旨在全面提高对比和生成式多模态模型的视觉-语言组合推理能力。首先，发现目前模型在与物理相关的组合推理方面表现不佳，然后利用GLIGEN模型进行简单的数据增强，显著提高了模型性能，尤其是在新创建的Flickr30k-Positions基准测试中，CLIP和LLaVA的性能分别提高了33%和37%。其次，利用高性能文本和图像生成模型（GPT-4V和DALLE-3）创建具有挑战性的语义反事实情况，从而进一步提高了组合推理能力，在SugarCrepe基准测试中，CounterCurate的表现超过了GPT-4V。<br><br>总结: 本研究提出了CounterCurate框架，通过解决当前模型在物理相关推理和反事实情况处理上的不足，提高了多模态模型的组合推理能力。 <div>
+We propose CounterCurate, a framework to comprehensively improve the
+visio-linguistic compositional reasoning capability for both contrastive and
+generative multimodal models. In particular, we identify two under-explored
+critical problems: the neglect of the physically grounded reasoning (counting
+and position understanding) and the potential of using highly capable text and
+image generation models for semantic counterfactual fine-tuning. Our work
+pioneers an approach that addresses these gaps. We first spotlight the
+near-chance performance of multimodal models like CLIP and LLaVA in physically
+grounded compositional reasoning. We then apply simple data augmentation using
+a grounded image generation model, GLIGEN, to generate finetuning data,
+resulting in significant performance improvements: +33% and +37% for CLIP and
+LLaVA, respectively, on our newly curated Flickr30k-Positions benchmark.
+Moreover, we exploit the capabilities of high-performing text generation and
+image generation models, specifically GPT-4V and DALLE-3, to curate challenging
+semantic counterfactuals, thereby further enhancing compositional reasoning
+capabilities on benchmarks such as SugarCrepe, where CounterCurate outperforms
+GPT-4V.
+]]></content:encoded>
+<pubDate>2024-02-20T18:59:55Z</pubDate>
+<pubDate>2024-02-20T18:59:55Z</pubDate>
+</item>
 
 <item>
 <title>Fusion of Diffusion Weighted MRI and Clinical Data for Predicting
