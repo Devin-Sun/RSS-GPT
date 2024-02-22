@@ -2302,3 +2302,26 @@ Filter: [VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic
   Planning](http://arxiv.org/abs/2402.13243v1)
 append_entries: 0
 Finish: 2024-02-22 00:35:18.670950
+------------------------------------------------------
+Started: 2024-02-22 12:13:21.893907
+Existing_entries: 46
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Coercing LLMs to do and reveal (almost) anything](http://arxiv.org/abs/2402.14020v1)
+Filter: [D-Flow: Differentiating through Flows for Controlled Generation](http://arxiv.org/abs/2402.14017v1)
+Filter: [Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on
+  Zero-shot LLM Assessment](http://arxiv.org/abs/2402.14016v1)
+Filter: [Corrective Machine Unlearning](http://arxiv.org/abs/2402.14015v1)
+Filter: [Misalignment, Learning, and Ranking: Harnessing Users Limited Attention](http://arxiv.org/abs/2402.14013v1)
+Filter: [Chasing Convex Functions with Long-term Constraints](http://arxiv.org/abs/2402.14012v1)
+Filter: [Geometry-Informed Neural Networks](http://arxiv.org/abs/2402.14009v1)
+Token length: 1259
+Summarized using GPT-3.5-turbo-1106
+Append: [OlympiadBench: A Challenging Benchmark for Promoting AGI with
+  Olympiad-Level Bilingual Multimodal Scientific Problems](http://arxiv.org/abs/2402.14008v1)
+Filter: [Can Watermarks Survive Translation? On the Cross-lingual Consistency of
+  Text Watermark for Large Language Models](http://arxiv.org/abs/2402.14007v1)
+Token length: 1511
+Summarized using GPT-3.5-turbo-1106
+Append: [Information Elicitation in Agency Games](http://arxiv.org/abs/2402.14005v1)
+append_entries: 2
+Finish: 2024-02-22 12:13:41.582888
