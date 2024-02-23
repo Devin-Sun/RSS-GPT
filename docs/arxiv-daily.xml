@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>OlympiadBench: A Challenging Benchmark for Promoting AGI with
   Olympiad-Level Bilingual Multimodal Scientific Problems</title>
@@ -18,7 +19,7 @@
 - 评估指出 GPT-4V 模型存在幻觉、知识遗漏和逻辑错误的问题
 - 希望这一挑战性的基准可以成为未来通用人工智能研究的宝贵资源
 
-<br><br>总结:
+<br /><br />总结:
 大型语言模型（LLMs）和多模态模型（LMMs）在多个任务上已经超过了一般人类的能力水平。该文章介绍了OlympiadBench，这是一个面向奥林匹克级别的双语多模态科学基准，包含了来自数学和物理竞赛以及中国高考的 8,952 个问题，并进行了专家级别的详细注释。通过在OlympiadBench上评估顶尖模型，文章实施了全面的评估方法来准确评估模型的响应。然而，最好的表现模型 GPT-4V 在OlympiadBench上的平均得分仅为 17.23%，在物理方面仅有 11.28% 的得分，凸显了基准的严谨性和物理推理的复杂性。评估发现 GPT-4V 模型存在幻觉、知识遗漏和逻辑错误等问题。希望这一具有挑战性的基准可以成为未来通用人工智能研究的宝贵资源。 <div>
 Recent advancements have seen Large Language Models (LLMs) and Large
 Multimodal Models (LMMs) surpassing general human capabilities in various
@@ -39,15 +40,14 @@ logical fallacies. We hope that our challenging benchmark can serve as a
 valuable resource for helping future AGI research endeavors.
 ]]></content:encoded>
 <pubDate>2024-02-21T18:49:26Z</pubDate>
-<pubDate>2024-02-21T18:49:26Z</pubDate>
 </item>
 <item>
 <title>Information Elicitation in Agency Games</title>
 <link>http://arxiv.org/abs/2402.14005v1</link>
 <guid>http://arxiv.org/abs/2402.14005v1</guid>
 <content:encoded><![CDATA[
-<div> 观测性问题，信息披露，代理关系，成本相关变量，市场效率<br>
-总结：<br>
+<div> 观测性问题，信息披露，代理关系，成本相关变量，市场效率<br />
+总结：<br />
 本文讨论了数据采集和处理工具的快速发展，提出了决定计算哪些评估指标的挑战。作者通过代理关系模型分析了代理何时有动机向委托人披露成本相关变量的可观测性。结果表明，代理倾向于披露能够揭示高低成本之间明显差异的信息，而在披露信息时倾向于进行信息扭曲。最后，作者分析了总体福利问题，指出信息扭曲可能导致更高的总体福利。 <div>
 Rapid progress in scalable, commoditized tools for data collection and data
 processing has made it possible for firms and policymakers to employ ever more
@@ -71,9 +71,7 @@ total welfare. Our model has analogies with price discrimination, and we
 leverage some of these synergies to analyze total welfare.
 ]]></content:encoded>
 <pubDate>2024-02-21T18:44:38Z</pubDate>
-<pubDate>2024-02-21T18:44:38Z</pubDate>
 </item>
-
 <item>
 <title>CounterCurate: Enhancing Physical and Semantic Visio-Linguistic
   Compositional Reasoning via Counterfactual Examples</title>
