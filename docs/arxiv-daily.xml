@@ -4,6 +4,65 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>PALO: A Polyglot Large Multimodal Model for 5B People</title>
+<link>http://arxiv.org/abs/2402.14818v1</link>
+<guid>http://arxiv.org/abs/2402.14818v1</guid>
+<content:encoded><![CDATA[
+<div> 多语言模型、视觉推理、Palo、跨语言性能、benchmark<br>
+在这项研究中，我们介绍了一种名为Palo的大型多语言多模态模型，该模型涵盖了10种主要语言，包括英语、中文、印地语、西班牙语、法语、阿拉伯语、孟加拉语、俄语、乌尔都语和日语，覆盖了约50亿人口（全球人口的65%）。我们采用半自动化翻译方法，利用经过精细调节的大型语言模型，将多模态指令数据集从英语翻译成目标语言，确保高语言准确性的同时，最大程度地减少了手动工作量。我们的方法提高了跨多种语言的整体性能，特别是对一些较少代表的语言，如印地语、阿拉伯语、孟加拉语和乌尔都语。我们训练了三种规模（1.7B、7B和13B参数）的模型，展示了其泛化性和可扩展性，在与强基线模型相比取得了实质性的改进。此外，我们还提出了首个多语言多模态基准测试，用于评估未来方法在各种语言中的视觉与语言推理能力。 <div>
+In pursuit of more inclusive Vision-Language Models (VLMs), this study
+introduces a Large Multilingual Multimodal Model called \textsc{Palo}.
+\textsc{Palo} offers visual reasoning capabilities in 10 major languages,
+including English, Chinese, Hindi, Spanish, French, Arabic, Bengali, Russian,
+Urdu, and Japanese, that span a total of $\sim$5B people (65\% of the world
+population). Our approach involves a semi-automated translation approach to
+adapt the multimodal instruction dataset from English to the target languages
+using a fine-tuned Large Language Model, thereby ensuring high linguistic
+fidelity while allowing scalability due to minimal manual effort. The
+incorporation of diverse instruction sets helps us boost overall performance
+across multiple languages especially those that are underrepresented like
+Hindi, Arabic, Bengali, and Urdu. The resulting models are trained across three
+scales (1.7B, 7B and 13B parameters) to show the generalization and scalability
+where we observe substantial improvements compared to strong baselines. We also
+propose the first multilingual multimodal benchmark for the forthcoming
+approaches to evaluate their vision-language reasoning capabilities across
+languages. Code: https://github.com/mbzuai-oryx/PALO.
+]]></content:encoded>
+<pubDate>2024-02-22T18:59:58Z</pubDate>
+<pubDate>2024-02-22T18:59:58Z</pubDate>
+</item>
+<item>
+<title>A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit
+  Tasks in Public Health</title>
+<link>http://arxiv.org/abs/2402.14807v1</link>
+<guid>http://arxiv.org/abs/2402.14807v1</guid>
+<content:encoded><![CDATA[
+<div> 决策语言模型，RMAB，健康资源分配，政策优先级，模拟研究<br>
+决策语言模型（DLM）是一个结合了大型语言模型（LLM）和多臂老虎机算法（RMAB）的工具，旨在通过人类语言指令动态调整公共卫生政策。研究通过与印度的ARMMAN合作，展示了DLM能够通过人类语言指令动态塑造政策结果。文章通过提出DLM这一新方法，希望解决在公共卫生领域面临的挑战，包括资源有限、政策优先级不断变化等问题。这一研究对于提高孕产妇的预防保健水平，降低孕产妇死亡率具有重要意义。 <br><br>总结: <br>决策语言模型（DLM）结合了大型语言模型和多臂老虎机算法，旨在通过人类语言指令动态调整公共卫生政策。研究展示了DLM能够通过人类语言指令动态塑造政策结果。文章提出了这一新方法，希望解决公共卫生领域面临的挑战，对于提高孕产妇的预防保健水平，降低孕产妇死亡率具有重要意义。 <div>
+Efforts to reduce maternal mortality rate, a key UN Sustainable Development
+target (SDG Target 3.1), rely largely on preventative care programs to spread
+critical health information to high-risk populations. These programs face two
+important challenges: efficiently allocating limited health resources to large
+beneficiary populations, and adapting to evolving policy priorities. While
+prior works in restless multi-armed bandit (RMAB) demonstrated success in
+public health allocation tasks, they lack flexibility to adapt to evolving
+policy priorities. Concurrently, Large Language Models (LLMs) have emerged as
+adept, automated planners in various domains, including robotic control and
+navigation. In this paper, we propose DLM: a Decision Language Model for RMABs.
+To enable dynamic fine-tuning of RMAB policies for challenging public health
+settings using human-language commands, we propose using LLMs as automated
+planners to (1) interpret human policy preference prompts, (2) propose code
+reward functions for a multi-agent RL environment for RMABs, and (3) iterate on
+the generated reward using feedback from RMAB simulations to effectively adapt
+policy outcomes. In collaboration with ARMMAN, an India-based public health
+organization promoting preventative care for pregnant mothers, we conduct a
+simulation study, showing DLM can dynamically shape policy outcomes using only
+human language commands as input.
+]]></content:encoded>
+<pubDate>2024-02-22T18:58:27Z</pubDate>
+<pubDate>2024-02-22T18:58:27Z</pubDate>
+</item>
 
 <item>
 <title>OlympiadBench: A Challenging Benchmark for Promoting AGI with

@@ -2341,3 +2341,29 @@ Filter: [Can Watermarks Survive Translation? On the Cross-lingual Consistency of
   Text Watermark for Large Language Models](http://arxiv.org/abs/2402.14007v1)
 append_entries: 0
 Finish: 2024-02-23 00:35:03.178134
+------------------------------------------------------
+Started: 2024-02-23 12:13:56.626858
+Existing_entries: 48
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1259
+Summarized using GPT-3.5-turbo-1106
+Append: [PALO: A Polyglot Large Multimodal Model for 5B People](http://arxiv.org/abs/2402.14818v1)
+Filter: [Cameras as Rays: Pose Estimation via Ray Diffusion](http://arxiv.org/abs/2402.14817v1)
+Filter: [Demographic Bias of Expert-Level Vision-Language Foundation Models in
+  Medical Imaging](http://arxiv.org/abs/2402.14815v1)
+Filter: [Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity
+  Tracking](http://arxiv.org/abs/2402.14811v1)
+Filter: [WeakSAM: Segment Anything Meets Weakly-supervised Instance-level
+  Recognition](http://arxiv.org/abs/2402.14812v1)
+Filter: [GeneOH Diffusion: Towards Generalizable Hand-Object Interaction
+  Denoising via Denoising Diffusion](http://arxiv.org/abs/2402.14810v1)
+Filter: [CriticBench: Benchmarking LLMs for Critique-Correct Reasoning](http://arxiv.org/abs/2402.14809v1)
+Filter: [RelayAttention for Efficient Large Language Model Serving with Long
+  System Prompts](http://arxiv.org/abs/2402.14808v1)
+Token length: 1420
+Summarized using GPT-3.5-turbo-1106
+Append: [A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit
+  Tasks in Public Health](http://arxiv.org/abs/2402.14807v1)
+Filter: [Difference Learning for Air Quality Forecasting Transport Emulation](http://arxiv.org/abs/2402.14806v1)
+append_entries: 2
+Finish: 2024-02-23 12:14:14.614209
