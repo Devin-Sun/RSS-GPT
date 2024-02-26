@@ -4,6 +4,32 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>AgentOhana: Design Unified Data and Training Pipeline for Effective
+  Agent Learning</title>
+<link>http://arxiv.org/abs/2402.15506v1</link>
+<guid>http://arxiv.org/abs/2402.15506v1</guid>
+<content:encoded><![CDATA[
+<div> AgentOhana, LLMs, agent trajectories, data loader, xLAM-v0.1
+总结:<br><br>本文介绍了AgentOhana作为解决LLMs在agent-based任务中面临挑战的综合解决方案。AgentOhana聚合了不同环境中的agent轨迹，将它们标准化和统一格式，简化了用于agent训练的数据加载器的创建。利用数据的统一性，我们的训练流程在不同数据源之间保持平衡，并在数据集分区和模型训练过程中保持设备独立的随机性。此外，我们还介绍了xLAM-v0.1，这是一个针对AI Agent的大型动作模型，展现了在各种基准测试中的卓越性能。 <div>
+Autonomous agents powered by large language models (LLMs) have garnered
+significant research attention. However, fully harnessing the potential of LLMs
+for agent-based tasks presents inherent challenges due to the heterogeneous
+nature of diverse data sources featuring multi-turn trajectories. In this
+paper, we introduce \textbf{AgentOhana} as a comprehensive solution to address
+these challenges. \textit{AgentOhana} aggregates agent trajectories from
+distinct environments, spanning a wide array of scenarios. It meticulously
+standardizes and unifies these trajectories into a consistent format,
+streamlining the creation of a generic data loader optimized for agent
+training. Leveraging the data unification, our training pipeline maintains
+equilibrium across different data sources and preserves independent randomness
+across devices during dataset partitioning and model training. Additionally, we
+present \textbf{xLAM-v0.1}, a large action model tailored for AI agents, which
+demonstrates exceptional performance across various benchmarks.
+]]></content:encoded>
+<pubDate>2024-02-23T18:56:26Z</pubDate>
+<pubDate>2024-02-23T18:56:26Z</pubDate>
+</item>
 
 <item>
 <title>PALO: A Polyglot Large Multimodal Model for 5B People</title>
