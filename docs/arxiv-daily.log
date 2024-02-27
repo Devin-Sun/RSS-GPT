@@ -2487,3 +2487,24 @@ Filter: [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for
 Filter: [Graph Partitioning With Limited Moves](http://arxiv.org/abs/2402.15485v1)
 append_entries: 1
 Finish: 2024-02-26 12:13:49.260808
+------------------------------------------------------
+Started: 2024-02-27 00:35:12.696041
+Existing_entries: 51
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Seamless Human Motion Composition with Blended Positional Encodings](http://arxiv.org/abs/2402.15509v1)
+Filter: [Co-Supervised Learning: Improving Weak-to-Strong Generalization with
+  Hierarchical Mixture of Experts](http://arxiv.org/abs/2402.15505v1)
+Filter: [Gen4Gen: Generative Data Pipeline for Generative Multi-Concept
+  Composition](http://arxiv.org/abs/2402.15504v1)
+Filter: [On the Complexity of Community-aware Network Sparsification](http://arxiv.org/abs/2402.15494v1)
+Filter: [Mechanics-Informed Autoencoder Enables Automated Detection and
+  Localization of Unforeseen Structural Damage](http://arxiv.org/abs/2402.15492v1)
+Filter: [API-BLEND: A Comprehensive Corpora for Training and Benchmarking API
+  LLMs](http://arxiv.org/abs/2402.15491v1)
+Filter: [A Comprehensive Survey of Convolutions in Deep Learning: Applications,
+  Challenges, and Future Trends](http://arxiv.org/abs/2402.15490v1)
+Filter: [RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for
+  Robotic Manipulation](http://arxiv.org/abs/2402.15487v1)
+Filter: [Graph Partitioning With Limited Moves](http://arxiv.org/abs/2402.15485v1)
+append_entries: 0
+Finish: 2024-02-27 00:35:13.648435
