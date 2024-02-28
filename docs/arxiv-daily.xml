@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Trajectory Prediction for Autonomous Driving Using a Transformer Network</title>
 <link>http://arxiv.org/abs/2402.16501v1</link>
@@ -30,7 +31,6 @@ state-of-the-art performance, substantially improving the accuracy and
 feasibility of the prediction outcomes.
 ]]></content:encoded>
 <pubDate>2024-02-26T11:35:23Z</pubDate>
-<pubDate>2024-02-26T11:35:23Z</pubDate>
 </item>
 <item>
 <title>LLMArena: Assessing Capabilities of Large Language Models in Dynamic
@@ -40,7 +40,7 @@ feasibility of the prediction outcomes.
 <content:encoded><![CDATA[
 <div> LLMArena, 大型语言模型, 多智能体环境, 评估框架, 实验
 
-LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，包括空间推理、战略规划、数值推理、风险评估、沟通、对手建模和团队协作。研究人员通过对不同大小和类型的大型语言模型进行大量实验和人类评估，发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。  <br><br>总结: <br>LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，研究发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。 <div>
+LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，包括空间推理、战略规划、数值推理、风险评估、沟通、对手建模和团队协作。研究人员通过对不同大小和类型的大型语言模型进行大量实验和人类评估，发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。  <br /><br />总结: <br />LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，研究发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。 <div>
 Recent advancements in large language models (LLMs) have revealed their
 potential for achieving autonomous agents possessing human-level intelligence.
 However, existing benchmarks for evaluating LLM Agents either use static
@@ -62,9 +62,7 @@ more sophisticated and practical applications in dynamic, multi-agent settings.
 The code and data will be available.
 ]]></content:encoded>
 <pubDate>2024-02-26T11:31:48Z</pubDate>
-<pubDate>2024-02-26T11:31:48Z</pubDate>
 </item>
-
 <item>
 <title>Q-FOX Learning: Breaking Tradition in Reinforcement Learning</title>
 <link>http://arxiv.org/abs/2402.16562v1</link>
