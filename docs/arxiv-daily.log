@@ -2534,3 +2534,26 @@ Filter: [RoboGrind: Intuitive and Interactive Surface Treatment with Industrial
   Robots](http://arxiv.org/abs/2402.16542v1)
 append_entries: 2
 Finish: 2024-02-27 12:13:38.404456
+------------------------------------------------------
+Started: 2024-02-28 00:34:35.373010
+Existing_entries: 53
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Pre-training Cross-lingual Open Domain Question Answering with
+  Large-scale Synthetic Supervision](http://arxiv.org/abs/2402.16508v1)
+Filter: [Stochastic Conditional Diffusion Models for Semantic Image Synthesis](http://arxiv.org/abs/2402.16506v1)
+Filter: [Memory GAPS: Would LLM pass the Tulving Test?](http://arxiv.org/abs/2402.16505v1)
+Token length: 658
+Summarized using GPT-3.5-turbo-1106
+Append: [Trajectory Prediction for Autonomous Driving Using a Transformer Network](http://arxiv.org/abs/2402.16501v1)
+Token length: 1427
+Summarized using GPT-3.5-turbo-1106
+Append: [LLMArena: Assessing Capabilities of Large Language Models in Dynamic
+  Multi-Agent Environments](http://arxiv.org/abs/2402.16499v1)
+Filter: [SAND: Decoupling Sanitization from Fuzzing for Low Overhead](http://arxiv.org/abs/2402.16497v1)
+Filter: [Intelligent Known and Novel Aircraft Recognition -- A Shift from
+  Classification to Similarity Learning for Combat Identification](http://arxiv.org/abs/2402.16486v1)
+Filter: [On Languaging a Simulation Engine](http://arxiv.org/abs/2402.16482v1)
+Filter: [Unveiling ChatGPT's Usage in Open Source Projects: A Mining-based Study](http://arxiv.org/abs/2402.16480v1)
+Filter: [Edge Detectors Can Make Deep Convolutional Neural Networks More Robust](http://arxiv.org/abs/2402.16479v1)
+append_entries: 2
+Finish: 2024-02-28 00:34:53.449698

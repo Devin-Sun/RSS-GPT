@@ -5,12 +5,73 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Trajectory Prediction for Autonomous Driving Using a Transformer Network</title>
+<link>http://arxiv.org/abs/2402.16501v1</link>
+<guid>http://arxiv.org/abs/2402.16501v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: autonomous driving, multi-modal trajectory prediction, transformer network, convolutional networks, Lyft l5kit dataset
+
+这篇论文介绍了基于Transformer网络的多模态轨迹预测框架，以及利用每个代理的语义地图作为输入，通过卷积网络自动获取相关的上下文信息。另外，还提出了一种新的辅助损失函数，惩罚不可行的越野预测。实验证明，该模型在Lyft l5kit数据集上取得了最先进的性能，显著提高了预测结果的准确性和可行性。
+
+总结:
+1. 论文介绍了自动驾驶中预测周围代理的轨迹是一个具有挑战性的任务。
+2. 提出了基于Transformer网络的多模态轨迹预测框架，并利用语义地图作为输入。
+3. 使用卷积网络自动获取相关的上下文信息。
+4. 提出了一种新的辅助损失函数，用于惩罚不可行的越野预测。
+5. 实验证明所提出的模型在Lyft l5kit数据集上取得了最先进的性能，显著提高了预测结果的准确性和可行性。 <div>
+Predicting the trajectories of surrounding agents is still considered one of
+the most challenging tasks for autonomous driving. In this paper, we introduce
+a multi-modal trajectory prediction framework based on the transformer network.
+The semantic maps of each agent are used as inputs to convolutional networks to
+automatically derive relevant contextual information. A novel auxiliary loss
+that penalizes unfeasible off-road predictions is also proposed in this study.
+Experiments on the Lyft l5kit dataset show that the proposed model achieves
+state-of-the-art performance, substantially improving the accuracy and
+feasibility of the prediction outcomes.
+]]></content:encoded>
+<pubDate>2024-02-26T11:35:23Z</pubDate>
+<pubDate>2024-02-26T11:35:23Z</pubDate>
+</item>
+<item>
+<title>LLMArena: Assessing Capabilities of Large Language Models in Dynamic
+  Multi-Agent Environments</title>
+<link>http://arxiv.org/abs/2402.16499v1</link>
+<guid>http://arxiv.org/abs/2402.16499v1</guid>
+<content:encoded><![CDATA[
+<div> LLMArena, 大型语言模型, 多智能体环境, 评估框架, 实验
+
+LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，包括空间推理、战略规划、数值推理、风险评估、沟通、对手建模和团队协作。研究人员通过对不同大小和类型的大型语言模型进行大量实验和人类评估，发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。  <br><br>总结: <br>LLMArena 是一个新颖且易于扩展的框架，用于评估大型语言模型在多智能体动态环境中的不同能力。该框架包括七个不同的游戏环境，并采用 Trueskill 计分来评估语言模型的关键能力，研究发现大型语言模型在对手建模和团队协作方面仍有很大的发展空间。作者希望LLMArena可以引导未来的研究，增强大型语言模型的这些能力，最终实现在动态的多智能体环境中更复杂和实用的应用。 <div>
+Recent advancements in large language models (LLMs) have revealed their
+potential for achieving autonomous agents possessing human-level intelligence.
+However, existing benchmarks for evaluating LLM Agents either use static
+datasets, potentially leading to data leakage or focus only on single-agent
+scenarios, overlooking the complexities of multi-agent interactions. There is a
+lack of a benchmark that evaluates the diverse capabilities of LLM agents in
+multi-agent, dynamic environments. To this end, we introduce LLMArena, a novel
+and easily extensible framework for evaluating the diverse capabilities of LLM
+in multi-agent dynamic environments. LLMArena encompasses seven distinct gaming
+environments, employing Trueskill scoring to assess crucial abilities in LLM
+agents, including spatial reasoning, strategic planning, numerical reasoning,
+risk assessment, communication, opponent modeling, and team collaboration. We
+conduct an extensive experiment and human evaluation among different sizes and
+types of LLMs, showing that LLMs still have a significant journey ahead in
+their development towards becoming fully autonomous agents, especially in
+opponent modeling and team collaboration. We hope LLMArena could guide future
+research towards enhancing these capabilities in LLMs, ultimately leading to
+more sophisticated and practical applications in dynamic, multi-agent settings.
+The code and data will be available.
+]]></content:encoded>
+<pubDate>2024-02-26T11:31:48Z</pubDate>
+<pubDate>2024-02-26T11:31:48Z</pubDate>
+</item>
+
+<item>
 <title>Q-FOX Learning: Breaking Tradition in Reinforcement Learning</title>
 <link>http://arxiv.org/abs/2402.16562v1</link>
 <guid>http://arxiv.org/abs/2402.16562v1</guid>
 <content:encoded><![CDATA[
 <div> 强化学习, 人工智能, 超参数调优, Q-FOX, OpenAI Gym
-总结:<br><br>这篇文章介绍了强化学习中超参数调优的重要性，提出了一种新的自动超参数调优方法 Q-FOX，该方法利用了FOX优化器和Q-learning算法，通过优化新的目标函数，优化了超参数以获得更好的强化学习性能。实验结果表明，Q-FOX相比其他优化器在解决OpenAI Gym环境控制任务时获得了更高的累积奖励。但Q-FOX仍有局限性，不能直接用于真实环境，也需要在模拟环境中进行迭代优化，因此存在一定的时间成本。综合来看，Q-FOX在强化学习的超参数调优方面发挥了重要作用。 <div>
+总结:<br /><br />这篇文章介绍了强化学习中超参数调优的重要性，提出了一种新的自动超参数调优方法 Q-FOX，该方法利用了FOX优化器和Q-learning算法，通过优化新的目标函数，优化了超参数以获得更好的强化学习性能。实验结果表明，Q-FOX相比其他优化器在解决OpenAI Gym环境控制任务时获得了更高的累积奖励。但Q-FOX仍有局限性，不能直接用于真实环境，也需要在模拟环境中进行迭代优化，因此存在一定的时间成本。综合来看，Q-FOX在强化学习的超参数调优方面发挥了重要作用。 <div>
 Reinforcement learning (RL) is a subset of artificial intelligence (AI) where
 agents learn the best action by interacting with the environment, making it
 suitable for tasks that do not require labeled data or direct supervision.
@@ -35,16 +96,15 @@ essential role in HP tuning for RL algorithms to effectively solve different
 control tasks.
 ]]></content:encoded>
 <pubDate>2024-02-26T13:39:04Z</pubDate>
-<pubDate>2024-02-26T13:39:04Z</pubDate>
 </item>
 <item>
 <title>Contracts with Inspections</title>
 <link>http://arxiv.org/abs/2402.16553v1</link>
 <guid>http://arxiv.org/abs/2402.16553v1</guid>
 <content:encoded><![CDATA[
-<div> hidden-action model, principal-agent, incentive, inspection, deterministic<br>
-<br>
-本文提出了一个新的模型，放松了隐性行为的假设，允许委托人在一定成本下检查特定的行为。如果委托人发现代理人没有选择协定的行为，他可以扣留支付。这个模型的放松引入了更广泛的策略空间，委托人需要在积极激励（增加支付）和负面激励（增加检查）之间进行权衡。作者展示了如何在所有单调检查成本函数中找到最佳的确定性激励兼容检查方案。然后，作者转向随机检查方案，展示了在检查成本函数为次模的情况下可以有效地找到最佳的随机激励兼容检查方案。作者补充说，对于更一般的XOS检查成本函数，不可能有效地找到最佳的随机检查方案。 <br><br>总结: 本文提出了一个新的委托人-代理人模型，在此模型下，作者展示了如何找到最佳的确定性和随机激励兼容检查方案。 <div>
+<div> hidden-action model, principal-agent, incentive, inspection, deterministic<br />
+<br />
+本文提出了一个新的模型，放松了隐性行为的假设，允许委托人在一定成本下检查特定的行为。如果委托人发现代理人没有选择协定的行为，他可以扣留支付。这个模型的放松引入了更广泛的策略空间，委托人需要在积极激励（增加支付）和负面激励（增加检查）之间进行权衡。作者展示了如何在所有单调检查成本函数中找到最佳的确定性激励兼容检查方案。然后，作者转向随机检查方案，展示了在检查成本函数为次模的情况下可以有效地找到最佳的随机激励兼容检查方案。作者补充说，对于更一般的XOS检查成本函数，不可能有效地找到最佳的随机检查方案。 <br /><br />总结: 本文提出了一个新的委托人-代理人模型，在此模型下，作者展示了如何找到最佳的确定性和随机激励兼容检查方案。 <div>
 In the classical principal-agent hidden-action model, a principal delegates
 the execution of a costly task to an agent for which he can choose among
 actions with different costs and different success probabilities to accomplish
@@ -68,9 +128,7 @@ efficiently find the optimal randomized inspection scheme for the more general
 case of XOS inspection cost functions.
 ]]></content:encoded>
 <pubDate>2024-02-26T13:26:34Z</pubDate>
-<pubDate>2024-02-26T13:26:34Z</pubDate>
 </item>
-
 <item>
 <title>AgentOhana: Design Unified Data and Training Pipeline for Effective
   Agent Learning</title>
