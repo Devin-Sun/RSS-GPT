@@ -2595,3 +2595,25 @@ Filter: [ADL4D: Towards A Contextually Rich Dataset for 4D Activities of Daily
   Living](http://arxiv.org/abs/2402.17758v1)
 append_entries: 0
 Finish: 2024-02-29 00:35:22.244854
+------------------------------------------------------
+Started: 2024-02-29 12:14:20.714575
+Existing_entries: 55
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [UniMODE: Unified Monocular 3D Object Detection](http://arxiv.org/abs/2402.18573v1)
+Filter: [Arithmetic Control of LLMs for Diverse User Preferences: Directional
+  Preference Alignment with Multi-Objective Rewards](http://arxiv.org/abs/2402.18571v1)
+Filter: [Energy-Aware Heterogeneous Federated Learning via Approximate Systolic
+  DNN Accelerators](http://arxiv.org/abs/2402.18569v1)
+Filter: [Diffusion Language Models Are Versatile Protein Learners](http://arxiv.org/abs/2402.18567v1)
+Filter: [A Categorization of Complexity Classes for Information Retrieval and
+  Synthesis Using Natural Logic](http://arxiv.org/abs/2402.18566v1)
+Filter: [Approaching Human-Level Forecasting with Language Models](http://arxiv.org/abs/2402.18563v1)
+Filter: [Unifying F1TENTH Autonomous Racing: Survey, Methods and Benchmarks](http://arxiv.org/abs/2402.18558v1)
+Filter: [Extended Kalman filter -- Koopman operator for tractable stochastic
+  optimal control](http://arxiv.org/abs/2402.18554v1)
+Filter: [Selection of appropriate multispectral camera exposure settings and
+  radiometric calibration methods for applications in phenotyping and precision
+  agriculture](http://arxiv.org/abs/2402.18553v1)
+Filter: [Implicit Bias of Next-Token Prediction](http://arxiv.org/abs/2402.18551v1)
+append_entries: 0
+Finish: 2024-02-29 12:14:21.245933
