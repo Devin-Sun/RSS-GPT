@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers</title>
+<link>http://arxiv.org/abs/2402.19479v1</link>
+<guid>http://arxiv.org/abs/2402.19479v1</guid>
+<content:encoded><![CDATA[
+<div> 数据质量、视频标注、Panda-70M数据集、下游任务、模型训练
+
+数据质量和标注质量上限了下游模型的质量。视频文本数据难以收集，因为手动标注耗时多，需要观看整个视频，而视频包含多个场景和动作。为了建立高质量字幕视频数据集，研究人员提出了一种自动方法，利用文本视频描述、字幕和视频帧。他们从公开可用的HD-VILA-100M数据集中筛选出380万个高分辨率视频，并将它们分成语义一致的视频片段，然后利用跨模态教师模型为每个视频获取字幕。接下来，在少量视频子集上微调检索模型，然后在整个数据集上使用该模型选择最佳字幕作为标注。于是得到了7000万个与高质量文本字幕配对的视频数据，命名为Panda-70M数据集。研究人员展示了该数据集在视频字幕生成、视频和文本检索等三项下游任务上的价值，表明基于该数据集训练的模型在大多数指标上得分明显更好。<br><br>总结: 该研究提出了一种自动方法，利用跨模态输入建立高质量字幕视频数据集Panda-70M，并展示了其在多项下游任务上训练模型得分明显更好的价值。 <div>
+The quality of the data and annotation upper-bounds the quality of a
+downstream model. While there exist large text corpora and image-text pairs,
+high-quality video-text data is much harder to collect. First of all, manual
+labeling is more time-consuming, as it requires an annotator to watch an entire
+video. Second, videos have a temporal dimension, consisting of several scenes
+stacked together, and showing multiple actions. Accordingly, to establish a
+video dataset with high-quality captions, we propose an automatic approach
+leveraging multimodal inputs, such as textual video description, subtitles, and
+individual video frames. Specifically, we curate 3.8M high-resolution videos
+from the publicly available HD-VILA-100M dataset. We then split them into
+semantically consistent video clips, and apply multiple cross-modality teacher
+models to obtain captions for each video. Next, we finetune a retrieval model
+on a small subset where the best caption of each video is manually selected and
+then employ the model in the whole dataset to select the best caption as the
+annotation. In this way, we get 70M videos paired with high-quality text
+captions. We dub the dataset as Panda-70M. We show the value of the proposed
+dataset on three downstream tasks: video captioning, video and text retrieval,
+and text-driven video generation. The models trained on the proposed data score
+substantially better on the majority of metrics across all the tasks.
+]]></content:encoded>
+<pubDate>2024-02-29T18:59:50Z</pubDate>
+<pubDate>2024-02-29T18:59:50Z</pubDate>
+</item>
 
 <item>
 <title>Trajectory Prediction for Autonomous Driving Using a Transformer Network</title>
