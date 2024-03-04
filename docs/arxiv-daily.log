@@ -2742,3 +2742,23 @@ Filter: [Towards Generalizable Tumor Synthesis](http://arxiv.org/abs/2402.19470v
 Filter: [Humanoid Locomotion as Next Token Prediction](http://arxiv.org/abs/2402.19469v1)
 append_entries: 0
 Finish: 2024-03-03 12:13:06.239196
+------------------------------------------------------
+Started: 2024-03-04 00:36:15.141019
+Existing_entries: 56
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DistriFusion: Distributed Parallel Inference for High-Resolution
+  Diffusion Models](http://arxiv.org/abs/2402.19481v1)
+Filter: [Learning a Generalized Physical Face Model From Data](http://arxiv.org/abs/2402.19477v1)
+Filter: [The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of
+  Their Incorrect Generations?](http://arxiv.org/abs/2402.19475v1)
+Filter: [The All-Seeing Project V2: Towards General Relation Comprehension of the
+  Open World](http://arxiv.org/abs/2402.19474v1)
+Filter: [Retrieval-Augmented Generation for AI-Generated Content: A Survey](http://arxiv.org/abs/2402.19473v1)
+Filter: [Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid
+  Progress](http://arxiv.org/abs/2402.19472v1)
+Filter: [Loose LIPS Sink Ships: Asking Questions in Battleship with
+  Language-Informed Program Sampling](http://arxiv.org/abs/2402.19471v1)
+Filter: [Towards Generalizable Tumor Synthesis](http://arxiv.org/abs/2402.19470v1)
+Filter: [Humanoid Locomotion as Next Token Prediction](http://arxiv.org/abs/2402.19469v1)
+append_entries: 0
+Finish: 2024-03-04 00:36:16.100550
