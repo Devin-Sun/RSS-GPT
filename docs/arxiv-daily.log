@@ -2790,3 +2790,23 @@ Filter: [Towards Generalizable Tumor Synthesis](http://arxiv.org/abs/2402.19470v
 Filter: [Humanoid Locomotion as Next Token Prediction](http://arxiv.org/abs/2402.19469v1)
 append_entries: 0
 Finish: 2024-03-05 00:35:25.882088
+------------------------------------------------------
+Started: 2024-03-05 12:13:50.527353
+Existing_entries: 56
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Enhancing Retinal Vascular Structure Segmentation in Images With a Novel
+  Design Two-Path Interactive Fusion Module Model](http://arxiv.org/abs/2403.01362v1)
+Filter: [Bandit Profit-maximization for Targeted Marketing](http://arxiv.org/abs/2403.01361v1)
+Filter: [ModelWriter: Text & Model-Synchronized Document Engineering Platform](http://arxiv.org/abs/2403.01359v1)
+Filter: [Security and Privacy Enhancing in Blockchain-based IoT Environments via
+  Anonym Auditing](http://arxiv.org/abs/2403.01356v1)
+Filter: [a-DCF: an architecture agnostic metric with application to
+  spoofing-robust speaker verification](http://arxiv.org/abs/2403.01355v1)
+Filter: [An Overview of Minimum Convex Cover and Maximum Hidden Set](http://arxiv.org/abs/2403.01354v1)
+Filter: [Spatially parallel decoding for multi-qubit lattice surgery](http://arxiv.org/abs/2403.01353v1)
+Filter: [Improving Uncertainty Sampling with Bell Curve Weight Function](http://arxiv.org/abs/2403.01352v1)
+Filter: [Efficient FIR filtering with Bit Layer Multiply Accumulator](http://arxiv.org/abs/2403.01351v1)
+Filter: [OSM: Leveraging Model Checking for Observing Dynamic 1 behaviors in
+  Aspect-Oriented Applications](http://arxiv.org/abs/2403.01349v1)
+append_entries: 0
+Finish: 2024-03-05 12:13:51.522212
