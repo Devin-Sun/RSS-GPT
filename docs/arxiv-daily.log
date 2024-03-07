@@ -2867,3 +2867,28 @@ Filter: [CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially
   Observable Environments](http://arxiv.org/abs/2403.03203v1)
 append_entries: 0
 Finish: 2024-03-07 00:29:29.393054
+------------------------------------------------------
+Started: 2024-03-07 12:13:50.823051
+Existing_entries: 57
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Backtracing: Retrieving the Cause of the Query](http://arxiv.org/abs/2403.03956v1)
+Filter: [3D Diffusion Policy](http://arxiv.org/abs/2403.03954v1)
+Filter: [Bridging Language and Items for Retrieval and Recommendation](http://arxiv.org/abs/2403.03952v1)
+Token length: 1578
+Summarized using GPT-3.5-turbo-1106
+Append: [Stop Regressing: Training Value Functions via Classification for
+  Scalable Deep RL](http://arxiv.org/abs/2403.03950v1)
+Filter: [Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach
+  for Robust Manipulation](http://arxiv.org/abs/2403.03949v1)
+Token length: 1545
+Summarized using GPT-3.5-turbo-1106
+Append: [Can Audio Reveal Music Performance Difficulty? Insights from the Piano
+  Syllabus Dataset](http://arxiv.org/abs/2403.03947v1)
+Filter: [SPEAR:Exact Gradient Inversion of Batches in Federated Learning](http://arxiv.org/abs/2403.03945v1)
+Filter: [The Heuristic Core: Understanding Subnetwork Generalization in
+  Pretrained Language Models](http://arxiv.org/abs/2403.03942v1)
+Filter: [GUIDE: Guidance-based Incremental Learning with Diffusion Models](http://arxiv.org/abs/2403.03938v1)
+Filter: [Settling the Competition Complexity of Additive Buyers over Independent
+  Items](http://arxiv.org/abs/2403.03937v1)
+append_entries: 2
+Finish: 2024-03-07 12:14:18.168972
