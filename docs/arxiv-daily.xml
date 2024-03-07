@@ -4,16 +4,17 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Scaling Rectified Flow Transformers for High-Resolution Image Synthesis</title>
 <link>http://arxiv.org/abs/2403.03206v1</link>
 <guid>http://arxiv.org/abs/2403.03206v1</guid>
 <content:encoded><![CDATA[
 <div> 高维数据，扩散模型，噪音采样，文本到图像生成，变压器架构
-<br>
+<br />
 本文介绍了扩散模型和矫正流模型对高维感知数据的生成建模技术，矫正流模型为直线连接了数据和噪音，具有更好的理论特性和概念简单性，但尚未成为标准做法。作者提出了改进的噪音采样技术，通过偏向感知相关尺度的噪音，提高了对于高分辨率文本到图像合成的性能。此外，作者提出了一个基于变压器的架构，实现了文本到图像的双向信息流，提高了文本理解能力、排版效果和人类评价。最后，作者强调了他们的最大模型优于现有模型，并将实验数据、代码和模型权重公开发布。 
-<br><br>总结: 
-<br>扩散模型和矫正流模型为高维感知数据的生成建模提供了有效手段，提出了改进的噪音采样技术，以提高对高分辨率文本到图像合成的性能。新的基于变压器的架构实现了文本到图像的双向信息流，提高了文本理解能力、排版效果和人类评价。作者的最大模型优于现有模型，并将实验数据、代码和模型权重公开发布。 <div>
+<br /><br />总结: 
+<br />扩散模型和矫正流模型为高维感知数据的生成建模提供了有效手段，提出了改进的噪音采样技术，以提高对高分辨率文本到图像合成的性能。新的基于变压器的架构实现了文本到图像的双向信息流，提高了文本理解能力、排版效果和人类评价。作者的最大模型优于现有模型，并将实验数据、代码和模型权重公开发布。 <div>
 Diffusion models create data from noise by inverting the forward paths of
 data towards noise and have emerged as a powerful generative modeling technique
 for high-dimensional, perceptual data such as images and videos. Rectified flow
@@ -35,9 +36,7 @@ outperform state-of-the-art models, and we will make our experimental data,
 code, and model weights publicly available.
 ]]></content:encoded>
 <pubDate>2024-03-05T18:45:39Z</pubDate>
-<pubDate>2024-03-05T18:45:39Z</pubDate>
 </item>
-
 <item>
 <title>Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers</title>
 <link>http://arxiv.org/abs/2402.19479v1</link>
