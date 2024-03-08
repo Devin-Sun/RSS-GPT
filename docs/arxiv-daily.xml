@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Stop Regressing: Training Value Functions via Classification for
   Scalable Deep RL</title>
@@ -13,7 +14,7 @@
 <div> 关键词: 深度强化学习, 值函数, 分类交叉熵, 可扩展性, 改进性能
 
 深度强化学习中的值函数是一个核心组件，通过神经网络参数化，采用均方误差回归目标进行训练以匹配自举目标值。然而，将使用回归的基于值的强化学习方法扩展到大型网络（如高容量Transformer）的难度已被证明是具有挑战性的。观察到这一差异，本文研究了是否通过在训练值函数时仅使用分类代替回归可以改进深度强化学习的可扩展性。我们证明，使用分类交叉熵训练的值函数显著改善了多个领域的性能和可扩展性。其中包括：在Atari 2600游戏中使用SoftMoEs进行单任务强化学习，使用大规模ResNets进行Atari的多任务强化学习，在Q-transformers中进行机器人操纵，无搜索下的国际象棋对局，以及使用高容量Transformer进行语言代理Wordle任务，在这些领域取得了最先进的结果。通过仔细分析，我们展示了分类交叉熵的好处主要源于其减轻了值为基础的强化学习固有的问题，如嘈杂的目标和非稳态性。总体而言，我们认为简单地将值函数训练与分类交叉熵相结合可以在几乎没有成本的情况下显著提高深度强化学习的可扩展性。
-<br><br>总结: 本文研究了通过使用分类交叉熵代替回归来训练值函数，从而改善深度强化学习的可扩展性。作者证明了这种方法在多个领域均取得了显著的性能提升，包括Atari游戏、机器人操纵和语言代理任务。通过分析，作者指出分类交叉熵的好处主要来自于其减轻值函数训练中的固有问题。因此，本文的贡献在于提出了一种简单且高效的方法来提高深度强化学习的可扩展性，为相关领域的研究和应用带来了新的启发。 <div>
+<br /><br />总结: 本文研究了通过使用分类交叉熵代替回归来训练值函数，从而改善深度强化学习的可扩展性。作者证明了这种方法在多个领域均取得了显著的性能提升，包括Atari游戏、机器人操纵和语言代理任务。通过分析，作者指出分类交叉熵的好处主要来自于其减轻值函数训练中的固有问题。因此，本文的贡献在于提出了一种简单且高效的方法来提高深度强化学习的可扩展性，为相关领域的研究和应用带来了新的启发。 <div>
 Value functions are a central component of deep reinforcement learning (RL).
 These functions, parameterized by neural networks, are trained using a mean
 squared error regression objective to match bootstrapped target values.
@@ -37,7 +38,6 @@ functions with categorical cross-entropy can yield substantial improvements in
 the scalability of deep RL at little-to-no cost.
 ]]></content:encoded>
 <pubDate>2024-03-06T18:55:47Z</pubDate>
-<pubDate>2024-03-06T18:55:47Z</pubDate>
 </item>
 <item>
 <title>Can Audio Reveal Music Performance Difficulty? Insights from the Piano
@@ -46,7 +46,7 @@ the scalability of deep RL at little-to-no cost.
 <guid>http://arxiv.org/abs/2403.03947v1</guid>
 <content:encoded><![CDATA[
 <div> 音乐教育, 音乐信息检索, 音频分析, 数据集, 难度估计
-<br><br>总结:
+<br /><br />总结:
 音乐教育中自动估计音乐作品难度的重要性，音乐信息检索领域已经有一些工作致力于这一任务。本文首次提出了一个基于音频录音的音乐作品难度估计数据集，并开发了一个识别框架来处理不同的输入表示。实验证明了该提议的有效性，并将数据集、代码和训练模型公开分享，以促进该领域的进一步研究。 <div>
 Automatically estimating the performance difficulty of a music piece
 represents a key process in music education to create tailored curricula
@@ -71,9 +71,7 @@ developed code and trained models are publicly shared to promote further
 research in the field.
 ]]></content:encoded>
 <pubDate>2024-03-06T18:54:13Z</pubDate>
-<pubDate>2024-03-06T18:54:13Z</pubDate>
 </item>
-
 <item>
 <title>Scaling Rectified Flow Transformers for High-Resolution Image Synthesis</title>
 <link>http://arxiv.org/abs/2403.03206v1</link>
