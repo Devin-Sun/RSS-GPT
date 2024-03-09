@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall
   of Shapley Values</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 机制设计, 协作学习, 联邦学习平台, 决策感知, Shapley value
 
-总结: 本论文研究了通过联邦学习平台实现决策感知协作学习的机制设计。文章介绍了一个由数字平台和多个决策感知代理组成的框架，平台提供基础设施，使代理可以访问数据，为协作学习创造激励，进行联邦学习以避免直接共享原始数据。文章引入了多行动协作联邦学习（MCFL）框架，分析了著名的Shapley value机制的均衡问题。研究发现，虽然Shapley value通过鼓励充分参与有效地最大化了联合创造的剩余价值，但不慎促进了虚假身份操纵，进一步增加了平台进行联邦学习时的通信成本。因此，Shapley value机制有一个严重的缺陷，即暗示着数据分割和身份复制，最终损害了联邦学习系统的整体效率。<br><br>总结: 本论文研究了决策感知协作学习的机制设计，介绍了联邦学习平台的框架，分析了Shapley value机制的均衡问题，并发现其存在的缺陷。 <div>
+总结: 本论文研究了通过联邦学习平台实现决策感知协作学习的机制设计。文章介绍了一个由数字平台和多个决策感知代理组成的框架，平台提供基础设施，使代理可以访问数据，为协作学习创造激励，进行联邦学习以避免直接共享原始数据。文章引入了多行动协作联邦学习（MCFL）框架，分析了著名的Shapley value机制的均衡问题。研究发现，虽然Shapley value通过鼓励充分参与有效地最大化了联合创造的剩余价值，但不慎促进了虚假身份操纵，进一步增加了平台进行联邦学习时的通信成本。因此，Shapley value机制有一个严重的缺陷，即暗示着数据分割和身份复制，最终损害了联邦学习系统的整体效率。<br /><br />总结: 本论文研究了决策感知协作学习的机制设计，介绍了联邦学习平台的框架，分析了Shapley value机制的均衡问题，并发现其存在的缺陷。 <div>
 This paper investigates mechanism design for decision-aware collaboration via
 federated learning (FL) platforms. Our framework consists of a digital platform
 and multiple decision-aware agents, each endowed with proprietary data sets.
@@ -40,9 +41,7 @@ mechanisms, which implicitly incentivizes data splitting and identity
 duplication, ultimately impairing the overall efficiency in FL systems.
 ]]></content:encoded>
 <pubDate>2024-03-07T18:54:59Z</pubDate>
-<pubDate>2024-03-07T18:54:59Z</pubDate>
 </item>
-
 <item>
 <title>Stop Regressing: Training Value Functions via Classification for
   Scalable Deep RL</title>

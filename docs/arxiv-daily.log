@@ -2935,3 +2935,25 @@ Append: [Mechanism for Decision-aware Collaborative Federated Learning: A Pitfal
   of Shapley Values](http://arxiv.org/abs/2403.04753v1)
 append_entries: 1
 Finish: 2024-03-08 12:13:33.027720
+------------------------------------------------------
+Started: 2024-03-09 00:34:19.559244
+Existing_entries: 60
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like
+  Speed](http://arxiv.org/abs/2403.04765v1)
+Filter: [Minimizing the Thompson Sampling Regret-to-Sigma Ratio (TS-RSR): a
+  provably efficient algorithm for batch Bayesian Optimization](http://arxiv.org/abs/2403.04764v1)
+Filter: [BloomGML: Graph Machine Learning through the Lens of Bilevel
+  Optimization](http://arxiv.org/abs/2403.04763v1)
+Filter: [DeepSee: Multidimensional Visualizations of Seabed Ecosystems](http://arxiv.org/abs/2403.04761v1)
+Filter: [iScore: Visual Analytics for Interpreting How Language Models
+  Automatically Score Summaries](http://arxiv.org/abs/2403.04760v1)
+Filter: [Lifelong Intelligence Beyond the Edge using Hyperdimensional Computing](http://arxiv.org/abs/2403.04759v1)
+Filter: [KnowledgeVIS: Interpreting Language Models by Comparing
+  Fill-in-the-Blank Prompts](http://arxiv.org/abs/2403.04758v1)
+Filter: [Preliminary Guidelines For Combining Data Integration and Visual Data
+  Analysis](http://arxiv.org/abs/2403.04757v1)
+Filter: [That's My Point: Compact Object-centric LiDAR Pose Estimation for
+  Large-scale Outdoor Localisation](http://arxiv.org/abs/2403.04755v1)
+append_entries: 0
+Finish: 2024-03-09 00:34:20.139025
