@@ -3045,3 +3045,27 @@ Filter: [That's My Point: Compact Object-centric LiDAR Pose Estimation for
   Large-scale Outdoor Localisation](http://arxiv.org/abs/2403.04755v1)
 append_entries: 0
 Finish: 2024-03-11 00:37:02.599774
+------------------------------------------------------
+Started: 2024-03-11 12:14:13.865690
+Existing_entries: 60
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Tell, Don't Show!: Language Guidance Eases Transfer Across Domains in
+  Images and Videos](http://arxiv.org/abs/2403.05535v1)
+Filter: [Bayesian Preference Elicitation with Language Models](http://arxiv.org/abs/2403.05534v1)
+Filter: [Tune without Validation: Searching for Learning Rate and Weight Decay on
+  Training Sets](http://arxiv.org/abs/2403.05532v1)
+Token length: 1168
+Summarized using GPT-3.5-turbo-1106
+Append: [Gemini 1.5: Unlocking multimodal understanding across millions of tokens
+  of context](http://arxiv.org/abs/2403.05530v1)
+Filter: [The Computational Complexity of Learning Gaussian Single-Index Models](http://arxiv.org/abs/2403.05529v1)
+Filter: [GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless
+  Generative Inference of LLM](http://arxiv.org/abs/2403.05527v1)
+Filter: [DeepSeek-VL: Towards Real-World Vision-Language Understanding](http://arxiv.org/abs/2403.05525v1)
+Filter: [Beyond Finite Data: Towards Data-free Out-of-distribution Generalization
+  via Extrapola](http://arxiv.org/abs/2403.05523v1)
+Filter: [Probabilistic Image-Driven Traffic Modeling via Remote Sensing](http://arxiv.org/abs/2403.05521v1)
+Filter: [Authorship Attribution in Bangla Literature (AABL) via Transfer Learning
+  using ULMFiT](http://arxiv.org/abs/2403.05519v1)
+append_entries: 1
+Finish: 2024-03-11 12:14:33.625306
