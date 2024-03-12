@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> Gemini 1.5 Pro, multimodal, long-context, recall, state-of-the-art
 
-Gemini 1.5 Pro是Gemini家族的最新模型，是一种高效的多模态专家混合模型，能够在包括多个长文档和数小时的视频和音频在内的上下文中召回和推理细粒度信息。在长上下文检索任务中，Gemini 1.5 Pro实现了接近完美的召回率，提高了长文档QA、长视频QA和长上下文ASR的最新水平，并在各种基准测试中达到或超过了Gemini 1.0 Ultra的最新表现。研究了Gemini 1.5 Pro在长上下文能力方面的极限，发现了在接下来的标记预测和近乎完美的（>99%）检索方面的持续改进，可达到至少10M个标记，比现有模型如Claude 2.1（20万）和GPT-4 Turbo（12.8万）有了一代的飞跃。最后，我们突出介绍了大型语言模型在前沿的惊人新能力；当给定一个Kalamang语法手册时，这个模型学会了将英语翻译成Kalamang，其水平与从相同内容学习的人相似。 <br><br>总结: Gemimi 1.5 Pro是一款高效的多模态专家混合模型，能够处理长上下文任务，并在长文档QA、长视频QA和长上下文ASR方面取得了最新的突破。此外，该模型还在标记预测和检索方面表现出非常优越的能力，超越了现有的一些模型。最后，该模型还展示了在小语种翻译方面的惊人能力。 <div>
+Gemini 1.5 Pro是Gemini家族的最新模型，是一种高效的多模态专家混合模型，能够在包括多个长文档和数小时的视频和音频在内的上下文中召回和推理细粒度信息。在长上下文检索任务中，Gemini 1.5 Pro实现了接近完美的召回率，提高了长文档QA、长视频QA和长上下文ASR的最新水平，并在各种基准测试中达到或超过了Gemini 1.0 Ultra的最新表现。研究了Gemini 1.5 Pro在长上下文能力方面的极限，发现了在接下来的标记预测和近乎完美的（>99%）检索方面的持续改进，可达到至少10M个标记，比现有模型如Claude 2.1（20万）和GPT-4 Turbo（12.8万）有了一代的飞跃。最后，我们突出介绍了大型语言模型在前沿的惊人新能力；当给定一个Kalamang语法手册时，这个模型学会了将英语翻译成Kalamang，其水平与从相同内容学习的人相似。 <br /><br />总结: Gemimi 1.5 Pro是一款高效的多模态专家混合模型，能够处理长上下文任务，并在长文档QA、长视频QA和长上下文ASR方面取得了最新的突破。此外，该模型还在标记预测和检索方面表现出非常优越的能力，超越了现有的一些模型。最后，该模型还展示了在小语种翻译方面的惊人能力。 <div>
 In this report, we present the latest model of the Gemini family, Gemini 1.5
 Pro, a highly compute-efficient multimodal mixture-of-experts model capable of
 recalling and reasoning over fine-grained information from millions of tokens
@@ -31,9 +32,7 @@ English to Kalamang at a similar level to a person who learned from the same
 content.
 ]]></content:encoded>
 <pubDate>2024-03-08T18:54:20Z</pubDate>
-<pubDate>2024-03-08T18:54:20Z</pubDate>
 </item>
-
 <item>
 <title>Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall
   of Shapley Values</title>
