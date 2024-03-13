@@ -4,6 +4,41 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Bridging Different Language Models and Generative Vision Models for
+  Text-to-Image Generation</title>
+<link>http://arxiv.org/abs/2403.07860v1</link>
+<guid>http://arxiv.org/abs/2403.07860v1</guid>
+<content:encoded><![CDATA[
+<div> text-to-image generation, language model, vision model, integration, LaVi-Bridge
+
+总结: 
+本文介绍了文本到图像生成的最新发展，即文本到图像扩散模型。这些模型通常包括一个语言模型，用于解释用户提示，以及一个视觉模型，用于生成相应的图像。研究的目标是探索如何整合任意两个不相关的语言和生成视觉模型，以提高文本到图像生成的质量。文中提出了LaVi-Bridge，这是一个能够整合各种预训练语言模型和生成视觉模型的流程。通过利用LoRA和适配器，LaVi-Bridge提供了一种灵活的插拔式方法，无需修改语言和视觉模型的原始权重。研究表明，整合更先进的模块，如更先进的语言模型或生成视觉模型，可以显着提高文本对齐和图像质量等能力。通过广泛的评估验证了LaVi-Bridge的有效性。 该项目的代码可在https://github.com/ShihaoZhaoZSH/LaVi-Bridge 上找到。 <div>
+Text-to-image generation has made significant advancements with the
+introduction of text-to-image diffusion models. These models typically consist
+of a language model that interprets user prompts and a vision model that
+generates corresponding images. As language and vision models continue to
+progress in their respective domains, there is a great potential in exploring
+the replacement of components in text-to-image diffusion models with more
+advanced counterparts. A broader research objective would therefore be to
+investigate the integration of any two unrelated language and generative vision
+models for text-to-image generation. In this paper, we explore this objective
+and propose LaVi-Bridge, a pipeline that enables the integration of diverse
+pre-trained language models and generative vision models for text-to-image
+generation. By leveraging LoRA and adapters, LaVi-Bridge offers a flexible and
+plug-and-play approach without requiring modifications to the original weights
+of the language and vision models. Our pipeline is compatible with various
+language models and generative vision models, accommodating different
+structures. Within this framework, we demonstrate that incorporating superior
+modules, such as more advanced language models or generative vision models,
+results in notable improvements in capabilities like text alignment or image
+quality. Extensive evaluations have been conducted to verify the effectiveness
+of LaVi-Bridge. Code is available at
+https://github.com/ShihaoZhaoZSH/LaVi-Bridge.
+]]></content:encoded>
+<pubDate>2024-03-12T17:50:11Z</pubDate>
+<pubDate>2024-03-12T17:50:11Z</pubDate>
+</item>
 
 <item>
 <title>Gemini 1.5: Unlocking multimodal understanding across millions of tokens
