@@ -3156,3 +3156,24 @@ Append: [Bridging Different Language Models and Generative Vision Models for
 Filter: [Accelerating Biclique Counting on GPU](http://arxiv.org/abs/2403.07858v1)
 append_entries: 1
 Finish: 2024-03-13 12:14:48.657937
+------------------------------------------------------
+Started: 2024-03-14 00:35:13.345489
+Existing_entries: 62
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Beyond Text: Frozen Large Language Models in Visual Signal Comprehension](http://arxiv.org/abs/2403.07874v1)
+Filter: [Rethinking Generative Large Language Model Evaluation for Semantic
+  Comprehension](http://arxiv.org/abs/2403.07872v1)
+Filter: [OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation](http://arxiv.org/abs/2403.07870v1)
+Filter: [TeleMoMa: A Modular and Versatile Teleoperation System for Mobile
+  Manipulation](http://arxiv.org/abs/2403.07869v1)
+Filter: [Online Digital Twin-Empowered Content Resale Mechanism in Age of
+  Information-Aware Edge Caching Networks](http://arxiv.org/abs/2403.07868v1)
+Filter: [The Virtues of Laziness: Multi-Query Kinodynamic Motion Planning with
+  Lazy Methods](http://arxiv.org/abs/2403.07867v1)
+Filter: [Exploring Safety Generalization Challenges of Large Language Models via
+  Code](http://arxiv.org/abs/2403.07865v1)
+Filter: [Low coordinate degree algorithms I: Universality of computational
+  thresholds for hypothesis testing](http://arxiv.org/abs/2403.07862v1)
+Filter: [Accelerating Biclique Counting on GPU](http://arxiv.org/abs/2403.07858v1)
+append_entries: 0
+Finish: 2024-03-14 00:35:14.382673

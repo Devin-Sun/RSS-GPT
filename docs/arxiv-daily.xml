@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Bridging Different Language Models and Generative Vision Models for
   Text-to-Image Generation</title>
@@ -37,9 +38,7 @@ of LaVi-Bridge. Code is available at
 https://github.com/ShihaoZhaoZSH/LaVi-Bridge.
 ]]></content:encoded>
 <pubDate>2024-03-12T17:50:11Z</pubDate>
-<pubDate>2024-03-12T17:50:11Z</pubDate>
 </item>
-
 <item>
 <title>Gemini 1.5: Unlocking multimodal understanding across millions of tokens
   of context</title>
