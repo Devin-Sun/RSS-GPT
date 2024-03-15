@@ -3199,3 +3199,22 @@ Filter: [Efficient Combinatorial Optimization via Heat Diffusion](http://arxiv.o
 Filter: [DAM: Dynamic Adapter Merging for Continual Video QA Learning](http://arxiv.org/abs/2403.08755v1)
 append_entries: 1
 Finish: 2024-03-14 12:15:32.876823
+------------------------------------------------------
+Started: 2024-03-15 00:36:02.915840
+Existing_entries: 63
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [FastMAC: Stochastic Spectral Sampling of Correspondence Graph](http://arxiv.org/abs/2403.08770v1)
+Filter: [3DFIRES: Few Image 3D REconstruction for Scenes with Hidden Surface](http://arxiv.org/abs/2403.08768v1)
+Filter: [MonoOcc: Digging into Monocular Semantic Occupancy Prediction](http://arxiv.org/abs/2403.08766v1)
+Filter: [Simple and Scalable Strategies to Continually Pre-train Large Language
+  Models](http://arxiv.org/abs/2403.08763v1)
+Filter: [Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative
+  Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches](http://arxiv.org/abs/2403.08761v1)
+Filter: [MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving
+  Representation Learning](http://arxiv.org/abs/2403.08760v1)
+Filter: [Spatiotemporal Diffusion Model with Paired Sampling for Accelerated
+  Cardiac Cine MRI](http://arxiv.org/abs/2403.08758v1)
+Filter: [Efficient Combinatorial Optimization via Heat Diffusion](http://arxiv.org/abs/2403.08757v1)
+Filter: [DAM: Dynamic Adapter Merging for Continual Video QA Learning](http://arxiv.org/abs/2403.08755v1)
+append_entries: 0
+Finish: 2024-03-15 00:36:04.060426

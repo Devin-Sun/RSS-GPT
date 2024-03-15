@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis</title>
 <link>http://arxiv.org/abs/2403.08764v1</link>
@@ -13,7 +14,7 @@
 
 VLOGGER提出了一种基于音频驱动的单张人物图像生成视频的方法，借鉴了最近生成扩散模型的成功。该方法包括1）随机的人体到三维运动扩散模型，2）一种新颖的基于扩散的架构，将文本到图像模型与空间和时间控制相结合。这支持生成可变长度的高质量视频，通过人脸和身体的高级表示轻松控制。与先前的工作不同，该方法不需要为每个人进行训练，也不依赖于人脸检测和裁剪，并且生成完整的图像（不仅仅是脸部或嘴唇），考虑到关键的场景（例如可见的躯干或多样化的主体身份），以正确合成交流的人类。他们还提出了MENTOR，这是一个新的多样化数据集，具有3D姿势和表情注释，比以前的数据集大一个数量级（800,000个身份），并具有动态手势，他们在这个数据集上训练并消融了他们的主要技术贡献。VLOGGER在三个公开基准测试中表现优越，考虑到图像质量，身份保留和时间一致性，同时生成上半身手势。他们分析了VLOGGER的性能，关于多个多样性指标，显示出他们的架构选择和MENTOR的使用有利于以规模训练公正和无偏差的模型。最后，他们展示了视频编辑和个性化的应用。
 
-<br><br>总结: VLOGGER是一种基于音频驱动的人类视频生成方法，利用扩散模型和大规模数据集MENTOR，能够生成高质量、可变长度的视频，并具有上半身手势。它不需要为每个人进行训练，能够生成完整的人物图像，并考虑到不同的场景和主体身份。该方法在公开基准测试中表现优越，同时能够训练公正和无偏差的模型。 <div>
+<br /><br />总结: VLOGGER是一种基于音频驱动的人类视频生成方法，利用扩散模型和大规模数据集MENTOR，能够生成高质量、可变长度的视频，并具有上半身手势。它不需要为每个人进行训练，能够生成完整的人物图像，并考虑到不同的场景和主体身份。该方法在公开基准测试中表现优越，同时能够训练公正和无偏差的模型。 <div>
 We propose VLOGGER, a method for audio-driven human video generation from a
 single input image of a person, which builds on the success of recent
 generative diffusion models. Our method consists of 1) a stochastic
@@ -37,9 +38,7 @@ and the use of MENTOR benefit training a fair and unbiased model at scale.
 Finally we show applications in video editing and personalization.
 ]]></content:encoded>
 <pubDate>2024-03-13T17:59:02Z</pubDate>
-<pubDate>2024-03-13T17:59:02Z</pubDate>
 </item>
-
 <item>
 <title>Bridging Different Language Models and Generative Vision Models for
   Text-to-Image Generation</title>
