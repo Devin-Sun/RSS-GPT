@@ -3230,3 +3230,9 @@ Existing_entries: 63
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-03-16 00:34:17.164801
+------------------------------------------------------
+Started: 2024-03-16 12:14:06.756926
+Existing_entries: 63
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-03-16 12:14:07.468585
