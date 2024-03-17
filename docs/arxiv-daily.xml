@@ -4,6 +4,102 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>SCP-Diff: Photo-Realistic Semantic Image Synthesis with
+  Spatial-Categorical Joint Prior</title>
+<link>http://arxiv.org/abs/2403.09638v1</link>
+<guid>http://arxiv.org/abs/2403.09638v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Semantic image synthesis, ControlNet, latent diffusion models, noise priors, SCP-Diff
+
+总结:
+语义图像合成是传感器模拟领域的一个有希望的技术，但目前基于GAN的最佳实践在质量上还未达到期望的水平。然而，随着潜在扩散模型在图像生成方面取得了重大进展，有必要评估ControlNet这一密集控制能力显著的方法。我们的研究发现了ControlNet结果的两个主要问题：大语义区域内存在奇怪的子结构，以及内容与语义掩模不匹配。通过实证研究，我们找到了这些问题的原因，即训练数据分布与推断阶段应用的标准正态先验之间的不匹配。为了解决这一挑战，我们为SIS开发了特定的噪声先验，包括空间、分类和新颖的空间-分类联合先验。这种方法被我们称为SCP-Diff，并取得了卓越的成果，在Cityscapes上达到了10.53的FID，在ADE20K上达到了12.66的FID。项目页面上可以访问到代码和模型。 <br><br> <div>
+Semantic image synthesis (SIS) shows good promises for sensor simulation.
+However, current best practices in this field, based on GANs, have not yet
+reached the desired level of quality. As latent diffusion models make
+significant strides in image generation, we are prompted to evaluate
+ControlNet, a notable method for its dense control capabilities. Our
+investigation uncovered two primary issues with its results: the presence of
+weird sub-structures within large semantic areas and the misalignment of
+content with the semantic mask. Through empirical study, we pinpointed the
+cause of these problems as a mismatch between the noised training data
+distribution and the standard normal prior applied at the inference stage. To
+address this challenge, we developed specific noise priors for SIS,
+encompassing spatial, categorical, and a novel spatial-categorical joint prior
+for inference. This approach, which we have named SCP-Diff, has yielded
+exceptional results, achieving an FID of 10.53 on Cityscapes and 12.66 on
+ADE20K.The code and models can be accessed via the project page.
+]]></content:encoded>
+<pubDate>2024-03-14T17:59:55Z</pubDate>
+<pubDate>2024-03-14T17:59:55Z</pubDate>
+</item>
+<item>
+<title>3D-VLA: A 3D Vision-Language-Action Generative World Model</title>
+<link>http://arxiv.org/abs/2403.09631v1</link>
+<guid>http://arxiv.org/abs/2403.09631v1</guid>
+<content:encoded><![CDATA[
+<div> 3D-VLA, perception, action, world model, embodied foundation model
+
+3D-VLA是一种新型的视觉-语言-行动模型，与以往的2D输入不同，它能够无缝地连接3D感知、推理和行动。该模型引入了一系列交互令牌，以便在具体环境中进行交互，并通过训练一系列体现扩散模型，使模型具备生成能力。此外，模型还建立了一个大规模的3D具体指令数据集，通过提取现有机器人数据集中的大量3D相关信息进行训练。实验表明，3D-VLA显著改善了在具体环境中的推理、多模态生成和规划能力，展现出其在真实世界应用中的潜力。<br><br>总结: <div>
+Recent vision-language-action (VLA) models rely on 2D inputs, lacking
+integration with the broader realm of the 3D physical world. Furthermore, they
+perform action prediction by learning a direct mapping from perception to
+action, neglecting the vast dynamics of the world and the relations between
+actions and dynamics. In contrast, human beings are endowed with world models
+that depict imagination about future scenarios to plan actions accordingly. To
+this end, we propose 3D-VLA by introducing a new family of embodied foundation
+models that seamlessly link 3D perception, reasoning, and action through a
+generative world model. Specifically, 3D-VLA is built on top of a 3D-based
+large language model (LLM), and a set of interaction tokens is introduced to
+engage with the embodied environment. Furthermore, to inject generation
+abilities into the model, we train a series of embodied diffusion models and
+align them into the LLM for predicting the goal images and point clouds. To
+train our 3D-VLA, we curate a large-scale 3D embodied instruction dataset by
+extracting vast 3D-related information from existing robotics datasets. Our
+experiments on held-in datasets demonstrate that 3D-VLA significantly improves
+the reasoning, multimodal generation, and planning capabilities in embodied
+environments, showcasing its potential in real-world applications.
+]]></content:encoded>
+<pubDate>2024-03-14T17:58:41Z</pubDate>
+<pubDate>2024-03-14T17:58:41Z</pubDate>
+</item>
+<item>
+<title>Quiet-STaR: Language Models Can Teach Themselves to Think Before
+  Speaking</title>
+<link>http://arxiv.org/abs/2403.09629v1</link>
+<guid>http://arxiv.org/abs/2403.09629v1</guid>
+<content:encoded><![CDATA[
+
+When writing and talking, people sometimes pause to think. Although
+reasoning-focused works have often framed reasoning as a method of answering
+questions or completing agentic tasks, reasoning is implicit in almost all
+written text. For example, this applies to the steps not stated between the
+lines of a proof or to the theory of mind underlying a conversation. In the
+Self-Taught Reasoner (STaR, Zelikman et al. 2022), useful thinking is learned
+by inferring rationales from few-shot examples in question-answering and
+learning from those that lead to a correct answer. This is a highly constrained
+setting -- ideally, a language model could instead learn to infer unstated
+rationales in arbitrary text. We present Quiet-STaR, a generalization of STaR
+in which LMs learn to generate rationales at each token to explain future text,
+improving their predictions. We address key challenges, including 1) the
+computational cost of generating continuations, 2) the fact that the LM does
+not initially know how to generate or use internal thoughts, and 3) the need to
+predict beyond individual next tokens. To resolve these, we propose a tokenwise
+parallel sampling algorithm, using learnable tokens indicating a thought's
+start and end, and an extended teacher-forcing technique. Encouragingly,
+generated rationales disproportionately help model difficult-to-predict tokens
+and improve the LM's ability to directly answer difficult questions. In
+particular, after continued pretraining of an LM on a corpus of internet text
+with Quiet-STaR, we find zero-shot improvements on GSM8K
+(5.9%$\rightarrow$10.9%) and CommonsenseQA (36.3%$\rightarrow$47.2%) and
+observe a perplexity improvement of difficult tokens in natural text.
+Crucially, these improvements require no fine-tuning on these tasks. Quiet-STaR
+marks a step towards LMs that can learn to reason in a more general and
+scalable way.
+]]></content:encoded>
+<pubDate>2024-03-14T17:58:16Z</pubDate>
+<pubDate>2024-03-14T17:58:16Z</pubDate>
+</item>
 
 <item>
 <title>VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis</title>

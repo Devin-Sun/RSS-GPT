@@ -3236,3 +3236,30 @@ Existing_entries: 63
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-03-16 12:14:07.468585
+------------------------------------------------------
+Started: 2024-03-17 00:38:21.580571
+Existing_entries: 63
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GroupContrast: Semantic-aware Self-supervised Representation Learning
+  for 3D Understanding](http://arxiv.org/abs/2403.09639v1)
+Token length: 1088
+Summarized using GPT-3.5-turbo-1106
+Append: [SCP-Diff: Photo-Realistic Semantic Image Synthesis with
+  Spatial-Categorical Joint Prior](http://arxiv.org/abs/2403.09638v1)
+Filter: [GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary
+  Robotic Grasping](http://arxiv.org/abs/2403.09637v1)
+Filter: [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](http://arxiv.org/abs/2403.09636v1)
+Filter: [Transformers Get Stable: An End-to-End Signal Propagation Theory for
+  Language Models](http://arxiv.org/abs/2403.09635v1)
+Filter: [OneTracker: Unifying Visual Object Tracking with Foundation Models and
+  Efficient Tuning](http://arxiv.org/abs/2403.09634v1)
+Filter: [Holo-Relighting: Controllable Volumetric Portrait Relighting from a
+  Single Image](http://arxiv.org/abs/2403.09632v1)
+Token length: 1361
+Summarized using GPT-3.5-turbo-1106
+Append: [3D-VLA: A 3D Vision-Language-Action Generative World Model](http://arxiv.org/abs/2403.09631v1)
+Filter: [Generalized Predictive Model for Autonomous Driving](http://arxiv.org/abs/2403.09630v1)
+Append: [Quiet-STaR: Language Models Can Teach Themselves to Think Before
+  Speaking](http://arxiv.org/abs/2403.09629v1)
+append_entries: 3
+Finish: 2024-03-17 00:38:28.924925
