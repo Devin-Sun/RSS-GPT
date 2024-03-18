@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VideoAgent: Long-form Video Understanding with Large Language Model as
+  Agent</title>
+<link>http://arxiv.org/abs/2403.10517v1</link>
+<guid>http://arxiv.org/abs/2403.10517v1</guid>
+<content:encoded><![CDATA[
+<div> 长形视频理解，计算机视觉，VideoAgent，互动推理和规划，EgoSchema和NExT-QA benchmarks<br>
+总结:<br>
+这篇文章介绍了长形视频理解方面的挑战，提出了一种名为VideoAgent的代理系统，它采用大型语言模型作为中央代理来迭代地识别和编译关键信息以回答问题，并利用视觉-语言基础模型来翻译和检索视觉信息。经过在具有挑战性的EgoSchema和NExT-QA基准测试上的评估，VideoAgent取得了优秀的成绩，证明了该方法的有效性和效率，突显了代理式方法在推进长形视频理解方面的潜力。 <div>
+Long-form video understanding represents a significant challenge within
+computer vision, demanding a model capable of reasoning over long multi-modal
+sequences. Motivated by the human cognitive process for long-form video
+understanding, we emphasize interactive reasoning and planning over the ability
+to process lengthy visual inputs. We introduce a novel agent-based system,
+VideoAgent, that employs a large language model as a central agent to
+iteratively identify and compile crucial information to answer a question, with
+vision-language foundation models serving as tools to translate and retrieve
+visual information. Evaluated on the challenging EgoSchema and NExT-QA
+benchmarks, VideoAgent achieves 54.1% and 71.3% zero-shot accuracy with only
+8.4 and 8.2 frames used on average. These results demonstrate superior
+effectiveness and efficiency of our method over the current state-of-the-art
+methods, highlighting the potential of agent-based approaches in advancing
+long-form video understanding.
+]]></content:encoded>
+<pubDate>2024-03-15T17:57:52Z</pubDate>
+<pubDate>2024-03-15T17:57:52Z</pubDate>
+</item>
 
 <item>
 <title>SCP-Diff: Photo-Realistic Semantic Image Synthesis with

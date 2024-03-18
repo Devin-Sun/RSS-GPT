@@ -3299,3 +3299,28 @@ Filter: [Holo-Relighting: Controllable Volumetric Portrait Relighting from a
 Filter: [Generalized Predictive Model for Autonomous Driving](http://arxiv.org/abs/2403.09630v1)
 append_entries: 0
 Finish: 2024-03-18 00:36:47.893402
+------------------------------------------------------
+Started: 2024-03-18 12:13:49.792439
+Existing_entries: 66
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap
+  Priors](http://arxiv.org/abs/2403.10521v1)
+Filter: [Strong and Controllable Blind Image Decomposition](http://arxiv.org/abs/2403.10520v1)
+Filter: [Frozen Feature Augmentation for Few-Shot Image Classification](http://arxiv.org/abs/2403.10519v1)
+Filter: [Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation
+  Guided by the Characteristic Dance Primitives](http://arxiv.org/abs/2403.10518v1)
+Token length: 1005
+Summarized using GPT-3.5-turbo-1106
+Append: [VideoAgent: Long-form Video Understanding with Large Language Model as
+  Agent](http://arxiv.org/abs/2403.10517v1)
+Filter: [FeatUp: A Model-Agnostic Framework for Features at Any Resolution](http://arxiv.org/abs/2403.10516v1)
+Filter: [Surveyor: Facilitating Discovery Within Video Games for Blind and Low
+  Vision Players](http://arxiv.org/abs/2403.10512v1)
+Filter: [A Novel Framework for Multi-Person Temporal Gaze Following and Social
+  Gaze Prediction](http://arxiv.org/abs/2403.10511v1)
+Filter: [Demystifying Faulty Code with LLM: Step-by-Step Reasoning for
+  Explainable Fault Localization](http://arxiv.org/abs/2403.10507v1)
+Filter: [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion
+  and Manipulation](http://arxiv.org/abs/2403.10506v1)
+append_entries: 1
+Finish: 2024-03-18 12:13:53.448380
