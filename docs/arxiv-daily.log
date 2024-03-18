@@ -3281,3 +3281,21 @@ Filter: [Holo-Relighting: Controllable Volumetric Portrait Relighting from a
 Filter: [Generalized Predictive Model for Autonomous Driving](http://arxiv.org/abs/2403.09630v1)
 append_entries: 0
 Finish: 2024-03-17 12:13:08.431274
+------------------------------------------------------
+Started: 2024-03-18 00:36:47.119693
+Existing_entries: 66
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GroupContrast: Semantic-aware Self-supervised Representation Learning
+  for 3D Understanding](http://arxiv.org/abs/2403.09639v1)
+Filter: [GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary
+  Robotic Grasping](http://arxiv.org/abs/2403.09637v1)
+Filter: [Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference](http://arxiv.org/abs/2403.09636v1)
+Filter: [Transformers Get Stable: An End-to-End Signal Propagation Theory for
+  Language Models](http://arxiv.org/abs/2403.09635v1)
+Filter: [OneTracker: Unifying Visual Object Tracking with Foundation Models and
+  Efficient Tuning](http://arxiv.org/abs/2403.09634v1)
+Filter: [Holo-Relighting: Controllable Volumetric Portrait Relighting from a
+  Single Image](http://arxiv.org/abs/2403.09632v1)
+Filter: [Generalized Predictive Model for Autonomous Driving](http://arxiv.org/abs/2403.09630v1)
+append_entries: 0
+Finish: 2024-03-18 00:36:47.893402
