@@ -4,6 +4,73 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
+<link>http://arxiv.org/abs/2403.11703v1</link>
+<guid>http://arxiv.org/abs/2403.11703v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Visual encoding, Large multimodal model (LMM), LLaVA-UHD, 图像模块化策略, 压缩模块
+
+LLaVA-UHD是一个能够高效地感知任何宽高比和高分辨率图像的大型多模式模型。它包括图像模块化策略、压缩模块和空间模式等关键组件，能够在9个基准测试中胜过已有LMM模型。LLaVA-UHD在仅使用94%的推理计算的情况下，支持比LLaVA-1.5 336x336大6倍的分辨率图像，并在TextVQA上取得了6.4%的准确性提升。此外，该模型能够在学术环境下高效训练，仅需在8个A100 GPU上花费23小时，相比LLaVA-1.5的26小时。具体数据和代码可在https://github.com/thunlp/LLaVA-UHD上公开获取。<br><br>总结: 本文介绍了LLaVA-UHD，一个针对视觉编码策略的大型多模式模型。通过图像模块化策略、压缩模块和空间模式等关键组件，LLaVA-UHD能够在高分辨率和任何宽高比的图像上表现出色，在多个基准测试中超越已有的LMM模型。 <div>
+Visual encoding constitutes the basis of large multimodal models (LMMs) in
+understanding the visual world. Conventional LMMs process images in fixed sizes
+and limited resolutions, while recent explorations in this direction are
+limited in adaptivity, efficiency, and even correctness. In this work, we first
+take GPT-4V and LLaVA-1.5 as representative examples and expose systematic
+flaws rooted in their visual encoding strategy. To address the challenges, we
+present LLaVA-UHD, a large multimodal model that can efficiently perceive
+images in any aspect ratio and high resolution. LLaVA-UHD includes three key
+components: (1) An image modularization strategy that divides native-resolution
+images into smaller variable-sized slices for efficient and extensible
+encoding, (2) a compression module that further condenses image tokens from
+visual encoders, and (3) a spatial schema to organize slice tokens for LLMs.
+Comprehensive experiments show that LLaVA-UHD outperforms established LMMs
+trained with 2-3 orders of magnitude more data on 9 benchmarks. Notably, our
+model built on LLaVA-1.5 336x336 supports 6 times larger (i.e., 672x1088)
+resolution images using only 94% inference computation, and achieves 6.4
+accuracy improvement on TextVQA. Moreover, the model can be efficiently trained
+in academic settings, within 23 hours on 8 A100 GPUs (vs. 26 hours of
+LLaVA-1.5). We make the data and code publicly available at
+https://github.com/thunlp/LLaVA-UHD.
+]]></content:encoded>
+<pubDate>2024-03-18T12:04:11Z</pubDate>
+<pubDate>2024-03-18T12:04:11Z</pubDate>
+</item>
+<item>
+<title>Virbo: Multimodal Multilingual Avatar Video Generation in Digital
+  Marketing</title>
+<link>http://arxiv.org/abs/2403.11700v1</link>
+<guid>http://arxiv.org/abs/2403.11700v1</guid>
+<content:encoded><![CDATA[
+<div> 智能系统、短视频制作、多语言定制、视频营销、成本降低
+<br><br>总结:
+本文介绍了一个名为Virbo的智能系统，支持自动生成讲话头像视频。用户只需提供指定的脚本，Virbo便可以使用深度生成模型生成目标讲话视频。同时，该系统还支持多模态输入，可定制具有指定面部、指定声音和特效的视频。此外，系统还集成了一个多语言定制模块，支持批量生成数百种精美模板和创意特效的多语言讲话头像视频。通过一系列用户研究和演示测试，我们发现Virbo能够生成保持高质量的视频，而整个制作成本大大降低。这一智能系统将有效推动视频制作行业的发展，解决语言障碍和成本挑战，促进互联网营销。 <div>
+With the widespread popularity of internet celebrity marketing all over the
+world, short video production has gradually become a popular way of presenting
+products information. However, the traditional video production industry
+usually includes series of procedures as script writing, video filming in a
+professional studio, video clipping, special effects rendering, customized
+post-processing, and so forth. Not to mention that multilingual videos is not
+accessible for those who could not speak multilingual languages. These
+complicated procedures usually needs a professional team to complete, and this
+made short video production costly in both time and money. This paper presents
+an intelligent system that supports the automatic generation of talking avatar
+videos, namely Virbo. With simply a user-specified script, Virbo could use a
+deep generative model to generate a target talking videos. Meanwhile, the
+system also supports multimodal inputs to customize the video with specified
+face, specified voice and special effects. This system also integrated a
+multilingual customization module that supports generate multilingual talking
+avatar videos in a batch with hundreds of delicate templates and creative
+special effects. Through a series of user studies and demo tests, we found that
+Virbo can generate talking avatar videos that maintained a high quality of
+videos as those from a professional team while reducing the entire production
+costs significantly. This intelligent system will effectively promote the video
+production industry and facilitate the internet marketing neglecting of
+language barriers and cost challenges.
+]]></content:encoded>
+<pubDate>2024-03-18T11:56:35Z</pubDate>
+<pubDate>2024-03-18T11:56:35Z</pubDate>
+</item>
 
 <item>
 <title>VideoAgent: Long-form Video Understanding with Large Language Model as
