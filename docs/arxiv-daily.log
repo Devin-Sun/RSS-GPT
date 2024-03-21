@@ -3413,3 +3413,22 @@ Filter: [WHAC: World-grounded Humans and Cameras](http://arxiv.org/abs/2403.1295
 Filter: [Dated Data: Tracing Knowledge Cutoffs in Large Language Models](http://arxiv.org/abs/2403.12958v1)
 append_entries: 1
 Finish: 2024-03-20 12:13:41.396063
+------------------------------------------------------
+Started: 2024-03-21 00:37:01.690684
+Existing_entries: 70
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic
+  Prompt Compression](http://arxiv.org/abs/2403.12968v1)
+Filter: [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence
+  Alignment](http://arxiv.org/abs/2403.12965v1)
+Filter: [Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language
+  Models](http://arxiv.org/abs/2403.12964v1)
+Filter: [FouriScale: A Frequency Perspective on Training-Free High-Resolution
+  Image Synthesis](http://arxiv.org/abs/2403.12963v1)
+Filter: [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](http://arxiv.org/abs/2403.12962v1)
+Filter: [TexTile: A Differentiable Metric for Texture Tileability](http://arxiv.org/abs/2403.12961v1)
+Filter: [FaceXFormer: A Unified Transformer for Facial Analysis](http://arxiv.org/abs/2403.12960v1)
+Filter: [WHAC: World-grounded Humans and Cameras](http://arxiv.org/abs/2403.12959v1)
+Filter: [Dated Data: Tracing Knowledge Cutoffs in Large Language Models](http://arxiv.org/abs/2403.12958v1)
+append_entries: 0
+Finish: 2024-03-21 00:37:02.829765

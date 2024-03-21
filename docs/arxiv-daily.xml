@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language
   Models</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：视觉-语言理解、大型视觉-语言模型、交互式推理、细节信息、多模态数据集
 
-总结：<br><br>本文介绍了大型视觉-语言模型中视觉编码器在提取有针对性的特征方面所面临的挑战，以及现有模型普遍采用低分辨率图像限制了视觉识别能力的问题。作者提出了Chain-of-Spot (CoS)方法，即交互式推理，通过关注图像中与问题或指令相对应的关键区域，从而增强特征提取，实现了多粒度图像特征的获取。将Chain-of-Spot与LLaVA-1.5模型相结合，显著提升了模型在多模态数据集和基准测试中的性能，取得了新的最先进结果。作者的实证研究表明，该方法显著改善了大型视觉-语言模型理解和推理视觉内容的能力，为更复杂的视觉指令跟随应用铺平了道路。 <div>
+总结：<br /><br />本文介绍了大型视觉-语言模型中视觉编码器在提取有针对性的特征方面所面临的挑战，以及现有模型普遍采用低分辨率图像限制了视觉识别能力的问题。作者提出了Chain-of-Spot (CoS)方法，即交互式推理，通过关注图像中与问题或指令相对应的关键区域，从而增强特征提取，实现了多粒度图像特征的获取。将Chain-of-Spot与LLaVA-1.5模型相结合，显著提升了模型在多模态数据集和基准测试中的性能，取得了新的最先进结果。作者的实证研究表明，该方法显著改善了大型视觉-语言模型理解和推理视觉内容的能力，为更复杂的视觉指令跟随应用铺平了道路。 <div>
 In the realm of vision-language understanding, the proficiency of models in
 interpreting and reasoning over visual content has become a cornerstone for
 numerous applications. However, it is challenging for the visual encoder in
@@ -35,9 +36,7 @@ sophisticated visual instruction-following applications. Code and models are
 available at https://github.com/dongyh20/Chain-of-Spot
 ]]></content:encoded>
 <pubDate>2024-03-19T17:59:52Z</pubDate>
-<pubDate>2024-03-19T17:59:52Z</pubDate>
 </item>
-
 <item>
 <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
 <link>http://arxiv.org/abs/2403.11703v1</link>
