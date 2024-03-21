@@ -3432,3 +3432,22 @@ Filter: [WHAC: World-grounded Humans and Cameras](http://arxiv.org/abs/2403.1295
 Filter: [Dated Data: Tracing Knowledge Cutoffs in Large Language Models](http://arxiv.org/abs/2403.12958v1)
 append_entries: 0
 Finish: 2024-03-21 00:37:02.829765
+------------------------------------------------------
+Started: 2024-03-21 12:13:20.883884
+Existing_entries: 70
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On Pretraining Data Diversity for Self-Supervised Learning](http://arxiv.org/abs/2403.13808v1)
+Filter: [Editing Massive Concepts in Text-to-Image Diffusion Models](http://arxiv.org/abs/2403.13807v1)
+Filter: [RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition](http://arxiv.org/abs/2403.13805v1)
+Filter: [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust
+  Real-Time Rendering with 900+ FPS](http://arxiv.org/abs/2403.13806v1)
+Filter: [Learning from Models and Data for Visual Grounding](http://arxiv.org/abs/2403.13804v1)
+Filter: [Bounding Box Stability against Feature Dropout Reflects Detector
+  Generalization across Environments](http://arxiv.org/abs/2403.13803v1)
+Filter: [ZigMa: Zigzag Mamba Diffusion Model](http://arxiv.org/abs/2403.13802v1)
+Filter: [Natural Language as Polices: Reasoning for Coordinate-Level Embodied
+  Control with LLMs](http://arxiv.org/abs/2403.13801v1)
+Filter: [TimeRewind: Rewinding Time with Image-and-Events Video Diffusion](http://arxiv.org/abs/2403.13800v1)
+Filter: [Reverse Training to Nurse the Reversal Curse](http://arxiv.org/abs/2403.13799v1)
+append_entries: 0
+Finish: 2024-03-21 12:13:21.865116
