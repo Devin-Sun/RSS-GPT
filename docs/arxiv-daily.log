@@ -3580,3 +3580,25 @@ Filter: [Videoshop: Localized Semantic Video Editing with Noise-Extrapolated
   Diffusion Inversion](http://arxiv.org/abs/2403.14617v1)
 append_entries: 0
 Finish: 2024-03-24 12:13:19.068865
+------------------------------------------------------
+Started: 2024-03-25 00:37:16.251768
+Existing_entries: 70
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Zero-Shot Multi-Object Shape Completion](http://arxiv.org/abs/2403.14628v1)
+Filter: [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](http://arxiv.org/abs/2403.14627v1)
+Filter: [LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT
+  Descriptors](http://arxiv.org/abs/2403.14625v1)
+Filter: [ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras
+  Based on Transformer](http://arxiv.org/abs/2403.14626v1)
+Filter: [MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual
+  Math Problems?](http://arxiv.org/abs/2403.14624v1)
+Filter: [Simplified Diffusion Schrödinger Bridge](http://arxiv.org/abs/2403.14623v1)
+Filter: [Language Repository for Long Video Understanding](http://arxiv.org/abs/2403.14622v1)
+Filter: [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction
+  and Generation](http://arxiv.org/abs/2403.14621v1)
+Filter: [ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D
+  Decomposition](http://arxiv.org/abs/2403.14619v1)
+Filter: [Videoshop: Localized Semantic Video Editing with Noise-Extrapolated
+  Diffusion Inversion](http://arxiv.org/abs/2403.14617v1)
+append_entries: 0
+Finish: 2024-03-25 00:37:17.150478
