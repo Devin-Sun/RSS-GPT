@@ -3627,3 +3627,21 @@ Filter: [A Modular, End-to-End Next-Generation Network Testbed: Towards a Fully
 Filter: [Enhancing Testing at Meta with Rich-State Simulated Populations](http://arxiv.org/abs/2403.15374v1)
 append_entries: 3
 Finish: 2024-03-25 12:14:24.963454
+------------------------------------------------------
+Started: 2024-03-26 00:35:59.092864
+Existing_entries: 73
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from
+  Partially Annotated Data](http://arxiv.org/abs/2403.15389v1)
+Filter: [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal
+  Models](http://arxiv.org/abs/2403.15388v1)
+Filter: [DragAPart: Learning a Part-Level Motion Prior for Articulated Objects](http://arxiv.org/abs/2403.15382v1)
+Filter: [Control Designs for Critical-Continegency Responsible Grid-Following
+  Inverters and Seamless Transitions To and From Grid-Forming Modes](http://arxiv.org/abs/2403.15380v1)
+Filter: [InternVideo2: Scaling Video Foundation Models for Multimodal Video
+  Understanding](http://arxiv.org/abs/2403.15377v1)
+Filter: [A Modular, End-to-End Next-Generation Network Testbed: Towards a Fully
+  Automated Network Management Platform](http://arxiv.org/abs/2403.15376v1)
+Filter: [Enhancing Testing at Meta with Rich-State Simulated Populations](http://arxiv.org/abs/2403.15374v1)
+append_entries: 0
+Finish: 2024-03-26 00:35:59.712558

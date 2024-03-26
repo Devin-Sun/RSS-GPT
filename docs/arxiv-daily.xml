@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis</title>
 <link>http://arxiv.org/abs/2403.15385v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 文本到3D生成, LATTE3D, 优化, 3D数据, 高效性
 
-总结:<br><br>
+总结:<br /><br />
 LATTE3D是一个新的文本到3D生成方法，通过建立可伸缩的架构和利用3D数据进行优化，实现了快速高质量的生成。与以往方法相比，LATTE3D能够在单次前向传递中产生高度详细的纹理网格，生成速度为400毫秒。该方法进一步可以通过快速的测试时间优化来提升效果。LATTE3D克服了以往方法的缺点，能够在更大的输入数据集上表现良好。 <div>
 Recent text-to-3D generation approaches produce impressive 3D results but
 require time-consuming optimization that can take up to an hour per prompt.
@@ -29,7 +30,6 @@ forward pass. LATTE3D generates 3D objects in 400ms, and can be further
 enhanced with fast test-time optimization.
 ]]></content:encoded>
 <pubDate>2024-03-22T17:59:37Z</pubDate>
-<pubDate>2024-03-22T17:59:37Z</pubDate>
 </item>
 <item>
 <title>ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars</title>
@@ -37,9 +37,9 @@ enhanced with fast test-time optimization.
 <guid>http://arxiv.org/abs/2403.15383v1</guid>
 <content:encoded><![CDATA[
 <div> 3D assets, ThemeStation, generation, diversity, quality
-<br><br>
+<br /><br />
 本文介绍了一种名为ThemeStation的方法，用于主题感知的3D到3D生成。该方法通过两个阶段的框架设计来实现自定义3D资产的合成，首先生成概念图像，然后进行参考信息辅助的3D建模。文章提出了一种新颖的双重分数蒸馏（DSD）损失，以共同利用来自输入示例和合成概念图像的先验知识。大量实验和用户研究证实，ThemeStation在生成多样化的主题感知3D模型方面优于先前的工作，并且质量令人印象深刻。ThemeStation还能够实现各种应用，比如可控的3D到3D生成。
-<br> 
+<br /> 
 总结:本文介绍了一种新颖的方法ThemeStation用于主题感知的3D到3D生成，通过两个阶段的框架设计实现自定义3D资产的合成。提出了一种新颖的双重分数蒸馏（DSD）损失以共同利用先验知识。实验证实，ThemeStation在生成多样化的主题感知3D模型方面优于先前的工作，并且质量令人印象深刻。 <div>
 Real-world applications often require a large gallery of 3D assets that share
 a consistent theme. While remarkable advances have been made in general 3D
@@ -59,14 +59,12 @@ theme-aware 3D models with impressive quality. ThemeStation also enables
 various applications such as controllable 3D-to-3D generation.
 ]]></content:encoded>
 <pubDate>2024-03-22T17:59:01Z</pubDate>
-<pubDate>2024-03-22T17:59:01Z</pubDate>
 </item>
 <item>
 <title>Long-CLIP: Unlocking the Long-Text Capability of CLIP</title>
 <link>http://arxiv.org/abs/2403.15378v1</link>
 <guid>http://arxiv.org/abs/2403.15378v1</guid>
 <content:encoded><![CDATA[
-
 Contrastive Language-Image Pre-training (CLIP) has been the cornerstone for
 zero-shot classification, text-image retrieval, and text-image generation by
 aligning image and text modalities. Despite its widespread adoption, a
@@ -94,9 +92,7 @@ enhanced capabilities for generating images from detailed text descriptions by
 replacing CLIP in a plug-and-play manner.
 ]]></content:encoded>
 <pubDate>2024-03-22T17:58:16Z</pubDate>
-<pubDate>2024-03-22T17:58:16Z</pubDate>
 </item>
-
 <item>
 <title>Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language
   Models</title>
