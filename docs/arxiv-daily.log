@@ -3691,3 +3691,26 @@ Filter: [CurbNet: Curb Detection Framework Based on LiDAR Point Cloud
   Segmentation](http://arxiv.org/abs/2403.16794v1)
 append_entries: 2
 Finish: 2024-03-27 00:35:49.360150
+------------------------------------------------------
+Started: 2024-03-27 12:14:30.204829
+Existing_entries: 75
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Efficient Video Object Segmentation via Modulated Cross-Attention Memory](http://arxiv.org/abs/2403.17937v1)
+Filter: [ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture
+  Synthesis](http://arxiv.org/abs/2403.17936v1)
+Filter: [OmniVid: A Generative Framework for Universal Video Understanding](http://arxiv.org/abs/2403.17935v1)
+Filter: [AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2403.17934v1)
+Token length: 1482
+Summarized using GPT-3.5-turbo-1106
+Append: [SLEDGE: Synthesizing Simulation Environments for Driving Agents with
+  Generative Models](http://arxiv.org/abs/2403.17933v1)
+Filter: [Track Everything Everywhere Fast and Robustly](http://arxiv.org/abs/2403.17931v1)
+Filter: [Towards Explaining Hypercomplex Neural Networks](http://arxiv.org/abs/2403.17929v1)
+Token length: 1412
+Summarized using GPT-3.5-turbo-1106
+Append: [MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution](http://arxiv.org/abs/2403.17927v1)
+Filter: [FastCAR: Fast Classification And Regression Multi-Task Learning via Task
+  Consolidation for Modelling a Continuous Property Variable of Object Classes](http://arxiv.org/abs/2403.17926v1)
+Filter: [AID: Attention Interpolation of Text-to-Image Diffusion](http://arxiv.org/abs/2403.17924v1)
+append_entries: 2
+Finish: 2024-03-27 12:14:48.585936
