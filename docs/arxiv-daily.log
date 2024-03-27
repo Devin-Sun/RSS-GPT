@@ -3663,3 +3663,31 @@ Filter: [Resonant Beam Communications: A New Design Paradigm and Challenges](htt
 Filter: [DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization](http://arxiv.org/abs/2403.16697v1)
 append_entries: 0
 Finish: 2024-03-26 12:14:45.951571
+------------------------------------------------------
+Started: 2024-03-27 00:35:38.366096
+Existing_entries: 73
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered
+  Deliberative AI for AI-Assisted Decision-Making](http://arxiv.org/abs/2403.16812v1)
+Token length: 1713
+Summarized using GPT-3.5-turbo-1106
+Append: [An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems](http://arxiv.org/abs/2403.16809v1)
+Filter: [Navigating the EU AI Act: A Methodological Approach to Compliance for
+  Safety-critical Products](http://arxiv.org/abs/2403.16808v1)
+Filter: [TEI2GO: A Multilingual Approach for Fast Temporal Expression
+  Identification](http://arxiv.org/abs/2403.16804v1)
+Token length: 1000
+Summarized using GPT-3.5-turbo-1106
+Append: [Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View
+  Planning](http://arxiv.org/abs/2403.16803v1)
+Filter: [Efficient Method for Finding Optimal Strategies in Chopstick Auctions
+  with Uniform Objects Values](http://arxiv.org/abs/2403.16799v1)
+Filter: [Cluster-Based Normalization Layer for Neural Networks](http://arxiv.org/abs/2403.16798v1)
+Filter: [Privacy Preservation by Intermittent Transmission in Cooperative LQG
+  Control Systems](http://arxiv.org/abs/2403.16797v1)
+Filter: ["We Have No Idea How Models will Behave in Production until Production":
+  How Engineers Operationalize Machine Learning](http://arxiv.org/abs/2403.16795v1)
+Filter: [CurbNet: Curb Detection Framework Based on LiDAR Point Cloud
+  Segmentation](http://arxiv.org/abs/2403.16794v1)
+append_entries: 2
+Finish: 2024-03-27 00:35:49.360150
