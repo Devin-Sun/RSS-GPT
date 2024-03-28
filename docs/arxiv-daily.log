@@ -3714,3 +3714,19 @@ Filter: [FastCAR: Fast Classification And Regression Multi-Task Learning via Tas
 Filter: [AID: Attention Interpolation of Text-to-Image Diffusion](http://arxiv.org/abs/2403.17924v1)
 append_entries: 2
 Finish: 2024-03-27 12:14:48.585936
+------------------------------------------------------
+Started: 2024-03-28 00:35:59.986929
+Existing_entries: 77
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Efficient Video Object Segmentation via Modulated Cross-Attention Memory](http://arxiv.org/abs/2403.17937v1)
+Filter: [ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture
+  Synthesis](http://arxiv.org/abs/2403.17936v1)
+Filter: [OmniVid: A Generative Framework for Universal Video Understanding](http://arxiv.org/abs/2403.17935v1)
+Filter: [AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation](http://arxiv.org/abs/2403.17934v1)
+Filter: [Track Everything Everywhere Fast and Robustly](http://arxiv.org/abs/2403.17931v1)
+Filter: [Towards Explaining Hypercomplex Neural Networks](http://arxiv.org/abs/2403.17929v1)
+Filter: [FastCAR: Fast Classification And Regression Multi-Task Learning via Task
+  Consolidation for Modelling a Continuous Property Variable of Object Classes](http://arxiv.org/abs/2403.17926v1)
+Filter: [AID: Attention Interpolation of Text-to-Image Diffusion](http://arxiv.org/abs/2403.17924v1)
+append_entries: 0
+Finish: 2024-03-28 00:36:00.480895

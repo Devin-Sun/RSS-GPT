@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>SLEDGE: Synthesizing Simulation Environments for Driving Agents with
   Generative Models</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2403.17933v1</guid>
 <content:encoded><![CDATA[
 <div> 训练、模拟、车辆、生成模型、交通仿真
-总结：<br><br>这篇文章介绍了SLEDGE，它是第一个在真实驾驶记录上训练的车辆运动规划生成器。其核心组件是一个学习模型，能够生成车辆包围框和车道图。通过对现有车道图表示的系统研究，引入了一种新颖的栅格到矢量自编码器(RVAE)。RVAE能够将代理和车道图编码成栅格化潜在地图的不同通道，这有助于车道条件下的代理生成，以及使用扩散变压器同时生成车道和代理。SLEDGE的生成实体能够更好地控制仿真，例如增加转弯或提高交通密度。与nuPlan相比，SLEDGE设置存储量减少了500倍(<4GB)，更易于获取，有助于民主化这一领域的未来研究。在测试SLEDGE生成的困难路线和密集交通时，nuPlan比赛获胜者PDM的失败率超过40%，这为规划算法带来了新的挑战。 <div>
+总结：<br /><br />这篇文章介绍了SLEDGE，它是第一个在真实驾驶记录上训练的车辆运动规划生成器。其核心组件是一个学习模型，能够生成车辆包围框和车道图。通过对现有车道图表示的系统研究，引入了一种新颖的栅格到矢量自编码器(RVAE)。RVAE能够将代理和车道图编码成栅格化潜在地图的不同通道，这有助于车道条件下的代理生成，以及使用扩散变压器同时生成车道和代理。SLEDGE的生成实体能够更好地控制仿真，例如增加转弯或提高交通密度。与nuPlan相比，SLEDGE设置存储量减少了500倍(<4GB)，更易于获取，有助于民主化这一领域的未来研究。在测试SLEDGE生成的困难路线和密集交通时，nuPlan比赛获胜者PDM的失败率超过40%，这为规划算法带来了新的挑战。 <div>
 SLEDGE is the first generative simulator for vehicle motion planning trained
 on real-world driving logs. Its core component is a learned model that is able
 to generate agent bounding boxes and lane graphs. The model's outputs serve as
@@ -34,7 +35,6 @@ a more accessible option and helping with democratizing future research in this
 field.
 ]]></content:encoded>
 <pubDate>2024-03-26T17:58:29Z</pubDate>
-<pubDate>2024-03-26T17:58:29Z</pubDate>
 </item>
 <item>
 <title>MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution</title>
@@ -42,7 +42,7 @@ field.
 <guid>http://arxiv.org/abs/2403.17927v1</guid>
 <content:encoded><![CDATA[
 <div> GitHub, LLMs, MAGIS, software evolution, agents
-总结:<br>
+总结:<br />
 这篇文章介绍了在GitHub存储库中解决出现的问题是一个复杂的挑战，需要不断地更新代码并维护现有功能。大型语言模型（LLMs）在代码生成和理解方面表现出了潜力，但在存储库级别的代码更改上遇到了困难。为了克服这些挑战，作者通过实证研究了LLMs通常无法解决GitHub问题的原因，并分析了一些影响因素。在此基础上，他们提出了基于LLM的多Agent框架MAGIS，该框架包括四种个性化的代理：经理、存储库管理员、开发人员和质量保证工程师代理。在实验中，他们使用SWE-bench基准来比较MAGIS与流行的LLMs，包括GPT-3.5，GPT-4和Claude-2。结果显示，MAGIS能够解决13.94%的GitHub问题，明显优于基线。具体来说，MAGIS在解决比率上比直接应用GPT-4提高了八倍。文章还分析了提高GitHub问题解决率的因素，如代码行位置、任务分配等。 <div>
 In software evolution, resolving the emergent issues within GitHub
 repositories is a complex challenge that involves not only the incorporation of
@@ -65,9 +65,7 @@ method. We also analyze the factors for improving GitHub issue resolution
 rates, such as line location, task allocation, etc.
 ]]></content:encoded>
 <pubDate>2024-03-26T17:57:57Z</pubDate>
-<pubDate>2024-03-26T17:57:57Z</pubDate>
 </item>
-
 <item>
 <title>An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems</title>
 <link>http://arxiv.org/abs/2403.16809v1</link>
