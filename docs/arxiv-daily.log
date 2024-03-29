@@ -3761,3 +3761,29 @@ Filter: [ECoDepth: Effective Conditioning of Diffusion Models for Monocular Dept
   Estimation](http://arxiv.org/abs/2403.18807v1)
 append_entries: 0
 Finish: 2024-03-29 00:35:55.055585
+------------------------------------------------------
+Started: 2024-03-29 12:14:50.787150
+Existing_entries: 77
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GaussianCube: Structuring Gaussian Splatting using Optimal Transport for
+  3D Generative Modeling](http://arxiv.org/abs/2403.19655v1)
+Filter: [RSMamba: Remote Sensing Image Classification with State Space Model](http://arxiv.org/abs/2403.19654v1)
+Token length: 1119
+Summarized using GPT-3.5-turbo-1106
+Append: [Detecting Image Attribution for Text-to-Image Diffusion Models in RGB
+  and Beyond](http://arxiv.org/abs/2403.19653v1)
+Filter: [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](http://arxiv.org/abs/2403.19652v1)
+Token length: 1510
+Summarized using GPT-3.5-turbo-1106
+Append: [MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions](http://arxiv.org/abs/2403.19651v1)
+Filter: [GraspXL: Generating Grasping Motions for Diverse Objects at Scale](http://arxiv.org/abs/2403.19649v1)
+Append: [Human-compatible driving partners through data-regularized self-play
+  reinforcement learning](http://arxiv.org/abs/2403.19648v1)
+Filter: [Sparse Feature Circuits: Discovering and Editing Interpretable Causal
+  Graphs in Language Models](http://arxiv.org/abs/2403.19647v1)
+Filter: [Change-Agent: Towards Interactive Comprehensive Change Interpretation
+  and Analysis from Change Detection and Change Captioning](http://arxiv.org/abs/2403.19646v1)
+Append: [GANTASTIC: GAN-based Transfer of Interpretable Directions for
+  Disentangled Image Editing in Text-to-Image Diffusion Models](http://arxiv.org/abs/2403.19645v1)
+append_entries: 4
+Finish: 2024-03-29 12:15:19.963925

@@ -4,6 +4,122 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Detecting Image Attribution for Text-to-Image Diffusion Models in RGB
+  and Beyond</title>
+<link>http://arxiv.org/abs/2403.19653v1</link>
+<guid>http://arxiv.org/abs/2403.19653v1</guid>
+<content:encoded><![CDATA[
+<div> 文本到图像，T2I模型，真实主义，图像生成，图像检测，可追溯性
+
+T2I模型在生成图像方面取得了巨大进步，具有惊人的真实主义和创造力。这种进展引发了对假图像检测和归因的研究，但先前的研究并未完全探讨这一任务的实际和科学维度。除了将图像归因给12种最先进的T2I生成器外，我们还对推断阶段的超参数和图像修改进行了广泛的分析。我们的实验揭示了初始化种子是高度可检测的，以及图像生成过程中的其他细微变化在一定程度上是可辨识的。我们进一步调查了对图像归因所利用的视觉痕迹，通过扰动高频细节和利用图像风格和结构的中等级表示。值得注意的是，改变高频信息只会稍微降低准确性，并且在风格表示上训练的归因器表现优于在RGB图像上进行训练。我们的分析强调了与先前探索的各种视觉粒度级别相比，假图像在不同级别上是可检测和可归因的。 <br><br>总结: 文本到图像（T2I）模型取得了巨大进步，可以生成具有惊人真实主义和创造力的图像。研究人员对假图像检测和归因进行了深入探讨，发现初始化种子和图像生成过程中的微小变化都是可辨识的。此外，通过扰动高频细节和利用图像风格和结构的中等级表示，也可以追踪图像的可信度。这些分析结果强调了实验发现的各种视觉粒度级别，进一步证明了假图像在不同级别上是可检测和可归因的。 <div>
+Modern text-to-image (T2I) diffusion models can generate images with
+remarkable realism and creativity. These advancements have sparked research in
+fake image detection and attribution, yet prior studies have not fully explored
+the practical and scientific dimensions of this task. In addition to
+attributing images to 12 state-of-the-art T2I generators, we provide extensive
+analyses on what inference stage hyperparameters and image modifications are
+discernible. Our experiments reveal that initialization seeds are highly
+detectable, along with other subtle variations in the image generation process
+to some extent. We further investigate what visual traces are leveraged in
+image attribution by perturbing high-frequency details and employing mid-level
+representations of image style and structure. Notably, altering high-frequency
+information causes only slight reductions in accuracy, and training an
+attributor on style representations outperforms training on RGB images. Our
+analyses underscore that fake images are detectable and attributable at various
+levels of visual granularity than previously explored.
+]]></content:encoded>
+<pubDate>2024-03-28T17:59:42Z</pubDate>
+<pubDate>2024-03-28T17:59:42Z</pubDate>
+</item>
+<item>
+<title>MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions</title>
+<link>http://arxiv.org/abs/2403.19651v1</link>
+<guid>http://arxiv.org/abs/2403.19651v1</guid>
+<content:encoded><![CDATA[
+<div> 自监督图像检索模型，文本指令，MagicLens，多模态模型，语言模型
+<br><br>总结:
+本文介绍了一种名为MagicLens的自监督图像检索模型，利用文本指令来实现更丰富的图像检索。通过在同一网页上自然出现的图像对中挖掘丰富的语义关系，并利用大型多模态模型和大型语言模型来合成指令，使得模型能够支持开放式指令的图像检索。MagicLens在3600万个（查询图像，指令，目标图像）三元组上进行训练，并在八个不同的图像检索任务基准上取得可比或更好的结果，超过之前最先进的方法，同时模型规模减小了50倍。另外，对140万个未见过的图像进行人类分析，进一步展示了MagicLens支持的多样化搜索意图。 <div>
+Image retrieval, i.e., finding desired images given a reference image,
+inherently encompasses rich, multi-faceted search intents that are difficult to
+capture solely using image-based measures. Recent work leverages text
+instructions to allow users to more freely express their search intents.
+However, existing work primarily focuses on image pairs that are visually
+similar and/or can be characterized by a small set of pre-defined relations.
+The core thesis of this paper is that text instructions can enable retrieving
+images with richer relations beyond visual similarity. To show this, we
+introduce MagicLens, a series of self-supervised image retrieval models that
+support open-ended instructions. MagicLens is built on a key novel insight:
+image pairs that naturally occur on the same web pages contain a wide range of
+implicit relations (e.g., inside view of), and we can bring those implicit
+relations explicit by synthesizing instructions via large multimodal models
+(LMMs) and large language models (LLMs). Trained on 36.7M (query image,
+instruction, target image) triplets with rich semantic relations mined from the
+web, MagicLens achieves comparable or better results on eight benchmarks of
+various image retrieval tasks than prior state-of-the-art (SOTA) methods.
+Remarkably, it outperforms previous SOTA but with a 50X smaller model size on
+multiple benchmarks. Additional human analyses on a 1.4M-image unseen corpus
+further demonstrate the diversity of search intents supported by MagicLens.
+]]></content:encoded>
+<pubDate>2024-03-28T17:59:20Z</pubDate>
+<pubDate>2024-03-28T17:59:20Z</pubDate>
+</item>
+<item>
+<title>Human-compatible driving partners through data-regularized self-play
+  reinforcement learning</title>
+<link>http://arxiv.org/abs/2403.19648v1</link>
+<guid>http://arxiv.org/abs/2403.19648v1</guid>
+<content:encoded><![CDATA[
+
+A central challenge for autonomous vehicles is coordinating with humans.
+Therefore, incorporating realistic human agents is essential for scalable
+training and evaluation of autonomous driving systems in simulation. Simulation
+agents are typically developed by imitating large-scale, high-quality datasets
+of human driving. However, pure imitation learning agents empirically have high
+collision rates when executed in a multi-agent closed-loop setting. To build
+agents that are realistic and effective in closed-loop settings, we propose
+Human-Regularized PPO (HR-PPO), a multi-agent algorithm where agents are
+trained through self-play with a small penalty for deviating from a human
+reference policy. In contrast to prior work, our approach is RL-first and only
+uses 30 minutes of imperfect human demonstrations. We evaluate agents in a
+large set of multi-agent traffic scenes. Results show our HR-PPO agents are
+highly effective in achieving goals, with a success rate of 93%, an off-road
+rate of 3.5%, and a collision rate of 3%. At the same time, the agents drive in
+a human-like manner, as measured by their similarity to existing human driving
+logs. We also find that HR-PPO agents show considerable improvements on proxy
+measures for coordination with human driving, particularly in highly
+interactive scenarios. We open-source our code and trained agents at
+https://github.com/Emerge-Lab/nocturne_lab and provide demonstrations of agent
+behaviors at https://sites.google.com/view/driving-partners.
+]]></content:encoded>
+<pubDate>2024-03-28T17:56:56Z</pubDate>
+<pubDate>2024-03-28T17:56:56Z</pubDate>
+</item>
+<item>
+<title>GANTASTIC: GAN-based Transfer of Interpretable Directions for
+  Disentangled Image Editing in Text-to-Image Diffusion Models</title>
+<link>http://arxiv.org/abs/2403.19645v1</link>
+<guid>http://arxiv.org/abs/2403.19645v1</guid>
+<content:encoded><![CDATA[
+
+The rapid advancement in image generation models has predominantly been
+driven by diffusion models, which have demonstrated unparalleled success in
+generating high-fidelity, diverse images from textual prompts. Despite their
+success, diffusion models encounter substantial challenges in the domain of
+image editing, particularly in executing disentangled edits-changes that target
+specific attributes of an image while leaving irrelevant parts untouched. In
+contrast, Generative Adversarial Networks (GANs) have been recognized for their
+success in disentangled edits through their interpretable latent spaces. We
+introduce GANTASTIC, a novel framework that takes existing directions from
+pre-trained GAN models-representative of specific, controllable attributes-and
+transfers these directions into diffusion-based models. This novel approach not
+only maintains the generative quality and diversity that diffusion models are
+known for but also significantly enhances their capability to perform precise,
+targeted image edits, thereby leveraging the best of both worlds.
+]]></content:encoded>
+<pubDate>2024-03-28T17:55:16Z</pubDate>
+<pubDate>2024-03-28T17:55:16Z</pubDate>
+</item>
 
 <item>
 <title>SLEDGE: Synthesizing Simulation Environments for Driving Agents with
