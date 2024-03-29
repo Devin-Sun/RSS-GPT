@@ -3738,3 +3738,26 @@ Filter: [Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and
   Benchmark](http://arxiv.org/abs/2403.18821v1)
 append_entries: 0
 Finish: 2024-03-28 12:15:15.178154
+------------------------------------------------------
+Started: 2024-03-29 00:35:54.359195
+Existing_entries: 77
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and
+  Benchmark](http://arxiv.org/abs/2403.18821v1)
+Filter: [MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view
+  Human Performance Capture and Rendering](http://arxiv.org/abs/2403.18820v1)
+Filter: [Benchmarking Object Detectors with COCO: A New Path Forward](http://arxiv.org/abs/2403.18819v1)
+Filter: [ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object
+  Removal and Insertion](http://arxiv.org/abs/2403.18818v1)
+Filter: [Garment3DGen: 3D Garment Stylization and Texture Generation](http://arxiv.org/abs/2403.18816v1)
+Filter: [Mini-Gemini: Mining the Potential of Multi-modality Vision Language
+  Models](http://arxiv.org/abs/2403.18814v1)
+Filter: [On the Communication Complexity of Approximate Pattern Matching](http://arxiv.org/abs/2403.18812v1)
+Filter: [Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance
+  Accompaniment](http://arxiv.org/abs/2403.18811v1)
+Filter: [$L^\infty$-error bounds for approximations of the Koopman operator by
+  kernel extended dynamic mode decomposition](http://arxiv.org/abs/2403.18809v1)
+Filter: [ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth
+  Estimation](http://arxiv.org/abs/2403.18807v1)
+append_entries: 0
+Finish: 2024-03-29 00:35:55.055585
