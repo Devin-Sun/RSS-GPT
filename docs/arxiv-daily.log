@@ -3832,3 +3832,18 @@ Filter: [Change-Agent: Towards Interactive Comprehensive Change Interpretation
   and Analysis from Change Detection and Change Captioning](http://arxiv.org/abs/2403.19646v1)
 append_entries: 0
 Finish: 2024-03-31 00:40:05.234301
+------------------------------------------------------
+Started: 2024-03-31 12:12:56.724754
+Existing_entries: 81
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GaussianCube: Structuring Gaussian Splatting using Optimal Transport for
+  3D Generative Modeling](http://arxiv.org/abs/2403.19655v1)
+Filter: [RSMamba: Remote Sensing Image Classification with State Space Model](http://arxiv.org/abs/2403.19654v1)
+Filter: [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](http://arxiv.org/abs/2403.19652v1)
+Filter: [GraspXL: Generating Grasping Motions for Diverse Objects at Scale](http://arxiv.org/abs/2403.19649v1)
+Filter: [Sparse Feature Circuits: Discovering and Editing Interpretable Causal
+  Graphs in Language Models](http://arxiv.org/abs/2403.19647v1)
+Filter: [Change-Agent: Towards Interactive Comprehensive Change Interpretation
+  and Analysis from Change Detection and Change Captioning](http://arxiv.org/abs/2403.19646v1)
+append_entries: 0
+Finish: 2024-03-31 12:12:57.397322
