@@ -3847,3 +3847,11 @@ Filter: [Change-Agent: Towards Interactive Comprehensive Change Interpretation
   and Analysis from Change Detection and Change Captioning](http://arxiv.org/abs/2403.19646v1)
 append_entries: 0
 Finish: 2024-03-31 12:12:57.397322
+------------------------------------------------------
+Started: 2024-04-01 00:40:18.256132
+Existing_entries: 81
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GaussianCube: Structuring Gaussian Splatting using Optimal Transport for
+  3D Generative Modeling](http://arxiv.org/abs/2403.19655v1)
+append_entries: 0
+Finish: 2024-04-01 00:40:19.940215
