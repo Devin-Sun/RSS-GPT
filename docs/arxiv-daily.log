@@ -3935,3 +3935,31 @@ Filter: [MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learnin
 Filter: [Towards a Fault-Injection Benchmarking Suite](http://arxiv.org/abs/2403.20319v1)
 append_entries: 0
 Finish: 2024-04-03 00:35:50.949918
+------------------------------------------------------
+Started: 2024-04-03 12:14:07.121193
+Existing_entries: 81
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1492
+Summarized using GPT-3.5-turbo-1106
+Append: [Segment Any 3D Object with Language](http://arxiv.org/abs/2404.02157v1)
+Filter: [Convergence of overlapping domain decomposition methods with PML
+  transmission conditions applied to nontrapping Helmholtz problems](http://arxiv.org/abs/2404.02156v1)
+Filter: [Alpha Invariance: On Inverse Scaling Between Distance and Volume Density
+  in Neural Radiance Fields](http://arxiv.org/abs/2404.02155v1)
+Filter: [Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image
+  Restoration](http://arxiv.org/abs/2404.02154v1)
+Filter: [GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from
+  a Single Image](http://arxiv.org/abs/2404.02152v1)
+Token length: 1602
+Summarized using GPT-3.5-turbo-1106
+Append: [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](http://arxiv.org/abs/2404.02151v1)
+Filter: [From Seaweed to Security: The Emergence of Alginate in Compromising IoT
+  Fingerprint Sensors](http://arxiv.org/abs/2404.02150v1)
+Append: [Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of
+  Orthogonal Diffusion Models](http://arxiv.org/abs/2404.02148v1)
+Filter: [Harder, Better, Faster, Stronger: Interactive Visualization for
+  Human-Centered AI Tools](http://arxiv.org/abs/2404.02147v1)
+Append: [Iterated Learning Improves Compositionality in Large Vision-Language
+  Models](http://arxiv.org/abs/2404.02145v1)
+append_entries: 4
+Finish: 2024-04-03 12:14:25.992832

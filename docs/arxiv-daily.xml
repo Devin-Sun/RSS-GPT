@@ -4,6 +4,135 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Segment Any 3D Object with Language</title>
+<link>http://arxiv.org/abs/2404.02157v1</link>
+<guid>http://arxiv.org/abs/2404.02157v1</guid>
+<content:encoded><![CDATA[
+<div> Open-Vocabulary 3D Instance Segmentation, free-form language instructions, semantic-aware, geometric-aware, multimodal fusion network<br>
+<br>
+本文研究了使用自由形式语言指令的开放词汇3D实例分割（OV-3DIS）。先前的研究依赖于只使用标注的基本类别进行训练，但容易在未知的新领域中受限。最近的研究通过生成类别不可知的掩模或从2D到3D的投影泛化掩模，但忽略了语义或几何信息，导致性能不佳。相反，直接从3D点云中生成具有语义相关性的可泛化掩模会产生更好的结果。本文引入了Segment any 3D Object with LanguagE（SOLE），它是一个具有强大泛化能力的语义和几何感知的视觉-语言学习框架，通过直接从3D点云生成与语义相关的掩模。我们提出一个多模态融合网络来在骨干和解码器中融合多模态语义。另外，为了与各种语言指令对齐3D分割模型并增强掩模质量，我们引入了三种类型的多模态关联作为监督。我们的SOLE在ScanNetv2、ScanNet200和Replica基准测试上的表现大大超过先前方法，即使在训练中缺乏类别注释，结果甚至接近于完全监督的对照组。此外，大量的定性结果证明了我们的SOLE对语言指令的多功能性。<br><br>总结: 本文研究了开放词汇3D实例分割（OV-3DIS）和自由形式语言指令。作者提出了SOLE框架，它是一个具有强大泛化能力的语义和几何感知的视觉-语言学习框架。SOLE在基准测试上表现出色，并且在缺乏类别注释的训练中也取得了良好的效果。最终的结果证明了SOLE对语言指令的多功能性。 <div>
+In this paper, we investigate Open-Vocabulary 3D Instance Segmentation
+(OV-3DIS) with free-form language instructions. Earlier works that rely on only
+annotated base categories for training suffer from limited generalization to
+unseen novel categories. Recent works mitigate poor generalizability to novel
+categories by generating class-agnostic masks or projecting generalized masks
+from 2D to 3D, but disregard semantic or geometry information, leading to
+sub-optimal performance. Instead, generating generalizable but semantic-related
+masks directly from 3D point clouds would result in superior outcomes. In this
+paper, we introduce Segment any 3D Object with LanguagE (SOLE), which is a
+semantic and geometric-aware visual-language learning framework with strong
+generalizability by generating semantic-related masks directly from 3D point
+clouds. Specifically, we propose a multimodal fusion network to incorporate
+multimodal semantics in both backbone and decoder. In addition, to align the 3D
+segmentation model with various language instructions and enhance the mask
+quality, we introduce three types of multimodal associations as supervision.
+Our SOLE outperforms previous methods by a large margin on ScanNetv2,
+ScanNet200, and Replica benchmarks, and the results are even close to the
+fully-supervised counterpart despite the absence of class annotations in the
+training. Furthermore, extensive qualitative results demonstrate the
+versatility of our SOLE to language instructions.
+]]></content:encoded>
+<pubDate>2024-04-02T17:59:10Z</pubDate>
+<pubDate>2024-04-02T17:59:10Z</pubDate>
+</item>
+<item>
+<title>Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks</title>
+<link>http://arxiv.org/abs/2404.02151v1</link>
+<guid>http://arxiv.org/abs/2404.02151v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: LLMs, adaptive attacks, jailbreaking, logprobs, vulnerabilities
+
+总结: 
+本文研究表明，即使是最新的安全对齐的LLMs也无法抵御简单的自适应越狱攻击。首先，作者展示了成功利用对logprobs的访问进行越狱的方法，然后介绍了对不公开logprobs的Claude模型进行迁移或预填攻击的方法。另外，还展示了如何在受毒害的模型中使用有限的令牌搜索来查找特洛伊木马字符串。攻击的共同主题是适应性至关重要：不同的模型对不同的提示模板敏感，某些模型则基于其API具有独特的弱点，有时候根据先前的知识来限制令牌搜索空间也是至关重要的。详细攻击代码、提示和日志可在https://github.com/tml-epfl/llm-adaptive-attacks找到。<br><br> <div>
+We show that even the most recent safety-aligned LLMs are not robust to
+simple adaptive jailbreaking attacks. First, we demonstrate how to successfully
+leverage access to logprobs for jailbreaking: we initially design an
+adversarial prompt template (sometimes adapted to the target LLM), and then we
+apply random search on a suffix to maximize the target logprob (e.g., of the
+token "Sure"), potentially with multiple restarts. In this way, we achieve
+nearly 100\% attack success rate -- according to GPT-4 as a judge -- on
+GPT-3.5/4, Llama-2-Chat-7B/13B/70B, Gemma-7B, and R2D2 from HarmBench that was
+adversarially trained against the GCG attack. We also show how to jailbreak all
+Claude models -- that do not expose logprobs -- via either a transfer or
+prefilling attack with 100\% success rate. In addition, we show how to use
+random search on a restricted set of tokens for finding trojan strings in
+poisoned models -- a task that shares many similarities with jailbreaking --
+which is the algorithm that brought us the first place in the SaTML'24 Trojan
+Detection Competition. The common theme behind these attacks is that adaptivity
+is crucial: different models are vulnerable to different prompting templates
+(e.g., R2D2 is very sensitive to in-context learning prompts), some models have
+unique vulnerabilities based on their APIs (e.g., prefilling for Claude), and
+in some settings it is crucial to restrict the token search space based on
+prior knowledge (e.g., for trojan detection). We provide the code, prompts, and
+logs of the attacks at https://github.com/tml-epfl/llm-adaptive-attacks.
+]]></content:encoded>
+<pubDate>2024-04-02T17:58:27Z</pubDate>
+<pubDate>2024-04-02T17:58:27Z</pubDate>
+</item>
+<item>
+<title>Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of
+  Orthogonal Diffusion Models</title>
+<link>http://arxiv.org/abs/2404.02148v1</link>
+<guid>http://arxiv.org/abs/2404.02148v1</guid>
+<content:encoded><![CDATA[
+
+Recent advancements in 3D generation are predominantly propelled by
+improvements in 3D-aware image diffusion models which are pretrained on
+Internet-scale image data and fine-tuned on massive 3D data, offering the
+capability of producing highly consistent multi-view images. However, due to
+the scarcity of synchronized multi-view video data, it is impractical to adapt
+this paradigm to 4D generation directly. Despite that, the available video and
+3D data are adequate for training video and multi-view diffusion models that
+can provide satisfactory dynamic and geometric priors respectively. In this
+paper, we present Diffusion$^2$, a novel framework for dynamic 3D content
+creation that leverages the knowledge about geometric consistency and temporal
+smoothness from these models to directly sample dense multi-view and
+multi-frame images which can be employed to optimize continuous 4D
+representation. Specifically, we design a simple yet effective denoising
+strategy via score composition of video and multi-view diffusion models based
+on the probability structure of the images to be generated. Owing to the high
+parallelism of the image generation and the efficiency of the modern 4D
+reconstruction pipeline, our framework can generate 4D content within few
+minutes. Furthermore, our method circumvents the reliance on 4D data, thereby
+having the potential to benefit from the scalability of the foundation video
+and multi-view diffusion models. Extensive experiments demonstrate the efficacy
+of our proposed framework and its capability to flexibly adapt to various types
+of prompts.
+]]></content:encoded>
+<pubDate>2024-04-02T17:58:03Z</pubDate>
+<pubDate>2024-04-02T17:58:03Z</pubDate>
+</item>
+<item>
+<title>Iterated Learning Improves Compositionality in Large Vision-Language
+  Models</title>
+<link>http://arxiv.org/abs/2404.02145v1</link>
+<guid>http://arxiv.org/abs/2404.02145v1</guid>
+<content:encoded><![CDATA[
+
+A fundamental characteristic common to both human vision and natural language
+is their compositional nature. Yet, despite the performance gains contributed
+by large vision and language pretraining, recent investigations find that
+most-if not all-our state-of-the-art vision-language models struggle at
+compositionality. They are unable to distinguish between images of " a girl in
+white facing a man in black" and "a girl in black facing a man in white".
+Moreover, prior work suggests that compositionality doesn't arise with scale:
+larger model sizes or training data don't help. This paper develops a new
+iterated training algorithm that incentivizes compositionality. We draw on
+decades of cognitive science research that identifies cultural transmission-the
+need to teach a new generation-as a necessary inductive prior that incentivizes
+humans to develop compositional languages. Specifically, we reframe
+vision-language contrastive learning as the Lewis Signaling Game between a
+vision agent and a language agent, and operationalize cultural transmission by
+iteratively resetting one of the agent's weights during training. After every
+iteration, this training paradigm induces representations that become "easier
+to learn", a property of compositional languages: e.g. our model trained on
+CC3M and CC12M improves standard CLIP by 4.7%, 4.0% respectfully in the
+SugarCrepe benchmark.
+]]></content:encoded>
+<pubDate>2024-04-02T17:57:31Z</pubDate>
+<pubDate>2024-04-02T17:57:31Z</pubDate>
+</item>
 
 <item>
 <title>Detecting Image Attribution for Text-to-Image Diffusion Models in RGB
