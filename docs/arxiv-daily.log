@@ -4007,3 +4007,19 @@ Filter: [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models
   with a Self-Critique Pipeline](http://arxiv.org/abs/2404.02893v1)
 append_entries: 4
 Finish: 2024-04-04 12:14:30.521691
+------------------------------------------------------
+Started: 2024-04-05 00:36:45.766407
+Existing_entries: 89
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LidarDM: Generative LiDAR Simulation in a Generated World](http://arxiv.org/abs/2404.02903v1)
+Filter: [DeiT-LT Distillation Strikes Back for Vision Transformer Training on
+  Long-Tailed Datasets](http://arxiv.org/abs/2404.02900v1)
+Filter: [Deep Image Composition Meets Image Forgery](http://arxiv.org/abs/2404.02897v1)
+Filter: [Comment on "Machine learning conservation laws from differential
+  equations"](http://arxiv.org/abs/2404.02896v1)
+Filter: [Automated Transparency: A Legal and Empirical Analysis of the Digital
+  Services Act Transparency Database](http://arxiv.org/abs/2404.02894v1)
+Filter: [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models
+  with a Self-Critique Pipeline](http://arxiv.org/abs/2404.02893v1)
+append_entries: 0
+Finish: 2024-04-05 00:36:46.398513

@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale
   Prediction</title>
 <link>http://arxiv.org/abs/2404.02905v1</link>
 <guid>http://arxiv.org/abs/2404.02905v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Visual AutoRegressive modeling, next-scale prediction, image generation, scalability, zero-shot generalization<br>
-<br>
-这篇文章介绍了Visual AutoRegressive modeling (VAR)作为一种新的图像自回归学习范式，重新定义了图像上的自回归学习，将其视为粗到细的“下一尺度预测”或“下一分辨率预测”，而不是标准的光栅扫描“下一个标记预测”。这种简单直观的方法使得自回归(AR)变换器可以快速学习视觉分布并具有良好的泛化能力：VAR首次使得AR模型在图像生成方面超过了扩散变压器。在ImageNet 256x256基准测试中，VAR通过将Frechet inception距离(FID)从18.65提高到1.80，Inception分数(IS)从80.4提高到356.4，且推理速度约快20倍，显著改善了AR基线。实验证实，VAR在多个维度上均优于扩散变压器(DiT)，包括图像质量、推理速度、数据效率和可扩展性。扩大VAR模型呈现出与LLMs中观察到的类似的幂律缩放规律，相关系数接近-0.998，为其提供了坚实的证据。VAR在下游任务中展示了零样本泛化能力，包括图像修补、外扩和编辑。这些结果表明VAR已经模拟出了LLMs的两个重要特性：缩放规律和零样本任务泛化。我们已发布所有模型和代码，以促进对AR/VAR模型在视觉生成和统一学习方面的探索。<br><br>总结:Visual AutoRegressive modeling (VAR)重新定义了图像上的自回归学习范式，实现了对视觉分布的快速学习和良好的泛化能力。在图像生成方面，VAR优于扩散变压器，并呈现出幂律缩放规律。此外，VAR还展示了在下游任务中的零样本泛化能力。我们已发布相关模型和代码，以推动AR/VAR模型在视觉生成和统一学习中的进一步探索。 <div>
+<div> 关键词: Visual AutoRegressive modeling, next-scale prediction, image generation, scalability, zero-shot generalization<br />
+<br />
+这篇文章介绍了Visual AutoRegressive modeling (VAR)作为一种新的图像自回归学习范式，重新定义了图像上的自回归学习，将其视为粗到细的“下一尺度预测”或“下一分辨率预测”，而不是标准的光栅扫描“下一个标记预测”。这种简单直观的方法使得自回归(AR)变换器可以快速学习视觉分布并具有良好的泛化能力：VAR首次使得AR模型在图像生成方面超过了扩散变压器。在ImageNet 256x256基准测试中，VAR通过将Frechet inception距离(FID)从18.65提高到1.80，Inception分数(IS)从80.4提高到356.4，且推理速度约快20倍，显著改善了AR基线。实验证实，VAR在多个维度上均优于扩散变压器(DiT)，包括图像质量、推理速度、数据效率和可扩展性。扩大VAR模型呈现出与LLMs中观察到的类似的幂律缩放规律，相关系数接近-0.998，为其提供了坚实的证据。VAR在下游任务中展示了零样本泛化能力，包括图像修补、外扩和编辑。这些结果表明VAR已经模拟出了LLMs的两个重要特性：缩放规律和零样本任务泛化。我们已发布所有模型和代码，以促进对AR/VAR模型在视觉生成和统一学习方面的探索。<br /><br />总结:Visual AutoRegressive modeling (VAR)重新定义了图像上的自回归学习范式，实现了对视觉分布的快速学习和良好的泛化能力。在图像生成方面，VAR优于扩散变压器，并呈现出幂律缩放规律。此外，VAR还展示了在下游任务中的零样本泛化能力。我们已发布相关模型和代码，以推动AR/VAR模型在视觉生成和统一学习中的进一步探索。 <div>
 We present Visual AutoRegressive modeling (VAR), a new generation paradigm
 that redefines the autoregressive learning on images as coarse-to-fine
 "next-scale prediction" or "next-resolution prediction", diverging from the
@@ -35,7 +36,6 @@ codes to promote the exploration of AR/VAR models for visual generation and
 unified learning.
 ]]></content:encoded>
 <pubDate>2024-04-03T17:59:53Z</pubDate>
-<pubDate>2024-04-03T17:59:53Z</pubDate>
 </item>
 <item>
 <title>ALOHa: A New Measure for Hallucination in Captioning Models</title>
@@ -46,7 +46,7 @@ unified learning.
 
 在这项工作中，作者提出了一种现代化的开放词汇量度量标准ALOHa，用于测量物体的幻觉。他们使用大型语言模型来从候选字幕中提取可接地的物体，并测量它们与参考物体的语义相似性，最终使用匈牙利匹配生成最终的幻觉分数。 ALoha在HAT和nocaps数据集上的表现优于现有的CHIAR度量标准。总的来说，这项工作提出了一个有效的新方法来评估图像描述中的对象幻觉，并且在两个不同的数据集上都取得了令人满意的结果。
 
-<br><br>总结: 本文提出了一种现代化的开放词汇量度量标准ALOHa，用于衡量图像描述中的对象幻觉。该方法利用大型语言模型来提取候选字幕中的可接地物体，并测量它们与参考物体的语义相似性，最终使用匈牙利匹配生成最终的幻觉分数。ALOHa在HAT和nocaps数据集上的表现优于现有的CHIAR度量标准。这项工作提出了一个有效的新方法来评估图像描述中的对象幻觉，并且在两个不同的数据集上都取得了令人满意的结果。 <div>
+<br /><br />总结: 本文提出了一种现代化的开放词汇量度量标准ALOHa，用于衡量图像描述中的对象幻觉。该方法利用大型语言模型来提取候选字幕中的可接地物体，并测量它们与参考物体的语义相似性，最终使用匈牙利匹配生成最终的幻觉分数。ALOHa在HAT和nocaps数据集上的表现优于现有的CHIAR度量标准。这项工作提出了一个有效的新方法来评估图像描述中的对象幻觉，并且在两个不同的数据集上都取得了令人满意的结果。 <div>
 Despite recent advances in multimodal pre-training for visual description,
 state-of-the-art models still produce captions containing errors, such as
 hallucinating objects not present in a scene. The existing prominent metric for
@@ -63,7 +63,6 @@ extend beyond MS COCO categories. Our code is available at
 https://davidmchan.github.io/aloha/.
 ]]></content:encoded>
 <pubDate>2024-04-03T17:59:36Z</pubDate>
-<pubDate>2024-04-03T17:59:36Z</pubDate>
 </item>
 <item>
 <title>MatAtlas: Text-driven Consistent Geometry Texturing and Material
@@ -71,7 +70,6 @@ https://davidmchan.github.io/aloha/.
 <link>http://arxiv.org/abs/2404.02899v1</link>
 <guid>http://arxiv.org/abs/2404.02899v1</guid>
 <content:encoded><![CDATA[
-
 We present MatAtlas, a method for consistent text-guided 3D model texturing.
 Following recent progress we leverage a large scale text-to-image generation
 model (e.g., Stable Diffusion) as a prior to texture a 3D model. We carefully
@@ -87,14 +85,12 @@ geometries and show that our method significantly outperform prior arts. We
 also analyze the role of each component through a detailed ablation study.
 ]]></content:encoded>
 <pubDate>2024-04-03T17:57:15Z</pubDate>
-<pubDate>2024-04-03T17:57:15Z</pubDate>
 </item>
 <item>
 <title>A Mean Field Game Model for Timely Computation in Edge Computing Systems</title>
 <link>http://arxiv.org/abs/2404.02898v1</link>
 <guid>http://arxiv.org/abs/2404.02898v1</guid>
 <content:encoded><![CDATA[
-
 We consider the problem of task offloading in multi-access edge computing
 (MEC) systems constituting $N$ devices assisted by an edge server (ES), where
 the devices can split task execution between a local processor and the ES.
@@ -112,9 +108,7 @@ higher load at the ES may lead devices to upload their task to the ES less
 often.
 ]]></content:encoded>
 <pubDate>2024-04-03T17:55:20Z</pubDate>
-<pubDate>2024-04-03T17:55:20Z</pubDate>
 </item>
-
 <item>
 <title>Segment Any 3D Object with Language</title>
 <link>http://arxiv.org/abs/2404.02157v1</link>
