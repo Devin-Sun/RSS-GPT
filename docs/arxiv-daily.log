@@ -4023,3 +4023,28 @@ Filter: [ChatGLM-Math: Improving Math Problem-Solving in Large Language Models
   with a Self-Critique Pipeline](http://arxiv.org/abs/2404.02893v1)
 append_entries: 0
 Finish: 2024-04-05 00:36:46.398513
+------------------------------------------------------
+Started: 2024-04-05 12:13:42.250861
+Existing_entries: 89
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Know Your Neighbors: Improving Single-View Reconstruction via Spatial
+  Vision-Language Reasoning](http://arxiv.org/abs/2404.03658v1)
+Filter: [OW-VISCap: Open-World Video Instance Segmentation and Captioning](http://arxiv.org/abs/2404.03657v1)
+Filter: [MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation](http://arxiv.org/abs/2404.03656v1)
+Filter: [RaFE: Generative Radiance Fields Restoration](http://arxiv.org/abs/2404.03654v1)
+Token length: 1150
+Summarized using GPT-3.5-turbo-1106
+Append: [CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept
+  Matching](http://arxiv.org/abs/2404.03653v1)
+Filter: [The More You See in 2D, the More You Perceive in 3D](http://arxiv.org/abs/2404.03652v1)
+Filter: [OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features
+  and Rendered Novel Views](http://arxiv.org/abs/2404.03650v1)
+Token length: 1261
+Summarized using GPT-3.5-turbo-1106
+Append: [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web
+  Navigating Agent](http://arxiv.org/abs/2404.03648v1)
+Filter: [Capabilities of Large Language Models in Control Engineering: A
+  Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](http://arxiv.org/abs/2404.03647v1)
+Filter: [Locating and Editing Factual Associations in Mamba](http://arxiv.org/abs/2404.03646v1)
+append_entries: 2
+Finish: 2024-04-05 12:13:52.985181
