@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept
   Matching</title>
@@ -13,7 +14,7 @@
 <div> 提取关键词: Diffusion models, text-to-image generation, CoMat, fine-tuning strategy, image captioning
 
 总结:
-Diffusion模型在文本到图像生成领域取得了巨大成功，但是文本提示和图像之间的不匹配仍然是一个挑战。主要原因是不足的标记注意激活导致的。研究人员提出了CoMat，这是一个端到端的扩散模型微调策略，具有图像到文本概念匹配机制。他们利用图像字幕模型来测量图像到文本的对齐并引导扩散模型重新审视被忽略的标记。另外，他们还提出了一种新颖的属性集中模块来解决属性绑定问题。通过对SDXL进行微调，他们得到了CoMat-SDXL模型，在两个文本到图像对齐基准测试中明显优于基线模型SDXL，并取得了领先的性能。<br><br>总结: 该研究提出了一种新的文本到图像生成模型微调策略，通过引入图像到文本对齐机制和属性集中模块，显著改善了现有模型中存在的文本提示和图像不匹配的问题，取得了领先的性能。 <div>
+Diffusion模型在文本到图像生成领域取得了巨大成功，但是文本提示和图像之间的不匹配仍然是一个挑战。主要原因是不足的标记注意激活导致的。研究人员提出了CoMat，这是一个端到端的扩散模型微调策略，具有图像到文本概念匹配机制。他们利用图像字幕模型来测量图像到文本的对齐并引导扩散模型重新审视被忽略的标记。另外，他们还提出了一种新颖的属性集中模块来解决属性绑定问题。通过对SDXL进行微调，他们得到了CoMat-SDXL模型，在两个文本到图像对齐基准测试中明显优于基线模型SDXL，并取得了领先的性能。<br /><br />总结: 该研究提出了一种新的文本到图像生成模型微调策略，通过引入图像到文本对齐机制和属性集中模块，显著改善了现有模型中存在的文本提示和图像不匹配的问题，取得了领先的性能。 <div>
 Diffusion models have demonstrated great success in the field of
 text-to-image generation. However, alleviating the misalignment between the
 text prompts and images is still challenging. The root reason behind the
@@ -32,7 +33,6 @@ baseline model SDXL in two text-to-image alignment benchmarks and achieves
 start-of-the-art performance.
 ]]></content:encoded>
 <pubDate>2024-04-04T17:59:46Z</pubDate>
-<pubDate>2024-04-04T17:59:46Z</pubDate>
 </item>
 <item>
 <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web
@@ -41,7 +41,7 @@ start-of-the-art performance.
 <guid>http://arxiv.org/abs/2404.03648v1</guid>
 <content:encoded><![CDATA[
 <div> GPT-4,Automated Web Navigation, AutoWebGLM, ChatGLM3-6B, Reinforcement Learning
-<br><br>总结:
+<br /><br />总结:
 本文介绍了基于大语言模型的自动网页导航代理的开发。现有的代理在处理真实世界的网页时存在三个问题：网页操作的多样性、HTML文本超出模型处理能力以及决策复杂性。为了解决这一挑战，研究人员开发了AutoWebGLM，这是一种建立在ChatGLM3-6B基础上的GPT-4智能代理，用于自动网页导航。他们设计了一种HTML简化算法，以保留重要信息的同时简洁地表示网页，并采用混合人工智能方法构建网页浏览数据进行课程培训。随后，他们通过强化学习和拒绝抽样来进一步促进模型对网页的理解、浏览器操作和高效任务分解。最后，他们建立了一个双语基准测试集AutoWebBench，用于进行真实世界的网页浏览任务。他们评估了AutoWebGLM在各种网页导航基准测试中的表现，并揭示了改进之处以及需要解决的问题。 <div>
 Large language models (LLMs) have fueled many intelligent agent tasks, such
 as web navigation -- but most existing agents perform far from satisfying in
@@ -62,9 +62,7 @@ challenges to tackle real environments. Related code, model, and data will be
 released at \url{https://github.com/THUDM/AutoWebGLM}.
 ]]></content:encoded>
 <pubDate>2024-04-04T17:58:40Z</pubDate>
-<pubDate>2024-04-04T17:58:40Z</pubDate>
 </item>
-
 <item>
 <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale
   Prediction</title>
