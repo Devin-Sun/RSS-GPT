@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation</title>
+<link>http://arxiv.org/abs/2404.04256v1</link>
+<guid>http://arxiv.org/abs/2404.04256v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态语义分割, AI代理, 低光环境, 过曝环境, Sigma, Siamese Mamba网络<br>
+<br>
+多模态语义分割方法Sigma利用Selective Structured State Space Model, Mamba, 实现了全局感知域与线性复杂度的结合。通过Siamese编码器和创新的Mamba融合机制有效地选择不同模态的关键信息。再结合解码器增强模型的通道建模能力。该方法在RGB-热像和RGB-深度语义分割任务上得到了有效评估，并展示了其优越性，标志着State Space Models (SSMs)在多模态感知任务中的首次成功应用。 代码可在https://github.com/zifuwan/Sigma找到。<br>
+<br>总结: 多模态语义分割方法Sigma利用了新颖的Siamese Mamba网络和State Space Models (SSMs)，在低光和过曝环境下实现了更可靠的场景理解和全局感知，且具有线性复杂度，有效结合了不同模态的关键信息，在RGB-热像和RGB-深度语义分割任务上得到了有效验证。 <div>
+Multi-modal semantic segmentation significantly enhances AI agents'
+perception and scene understanding, especially under adverse conditions like
+low-light or overexposed environments. Leveraging additional modalities
+(X-modality) like thermal and depth alongside traditional RGB provides
+complementary information, enabling more robust and reliable segmentation. In
+this work, we introduce Sigma, a Siamese Mamba network for multi-modal semantic
+segmentation, utilizing the Selective Structured State Space Model, Mamba.
+Unlike conventional methods that rely on CNNs, with their limited local
+receptive fields, or Vision Transformers (ViTs), which offer global receptive
+fields at the cost of quadratic complexity, our model achieves global receptive
+fields coverage with linear complexity. By employing a Siamese encoder and
+innovating a Mamba fusion mechanism, we effectively select essential
+information from different modalities. A decoder is then developed to enhance
+the channel-wise modeling ability of the model. Our method, Sigma, is
+rigorously evaluated on both RGB-Thermal and RGB-Depth segmentation tasks,
+demonstrating its superiority and marking the first successful application of
+State Space Models (SSMs) in multi-modal perception tasks. Code is available at
+https://github.com/zifuwan/Sigma.
+]]></content:encoded>
+<pubDate>2024-04-05T17:59:44Z</pubDate>
+<pubDate>2024-04-05T17:59:44Z</pubDate>
+</item>
 
 <item>
 <title>CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept
