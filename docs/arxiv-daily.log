@@ -4178,3 +4178,26 @@ Filter: [Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via
   Mixture Density Networks](http://arxiv.org/abs/2404.04241v1)
 append_entries: 0
 Finish: 2024-04-09 00:36:29.689073
+------------------------------------------------------
+Started: 2024-04-09 12:14:40.244489
+Existing_entries: 92
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Finding Visual Task Vectors](http://arxiv.org/abs/2404.05729v1)
+Filter: [A Large-Scale Exploration of $μ$-Transfer](http://arxiv.org/abs/2404.05728v1)
+Token length: 1168
+Summarized using GPT-3.5-turbo-1106
+Append: [MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video
+  Understanding](http://arxiv.org/abs/2404.05726v1)
+Filter: [Predicting Overtakes in Trucks Using CAN Data](http://arxiv.org/abs/2404.05723v1)
+Filter: [Language-Independent Representations Improve Zero-Shot Summarization](http://arxiv.org/abs/2404.05720v1)
+Token length: 1734
+Summarized using GPT-3.5-turbo-1106
+Append: [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](http://arxiv.org/abs/2404.05719v1)
+Append: [SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual
+  Editing](http://arxiv.org/abs/2404.05717v1)
+Filter: [Enhance Low-Carbon Power System Operation via Carbon-Aware Demand
+  Response](http://arxiv.org/abs/2404.05713v1)
+Filter: [Walking Your Frog Fast in 4 LoC](http://arxiv.org/abs/2404.05708v1)
+Filter: [Learning 3D-Aware GANs from Unposed Images with Template Feature Field](http://arxiv.org/abs/2404.05705v1)
+append_entries: 3
+Finish: 2024-04-09 12:14:50.984301
