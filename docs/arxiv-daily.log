@@ -4157,3 +4157,24 @@ Filter: [Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via
   Mixture Density Networks](http://arxiv.org/abs/2404.04241v1)
 append_entries: 1
 Finish: 2024-04-08 12:14:15.625725
+------------------------------------------------------
+Started: 2024-04-09 00:36:28.042769
+Existing_entries: 92
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Watermark-based Detection and Attribution of AI-Generated Content](http://arxiv.org/abs/2404.04254v1)
+Filter: [Growing Q-Networks: Solving Continuous Control Tasks with Adaptive
+  Control Resolution](http://arxiv.org/abs/2404.04253v1)
+Filter: [Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt
+  Coherence Metrics with T2IScoreScore (TS2)](http://arxiv.org/abs/2404.04251v1)
+Filter: [Humanoid Robots at work: where are we ?](http://arxiv.org/abs/2404.04249v1)
+Filter: [Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner
+  Attacks, And The Role of Distillation as Defense Mechanism](http://arxiv.org/abs/2404.04245v1)
+Filter: [DiffOp-net: A Differential Operator-based Fully Convolutional Network
+  for Unsupervised Deformable Image Registration](http://arxiv.org/abs/2404.04244v1)
+Filter: [Identity Decoupling for Multi-Subject Personalization of Text-to-Image
+  Models](http://arxiv.org/abs/2404.04243v1)
+Filter: [Physical Property Understanding from Language-Embedded Feature Fields](http://arxiv.org/abs/2404.04242v1)
+Filter: [Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via
+  Mixture Density Networks](http://arxiv.org/abs/2404.04241v1)
+append_entries: 0
+Finish: 2024-04-09 00:36:29.689073
