@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video
   Understanding</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 长视频理解 模型设计 在线处理 内存存储 多模态模型
 
-该研究提出了一种针对长视频理解的高效有效模型设计。与现有工作不同的是，该模型采用在线处理视频的方式，并将过去的视频信息存储在内存银行中。这使得模型能够在不超过LLMs上下文长度限制或GPU内存限制的情况下参考历史视频内容进行长期分析。我们的内存银行可以轻松集成到当前多模态LLMs中。我们在各种视频理解任务上进行了大量实验，如长视频理解、视频问题回答和视频字幕生成，我们的模型在多个数据集上均取得了最先进的性能。具体代码可在https://boheumd.github.io/MA-LMM/上找到。 <br><br>总结: <br>长视频理解的挑战，提出了一种针对长视频理解的高效有效模型设计，通过在线处理视频并将信息存储在内存中，实现长期视频分析。在多个数据集上取得了最先进的性能。 <div>
+该研究提出了一种针对长视频理解的高效有效模型设计。与现有工作不同的是，该模型采用在线处理视频的方式，并将过去的视频信息存储在内存银行中。这使得模型能够在不超过LLMs上下文长度限制或GPU内存限制的情况下参考历史视频内容进行长期分析。我们的内存银行可以轻松集成到当前多模态LLMs中。我们在各种视频理解任务上进行了大量实验，如长视频理解、视频问题回答和视频字幕生成，我们的模型在多个数据集上均取得了最先进的性能。具体代码可在https://boheumd.github.io/MA-LMM/上找到。 <br /><br />总结: <br />长视频理解的挑战，提出了一种针对长视频理解的高效有效模型设计，通过在线处理视频并将信息存储在内存中，实现长期视频分析。在多个数据集上取得了最先进的性能。 <div>
 With the success of large language models (LLMs), integrating the vision
 model into LLMs to build vision-language foundation models has gained much more
 interest recently. However, existing LLM-based large multimodal models (e.g.,
@@ -31,7 +32,6 @@ performances across multiple datasets. Code available at
 https://boheumd.github.io/MA-LMM/.
 ]]></content:encoded>
 <pubDate>2024-04-08T17:59:24Z</pubDate>
-<pubDate>2024-04-08T17:59:24Z</pubDate>
 </item>
 <item>
 <title>Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs</title>
@@ -42,7 +42,7 @@ https://boheumd.github.io/MA-LMM/.
 
 Ferret-UI是一种新型的Multimodal large language model，专门用于增强对移动用户界面的理解能力。它通过引入了"any resolution"技术来放大细节，提供了更好的视觉特性。该模型通过收集大量基本UI任务的训练样本，并对其进行格式化处理，以便进行精确的指代和基础。此外，还编制了一个包括详细描述、感知/交互对话和功能推断在内的数据集，以增强模型的推理能力。经过训练后，Ferret-UI在UI界面的理解和执行开放式指令方面表现出色。针对模型评估，作者建立了一个全面的基准，涵盖了所有前述任务。Ferret-UI不仅在大部分开源UI MLLMs方面表现出色，而且在所有基本UI任务上都超越了GPT-4V。
 
-<br><br>总结:
+<br /><br />总结:
 Ferret-UI是一款专门针对移动用户界面的Multimodal large language model，具有增强理解能力。作者收集了大量UI任务的训练样本，并编制了用于增强模型推理能力的数据集。经过训练后，Ferret-UI在理解和执行UI界面任务方面表现出色，超越了开源UI MLLMs和GPT-4V。 <div>
 Recent advancements in multimodal large language models (MLLMs) have been
 noteworthy, yet, these general-domain MLLMs often fall short in their ability
@@ -69,7 +69,6 @@ aforementioned tasks. Ferret-UI excels not only beyond most open-source UI
 MLLMs, but also surpasses GPT-4V on all the elementary UI tasks.
 ]]></content:encoded>
 <pubDate>2024-04-08T17:55:44Z</pubDate>
-<pubDate>2024-04-08T17:55:44Z</pubDate>
 </item>
 <item>
 <title>SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual
@@ -77,7 +76,6 @@ MLLMs, but also surpasses GPT-4V on all the elementary UI tasks.
 <link>http://arxiv.org/abs/2404.05717v1</link>
 <guid>http://arxiv.org/abs/2404.05717v1</guid>
 <content:encoded><![CDATA[
-
 Effective editing of personal content holds a pivotal role in enabling
 individuals to express their creativity, weaving captivating narratives within
 their visual stories, and elevate the overall quality and impact of their
@@ -101,9 +99,7 @@ swapping tasks. SwapAnything also achieves great performance on text-based
 swapping and tasks beyond swapping such as object insertion.
 ]]></content:encoded>
 <pubDate>2024-04-08T17:52:29Z</pubDate>
-<pubDate>2024-04-08T17:52:29Z</pubDate>
 </item>
-
 <item>
 <title>Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation</title>
 <link>http://arxiv.org/abs/2404.04256v1</link>

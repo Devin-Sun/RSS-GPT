@@ -4201,3 +4201,17 @@ Filter: [Walking Your Frog Fast in 4 LoC](http://arxiv.org/abs/2404.05708v1)
 Filter: [Learning 3D-Aware GANs from Unposed Images with Template Feature Field](http://arxiv.org/abs/2404.05705v1)
 append_entries: 3
 Finish: 2024-04-09 12:14:50.984301
+------------------------------------------------------
+Started: 2024-04-10 00:36:06.314908
+Existing_entries: 95
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Finding Visual Task Vectors](http://arxiv.org/abs/2404.05729v1)
+Filter: [A Large-Scale Exploration of $μ$-Transfer](http://arxiv.org/abs/2404.05728v1)
+Filter: [Predicting Overtakes in Trucks Using CAN Data](http://arxiv.org/abs/2404.05723v1)
+Filter: [Language-Independent Representations Improve Zero-Shot Summarization](http://arxiv.org/abs/2404.05720v1)
+Filter: [Enhance Low-Carbon Power System Operation via Carbon-Aware Demand
+  Response](http://arxiv.org/abs/2404.05713v1)
+Filter: [Walking Your Frog Fast in 4 LoC](http://arxiv.org/abs/2404.05708v1)
+Filter: [Learning 3D-Aware GANs from Unposed Images with Template Feature Field](http://arxiv.org/abs/2404.05705v1)
+append_entries: 0
+Finish: 2024-04-10 00:36:07.067822
