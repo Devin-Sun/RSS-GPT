@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>UMBRAE: Unified Multimodal Decoding of Brain Signals</title>
+<link>http://arxiv.org/abs/2404.07202v1</link>
+<guid>http://arxiv.org/abs/2404.07202v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态解码、脑信号、空间信息、跨学科训练、UMBRAE
+总结:
+多模态解码UMBRACE旨在解决大脑研究中的挑战，提取脑信号的概念和空间细节，并引入跨学科训练策略，使模型能够在多个学科上进行训练，并在新任务中取得优越结果。实验证明，UMBRAE不仅在新任务中取得了优异的成绩，并且胜过了现有方法，在综合大脑理解基准BrainHub上也展现出了良好的表现。 <div>
+We address prevailing challenges of the brain-powered research, departing
+from the observation that the literature hardly recover accurate spatial
+information and require subject-specific models. To address these challenges,
+we propose UMBRAE, a unified multimodal decoding of brain signals. First, to
+extract instance-level conceptual and spatial details from neural signals, we
+introduce an efficient universal brain encoder for multimodal-brain alignment
+and recover object descriptions at multiple levels of granularity from
+subsequent multimodal large language model (MLLM). Second, we introduce a
+cross-subject training strategy mapping subject-specific features to a common
+feature space. This allows a model to be trained on multiple subjects without
+extra resources, even yielding superior results compared to subject-specific
+models. Further, we demonstrate this supports weakly-supervised adaptation to
+new subjects, with only a fraction of the total training data. Experiments
+demonstrate that UMBRAE not only achieves superior results in the newly
+introduced tasks but also outperforms methods in well established tasks. To
+assess our method, we construct and share with the community a comprehensive
+brain understanding benchmark BrainHub. Our code and benchmark are available at
+https://weihaox.github.io/UMBRAE.
+]]></content:encoded>
+<pubDate>2024-04-10T17:59:20Z</pubDate>
+<pubDate>2024-04-10T17:59:20Z</pubDate>
+</item>
 
 <item>
 <title>MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video
