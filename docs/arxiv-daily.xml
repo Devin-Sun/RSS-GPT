@@ -4,6 +4,30 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Connecting NeRFs, Images, and Text</title>
+<link>http://arxiv.org/abs/2404.07993v1</link>
+<guid>http://arxiv.org/abs/2404.07993v1</guid>
+<content:encoded><![CDATA[
+<div> Neural Radiance Fields, 3D scenes, multimodal representation learning, NeRF embeddings, bidirectional mapping<br>
+<br>
+本文探讨了将NeRF模态与其他模态相连的新研究方向，类似于图像和文本的建立方法。作者提出了一个简单的框架，利用预训练模型用于NeRF表示，同时结合文本和图像处理的多模态模型。这个框架学习了NeRF嵌入和与之对应的图像和文本嵌入之间的双向映射。这种映射解锁了几种新颖且有用的应用，包括NeRF零样本分类以及从图像或文本中检索NeRF。 <br><br>总结: <br>NeRF模态与其他模态相连的新研究方向；提出了简单的框架，利用预训练模型用于NeRF表示，同时结合文本和图像处理的多模态模型；学习了NeRF嵌入和与之对应的图像和文本嵌入之间的双向映射；解锁了几种新颖且有用的应用，包括NeRF零样本分类以及从图像或文本中检索NeRF。 <div>
+Neural Radiance Fields (NeRFs) have emerged as a standard framework for
+representing 3D scenes and objects, introducing a novel data type for
+information exchange and storage. Concurrently, significant progress has been
+made in multimodal representation learning for text and image data. This paper
+explores a novel research direction that aims to connect the NeRF modality with
+other modalities, similar to established methodologies for images and text. To
+this end, we propose a simple framework that exploits pre-trained models for
+NeRF representations alongside multimodal models for text and image processing.
+Our framework learns a bidirectional mapping between NeRF embeddings and those
+obtained from corresponding images and text. This mapping unlocks several novel
+and useful applications, including NeRF zero-shot classification and NeRF
+retrieval from images or text.
+]]></content:encoded>
+<pubDate>2024-04-11T17:59:59Z</pubDate>
+<pubDate>2024-04-11T17:59:59Z</pubDate>
+</item>
 
 <item>
 <title>UMBRAE: Unified Multimodal Decoding of Brain Signals</title>

@@ -4296,3 +4296,25 @@ Filter: [GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks o
   FPGA](http://arxiv.org/abs/2404.07188v1)
 append_entries: 0
 Finish: 2024-04-12 00:36:53.229260
+------------------------------------------------------
+Started: 2024-04-12 12:13:49.537582
+Existing_entries: 96
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo](http://arxiv.org/abs/2404.07992v1)
+Token length: 878
+Summarized using GPT-3.5-turbo-1106
+Append: [Connecting NeRFs, Images, and Text](http://arxiv.org/abs/2404.07993v1)
+Filter: [GoMAvatar: Efficient Animatable Human Modeling from Monocular Video
+  Using Gaussians-on-Mesh](http://arxiv.org/abs/2404.07991v1)
+Filter: [OpenBias: Open-set Bias Detection in Text-to-Image Generative Models](http://arxiv.org/abs/2404.07990v1)
+Filter: [Any2Point: Empowering Any-modality Large Models for Efficient 3D
+  Understanding](http://arxiv.org/abs/2404.07989v1)
+Filter: [QuasiSim: Parameterized Quasi-Physical Simulators for Dexterous
+  Manipulations Transfer](http://arxiv.org/abs/2404.07988v1)
+Filter: [ControlNet++: Improving Conditional Controls with Efficient Consistency
+  Feedback](http://arxiv.org/abs/2404.07987v1)
+Filter: [Trading Determinism for Noncommutativity in Edmonds' Problem](http://arxiv.org/abs/2404.07986v1)
+Filter: [WaveMo: Learning Wavefront Modulations to See Through Scattering](http://arxiv.org/abs/2404.07985v1)
+Filter: [View Selection for 3D Captioning via Diffusion Ranking](http://arxiv.org/abs/2404.07984v1)
+append_entries: 1
+Finish: 2024-04-12 12:13:54.770956
