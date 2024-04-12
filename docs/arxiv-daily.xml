@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>UMBRAE: Unified Multimodal Decoding of Brain Signals</title>
 <link>http://arxiv.org/abs/2404.07202v1</link>
@@ -32,9 +33,7 @@ brain understanding benchmark BrainHub. Our code and benchmark are available at
 https://weihaox.github.io/UMBRAE.
 ]]></content:encoded>
 <pubDate>2024-04-10T17:59:20Z</pubDate>
-<pubDate>2024-04-10T17:59:20Z</pubDate>
 </item>
-
 <item>
 <title>MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video
   Understanding</title>

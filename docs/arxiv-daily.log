@@ -4276,3 +4276,23 @@ Filter: [GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks o
   FPGA](http://arxiv.org/abs/2404.07188v1)
 append_entries: 1
 Finish: 2024-04-11 12:14:07.600672
+------------------------------------------------------
+Started: 2024-04-12 00:36:52.390964
+Existing_entries: 96
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models](http://arxiv.org/abs/2404.07206v1)
+Filter: [BRAVE: Broadening the visual encoding of vision-language models](http://arxiv.org/abs/2404.07204v1)
+Filter: [Fractional decoding of algebraic geometry codes over extension fields](http://arxiv.org/abs/2404.07201v1)
+Filter: [Toward a Better Understanding of Fourier Neural Operators: Analysis and
+  Improvement from a Spectral Perspective](http://arxiv.org/abs/2404.07200v1)
+Filter: [RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth
+  Diffusion](http://arxiv.org/abs/2404.07199v1)
+Filter: [Zero-shot Logical Query Reasoning on any Knowledge Graph](http://arxiv.org/abs/2404.07198v1)
+Filter: [VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes
+  Enhance Protein Binding Site Identification](http://arxiv.org/abs/2404.07194v1)
+Filter: [InstantMesh: Efficient 3D Mesh Generation from a Single Image with
+  Sparse-view Large Reconstruction Models](http://arxiv.org/abs/2404.07191v1)
+Filter: [GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on
+  FPGA](http://arxiv.org/abs/2404.07188v1)
+append_entries: 0
+Finish: 2024-04-12 00:36:53.229260
