@@ -4,6 +4,31 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>A Conceptual Framework for Conversational Search and Recommendation:
+  Conceptualizing Agent-Human Interactions During the Conversational Search
+  Process</title>
+<link>http://arxiv.org/abs/2404.08630v1</link>
+<guid>http://arxiv.org/abs/2404.08630v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 对话式搜索, 用户意图, 搜索空间, 决策点, 代理人<br> 
+总结: 
+本文旨在发展用户和代理人的行为和意图的概念框架，解释这些行为如何使用户能够探索搜索空间并满足他们的信息需求。我们概述了不同的行为和意图，然后讨论了在对话过程中代理人需要决策如何引导对话搜索过程以达到成功和/或令人满意的结论的关键决策点。本文实质上提供了代理人和用户之间对话搜索过程的概念化，为对话搜索代理人的研究、开发和评估提供了框架和起点。<br> <div>
+The conversational search task aims to enable a user to resolve information
+needs via natural language dialogue with an agent. In this paper, we aim to
+develop a conceptual framework of the actions and intents of users and agents
+explaining how these actions enable the user to explore the search space and
+resolve their information need. We outline the different actions and intents,
+before discussing key decision points in the conversation where the agent needs
+to decide how to steer the conversational search process to a successful and/or
+satisfactory conclusion. Essentially, this paper provides a conceptualization
+of the conversational search process between an agent and user, which provides
+a framework and a starting point for research, development and evaluation of
+conversational search agents.
+]]></content:encoded>
+<pubDate>2024-04-12T17:48:18Z</pubDate>
+<pubDate>2024-04-12T17:48:18Z</pubDate>
+</item>
 
 <item>
 <title>Connecting NeRFs, Images, and Text</title>
