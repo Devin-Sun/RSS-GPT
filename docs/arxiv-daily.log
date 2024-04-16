@@ -4435,3 +4435,21 @@ Filter: [Accessibility in Information Retrieval](http://arxiv.org/abs/2404.08628
 Filter: [Is ChatGPT Transforming Academics' Writing Style?](http://arxiv.org/abs/2404.08627v1)
 append_entries: 0
 Finish: 2024-04-15 12:16:39.379327
+------------------------------------------------------
+Started: 2024-04-16 00:36:08.265305
+Existing_entries: 98
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams](http://arxiv.org/abs/2404.08640v1)
+Filter: [COCONut: Modernizing COCO Segmentation](http://arxiv.org/abs/2404.08639v1)
+Filter: [Age of Information Optimization and State Error Analysis for Correlated
+  Multi-Process Multi-Sensor Systems](http://arxiv.org/abs/2404.08638v1)
+Filter: [Optimal Slicing and Scheduling with Service Guarantees in Multi-Hop
+  Wireless Networks](http://arxiv.org/abs/2404.08637v1)
+Filter: [Probing the 3D Awareness of Visual Foundation Models](http://arxiv.org/abs/2404.08636v1)
+Filter: [Pre-training Small Base LMs with Fewer Tokens](http://arxiv.org/abs/2404.08634v1)
+Filter: [FCert: Certifiably Robust Few-Shot Classification in the Era of
+  Foundation Models](http://arxiv.org/abs/2404.08631v1)
+Filter: [Accessibility in Information Retrieval](http://arxiv.org/abs/2404.08628v1)
+Filter: [Is ChatGPT Transforming Academics' Writing Style?](http://arxiv.org/abs/2404.08627v1)
+append_entries: 0
+Finish: 2024-04-16 00:36:09.068284
