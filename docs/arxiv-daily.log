@@ -4453,3 +4453,26 @@ Filter: [Accessibility in Information Retrieval](http://arxiv.org/abs/2404.08628
 Filter: [Is ChatGPT Transforming Academics' Writing Style?](http://arxiv.org/abs/2404.08627v1)
 append_entries: 0
 Finish: 2024-04-16 00:36:09.068284
+------------------------------------------------------
+Started: 2024-04-16 12:14:23.620547
+Existing_entries: 98
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Personalized Collaborative Fine-Tuning for On-Device Large Language
+  Models](http://arxiv.org/abs/2404.09753v1)
+Filter: [Can We Break Free from Strong Data Augmentations in Self-Supervised
+  Learning?](http://arxiv.org/abs/2404.09752v1)
+Filter: [Layered Uploading for Quantum Convolutional Neural Networks](http://arxiv.org/abs/2404.09750v1)
+Filter: [Connectivity in Symmetric Semi-Algebraic Sets](http://arxiv.org/abs/2404.09749v1)
+Filter: [LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted
+  Gaussian Primitives](http://arxiv.org/abs/2404.09748v1)
+Filter: [AMPCliff: quantitative definition and benchmarking of activity cliffs in
+  antimicrobial peptides](http://arxiv.org/abs/2404.09738v1)
+Filter: [Quantization of Large Language Models with an Overdetermined Basis](http://arxiv.org/abs/2404.09737v1)
+Filter: [FSRT: Facial Scene Representation Transformer for Face Reenactment from
+  Factorized Appearance, Head-pose, and Facial Expression Features](http://arxiv.org/abs/2404.09736v1)
+Filter: [Equipping Diffusion Models with Differentiable Spatial Entropy for
+  Low-Light Image Enhancement](http://arxiv.org/abs/2404.09735v1)
+Filter: [Weighted Sum-Rate Maximization for Movable Antenna-Enhanced Wireless
+  Networks](http://arxiv.org/abs/2404.09734v1)
+append_entries: 0
+Finish: 2024-04-16 12:14:24.298596
