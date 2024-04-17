@@ -4476,3 +4476,25 @@ Filter: [Weighted Sum-Rate Maximization for Movable Antenna-Enhanced Wireless
   Networks](http://arxiv.org/abs/2404.09734v1)
 append_entries: 0
 Finish: 2024-04-16 12:14:24.298596
+------------------------------------------------------
+Started: 2024-04-17 00:37:18.786569
+Existing_entries: 98
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ChainScience 2024, Conference Proceedings](http://arxiv.org/abs/2404.09782v1)
+Filter: [A replica analysis of under-bagging](http://arxiv.org/abs/2404.09779v1)
+Filter: [The Devil is in the Few Shots: Iterative Visual Knowledge Completion for
+  Few-shot Learning](http://arxiv.org/abs/2404.09778v1)
+Filter: [RandAlign: A Parameter-Free Method for Regularizing Graph Convolutional
+  Networks](http://arxiv.org/abs/2404.09774v1)
+Filter: [Eliminating Crossings in Ordered Graphs](http://arxiv.org/abs/2404.09771v1)
+Filter: [Improved methodology for longitudinal Web analytics using Common Crawl](http://arxiv.org/abs/2404.09770v1)
+Filter: [Search-Space Reduction Via Essential Vertices Revisited: Vertex Multicut
+  and Cograph Deletion](http://arxiv.org/abs/2404.09769v1)
+Filter: [Contrastive Pretraining for Visual Concept Explanations of Socioeconomic
+  Outcomes](http://arxiv.org/abs/2404.09768v1)
+Filter: [Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM
+  across Sensor Constellations in Construction](http://arxiv.org/abs/2404.09765v1)
+Filter: [Language-Agnostic Modeling of Wikipedia Articles for Content Quality
+  Assessment across Languages](http://arxiv.org/abs/2404.09764v1)
+append_entries: 0
+Finish: 2024-04-17 00:37:19.731849
