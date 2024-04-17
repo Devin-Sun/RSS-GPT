@@ -19177,3 +19177,31 @@ Filter: [刚刚，李飞飞团队发布《2024年人工智能指数报告》：1
 Filter: [清华首款AI光芯片登上Science，全球首创架构迈向AGI](https://www.36kr.com/p/2734817022978306)
 append_entries: 2
 Finish: 2024-04-17 00:37:18.724058
+------------------------------------------------------
+Started: 2024-04-17 12:14:17.896384
+Existing_entries: 637
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [Sam Altman最新采访：模型性能不是长期差异化的关键](https://www.36kr.com/p/2737179582681733)
+Filter: [“联想系”大模型公司「诺谛智能」完成近亿元Pre-A轮融资，武岳峰科创领投 | 36氪首发](https://www.36kr.com/p/2734373781252359)
+Filter: [仿人机器人开始工作了](https://www.36kr.com/p/2598763225627525)
+Filter: [终于，投资人对 AI 疲倦了](https://www.36kr.com/p/2737155258837257)
+Filter: [波士顿动力Atlas，再见！退役视频引数十万观众泪目，液压退出历史舞台](https://www.36kr.com/p/2737091307710976)
+Filter: [革命新架构掀翻Transformer，无限上下文处理，2万亿token碾压Llama 2](https://www.36kr.com/p/2737091887671813)
+Filter: [游戏“撞上”AI，三七互娱携手高校瞄准AI生力军](https://www.36kr.com/p/2737039019272709)
+Filter: [出门问问冲击“AIGC第一股”，光环与隐忧同存](https://www.36kr.com/p/2737017619425541)
+Filter: [AI数据荒下的创业众生相：盗用GPT-4生成数据训练模型，引发投资人担忧](https://www.36kr.com/p/2736994334806660)
+Token length: 2769
+Summarized using GPT-3.5-turbo-1106
+Append: [OpenAI、谷歌上演抢人大战，马斯克直呼“史上最疯狂”](https://www.36kr.com/p/2736897583272582)
+Filter: [创业者要建立破局思维，资本寒冬靠“新质生产力”来解困｜最前线](https://www.36kr.com/p/2736440446134534)
+Filter: [AI的脉络：非共识时刻的认知价值](https://www.36kr.com/p/2736213498251008)
+Filter: [AI如何改变专利格局？你的组织准备好应用AI了吗？](https://www.36kr.com/p/2736802953980423)
+Filter: [嗅觉数字化，AI还原记忆中的味道](https://www.36kr.com/p/2736779230259715)
+Filter: [李彦宏一讲话，王小川就融资](https://www.36kr.com/p/2736132800342528)
+Filter: [字节Gauth，海外碾压作业帮？](https://www.36kr.com/p/2736206488152580)
+Filter: [李彦宏：开源模型将会越来越落后 | 最前线](https://www.36kr.com/p/2735563500251393)
+Filter: [看懵专业音乐人，Udio让AI音乐进入“以假乱真”新境界？](https://www.36kr.com/p/2736177565779721)
+Filter: [联想急了，豪赌AI](https://www.36kr.com/p/2736202124773123)
+Filter: [百度搜索结果全是AI生成？这可能正是李彦宏想看到的](https://www.36kr.com/p/2736286739016194)
+append_entries: 1
+Finish: 2024-04-17 12:14:20.671503

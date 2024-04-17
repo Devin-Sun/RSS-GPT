@@ -4498,3 +4498,27 @@ Filter: [Language-Agnostic Modeling of Wikipedia Articles for Content Quality
   Assessment across Languages](http://arxiv.org/abs/2404.09764v1)
 append_entries: 0
 Finish: 2024-04-17 00:37:19.731849
+------------------------------------------------------
+Started: 2024-04-17 12:14:20.734479
+Existing_entries: 98
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Nearly Optimal Algorithms for Contextual Dueling Bandits from
+  Adversarial Feedback](http://arxiv.org/abs/2404.10776v1)
+Token length: 1610
+Summarized using GPT-3.5-turbo-1106
+Append: [COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](http://arxiv.org/abs/2404.10775v1)
+Filter: [MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](http://arxiv.org/abs/2404.10774v1)
+Filter: [Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in
+  Unbounded Scenes](http://arxiv.org/abs/2404.10772v1)
+Filter: [TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural
+  Net](http://arxiv.org/abs/2404.10771v1)
+Filter: [Finite-dimensional approximations of push-forwards on locally analytic
+  functionals and truncation of least-squares polynomials](http://arxiv.org/abs/2404.10769v1)
+Filter: [Privacy Can Arise Endogenously in an Economic System with Learning
+  Agents](http://arxiv.org/abs/2404.10767v1)
+Filter: [RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless
+  2D Scans](http://arxiv.org/abs/2404.10766v1)
+Filter: [RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting](http://arxiv.org/abs/2404.10765v1)
+Filter: [Confidential Federated Computations](http://arxiv.org/abs/2404.10764v1)
+append_entries: 1
+Finish: 2024-04-17 12:14:25.927361
