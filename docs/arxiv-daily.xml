@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>COMBO: Compositional World Models for Embodied Multi-Agent Cooperation</title>
 <link>http://arxiv.org/abs/2404.10775v1</link>
 <guid>http://arxiv.org/abs/2404.10775v1</guid>
 <content:encoded><![CDATA[
 <div> 多智能体协作, 分布式智能, 生成模型, 视觉观测, 规划
-<br>
+<br />
 这篇论文研究了多智能体协作的问题，这些智能体在只有部分视角观测到世界的情况下必须进行合作。为了有效地在这种设置中进行规划，我们首先训练生成模型来估计部分视角观测的整体世界状态。然后，我们提出学习一个组合式世界模型，通过对多个智能体的联合动作进行分解，并组合生成视频，以精确模拟这个世界状态上的多组动作。最后，结合视觉语言模型推断其他智能体的动作，我们可以使用树搜索过程集成这些模块，促进在线协作规划。在ThreeDWorld模拟器上创建了两个具有挑战性的多智能体长时间跨度协作任务，并进行了2-4个智能体的实验。结果表明我们的组合式世界模型是有效的，该框架使得多智能体能够在各种任务和任意数量的其他智能体之间高效协作，展现了我们提出框架的未来前景。 <div>
 In this paper, we investigate the problem of embodied multi-agent
 cooperation, where decentralized agents must cooperate given only partial
@@ -36,9 +37,7 @@ proposed framework. More videos can be found at
 https://vis-www.cs.umass.edu/combo/.
 ]]></content:encoded>
 <pubDate>2024-04-16T17:59:11Z</pubDate>
-<pubDate>2024-04-16T17:59:11Z</pubDate>
 </item>
-
 <item>
 <title>A Conceptual Framework for Conversational Search and Recommendation:
   Conceptualizing Agent-Human Interactions During the Conversational Search
