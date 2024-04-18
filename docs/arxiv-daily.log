@@ -4543,3 +4543,23 @@ Filter: [RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting](
 Filter: [Confidential Federated Computations](http://arxiv.org/abs/2404.10764v1)
 append_entries: 0
 Finish: 2024-04-18 00:36:18.666672
+------------------------------------------------------
+Started: 2024-04-18 12:13:55.281577
+Existing_entries: 99
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Factorized Diffusion: Perceptual Illusions by Noise Decomposition](http://arxiv.org/abs/2404.11615v1)
+Filter: [Dynamic Typography: Bringing Words to Life](http://arxiv.org/abs/2404.11614v1)
+Filter: [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from
+  Diffusion Prior](http://arxiv.org/abs/2404.11613v1)
+Filter: [Private federated discovery of out-of-vocabulary words for Gboard](http://arxiv.org/abs/2404.11607v1)
+Filter: [Learning to Solve the Constrained Most Probable Explanation Task in
+  Probabilistic Graphical Models](http://arxiv.org/abs/2404.11606v1)
+Filter: [VG4D: Vision-Language Model Goes 4D Video Recognition](http://arxiv.org/abs/2404.11605v1)
+Filter: [Isoparametric Virtual Element Methods](http://arxiv.org/abs/2404.11603v1)
+Filter: [Interaction Techniques for Exploratory Data Visualization on Mobile
+  Devices](http://arxiv.org/abs/2404.11602v1)
+Filter: [Variational Bayesian Last Layers](http://arxiv.org/abs/2404.11599v1)
+Filter: [Explainable Artificial Intelligence Techniques for Accurate Fault
+  Detection and Diagnosis: A Review](http://arxiv.org/abs/2404.11597v1)
+append_entries: 0
+Finish: 2024-04-18 12:13:56.124700
