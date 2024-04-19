@@ -4,6 +4,91 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>BLINK: Multimodal Large Language Models Can See but Not Perceive</title>
+<link>http://arxiv.org/abs/2404.12390v1</link>
+<guid>http://arxiv.org/abs/2404.12390v1</guid>
+<content:encoded><![CDATA[
+<div> benchmark, multimodal language models, visual perception, challenges, improvement
+<br><br>总结:
+研究介绍了Blink，一个针对多模态语言模型(LLMs)的新基准，专注于核心视觉感知能力，这在其他评估中找不到。Blink的任务大多可以在人类“眨眼”之内解决，例如相对深度估计、视觉对应、取证检测和多视角推理。然而，研究发现这些对感知能力要求很高的任务对当前多模态LLMs构成重大挑战，因为它们无法通过自然语言进行调解。Blink将14个经典计算机视觉任务重新格式化为3,807个多项选择题，配备单个或多个图像和视觉提示。人类平均准确率达到95.70%，但对现有多模态LLMs来说却具有挑战性。即使是性能最好的GPT-4V和Gemini的准确率也分别只有51.26%和45.72%，仅比随机猜测高出13.17%和7.63%，这表明这些感知能力在最近的多模态LLMs中尚未“出现”。研究还强调，专业的CV模型可以更好地解决这些问题，为未来的改进提供了潜在途径。我们相信Blink将激发社区帮助多模态LLMs赶上人类级别的视觉感知水平。 <div>
+We introduce Blink, a new benchmark for multimodal language models (LLMs)
+that focuses on core visual perception abilities not found in other
+evaluations. Most of the Blink tasks can be solved by humans "within a blink"
+(e.g., relative depth estimation, visual correspondence, forensics detection,
+and multi-view reasoning). However, we find these perception-demanding tasks
+cast significant challenges for current multimodal LLMs because they resist
+mediation through natural language. Blink reformats 14 classic computer vision
+tasks into 3,807 multiple-choice questions, paired with single or multiple
+images and visual prompting. While humans get 95.70% accuracy on average, Blink
+is surprisingly challenging for existing multimodal LLMs: even the
+best-performing GPT-4V and Gemini achieve accuracies of 51.26% and 45.72%, only
+13.17% and 7.63% higher than random guessing, indicating that such perception
+abilities have not "emerged" yet in recent multimodal LLMs. Our analysis also
+highlights that specialist CV models could solve these problems much better,
+suggesting potential pathways for future improvements. We believe Blink will
+stimulate the community to help multimodal LLMs catch up with human-level
+visual perception.
+]]></content:encoded>
+<pubDate>2024-04-18T17:59:54Z</pubDate>
+<pubDate>2024-04-18T17:59:54Z</pubDate>
+</item>
+<item>
+<title>Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language
+  Models</title>
+<link>http://arxiv.org/abs/2404.12387v1</link>
+<guid>http://arxiv.org/abs/2404.12387v1</guid>
+<content:encoded><![CDATA[
+<div> 模型, 训练, 评估, 多模态, Reka
+<br><br>
+总结: 
+这篇技术报告介绍了Reka Core, Flash和Edge，它们是强大的多模态语言模型，能够处理和推理文本、图像、视频和音频输入。报告讨论了其中一些模型的训练细节，并提供了全面的评估结果。Reka Edge和Reka Flash不仅达到了行业最新水平，而且在性能上超过了许多更大的模型，在其计算类别上获得了巨大的价值。与此同时，Reka最强大和最大的模型Reka Core在自动评估和盲目人类评估方面接近最先进的模型。在图像问答基准测试（如MMMU、VQAv2）上，Core的表现与GPT4-V相媲美。在多模态聊天方面，Core在盲目第三方人类评估设置下排名第二，超越了其他模型，如Claude 3 Opus。在文本基准测试上，Core不仅在一系列公认的基准测试（如MMLU、GSM8K）上表现出色，而且在人类评估上超越了GPT4-0613。在视频问答（Perception-Test）方面，Core的表现超过了Gemini Ultra。这些模型已经在http://chat.reka.ai 上投入生产。您还可以在http://showcase.reka.ai 上找到一些高质量的定性示例。 <div>
+We introduce Reka Core, Flash, and Edge, a series of powerful multimodal
+language models trained from scratch by Reka. Reka models are able to process
+and reason with text, images, video, and audio inputs. This technical report
+discusses details of training some of these models and provides comprehensive
+evaluation results. We show that Reka Edge and Reka Flash are not only
+state-of-the-art but also outperform many much larger models, delivering
+outsized values for their respective compute class. Meanwhile, our most capable
+and largest model, Reka Core, approaches the best frontier models on both
+automatic evaluations and blind human evaluations. On image question answering
+benchmarks (e.g. MMMU, VQAv2), Core performs competitively to GPT4-V.
+Meanwhile, on multimodal chat, Core ranks as the second most preferred model
+under a blind third-party human evaluation setup, outperforming other models
+such as Claude 3 Opus. On text benchmarks, Core not only performs competitively
+to other frontier models on a set of well-established benchmarks (e.g. MMLU,
+GSM8K) but also outperforms GPT4-0613 on human evaluation. On video question
+answering (Perception-Test), Core outperforms Gemini Ultra. Models are shipped
+in production at http://chat.reka.ai . A showcase of non cherry picked
+qualitative examples can also be found at http://showcase.reka.ai .
+]]></content:encoded>
+<pubDate>2024-04-18T17:59:48Z</pubDate>
+<pubDate>2024-04-18T17:59:48Z</pubDate>
+</item>
+<item>
+<title>MeshLRM: Large Reconstruction Model for High-Quality Mesh</title>
+<link>http://arxiv.org/abs/2404.12385v1</link>
+<guid>http://arxiv.org/abs/2404.12385v1</guid>
+<content:encoded><![CDATA[
+
+We propose MeshLRM, a novel LRM-based approach that can reconstruct a
+high-quality mesh from merely four input images in less than one second.
+Different from previous large reconstruction models (LRMs) that focus on
+NeRF-based reconstruction, MeshLRM incorporates differentiable mesh extraction
+and rendering within the LRM framework. This allows for end-to-end mesh
+reconstruction by fine-tuning a pre-trained NeRF LRM with mesh rendering.
+Moreover, we improve the LRM architecture by simplifying several complex
+designs in previous LRMs. MeshLRM's NeRF initialization is sequentially trained
+with low- and high-resolution images; this new LRM training strategy enables
+significantly faster convergence and thereby leads to better quality with less
+compute. Our approach achieves state-of-the-art mesh reconstruction from
+sparse-view inputs and also allows for many downstream applications, including
+text-to-3D and single-image-to-3D generation. Project page:
+https://sarahweiii.github.io/meshlrm/
+]]></content:encoded>
+<pubDate>2024-04-18T17:59:41Z</pubDate>
+<pubDate>2024-04-18T17:59:41Z</pubDate>
+</item>
 
 <item>
 <title>COMBO: Compositional World Models for Embodied Multi-Agent Cooperation</title>
