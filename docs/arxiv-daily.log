@@ -4619,3 +4619,17 @@ Filter: [Lazy Diffusion Transformer for Interactive Image Editing](http://arxiv.
 Filter: [6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction](http://arxiv.org/abs/2404.12378v1)
 append_entries: 0
 Finish: 2024-04-20 00:37:17.811023
+------------------------------------------------------
+Started: 2024-04-20 12:13:15.679831
+Existing_entries: 102
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On the Content Bias in Fréchet Video Distance](http://arxiv.org/abs/2404.12391v1)
+Filter: [VideoGigaGAN: Towards Detail-rich Video Super-Resolution](http://arxiv.org/abs/2404.12388v1)
+Filter: [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1)
+Filter: [SOHES: Self-supervised Open-world Hierarchical Entity Segmentation](http://arxiv.org/abs/2404.12386v1)
+Filter: [G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and
+  Grasp Synthesis](http://arxiv.org/abs/2404.12383v1)
+Filter: [Lazy Diffusion Transformer for Interactive Image Editing](http://arxiv.org/abs/2404.12382v1)
+Filter: [6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction](http://arxiv.org/abs/2404.12378v1)
+append_entries: 0
+Finish: 2024-04-20 12:13:17.251029
