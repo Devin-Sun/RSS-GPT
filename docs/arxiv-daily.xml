@@ -4,6 +4,42 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MoVA: Adapting Mixture of Vision Experts to Multimodal Context</title>
+<link>http://arxiv.org/abs/2404.13046v1</link>
+<guid>http://arxiv.org/abs/2404.13046v1</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型、视觉编码器、MoVA、多模态理解、图像内容理解<br>
+本文介绍了MoVA，这是一种新型的多模态大语言模型，通过采用粗到细的机制，自适应地路由和融合任务特定的视觉专家。在粗粒度阶段，使用上下文感知的专家路由策略动态选择最合适的视觉专家，利用大语言模型具有的专家路由低秩自适应（LoRA）能力。在细粒度阶段，使用混合视觉专家适配器（MoV-Adapter）从各种专家中提取和融合特定任务的知识。这种粗到细的范式有效地利用了基于多模态上下文和模型专业知识的专家表示，进一步增强了泛化能力。在广泛的实验中，MoVA在各种具有挑战性的多模态基准测试中取得了显著的性能提升，而无需任何额外复杂的设置。MoVA的代码和模型可以在https://github.com/TempleX98/MoVA上找到。 <br><br>总结: 大语言模型在多模态理解中发挥重要作用，MoVA通过粗到细的机制，自适应地路由和融合任务特定的视觉专家，取得了显著的性能提升。 <div>
+As the key component in multimodal large language models (MLLMs), the ability
+of the visual encoder greatly affects MLLM's understanding on diverse image
+content. Although some large-scale pretrained vision encoders such as vision
+encoders in CLIP and DINOv2 have brought promising performance, we found that
+there is still no single vision encoder that can dominate various image content
+understanding, e.g., the CLIP vision encoder leads to outstanding results on
+general image understanding but poor performance on document or chart content.
+To alleviate the bias of CLIP vision encoder, we first delve into the inherent
+behavior of different pre-trained vision encoders and then propose the MoVA, a
+powerful and novel MLLM, adaptively routing and fusing task-specific vision
+experts with a coarse-to-fine mechanism. In the coarse-grained stage, we design
+a context-aware expert routing strategy to dynamically select the most suitable
+vision experts according to the user instruction, input image, and expertise of
+vision experts. This benefits from the powerful model function understanding
+ability of the large language model (LLM) equipped with expert-routing low-rank
+adaptation (LoRA). In the fine-grained stage, we elaborately conduct the
+mixture-of-vision-expert adapter (MoV-Adapter) to extract and fuse
+task-specific knowledge from various experts. This coarse-to-fine paradigm
+effectively leverages representations from experts based on multimodal context
+and model expertise, further enhancing the generalization ability. We conduct
+extensive experiments to evaluate the effectiveness of the proposed approach.
+Without any bells and whistles, MoVA can achieve significant performance gains
+over current state-of-the-art methods in a wide range of challenging multimodal
+benchmarks. Codes and models will be available at
+https://github.com/TempleX98/MoVA.
+]]></content:encoded>
+<pubDate>2024-04-19T17:59:48Z</pubDate>
+<pubDate>2024-04-19T17:59:48Z</pubDate>
+</item>
 
 <item>
 <title>BLINK: Multimodal Large Language Models Can See but Not Perceive</title>
