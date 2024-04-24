@@ -4734,3 +4734,21 @@ Filter: [MLQAOA: Graph Learning Accelerated Hybrid Quantum-Classical Multilevel
 Filter: [RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?](http://arxiv.org/abs/2404.14397v1)
 append_entries: 0
 Finish: 2024-04-23 12:15:29.907416
+------------------------------------------------------
+Started: 2024-04-24 00:37:18.214385
+Existing_entries: 103
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AutoAD III: The Prequel -- Back to the Pixels](http://arxiv.org/abs/2404.14412v1)
+Filter: [Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D
+  Glimpses](http://arxiv.org/abs/2404.14410v1)
+Filter: [CrossScore: Towards Multi-View Image Evaluation and Scoring](http://arxiv.org/abs/2404.14409v1)
+Filter: [SpaceByte: Towards Deleting Tokenization from Large Language Modeling](http://arxiv.org/abs/2404.14408v1)
+Filter: [Hyp-OC: Hyperbolic One Class Classification for Face Anti-Spoofing](http://arxiv.org/abs/2404.14406v1)
+Filter: [Learning H-Infinity Locomotion Control](http://arxiv.org/abs/2404.14405v1)
+Filter: [A mean curvature flow arising in adversarial training](http://arxiv.org/abs/2404.14402v1)
+Filter: [GeoDiffuser: Geometry-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2404.14403v1)
+Filter: [MLQAOA: Graph Learning Accelerated Hybrid Quantum-Classical Multilevel
+  QAOA](http://arxiv.org/abs/2404.14399v1)
+Filter: [RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?](http://arxiv.org/abs/2404.14397v1)
+append_entries: 0
+Finish: 2024-04-24 00:37:19.009730
