@@ -4790,3 +4790,30 @@ Filter: [TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via
 Filter: [Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization](http://arxiv.org/abs/2404.15263v1)
 append_entries: 0
 Finish: 2024-04-25 00:39:25.631263
+------------------------------------------------------
+Started: 2024-04-25 12:12:39.490964
+Existing_entries: 109
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Biologically-Informed Excitatory and Inhibitory Balance for Robust
+  Spiking Neural Network Training](http://arxiv.org/abs/2404.15627v1)
+Filter: [An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from
+  Visuotactile Sensors](http://arxiv.org/abs/2404.15626v1)
+Filter: [Optimizing OOD Detection in Molecular Graphs: A Novel Approach with
+  Diffusion Models](http://arxiv.org/abs/2404.15625v1)
+Filter: [A new framework of high-order unfitted finite element methods using ALE
+  maps for moving-domain problems](http://arxiv.org/abs/2404.15624v1)
+Filter: [Characterizing the Age of Information with Multiple Coexisting Data
+  Streams](http://arxiv.org/abs/2404.15623v1)
+Filter: [FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural
+  Architecture Search](http://arxiv.org/abs/2404.15622v1)
+Filter: [Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural
+  Network Performance](http://arxiv.org/abs/2404.15621v1)
+Filter: [Neural Operator induced Gaussian Process framework for probabilistic
+  solution of parametric partial differential equations](http://arxiv.org/abs/2404.15618v1)
+Token length: 1126
+Summarized using GPT-3.5-turbo-1106
+Append: [DPO: Differential reinforcement learning with application to optimal
+  configuration search](http://arxiv.org/abs/2404.15617v1)
+Filter: [A Bi-directional Quantum Search Algorithm](http://arxiv.org/abs/2404.15616v1)
+append_entries: 1
+Finish: 2024-04-25 12:12:45.237392
