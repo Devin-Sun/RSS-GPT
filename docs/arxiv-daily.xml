@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>ID-Animator: Zero-Shot Identity-Preserving Human Video Generation</title>
 <link>http://arxiv.org/abs/2404.15275v1</link>
 <guid>http://arxiv.org/abs/2404.15275v1</guid>
 <content:encoded><![CDATA[
 <div> 视频生成、人脸识别、数据集构建、模型优势、代码开源
-<br><br>
+<br /><br />
 总结:
 本研究提出了一种零样本人体视频生成方法ID-Animator，能在没有额外训练的情况下根据单个面部参考图像执行个性化视频生成。该方法利用面部适配器从可学习的面部潜在查询中编码身份相关嵌入，以促进视频生成过程中的身份信息提取。此外，研究还介绍了一个面向身份的数据集构建流水线，利用构建的面部图像池的解耦人类属性和行为字幕技术。在此基础上，进一步设计了随机面部参考训练方法，以精确捕获参考图像中的身份相关嵌入，从而提高模型对个性化视频生成的保真度和泛化能力。大量实验证明，ID-Animator相对于以前的模型在生成个性化人体视频方面具有显著优势。此外，我们的方法与流行的预训练T2V模型（如animatediff）和各种社区骨干模型高度兼容，在视频生成的实际应用中显示出很高的可扩展性，这在需要高度保留身份的视频生成中非常理想。我们的代码和检查点将在https://github.com/ID-Animator/ID-Animator上发布。 <div>
 Generating high fidelity human video with specified identities has attracted
@@ -38,7 +39,6 @@ preservation is highly desired. Our codes and checkpoints will be released at
 https://github.com/ID-Animator/ID-Animator.
 ]]></content:encoded>
 <pubDate>2024-04-23T17:59:43Z</pubDate>
-<pubDate>2024-04-23T17:59:43Z</pubDate>
 </item>
 <item>
 <title>Estimation Network Design framework for efficient distributed
@@ -50,7 +50,7 @@ https://github.com/ID-Animator/ID-Animator.
 
 分布式决策问题涉及一组只能通过点对点网络进行通信的代理，没有中央内存。在应用中，如网络控制和数据排名，每个代理只受决策向量的一小部分影响：这种稀疏性通常在分布式算法中被忽略，而它可以提高效率和可扩展性。为了解决这个问题，我们最近的论文引入了估计网络设计(END)，这是一个用于分析和设计分布式迭代的图论语言。END算法可以调整以利用特定问题实例的稀疏性，减少通信开销，最小化冗余，而不需要逐个案例的收敛分析。在本文中，我们展示了END在分布式优化领域的灵活性。特别是，我们研究了许多已有方法的稀疏感知版本，包括ADMM、AugDGM和Push-Sum DGD。对传感器网络中的估计问题进行的模拟表明，END算法可以提高收敛速度，并大大减少通信和内存成本。
 
-<br><br>总结: 本文介绍了一种新的图论语言END，用于分析和设计分布式迭代算法。这种算法可以根据具体问题实例的稀疏性进行调整，减少通信开销和冗余，不需要逐个案例的收敛分析。通过模拟传感器网络中的估计问题，展示了END算法可以提高收敛速度并大大降低通信和内存成本。 <div>
+<br /><br />总结: 本文介绍了一种新的图论语言END，用于分析和设计分布式迭代算法。这种算法可以根据具体问题实例的稀疏性进行调整，减少通信开销和冗余，不需要逐个案例的收敛分析。通过模拟传感器网络中的估计问题，展示了END算法可以提高收敛速度并大大降低通信和内存成本。 <div>
 Distributed decision problems features a group of agents that can only
 communicate over a peer-to-peer network, without a central memory. In
 applications such as network control and data ranking, each agent is only
@@ -68,7 +68,6 @@ estimation problem in sensor networks demonstrate that END algorithms can boost
 convergence speed and greatly reduce the communication and memory cost.
 ]]></content:encoded>
 <pubDate>2024-04-23T17:59:09Z</pubDate>
-<pubDate>2024-04-23T17:59:09Z</pubDate>
 </item>
 <item>
 <title>CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and
@@ -76,7 +75,6 @@ convergence speed and greatly reduce the communication and memory cost.
 <link>http://arxiv.org/abs/2404.15272v1</link>
 <guid>http://arxiv.org/abs/2404.15272v1</guid>
 <content:encoded><![CDATA[
-
 Medical Vision-Language Pretraining (Med-VLP) establishes a connection
 between visual content from medical images and the relevant textual
 descriptions. Existing Med-VLP methods primarily focus on 2D images depicting a
@@ -99,7 +97,6 @@ model's superior performance over the standard CLIP framework across zero-shot
 and fine-tuning scenarios, using both CNN and ViT architectures.
 ]]></content:encoded>
 <pubDate>2024-04-23T17:59:01Z</pubDate>
-<pubDate>2024-04-23T17:59:01Z</pubDate>
 </item>
 <item>
 <title>Automatic Layout Planning for Visually-Rich Documents with
@@ -107,7 +104,6 @@ and fine-tuning scenarios, using both CNN and ViT architectures.
 <link>http://arxiv.org/abs/2404.15271v1</link>
 <guid>http://arxiv.org/abs/2404.15271v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements in instruction-following models have made user
 interactions with models more user-friendly and efficient, broadening their
 applicability. In graphic design, non-professional users often struggle to
@@ -125,14 +121,12 @@ the design process, providing an approachable solution for a wide range of
 design tasks on visually-rich documents.
 ]]></content:encoded>
 <pubDate>2024-04-23T17:58:33Z</pubDate>
-<pubDate>2024-04-23T17:58:33Z</pubDate>
 </item>
 <item>
 <title>Aligning LLM Agents by Learning Latent Preference from User Edits</title>
 <link>http://arxiv.org/abs/2404.15269v1</link>
 <guid>http://arxiv.org/abs/2404.15269v1</guid>
 <content:encoded><![CDATA[
-
 We study interactive learning of language agents based on user edits made to
 the agent's output. In a typical setting such as writing assistants, the user
 interacts with a language agent to generate a response given a context, and may
@@ -160,7 +154,6 @@ tasks, CIPHER achieves the lowest edit distance cost and learns preferences
 that show significant similarity to the ground truth preferences
 ]]></content:encoded>
 <pubDate>2024-04-23T17:57:47Z</pubDate>
-<pubDate>2024-04-23T17:57:47Z</pubDate>
 </item>
 <item>
 <title>From Parts to Whole: A Unified Reference Framework for Controllable
@@ -168,7 +161,6 @@ that show significant similarity to the ground truth preferences
 <link>http://arxiv.org/abs/2404.15267v1</link>
 <guid>http://arxiv.org/abs/2404.15267v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements in controllable human image generation have led to
 zero-shot generation using structural signals (e.g., pose, depth) or facial
 appearance. Yet, generating human images conditioned on multiple parts of human
@@ -189,9 +181,7 @@ controllable human image customization. See our project page at
 https://huanngzh.github.io/Parts2Whole/.
 ]]></content:encoded>
 <pubDate>2024-04-23T17:56:08Z</pubDate>
-<pubDate>2024-04-23T17:56:08Z</pubDate>
 </item>
-
 <item>
 <title>MoVA: Adapting Mixture of Vision Experts to Multimodal Context</title>
 <link>http://arxiv.org/abs/2404.13046v1</link>

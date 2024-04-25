@@ -4778,3 +4778,15 @@ Filter: [TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via
 Filter: [Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization](http://arxiv.org/abs/2404.15263v1)
 append_entries: 6
 Finish: 2024-04-24 12:16:49.351020
+------------------------------------------------------
+Started: 2024-04-25 00:39:25.057957
+Existing_entries: 109
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose
+  Estimation](http://arxiv.org/abs/2404.15276v1)
+Filter: [Metric-guided Image Reconstruction Bounds via Conformal Prediction](http://arxiv.org/abs/2404.15274v1)
+Filter: [TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via
+  Gaussian Splatting](http://arxiv.org/abs/2404.15264v1)
+Filter: [Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization](http://arxiv.org/abs/2404.15263v1)
+append_entries: 0
+Finish: 2024-04-25 00:39:25.631263
