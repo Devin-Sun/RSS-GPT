@@ -4840,3 +4840,30 @@ Filter: [Neural Operator induced Gaussian Process framework for probabilistic
 Filter: [A Bi-directional Quantum Search Algorithm](http://arxiv.org/abs/2404.15616v1)
 append_entries: 0
 Finish: 2024-04-26 00:37:03.440699
+------------------------------------------------------
+Started: 2024-04-26 12:14:32.626684
+Existing_entries: 110
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [The Third Monocular Depth Estimation Challenge](http://arxiv.org/abs/2404.16831v1)
+Filter: [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting
+  3D Objects with Realistic Materials](http://arxiv.org/abs/2404.16829v1)
+Filter: [Made to Order: Discovering monotonic temporal changes via
+  self-supervised video ordering](http://arxiv.org/abs/2404.16828v1)
+Filter: [ResVR: Joint Rescaling and Viewport Rendering of Omnidirectional Images](http://arxiv.org/abs/2404.16825v1)
+Filter: [V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation
+  Localization and Copyright Protection](http://arxiv.org/abs/2404.16824v1)
+Token length: 1440
+Summarized using GPT-3.5-turbo-1106
+Append: [Learning Visuotactile Skills with Two Multifingered Hands](http://arxiv.org/abs/2404.16823v1)
+Token length: 1276
+Summarized using GPT-3.5-turbo-1106
+Append: [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal
+  Models with Open-Source Suites](http://arxiv.org/abs/2404.16821v1)
+Filter: [Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and
+  Human Ratings](http://arxiv.org/abs/2404.16820v1)
+Filter: [Boosting Unsupervised Semantic Segmentation with Principal Mask
+  Proposals](http://arxiv.org/abs/2404.16818v1)
+Filter: [IndicGenBench: A Multilingual Benchmark to Evaluate Generation
+  Capabilities of LLMs on Indic Languages](http://arxiv.org/abs/2404.16816v1)
+append_entries: 2
+Finish: 2024-04-26 12:14:44.908611

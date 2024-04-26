@@ -4,6 +4,68 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Learning Visuotactile Skills with Two Multifingered Hands</title>
+<link>http://arxiv.org/abs/2404.16823v1</link>
+<guid>http://arxiv.org/abs/2404.16823v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 人体灵巧性，双手系统，触觉数据，数据收集，机械手
+总结:
+人们致力于通过双手系统和视触觉数据来模拟人类的灵巧性、感知体验和运动模式。他们面临两个挑战：缺乏适用于多指手的双臂设置的可负担和可访问的远程操作系统，以及缺乏配备触觉传感器的多指手硬件。为了解决这些问题，他们开发了一种低成本的双手-臂远程操作系统HATO，同时引入了一种新的硬件适应方法，利用触觉传感器装备了两个假肢手来进行研究。利用他们系统收集的视触觉数据，他们学习完成长时间、高精度任务的技能，进一步实证研究了数据集大小、感知模式和视觉输入预处理对策略学习的影响。他们的研究结果标志着从视触觉数据中实现双手多指操作迈出了一大步。 <div>
+Aiming to replicate human-like dexterity, perceptual experiences, and motion
+patterns, we explore learning from human demonstrations using a bimanual system
+with multifingered hands and visuotactile data. Two significant challenges
+exist: the lack of an affordable and accessible teleoperation system suitable
+for a dual-arm setup with multifingered hands, and the scarcity of
+multifingered hand hardware equipped with touch sensing. To tackle the first
+challenge, we develop HATO, a low-cost hands-arms teleoperation system that
+leverages off-the-shelf electronics, complemented with a software suite that
+enables efficient data collection; the comprehensive software suite also
+supports multimodal data processing, scalable policy learning, and smooth
+policy deployment. To tackle the latter challenge, we introduce a novel
+hardware adaptation by repurposing two prosthetic hands equipped with touch
+sensors for research. Using visuotactile data collected from our system, we
+learn skills to complete long-horizon, high-precision tasks which are difficult
+to achieve without multifingered dexterity and touch feedback. Furthermore, we
+empirically investigate the effects of dataset size, sensing modality, and
+visual input preprocessing on policy learning. Our results mark a promising
+step forward in bimanual multifingered manipulation from visuotactile data.
+Videos, code, and datasets can be found at https://toruowo.github.io/hato/ .
+]]></content:encoded>
+<pubDate>2024-04-25T17:59:41Z</pubDate>
+<pubDate>2024-04-25T17:59:41Z</pubDate>
+</item>
+<item>
+<title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal
+  Models with Open-Source Suites</title>
+<link>http://arxiv.org/abs/2404.16821v1</link>
+<guid>http://arxiv.org/abs/2404.16821v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: InternVL 1.5, 多模态大语言模型, 视觉编码器, 高分辨率, 双语数据集
+
+总结:
+InternVL 1.5是一个开源的多模态大语言模型，通过引入三项简单的改进，架起了开源和专有商业模型在多模态理解方面的巨大差距。首先是强大的视觉编码器，通过不断学习的策略提升了视觉基础模型InternViT-6B的能力，使其可以在不同的LLM中转移和重复使用。其次是动态高分辨率，将图像根据输入图像的长宽比和分辨率划分为1到40个448×448像素的图块，支持高达4K分辨率的输入。第三是高质量的双语数据集，精心收集了涵盖常见场景、文档图像的双语数据集，并用英文和中文问答对进行注释，显著提升了OCR和中文相关任务的性能。通过一系列基准测试和比较研究，InternVL 1.5表现出了与开源和专有模型的竞争性能，成绩在18项基准测试中有8项达到了最先进的水平。Code已发布在https://github.com/OpenGVLab/InternVL。<br><br> <div>
+In this report, we introduce InternVL 1.5, an open-source multimodal large
+language model (MLLM) to bridge the capability gap between open-source and
+proprietary commercial models in multimodal understanding. We introduce three
+simple improvements: (1) Strong Vision Encoder: we explored a continuous
+learning strategy for the large-scale vision foundation model -- InternViT-6B,
+boosting its visual understanding capabilities, and making it can be
+transferred and reused in different LLMs. (2) Dynamic High-Resolution: we
+divide images into tiles ranging from 1 to 40 of 448$\times$448 pixels
+according to the aspect ratio and resolution of the input images, which
+supports up to 4K resolution input. (3) High-Quality Bilingual Dataset: we
+carefully collected a high-quality bilingual dataset that covers common scenes,
+document images, and annotated them with English and Chinese question-answer
+pairs, significantly enhancing performance in OCR- and Chinese-related tasks.
+We evaluate InternVL 1.5 through a series of benchmarks and comparative
+studies. Compared to both open-source and proprietary models, InternVL 1.5
+shows competitive performance, achieving state-of-the-art results in 8 of 18
+benchmarks. Code has been released at https://github.com/OpenGVLab/InternVL.
+]]></content:encoded>
+<pubDate>2024-04-25T17:59:19Z</pubDate>
+<pubDate>2024-04-25T17:59:19Z</pubDate>
+</item>
 
 <item>
 <title>DPO: Differential reinforcement learning with application to optimal
