@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>DPO: Differential reinforcement learning with application to optimal
   configuration search</title>
@@ -11,9 +12,9 @@
 <guid>http://arxiv.org/abs/2404.15617v1</guid>
 <content:encoded><![CDATA[
 <div> 强化学习、连续状态空间、连续动作空间、Differential Policy Optimization (DPO)、遗憾上界
-<br>
+<br />
 本文提出了第一个可以处理训练样本有限且具有短长度回合的差分强化学习框架DPO。该方法引入了差分策略优化（DPO），这是一种逐点和逐阶段迭代方法，可以优化由局部移动算子编码的策略。研究证明了DPO的逐点收敛估计，并提供了与当前理论研究相当的遗憾上界。此类逐点估计确保了学习的策略在不同步骤间能够均匀匹配最优路径。然后，DPO被应用于一类具有Lagrangian奖励的实际强化学习问题。DPO易于实现，可扩展，并在对比基准实验中表现出与几种流行的强化学习方法相媲美的结果。
-<br><br>总结: <br>本文介绍了一种新的差分强化学习框架DPO，能够处理具有有限训练样本和短长度回合的情况。该方法通过优化局部移动算子编码的策略，实现了逐点收敛和与当前理论研究相当的遗憾上界。在实际应用中，DPO表现出了可扩展性和竞争力。 <div>
+<br /><br />总结: <br />本文介绍了一种新的差分强化学习框架DPO，能够处理具有有限训练样本和短长度回合的情况。该方法通过优化局部移动算子编码的策略，实现了逐点收敛和与当前理论研究相当的遗憾上界。在实际应用中，DPO表现出了可扩展性和竞争力。 <div>
 Reinforcement learning (RL) with continuous state and action spaces remains
 one of the most challenging problems within the field. Most current learning
 methods focus on integral identities such as value functions to derive an
@@ -31,9 +32,7 @@ rewards. DPO is easy to implement, scalable, and shows competitive results on
 benchmarking experiments against several popular RL methods.
 ]]></content:encoded>
 <pubDate>2024-04-24T03:11:12Z</pubDate>
-<pubDate>2024-04-24T03:11:12Z</pubDate>
 </item>
-
 <item>
 <title>ID-Animator: Zero-Shot Identity-Preserving Human Video Generation</title>
 <link>http://arxiv.org/abs/2404.15275v1</link>
