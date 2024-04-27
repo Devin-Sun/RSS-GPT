@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Learning Visuotactile Skills with Two Multifingered Hands</title>
 <link>http://arxiv.org/abs/2404.16823v1</link>
@@ -33,7 +34,6 @@ step forward in bimanual multifingered manipulation from visuotactile data.
 Videos, code, and datasets can be found at https://toruowo.github.io/hato/ .
 ]]></content:encoded>
 <pubDate>2024-04-25T17:59:41Z</pubDate>
-<pubDate>2024-04-25T17:59:41Z</pubDate>
 </item>
 <item>
 <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal
@@ -44,7 +44,7 @@ Videos, code, and datasets can be found at https://toruowo.github.io/hato/ .
 <div> 关键词: InternVL 1.5, 多模态大语言模型, 视觉编码器, 高分辨率, 双语数据集
 
 总结:
-InternVL 1.5是一个开源的多模态大语言模型，通过引入三项简单的改进，架起了开源和专有商业模型在多模态理解方面的巨大差距。首先是强大的视觉编码器，通过不断学习的策略提升了视觉基础模型InternViT-6B的能力，使其可以在不同的LLM中转移和重复使用。其次是动态高分辨率，将图像根据输入图像的长宽比和分辨率划分为1到40个448×448像素的图块，支持高达4K分辨率的输入。第三是高质量的双语数据集，精心收集了涵盖常见场景、文档图像的双语数据集，并用英文和中文问答对进行注释，显著提升了OCR和中文相关任务的性能。通过一系列基准测试和比较研究，InternVL 1.5表现出了与开源和专有模型的竞争性能，成绩在18项基准测试中有8项达到了最先进的水平。Code已发布在https://github.com/OpenGVLab/InternVL。<br><br> <div>
+InternVL 1.5是一个开源的多模态大语言模型，通过引入三项简单的改进，架起了开源和专有商业模型在多模态理解方面的巨大差距。首先是强大的视觉编码器，通过不断学习的策略提升了视觉基础模型InternViT-6B的能力，使其可以在不同的LLM中转移和重复使用。其次是动态高分辨率，将图像根据输入图像的长宽比和分辨率划分为1到40个448×448像素的图块，支持高达4K分辨率的输入。第三是高质量的双语数据集，精心收集了涵盖常见场景、文档图像的双语数据集，并用英文和中文问答对进行注释，显著提升了OCR和中文相关任务的性能。通过一系列基准测试和比较研究，InternVL 1.5表现出了与开源和专有模型的竞争性能，成绩在18项基准测试中有8项达到了最先进的水平。Code已发布在https://github.com/OpenGVLab/InternVL。<br /><br /> <div>
 In this report, we introduce InternVL 1.5, an open-source multimodal large
 language model (MLLM) to bridge the capability gap between open-source and
 proprietary commercial models in multimodal understanding. We introduce three
@@ -64,9 +64,7 @@ shows competitive performance, achieving state-of-the-art results in 8 of 18
 benchmarks. Code has been released at https://github.com/OpenGVLab/InternVL.
 ]]></content:encoded>
 <pubDate>2024-04-25T17:59:19Z</pubDate>
-<pubDate>2024-04-25T17:59:19Z</pubDate>
 </item>
-
 <item>
 <title>DPO: Differential reinforcement learning with application to optimal
   configuration search</title>
