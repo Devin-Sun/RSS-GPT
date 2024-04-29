@@ -4967,3 +4967,25 @@ Filter: [IndicGenBench: A Multilingual Benchmark to Evaluate Generation
   Capabilities of LLMs on Indic Languages](http://arxiv.org/abs/2404.16816v1)
 append_entries: 0
 Finish: 2024-04-29 00:37:51.629250
+------------------------------------------------------
+Started: 2024-04-29 12:15:05.102128
+Existing_entries: 112
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality
+  Virtual Try-on in Videos](http://arxiv.org/abs/2404.17571v1)
+Filter: [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](http://arxiv.org/abs/2404.17569v1)
+Filter: [ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection](http://arxiv.org/abs/2404.17565v1)
+Filter: [Half-space separation in monophonic convexity](http://arxiv.org/abs/2404.17564v1)
+Filter: [An exactly solvable model for emergence and scaling laws](http://arxiv.org/abs/2404.17563v1)
+Filter: [A Novel Context driven Critical Integrative Levels (CIL) Approach:
+  Advancing Human-Centric and Integrative Lighting Asset Management in Public
+  Libraries with Practical Thresholds](http://arxiv.org/abs/2404.17554v1)
+Filter: [Federated Transfer Component Analysis Towards Effective VNF Profiling](http://arxiv.org/abs/2404.17553v1)
+Filter: [A Semi-Automatic Approach to Create Large Gender- and Age-Balanced
+  Speaker Corpora: Usefulness of Speaker Diarization & Identification](http://arxiv.org/abs/2404.17552v1)
+Filter: [CoCar NextGen: a Multi-Purpose Platform for Connected Autonomous Driving
+  Research](http://arxiv.org/abs/2404.17550v1)
+Filter: [Integrating UAV-Enabled Base Stations in 3D Networks: QoS-Aware Joint
+  Fronthaul and Backhaul Design](http://arxiv.org/abs/2404.17547v1)
+append_entries: 0
+Finish: 2024-04-29 12:15:06.348278
