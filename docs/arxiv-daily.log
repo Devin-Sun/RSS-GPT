@@ -5011,3 +5011,25 @@ Filter: [Integrating UAV-Enabled Base Stations in 3D Networks: QoS-Aware Joint
   Fronthaul and Backhaul Design](http://arxiv.org/abs/2404.17547v1)
 append_entries: 0
 Finish: 2024-04-30 00:36:17.267710
+------------------------------------------------------
+Started: 2024-04-30 12:13:45.002204
+Existing_entries: 112
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1589
+Summarized using GPT-3.5-turbo-1106
+Append: [Hallucination of Multimodal Large Language Models: A Survey](http://arxiv.org/abs/2404.18930v1)
+Filter: [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](http://arxiv.org/abs/2404.18929v1)
+Token length: 1260
+Summarized using GPT-3.5-turbo-1106
+Append: [Stylus: Automatic Adapter Selection for Diffusion Models](http://arxiv.org/abs/2404.18928v1)
+Filter: [Point Cloud Models Improve Visual Robustness in Robotic Learners](http://arxiv.org/abs/2404.18926v1)
+Filter: [Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing](http://arxiv.org/abs/2404.18924v1)
+Filter: [Holmes: Benchmark the Linguistic Competence of Language Models](http://arxiv.org/abs/2404.18923v1)
+Filter: [DPO Meets PPO: Reinforced Token Optimization for RLHF](http://arxiv.org/abs/2404.18922v1)
+Append: [TheaterGen: Character Management with LLM for Consistent Multi-turn
+  Image Generation](http://arxiv.org/abs/2404.18919v1)
+Filter: [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](http://arxiv.org/abs/2404.18911v1)
+Append: [Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face
+  of Environmental Uncertainty](http://arxiv.org/abs/2404.18909v1)
+append_entries: 4
+Finish: 2024-04-30 12:13:55.161120

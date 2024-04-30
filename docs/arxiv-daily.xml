@@ -4,6 +4,135 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Hallucination of Multimodal Large Language Models: A Survey</title>
+<link>http://arxiv.org/abs/2404.18930v1</link>
+<guid>http://arxiv.org/abs/2404.18930v1</guid>
+<content:encoded><![CDATA[
+<div> 语言模型；视觉-语言模型；幻觉；评估方法；挑战
+
+幻觉在多模态大语言模型（MLLMs）中是一个严重的问题，也被称为大视觉-语言模型（LVLMs）。文章综述了在MLLMs中出现幻觉的原因、评估方法以及缓解策略。同时指出了当前挑战和限制，并提出了未来研究的方向。通过深入的分析和细致的分类，为进一步提升MLLMs的健壮性和可靠性提供了宝贵的见解和资源。 <div>
+This survey presents a comprehensive analysis of the phenomenon of
+hallucination in multimodal large language models (MLLMs), also known as Large
+Vision-Language Models (LVLMs), which have demonstrated significant
+advancements and remarkable abilities in multimodal tasks. Despite these
+promising developments, MLLMs often generate outputs that are inconsistent with
+the visual content, a challenge known as hallucination, which poses substantial
+obstacles to their practical deployment and raises concerns regarding their
+reliability in real-world applications. This problem has attracted increasing
+attention, prompting efforts to detect and mitigate such inaccuracies. We
+review recent advances in identifying, evaluating, and mitigating these
+hallucinations, offering a detailed overview of the underlying causes,
+evaluation benchmarks, metrics, and strategies developed to address this issue.
+Additionally, we analyze the current challenges and limitations, formulating
+open questions that delineate potential pathways for future research. By
+drawing the granular classification and landscapes of hallucination causes,
+evaluation benchmarks, and mitigation methods, this survey aims to deepen the
+understanding of hallucinations in MLLMs and inspire further advancements in
+the field. Through our thorough and in-depth review, we contribute to the
+ongoing dialogue on enhancing the robustness and reliability of MLLMs,
+providing valuable insights and resources for researchers and practitioners
+alike. Resources are available at:
+https://github.com/showlab/Awesome-MLLM-Hallucination.
+]]></content:encoded>
+<pubDate>2024-04-29T17:59:41Z</pubDate>
+<pubDate>2024-04-29T17:59:41Z</pubDate>
+</item>
+<item>
+<title>Stylus: Automatic Adapter Selection for Diffusion Models</title>
+<link>http://arxiv.org/abs/2404.18928v1</link>
+<guid>http://arxiv.org/abs/2404.18928v1</guid>
+<content:encoded><![CDATA[
+<div> Stylus, adapters, fine-tuned, matching, prompt
+
+总结: 本文介绍了使用适配器来生成高保真度定制图像的替代方法，以降低成本。文章探讨了将适配器与提示匹配的问题，并提出了一种名为Stylus的解决方案。Stylus通过三个阶段的方法来高效地选择和自动组合任务特定的适配器，从而提高了模型的性能，并在评估中取得了良好的效果。作者还开发了一个包含75K适配器的数据集StylusDocs，并在常见的Stable Diffusion检查点上进行了评估，结果表明Stylus在CLIP-FID Pareto效率方面表现更好，并且被人类和多模型评估者比基础模型更受欢迎。 <div>
+Beyond scaling base models with more data or parameters, fine-tuned adapters
+provide an alternative way to generate high fidelity, custom images at reduced
+costs. As such, adapters have been widely adopted by open-source communities,
+accumulating a database of over 100K adapters-most of which are highly
+customized with insufficient descriptions. This paper explores the problem of
+matching the prompt to a set of relevant adapters, built on recent work that
+highlight the performance gains of composing adapters. We introduce Stylus,
+which efficiently selects and automatically composes task-specific adapters
+based on a prompt's keywords. Stylus outlines a three-stage approach that first
+summarizes adapters with improved descriptions and embeddings, retrieves
+relevant adapters, and then further assembles adapters based on prompts'
+keywords by checking how well they fit the prompt. To evaluate Stylus, we
+developed StylusDocs, a curated dataset featuring 75K adapters with
+pre-computed adapter embeddings. In our evaluation on popular Stable Diffusion
+checkpoints, Stylus achieves greater CLIP-FID Pareto efficiency and is twice as
+preferred, with humans and multimodal models as evaluators, over the base
+model. See stylus-diffusion.github.io for more.
+]]></content:encoded>
+<pubDate>2024-04-29T17:59:16Z</pubDate>
+<pubDate>2024-04-29T17:59:16Z</pubDate>
+</item>
+<item>
+<title>TheaterGen: Character Management with LLM for Consistent Multi-turn
+  Image Generation</title>
+<link>http://arxiv.org/abs/2404.18919v1</link>
+<guid>http://arxiv.org/abs/2404.18919v1</guid>
+<content:encoded><![CDATA[
+
+Recent advances in diffusion models can generate high-quality and stunning
+images from text. However, multi-turn image generation, which is of high demand
+in real-world scenarios, still faces challenges in maintaining semantic
+consistency between images and texts, as well as contextual consistency of the
+same subject across multiple interactive turns. To address this issue, we
+introduce TheaterGen, a training-free framework that integrates large language
+models (LLMs) and text-to-image (T2I) models to provide the capability of
+multi-turn image generation. Within this framework, LLMs, acting as a
+"Screenwriter", engage in multi-turn interaction, generating and managing a
+standardized prompt book that encompasses prompts and layout designs for each
+character in the target image. Based on these, Theatergen generate a list of
+character images and extract guidance information, akin to the "Rehearsal".
+Subsequently, through incorporating the prompt book and guidance information
+into the reverse denoising process of T2I diffusion models, Theatergen generate
+the final image, as conducting the "Final Performance". With the effective
+management of prompt books and character images, TheaterGen significantly
+improves semantic and contextual consistency in synthesized images.
+Furthermore, we introduce a dedicated benchmark, CMIGBench (Consistent
+Multi-turn Image Generation Benchmark) with 8000 multi-turn instructions.
+Different from previous multi-turn benchmarks, CMIGBench does not define
+characters in advance. Both the tasks of story generation and multi-turn
+editing are included on CMIGBench for comprehensive evaluation. Extensive
+experimental results show that TheaterGen outperforms state-of-the-art methods
+significantly. It raises the performance bar of the cutting-edge Mini DALLE 3
+model by 21% in average character-character similarity and 19% in average
+text-image similarity.
+]]></content:encoded>
+<pubDate>2024-04-29T17:58:14Z</pubDate>
+<pubDate>2024-04-29T17:58:14Z</pubDate>
+</item>
+<item>
+<title>Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face
+  of Environmental Uncertainty</title>
+<link>http://arxiv.org/abs/2404.18909v1</link>
+<guid>http://arxiv.org/abs/2404.18909v1</guid>
+<content:encoded><![CDATA[
+
+To overcome the sim-to-real gap in reinforcement learning (RL), learned
+policies must maintain robustness against environmental uncertainties. While
+robust RL has been widely studied in single-agent regimes, in multi-agent
+environments, the problem remains understudied -- despite the fact that the
+problems posed by environmental uncertainties are often exacerbated by
+strategic interactions. This work focuses on learning in distributionally
+robust Markov games (RMGs), a robust variant of standard Markov games, wherein
+each agent aims to learn a policy that maximizes its own worst-case performance
+when the deployed environment deviates within its own prescribed uncertainty
+set. This results in a set of robust equilibrium strategies for all agents that
+align with classic notions of game-theoretic equilibria. Assuming a
+non-adaptive sampling mechanism from a generative model, we propose a
+sample-efficient model-based algorithm (DRNVI) with finite-sample complexity
+guarantees for learning robust variants of various notions of game-theoretic
+equilibria. We also establish an information-theoretic lower bound for solving
+RMGs, which confirms the near-optimal sample complexity of DRNVI with respect
+to problem-dependent factors such as the size of the state space, the target
+accuracy, and the horizon length.
+]]></content:encoded>
+<pubDate>2024-04-29T17:51:47Z</pubDate>
+<pubDate>2024-04-29T17:51:47Z</pubDate>
+</item>
 
 <item>
 <title>Learning Visuotactile Skills with Two Multifingered Hands</title>
