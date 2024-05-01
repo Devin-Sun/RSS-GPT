@@ -5033,3 +5033,15 @@ Append: [Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face
   of Environmental Uncertainty](http://arxiv.org/abs/2404.18909v1)
 append_entries: 4
 Finish: 2024-04-30 12:13:55.161120
+------------------------------------------------------
+Started: 2024-05-01 00:40:07.141630
+Existing_entries: 116
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](http://arxiv.org/abs/2404.18929v1)
+Filter: [Point Cloud Models Improve Visual Robustness in Robotic Learners](http://arxiv.org/abs/2404.18926v1)
+Filter: [Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing](http://arxiv.org/abs/2404.18924v1)
+Filter: [Holmes: Benchmark the Linguistic Competence of Language Models](http://arxiv.org/abs/2404.18923v1)
+Filter: [DPO Meets PPO: Reinforced Token Optimization for RLHF](http://arxiv.org/abs/2404.18922v1)
+Filter: [Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting](http://arxiv.org/abs/2404.18911v1)
+append_entries: 0
+Finish: 2024-05-01 00:40:08.234728
