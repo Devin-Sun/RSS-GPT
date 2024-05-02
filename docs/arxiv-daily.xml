@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>No Representation, No Trust: Connecting Representation, Collapse, and
+  Trust Issues in PPO</title>
+<link>http://arxiv.org/abs/2405.00662v1</link>
+<guid>http://arxiv.org/abs/2405.00662v1</guid>
+<content:encoded><![CDATA[
+<div> 非稳态、深度强化学习、表示动态、Proximal Policy Optimization、性能崩溃<br>
+在这项工作中，研究人员对Proximal Policy Optimization（PPO）在Atari和MuJoCo环境中的表示动态进行了实证研究，发现PPO代理也受到特征排名恶化和可塑性丧失的影响。他们展示了这种情况在非稳态性较强时会加剧，最终导致actor的性能崩溃，而与评论家的性能无关。作者还指出了表示崩溃、性能崩溃和PPO中的信任区域问题之间的联系，并提出了一种新的辅助损失Proximal Feature Optimization（PFO），通过其他干预措施表明，规范化表示动态可以改善PPO代理的性能。<br><br>总结: 非稳态环境中，深度强化学习中的表示动态对性能具有重要影响，特别是在Proximal Policy Optimization中，这种影响会导致性能崩溃。通过实证研究，研究人员发现了这种影响，并提出了Proximal Feature Optimization作为解决方案，通过规范化表示动态来改善代理的性能。 <div>
+Reinforcement learning (RL) is inherently rife with non-stationarity since
+the states and rewards the agent observes during training depend on its
+changing policy. Therefore, networks in deep RL must be capable of adapting to
+new observations and fitting new targets. However, previous works have observed
+that networks in off-policy deep value-based methods exhibit a decrease in
+representation rank, often correlated with an inability to continue learning or
+a collapse in performance. Although this phenomenon has generally been
+attributed to neural network learning under non-stationarity, it has been
+overlooked in on-policy policy optimization methods which are often thought
+capable of training indefinitely. In this work, we empirically study
+representation dynamics in Proximal Policy Optimization (PPO) on the Atari and
+MuJoCo environments, revealing that PPO agents are also affected by feature
+rank deterioration and loss of plasticity. We show that this is aggravated with
+stronger non-stationarity, ultimately driving the actor's performance to
+collapse, regardless of the performance of the critic. We draw connections
+between representation collapse, performance collapse, and trust region issues
+in PPO, and present Proximal Feature Optimization (PFO), a novel auxiliary
+loss, that along with other interventions shows that regularizing the
+representation dynamics improves the performance of PPO agents.
+]]></content:encoded>
+<pubDate>2024-05-01T17:50:16Z</pubDate>
+<pubDate>2024-05-01T17:50:16Z</pubDate>
+</item>
 
 <item>
 <title>DOCCI: Descriptions of Connected and Contrasting Images</title>
