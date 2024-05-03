@@ -5108,3 +5108,23 @@ Filter: [NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and
   Encoder-based Scoring for Semantic Textual Relatedness](http://arxiv.org/abs/2405.00659v1)
 append_entries: 1
 Finish: 2024-05-02 12:14:56.877409
+------------------------------------------------------
+Started: 2024-05-03 00:39:33.855341
+Existing_entries: 118
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Spectrally Pruned Gaussian Fields with Neural Compensation](http://arxiv.org/abs/2405.00676v1)
+Filter: [Self-Play Preference Optimization for Language Model Alignment](http://arxiv.org/abs/2405.00675v1)
+Filter: [TexSliders: Diffusion-Based Texture Editing in CLIP Space](http://arxiv.org/abs/2405.00672v1)
+Filter: [Adapting Pretrained Networks for Image Quality Assessment on High
+  Dynamic Range Displays](http://arxiv.org/abs/2405.00670v1)
+Filter: [RGB$\leftrightarrow$X: Image decomposition and synthesis using material-
+  and lighting-aware diffusion models](http://arxiv.org/abs/2405.00666v1)
+Filter: [Optimizing Profitability in Timely Gossip Networks](http://arxiv.org/abs/2405.00665v1)
+Filter: [Is Bigger Edit Batch Size Always Better? -- An Empirical Study on Model
+  Editing with Llama-3](http://arxiv.org/abs/2405.00664v1)
+Filter: [Quantum cryptographic protocols with dual messaging system via 2D
+  alternate quantum walks and genuine single particle entangled states](http://arxiv.org/abs/2405.00663v1)
+Filter: [NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and
+  Encoder-based Scoring for Semantic Textual Relatedness](http://arxiv.org/abs/2405.00659v1)
+append_entries: 0
+Finish: 2024-05-03 00:39:35.814660
