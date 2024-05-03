@@ -5128,3 +5128,29 @@ Filter: [NLU-STR at SemEval-2024 Task 1: Generative-based Augmentation and
   Encoder-based Scoring for Semantic Textual Relatedness](http://arxiv.org/abs/2405.00659v1)
 append_entries: 0
 Finish: 2024-05-03 00:39:35.814660
+------------------------------------------------------
+Started: 2024-05-03 12:13:55.998749
+Existing_entries: 118
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Multi-Space Alignments Towards Universal LiDAR Segmentation](http://arxiv.org/abs/2405.01538v1)
+Filter: [Customizing Text-to-Image Models with a Single Image Pair](http://arxiv.org/abs/2405.01536v1)
+Filter: [Prometheus 2: An Open Source Language Model Specialized in Evaluating
+  Other Language Models](http://arxiv.org/abs/2405.01535v1)
+Token length: 1392
+Summarized using GPT-3.5-turbo-1106
+Append: [Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon
+  Robotics Tasks](http://arxiv.org/abs/2405.01534v1)
+Token length: 1323
+Summarized using GPT-3.5-turbo-1106
+Append: [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D
+  Perception, Reasoning and Planning](http://arxiv.org/abs/2405.01533v1)
+Filter: [Improving Intervention Efficacy via Concept Realignment in Concept
+  Bottleneck Models](http://arxiv.org/abs/2405.01531v1)
+Filter: [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse
+  Zero-shot Robot Manipulation](http://arxiv.org/abs/2405.01527v1)
+Filter: [FLAME: Factuality-Aware Alignment for Large Language Models](http://arxiv.org/abs/2405.01525v1)
+Filter: [A separability-based approach to quantifying generalization: which layer
+  is best?](http://arxiv.org/abs/2405.01524v1)
+Filter: [Transformer-Aided Semantic Communications](http://arxiv.org/abs/2405.01521v1)
+append_entries: 2
+Finish: 2024-05-03 12:14:10.422608
