@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon
   Robotics Tasks</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 高级语言模型，机器人任务规划，技能库，机器人控制任务，Plan-Seq-Learn。
 
-高级语言模型（LLMs）已经表明能够执行长期规划的机器人任务，然而现有方法需要访问预定义的技能库（例如拾取、放置、拉动、推动、导航等）。然而，LLM规划并不解决如何设计或学习这些行为，尤其是在长期规划环境中仍然具有挑战性。此外，对于许多感兴趣的任务，机器人需要能够以细粒度的方式调整其行为，这要求代理能够修改低级控制动作。我们是否可以利用LLMs的互联网规模知识来指导强化学习（RL）策略，从而在不需要预先确定的技能集的情况下在线有效解决机器人控制任务？在本文中，我们提出了Plan-Seq-Learn（PSL）：一种模块化方法，利用运动规划来弥合摘要语言与学习低级控制之间的鸿沟，从头开始解决长期规划的机器人任务。我们展示了PSL在超过25项具有10个阶段的挑战性机器人任务上实现了最先进的成果。PSL利用原始视觉输入解决长期规划任务，覆盖了四个基准任务，在成功率超过85%，优于基于语言、经典和端到端方法。视频结果和代码可在https://mihdalal.github.io/planseqlearn/找到。<br><br>总结: 高级语言模型在机器人领域具有潜在应用，但现有方法存在一些挑战，Plan-Seq-Learn提出了一种新的模块化方法，有效地解决了长期规划的机器人任务，取得了很好的结果。 <div>
+高级语言模型（LLMs）已经表明能够执行长期规划的机器人任务，然而现有方法需要访问预定义的技能库（例如拾取、放置、拉动、推动、导航等）。然而，LLM规划并不解决如何设计或学习这些行为，尤其是在长期规划环境中仍然具有挑战性。此外，对于许多感兴趣的任务，机器人需要能够以细粒度的方式调整其行为，这要求代理能够修改低级控制动作。我们是否可以利用LLMs的互联网规模知识来指导强化学习（RL）策略，从而在不需要预先确定的技能集的情况下在线有效解决机器人控制任务？在本文中，我们提出了Plan-Seq-Learn（PSL）：一种模块化方法，利用运动规划来弥合摘要语言与学习低级控制之间的鸿沟，从头开始解决长期规划的机器人任务。我们展示了PSL在超过25项具有10个阶段的挑战性机器人任务上实现了最先进的成果。PSL利用原始视觉输入解决长期规划任务，覆盖了四个基准任务，在成功率超过85%，优于基于语言、经典和端到端方法。视频结果和代码可在https://mihdalal.github.io/planseqlearn/找到。<br /><br />总结: 高级语言模型在机器人领域具有潜在应用，但现有方法存在一些挑战，Plan-Seq-Learn提出了一种新的模块化方法，有效地解决了长期规划的机器人任务，取得了很好的结果。 <div>
 Large Language Models (LLMs) have been shown to be capable of performing
 high-level planning for long-horizon robotics tasks, yet existing methods
 require access to a pre-defined skill library (e.g. picking, placing, pulling,
@@ -34,7 +35,6 @@ classical, and end-to-end approaches. Video results and code at
 https://mihdalal.github.io/planseqlearn/
 ]]></content:encoded>
 <pubDate>2024-05-02T17:59:31Z</pubDate>
-<pubDate>2024-05-02T17:59:31Z</pubDate>
 </item>
 <item>
 <title>OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D
@@ -42,9 +42,9 @@ https://mihdalal.github.io/planseqlearn/
 <link>http://arxiv.org/abs/2405.01533v1</link>
 <guid>http://arxiv.org/abs/2405.01533v1</guid>
 <content:encoded><![CDATA[
-<div> 3D MLLM，autonomous driving agents，OmniDrive-nuScenes，visual question-answering，3D situational awareness<br>
-<br>
-提出了一个整体框架，通过使用稀疏查询将视觉表示转换成3D形式，结合动态对象和静态地图元素的信息，为3D世界模型提供压缩表示，以实现3D感知-行动对齐。还提出了OmniDrive-nuScenes数据集，通过视觉问答等多种任务评估模型的真实3D情境认知能力。研究表明，所提出的架构有效性强，同时视觉问答任务对复杂3D场景中的推理和规划至关重要。<br><br>总结: <div>
+<div> 3D MLLM，autonomous driving agents，OmniDrive-nuScenes，visual question-answering，3D situational awareness<br />
+<br />
+提出了一个整体框架，通过使用稀疏查询将视觉表示转换成3D形式，结合动态对象和静态地图元素的信息，为3D世界模型提供压缩表示，以实现3D感知-行动对齐。还提出了OmniDrive-nuScenes数据集，通过视觉问答等多种任务评估模型的真实3D情境认知能力。研究表明，所提出的架构有效性强，同时视觉问答任务对复杂3D场景中的推理和规划至关重要。<br /><br />总结: <div>
 The advances in multimodal large language models (MLLMs) have led to growing
 interests in LLM-based autonomous driving agents to leverage their strong
 reasoning capabilities. However, capitalizing on MLLMs' strong reasoning
@@ -65,9 +65,7 @@ proposed architecture as well as the importance of the VQA tasks for reasoning
 and planning in complex 3D scenes.
 ]]></content:encoded>
 <pubDate>2024-05-02T17:59:24Z</pubDate>
-<pubDate>2024-05-02T17:59:24Z</pubDate>
 </item>
-
 <item>
 <title>No Representation, No Trust: Connecting Representation, Collapse, and
   Trust Issues in PPO</title>
