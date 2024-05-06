@@ -4,6 +4,67 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Vibe-Eval: A hard evaluation suite for measuring progress of multimodal
+  language models</title>
+<link>http://arxiv.org/abs/2405.02287v1</link>
+<guid>http://arxiv.org/abs/2405.02287v1</guid>
+<content:encoded><![CDATA[
+<div> 评估框架, 多模态对话模型, 困难难度, 人工评估, 自动评估
+
+评估框架Vibe-Eval是一个新的开放式基准测试和评估多模态对话模型的框架。它包括269个视觉理解提示，其中包括100个高难度提示，并配有专家撰写的标准答案。该框架旨在进行日常任务的多模态对话模型的评估，并严格测试和探索当前前沿模型的能力。特别地，高难度提示集中包含了超过50%的问题，所有前沿模型都回答错误。文章探讨了设计、评估和排名模型在极具挑战性提示上的微妙之处。同时讨论了人工评估和自动评估之间的权衡，并显示了使用Reka Core进行自动模型评估与人类判断之间的大致相关性。为了轻量级评估目的，他们提供了免费的API访问，并计划对在Vibe-Eval的自动评分上表现良好的公共模型进行正式的人工评估。他们还发布了评估代码和数据，网址为https://github.com/reka-ai/reka-vibe-eval。<br><br>总结: 评估框架Vibe-Eval旨在评估多模态对话模型的日常任务能力，包含了大量高难度提示，并探讨了人工评估和自动评估之间的相互关系。他们提供了免费的API访问，并计划对在自动评分上表现良好的公共模型进行正式的人工评估。 <div>
+We introduce Vibe-Eval: a new open benchmark and framework for evaluating
+multimodal chat models. Vibe-Eval consists of 269 visual understanding prompts,
+including 100 of hard difficulty, complete with gold-standard responses
+authored by experts. Vibe-Eval is open-ended and challenging with dual
+objectives: (i) vibe checking multimodal chat models for day-to-day tasks and
+(ii) rigorously testing and probing the capabilities of present frontier
+models. Notably, our hard set contains >50% questions that all frontier models
+answer incorrectly. We explore the nuances of designing, evaluating, and
+ranking models on ultra challenging prompts. We also discuss trade-offs between
+human and automatic evaluation, and show that automatic model evaluation using
+Reka Core roughly correlates to human judgment. We offer free API access for
+the purpose of lightweight evaluation and plan to conduct formal human
+evaluations for public models that perform well on the Vibe-Eval's automatic
+scores. We release the evaluation code and data, see
+https://github.com/reka-ai/reka-vibe-eval
+]]></content:encoded>
+<pubDate>2024-05-03T17:59:55Z</pubDate>
+<pubDate>2024-05-03T17:59:55Z</pubDate>
+</item>
+<item>
+<title>Geometric Fabrics: a Safe Guiding Medium for Policy Learning</title>
+<link>http://arxiv.org/abs/2405.02250v1</link>
+<guid>http://arxiv.org/abs/2405.02250v1</guid>
+<content:encoded><![CDATA[
+<div> 强化学习, 机器人政策, 控制器, 二阶动力学, 几何结构
+
+强化学习中的机器人政策必须解密复杂的交互作用，学习如何完成任务。传统控制器只能实现直线运动，无法捕捉机器人需要展现的非线性行为，因此引入了几何结构来实现更丰富和期望的行为。通过人工的二阶动力学来控制机器人的未受控动力学，形成行为动力学，从而解锁新的行为空间并帮助训练强化学习政策。这种行为动力学使得强化学习政策能够安全地执行动作，简化奖励设计，并帮助组合高性能政策。文章将这个框架具体应用到一个问题上，即通过高度驱动的机器人手对一个立方体进行灵巧的手部重新定位。 <div>
+Robotics policies are always subjected to complex, second order dynamics that
+entangle their actions with resulting states. In reinforcement learning (RL)
+contexts, policies have the burden of deciphering these complicated
+interactions over massive amounts of experience and complex reward functions to
+learn how to accomplish tasks. Moreover, policies typically issue actions
+directly to controllers like Operational Space Control (OSC) or joint PD
+control, which induces straightline motion towards these action targets in task
+or joint space. However, straightline motion in these spaces for the most part
+do not capture the rich, nonlinear behavior our robots need to exhibit,
+shifting the burden of discovering these behaviors more completely to the
+agent. Unlike these simpler controllers, geometric fabrics capture a much
+richer and desirable set of behaviors via artificial, second order dynamics
+grounded in nonlinear geometry. These artificial dynamics shift the
+uncontrolled dynamics of a robot via an appropriate control law to form
+behavioral dynamics. Behavioral dynamics unlock a new action space and safe,
+guiding behavior over which RL policies are trained. Behavioral dynamics enable
+bang-bang-like RL policy actions that are still safe for real robots, simplify
+reward engineering, and help sequence real-world, high-performance policies. We
+describe the framework more generally and create a specific instantiation for
+the problem of dexterous, in-hand reorientation of a cube by a highly actuated
+robot hand.
+]]></content:encoded>
+<pubDate>2024-05-03T17:07:45Z</pubDate>
+<pubDate>2024-05-03T17:07:45Z</pubDate>
+</item>
 
 <item>
 <title>Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon

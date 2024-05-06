@@ -5244,3 +5244,30 @@ Filter: [A separability-based approach to quantifying generalization: which laye
 Filter: [Transformer-Aided Semantic Communications](http://arxiv.org/abs/2405.01521v1)
 append_entries: 0
 Finish: 2024-05-06 00:38:19.981395
+------------------------------------------------------
+Started: 2024-05-06 12:14:58.730695
+Existing_entries: 120
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1078
+Summarized using GPT-3.5-turbo-1106
+Append: [Vibe-Eval: A hard evaluation suite for measuring progress of multimodal
+  language models](http://arxiv.org/abs/2405.02287v1)
+Filter: [Special matrices over finite fields and their applications to quantum
+  error-correcting codes](http://arxiv.org/abs/2405.02285v1)
+Filter: [DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular
+  Videos](http://arxiv.org/abs/2405.02280v1)
+Filter: [The injectivity radius of the compact Stiefel manifold under the
+  Euclidean metric](http://arxiv.org/abs/2405.02268v1)
+Filter: [Structural Pruning of Pre-trained Language Models via Neural
+  Architecture Search](http://arxiv.org/abs/2405.02267v1)
+Filter: [On the test-time zero-shot generalization of vision-language models: Do
+  we really need prompt learning?](http://arxiv.org/abs/2405.02266v1)
+Filter: [Comparing Personalized Relevance Algorithms for Directed Graphs](http://arxiv.org/abs/2405.02261v1)
+Filter: [Leveraging Large Language Models to Enhance Domain Expert Inclusion in
+  Data Science Workflows](http://arxiv.org/abs/2405.02260v1)
+Filter: [Efficient computation of topological integral transforms](http://arxiv.org/abs/2405.02256v1)
+Token length: 1529
+Summarized using GPT-3.5-turbo-1106
+Append: [Geometric Fabrics: a Safe Guiding Medium for Policy Learning](http://arxiv.org/abs/2405.02250v1)
+append_entries: 2
+Finish: 2024-05-06 12:15:08.746847

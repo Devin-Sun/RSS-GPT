@@ -20165,3 +20165,32 @@ Filter: [神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避�
 Filter: [拒绝机械感！30秒生成商用级歌曲，「歌歌AI」完成新一轮融资 | 36氪首发](https://www.36kr.com/p/2744495425694211)
 append_entries: 0
 Finish: 2024-05-06 00:38:19.344500
+------------------------------------------------------
+Started: 2024-05-06 12:14:48.659974
+Existing_entries: 648
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Token length: 3378
+Summarized using GPT-3.5-turbo-1106
+Append: [奥特曼最新哈佛访谈：如果回到2015年，我希望OpenAI从营利性公司起步](https://www.36kr.com/p/2764224843758598)
+Filter: [前 LangChain 员工爆料更强的 Devin 2.0 要来了？所以，“世界首个AI程序员”到底造假没？](https://www.36kr.com/p/2764187402763011)
+Filter: [最火AI硬件Rabbit R1上市了，符合预期，但也毛病不少](https://www.36kr.com/p/2764148974965383)
+Filter: [手机可跑，3.8B参数量超越GPT-3.5，微软发布Phi-3技术报告：秘密武器是洗干净数据](https://www.36kr.com/p/2764116312161026)
+Filter: [AI围剿创意产业，1/3翻译和1/4插画师或将失业](https://www.36kr.com/p/2764116344404995)
+Filter: [58行代码把Llama 3扩展到100万上下文，任何微调版都适用](https://www.36kr.com/p/2763971535190793)
+Filter: [惨，Rabbit R1被持续扒皮：AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的](https://www.36kr.com/p/2763971405184008)
+Filter: [火爆的AI Agent，到底是什么？](https://www.36kr.com/p/2762721770650374)
+Filter: [特斯拉Optimus人形机器人进厂打工，娴熟分装电池、自我矫正，还能走更远了](https://www.36kr.com/p/2763913262693129)
+Filter: [专注家庭看护赛道，「ThingX」基于多模态传感器打造AIoT “大小脑”｜早期项目](https://www.36kr.com/p/2763845231606793)
+Token length: 3610
+Summarized using GPT-3.5-turbo-1106
+Append: [「代理人战争」，微软、OpenAI 、谷歌、Meta用AI Agent疯狂搞钱](https://www.36kr.com/p/2763834289208324)
+Filter: [中东土豪们开始用钞能力实现“马里奥赛车”了？](https://www.36kr.com/p/2763769820150534)
+Append: [Meta训AI，成本已超阿波罗登月，谷歌豪言投资超千亿美元，赛过OpenAI星际之门](https://www.36kr.com/p/2761243031550728)
+Filter: [为了给大模型找语料，有人开始进行“互联网考古”](https://www.36kr.com/p/2762909376477957)
+Filter: [硅谷AI工程师内卷崩溃记：996写代码项目被砍，连续熬夜只为讨好投资人](https://www.36kr.com/p/2762555022785285)
+Filter: [AI学会隐藏思维暗中推理，不依赖人类经验解决复杂任务，更黑箱了](https://www.36kr.com/p/2762514679626502)
+Filter: [AI人才争夺战，华尔街入局：豪掷百万美元年薪抢人](https://www.36kr.com/p/2762513569135618)
+Filter: [联想、华为、荣耀「对垒」AI PC](https://www.36kr.com/p/2761638328941571)
+Filter: [山姆·奥特曼最新哈佛访谈：技术进步难以预测，未来工作形式将发生大变革](https://www.36kr.com/p/2761487863069698)
+append_entries: 3
+Finish: 2024-05-06 12:14:58.654636
