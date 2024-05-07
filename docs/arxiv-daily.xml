@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Vibe-Eval: A hard evaluation suite for measuring progress of multimodal
   language models</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 评估框架, 多模态对话模型, 困难难度, 人工评估, 自动评估
 
-评估框架Vibe-Eval是一个新的开放式基准测试和评估多模态对话模型的框架。它包括269个视觉理解提示，其中包括100个高难度提示，并配有专家撰写的标准答案。该框架旨在进行日常任务的多模态对话模型的评估，并严格测试和探索当前前沿模型的能力。特别地，高难度提示集中包含了超过50%的问题，所有前沿模型都回答错误。文章探讨了设计、评估和排名模型在极具挑战性提示上的微妙之处。同时讨论了人工评估和自动评估之间的权衡，并显示了使用Reka Core进行自动模型评估与人类判断之间的大致相关性。为了轻量级评估目的，他们提供了免费的API访问，并计划对在Vibe-Eval的自动评分上表现良好的公共模型进行正式的人工评估。他们还发布了评估代码和数据，网址为https://github.com/reka-ai/reka-vibe-eval。<br><br>总结: 评估框架Vibe-Eval旨在评估多模态对话模型的日常任务能力，包含了大量高难度提示，并探讨了人工评估和自动评估之间的相互关系。他们提供了免费的API访问，并计划对在自动评分上表现良好的公共模型进行正式的人工评估。 <div>
+评估框架Vibe-Eval是一个新的开放式基准测试和评估多模态对话模型的框架。它包括269个视觉理解提示，其中包括100个高难度提示，并配有专家撰写的标准答案。该框架旨在进行日常任务的多模态对话模型的评估，并严格测试和探索当前前沿模型的能力。特别地，高难度提示集中包含了超过50%的问题，所有前沿模型都回答错误。文章探讨了设计、评估和排名模型在极具挑战性提示上的微妙之处。同时讨论了人工评估和自动评估之间的权衡，并显示了使用Reka Core进行自动模型评估与人类判断之间的大致相关性。为了轻量级评估目的，他们提供了免费的API访问，并计划对在Vibe-Eval的自动评分上表现良好的公共模型进行正式的人工评估。他们还发布了评估代码和数据，网址为https://github.com/reka-ai/reka-vibe-eval。<br /><br />总结: 评估框架Vibe-Eval旨在评估多模态对话模型的日常任务能力，包含了大量高难度提示，并探讨了人工评估和自动评估之间的相互关系。他们提供了免费的API访问，并计划对在自动评分上表现良好的公共模型进行正式的人工评估。 <div>
 We introduce Vibe-Eval: a new open benchmark and framework for evaluating
 multimodal chat models. Vibe-Eval consists of 269 visual understanding prompts,
 including 100 of hard difficulty, complete with gold-standard responses
@@ -29,7 +30,6 @@ evaluations for public models that perform well on the Vibe-Eval's automatic
 scores. We release the evaluation code and data, see
 https://github.com/reka-ai/reka-vibe-eval
 ]]></content:encoded>
-<pubDate>2024-05-03T17:59:55Z</pubDate>
 <pubDate>2024-05-03T17:59:55Z</pubDate>
 </item>
 <item>
@@ -63,9 +63,7 @@ the problem of dexterous, in-hand reorientation of a cube by a highly actuated
 robot hand.
 ]]></content:encoded>
 <pubDate>2024-05-03T17:07:45Z</pubDate>
-<pubDate>2024-05-03T17:07:45Z</pubDate>
 </item>
-
 <item>
 <title>Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon
   Robotics Tasks</title>
