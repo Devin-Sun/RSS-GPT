@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Pose Priors from Language Models</title>
 <link>http://arxiv.org/abs/2405.03689v1</link>
@@ -29,9 +30,7 @@ our method provides a unified framework for resolving self-contact and
 person-to-person contact.
 ]]></content:encoded>
 <pubDate>2024-05-06T17:59:36Z</pubDate>
-<pubDate>2024-05-06T17:59:36Z</pubDate>
 </item>
-
 <item>
 <title>Vibe-Eval: A hard evaluation suite for measuring progress of multimodal
   language models</title>

@@ -5312,3 +5312,21 @@ Filter: [Anti-Heroes: An Ethics-focused Method for Responsible Designer
 Filter: [MemoryMamba: Memory-Augmented State Space Model for Defect Recognition](http://arxiv.org/abs/2405.03673v1)
 append_entries: 1
 Finish: 2024-05-07 12:14:37.129608
+------------------------------------------------------
+Started: 2024-05-08 00:31:15.661186
+Existing_entries: 123
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs](http://arxiv.org/abs/2405.03690v1)
+Filter: [Large Language Models Reveal Information Operation Goals, Tactics, and
+  Narrative Frames](http://arxiv.org/abs/2405.03688v1)
+Filter: [Monotone Randomized Apportionment](http://arxiv.org/abs/2405.03687v1)
+Filter: [Language-Image Models with 3D Understanding](http://arxiv.org/abs/2405.03685v1)
+Filter: [An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas](http://arxiv.org/abs/2405.03682v1)
+Filter: [Towards A Human-in-the-Loop LLM Approach to Collaborative Discourse
+  Analysis](http://arxiv.org/abs/2405.03677v1)
+Filter: [Why is SAM Robust to Label Noise?](http://arxiv.org/abs/2405.03676v1)
+Filter: [Anti-Heroes: An Ethics-focused Method for Responsible Designer
+  Intentions](http://arxiv.org/abs/2405.03674v1)
+Filter: [MemoryMamba: Memory-Augmented State Space Model for Defect Recognition](http://arxiv.org/abs/2405.03673v1)
+append_entries: 0
+Finish: 2024-05-08 00:31:16.355560
