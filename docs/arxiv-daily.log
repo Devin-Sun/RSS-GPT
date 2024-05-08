@@ -5330,3 +5330,24 @@ Filter: [Anti-Heroes: An Ethics-focused Method for Responsible Designer
 Filter: [MemoryMamba: Memory-Augmented State Space Model for Defect Recognition](http://arxiv.org/abs/2405.03673v1)
 append_entries: 0
 Finish: 2024-05-08 00:31:16.355560
+------------------------------------------------------
+Started: 2024-05-08 12:15:18.205712
+Existing_entries: 123
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Tactile-Augmented Radiance Fields](http://arxiv.org/abs/2405.04534v1)
+Filter: [ChatHuman: Language-driven 3D Human Understanding with
+  Retrieval-Augmented Tool Reasoning](http://arxiv.org/abs/2405.04533v1)
+Filter: [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM
+  Serving](http://arxiv.org/abs/2405.04532v1)
+Filter: [PoW Security-Latency under Random Delays and the Effect of Transaction
+  Fees](http://arxiv.org/abs/2405.04526v1)
+Filter: [Comparing Ways of Obtaining Candidate Orderings from Approval Ballots](http://arxiv.org/abs/2405.04525v1)
+Filter: [NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and
+  Natural User Prompts](http://arxiv.org/abs/2405.04520v1)
+Filter: [Local Advice and Local Decompression](http://arxiv.org/abs/2405.04519v1)
+Filter: [Competition between self- and other-regarding preferences in resolving
+  social dilemmas](http://arxiv.org/abs/2405.04518v1)
+Filter: [xLSTM: Extended Long Short-Term Memory](http://arxiv.org/abs/2405.04517v1)
+Filter: [A Transformer with Stack Attention](http://arxiv.org/abs/2405.04515v1)
+append_entries: 0
+Finish: 2024-05-08 12:15:19.813270
