@@ -5372,3 +5372,29 @@ Filter: [xLSTM: Extended Long Short-Term Memory](http://arxiv.org/abs/2405.04517
 Filter: [A Transformer with Stack Attention](http://arxiv.org/abs/2405.04515v1)
 append_entries: 0
 Finish: 2024-05-09 00:37:51.392408
+------------------------------------------------------
+Started: 2024-05-09 12:14:32.361888
+Existing_entries: 123
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies](http://arxiv.org/abs/2405.05259v1)
+Filter: [Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](http://arxiv.org/abs/2405.05258v1)
+Filter: [THRONE: An Object-based Hallucination Benchmark for the Free-form
+  Generations of Large Vision-Language Models](http://arxiv.org/abs/2405.05256v1)
+Token length: 1264
+Summarized using GPT-3.5-turbo-1106
+Append: [Diffusion-HMC: Parameter Inference with Diffusion Model driven
+  Hamiltonian Monte Carlo](http://arxiv.org/abs/2405.05255v1)
+Filter: [Open Source Language Models Can Provide Feedback: Evaluating LLMs'
+  Ability to Help Students Using GPT-4-As-A-Judge](http://arxiv.org/abs/2405.05253v1)
+Filter: [You Only Cache Once: Decoder-Decoder Architectures for Language Models](http://arxiv.org/abs/2405.05254v1)
+Filter: [Attention-Driven Training-Free Efficiency Enhancement of Diffusion
+  Models](http://arxiv.org/abs/2405.05252v1)
+Token length: 1149
+Summarized using GPT-3.5-turbo-1106
+Append: [LLMs with Personalities in Multi-issue Negotiation Games](http://arxiv.org/abs/2405.05248v1)
+Filter: [Advancing Blockchain Scalability: A Linear Optimization Framework for
+  Diversified Node Allocation in Shards](http://arxiv.org/abs/2405.05245v1)
+Filter: [SVDD Challenge 2024: A Singing Voice Deepfake Detection Challenge
+  Evaluation Plan](http://arxiv.org/abs/2405.05244v1)
+append_entries: 2
+Finish: 2024-05-09 12:14:41.214432
