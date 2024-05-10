@@ -5,14 +5,80 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency
+  for Tool Planning</title>
+<link>http://arxiv.org/abs/2405.05955v1</link>
+<guid>http://arxiv.org/abs/2405.05955v1</guid>
+<content:encoded><![CDATA[
+<div> 模型、Smurfs、多智能体框架、任务分解、工具利用<br>
+在本文中，介绍了一个名为"Smurfs"的多智能体框架，旨在将传统的大型语言模型转化为协同作用的多智能体集合，以提高任务分解和执行效率。该框架通过创新的提示策略，在模型内分配不同的角色，从而促进专业智能体之间的合作。实证研究以mistral-7b-instruct模型为案例，展示了Smurfs在复杂工具利用场景中的卓越能力。值得注意的是，在ToolBench I2和I3基准测试中，Smurfs以惊人的84.4%胜率超过了ChatGPT-ReACT和GPT-4模型的最高记录。此外，通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献，并为未来探索多智能体大型语言模型系统铺平了道路。 <br><br>总结: <br>模型的介绍，Smurfs框架的设计目的和主要功能<br>基于mistral-7b-instruct模型的应用实证研究，展示了Smurfs框架在复杂工具利用场景中的优越能力和表现<br>通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献<br>对比了Smurfs和其他模型在ToolBench I2和I3基准测试中的表现，突出了Smurfs的优越性能<br>为未来探索多智能体大型语言模型系统提供了新的思路和方向 <div>
+The emergence of large language models (LLMs) has opened up unprecedented
+possibilities for automating complex tasks that are often comparable to human
+performance. Despite their capabilities, LLMs still encounter difficulties in
+completing tasks that require high levels of accuracy and complexity due to
+their inherent limitations in handling multifaceted problems single-handedly.
+This paper introduces "Smurfs", a cutting-edge multi-agent framework designed
+to revolutionize the application of LLMs. By transforming a conventional LLM
+into a synergistic multi-agent ensemble, Smurfs enhances task decomposition and
+execution without necessitating extra training. This is achieved through
+innovative prompting strategies that allocate distinct roles within the model,
+thereby facilitating collaboration among specialized agents. The framework
+gives access to external tools to efficiently solve complex tasks. Our
+empirical investigation, featuring the mistral-7b-instruct model as a case
+study, showcases Smurfs' superior capability in intricate tool utilization
+scenarios. Notably, Smurfs outmatches the ChatGPT-ReACT in the ToolBench I2 and
+I3 benchmark with a remarkable 84.4% win rate, surpassing the highest recorded
+performance of a GPT-4 model at 73.5%. Furthermore, through comprehensive
+ablation studies, we dissect the contribution of the core components of the
+multi-agent framework to its overall efficacy. This not only verifies the
+effectiveness of the framework, but also sets a route for future exploration of
+multi-agent LLM systems.
+]]></content:encoded>
+<pubDate>2024-05-09T17:49:04Z</pubDate>
+<pubDate>2024-05-09T17:49:04Z</pubDate>
+</item>
+<item>
+<title>Frame Interpolation with Consecutive Brownian Bridge Diffusion</title>
+<link>http://arxiv.org/abs/2405.05953v1</link>
+<guid>http://arxiv.org/abs/2405.05953v1</guid>
+<content:encoded><![CDATA[
+<div> Latent Diffusion Models, Video Frame Interpolation, Conditional Image Generation, Random Generation, Deterministic Output
+总结: 最近视频帧插值的研究采用了基于扩散的条件图像生成方法，利用潜在扩散模型作为条件生成模型。然而，潜在扩散模型会产生多样化的输出，导致输出不确定性。为了解决这个问题，研究提出了连续布朗桥扩散方法，能够减小生成的累积方差，从而改善视频帧插值的性能。 <div>
+Recent work in Video Frame Interpolation (VFI) tries to formulate VFI as a
+diffusion-based conditional image generation problem, synthesizing the
+intermediate frame given a random noise and neighboring frames. Due to the
+relatively high resolution of videos, Latent Diffusion Models (LDMs) are
+employed as the conditional generation model, where the autoencoder compresses
+images into latent representations for diffusion and then reconstructs images
+from these latent representations. Such a formulation poses a crucial
+challenge: VFI expects that the output is deterministically equal to the ground
+truth intermediate frame, but LDMs randomly generate a diverse set of different
+images when the model runs multiple times. The reason for the diverse
+generation is that the cumulative variance (variance accumulated at each step
+of generation) of generated latent representations in LDMs is large. This makes
+the sampling trajectory random, resulting in diverse rather than deterministic
+generations. To address this problem, we propose our unique solution: Frame
+Interpolation with Consecutive Brownian Bridge Diffusion. Specifically, we
+propose consecutive Brownian Bridge diffusion that takes a deterministic
+initial value as input, resulting in a much smaller cumulative variance of
+generated latent representations. Our experiments suggest that our method can
+improve together with the improvement of the autoencoder and achieve
+state-of-the-art performance in VFI, leaving strong potential for further
+enhancement.
+]]></content:encoded>
+<pubDate>2024-05-09T17:46:22Z</pubDate>
+<pubDate>2024-05-09T17:46:22Z</pubDate>
+</item>
+
+<item>
 <title>LLMs with Personalities in Multi-issue Negotiation Games</title>
 <link>http://arxiv.org/abs/2405.05248v2</link>
 <guid>http://arxiv.org/abs/2405.05248v2</guid>
 <content:encoded><![CDATA[
 <div> 人工智能, 大语言模型, 谈判, 个性特质, 游戏理论
-<br>
+<br />
 这篇文章使用大型语言模型（LLMs）来调查人工智能代理人在谈判中的表现，测量他们对游戏理论中的谈判能力以及衡量公平和风险概念的方法论挑战。研究使用模拟方法进行了1500次单问题和多问题谈判的实验，结果显示对称性和不对称性的议题估值增加了领域复杂性，提高了协议达成率，但减少了侵略性谈判的剩余价值。通过梯度提升回归和Shapley解释器，研究发现高度的开放性、尽责性和神经质与公平倾向相关，而低宜人性和低开放性与理性倾向相关。低尽责性与高毒性相关。这些结果表明LLMs可能具有内置的防护措施，以默认公平行为，但可以"越狱"以利用易于相处的对手。此外，研究还提出了关于如何设计谈判机器人以及基于博弈论和计算社会科学的谈判行为评估框架的实用见解。
-<br><br>总结: 本研究使用大型语言模型检验了人工智能代理人在谈判中的表现，并得出了一些重要结果。通过实验发现了LLMs在谈判中的行为特质，以及如何设计谈判机器人和评估谈判行为的框架。 <div>
+<br /><br />总结: 本研究使用大型语言模型检验了人工智能代理人在谈判中的表现，并得出了一些重要结果。通过实验发现了LLMs在谈判中的行为特质，以及如何设计谈判机器人和评估谈判行为的框架。 <div>
 Powered by large language models (LLMs), AI agents have become capable of
 many human tasks. Using the most canonical definitions of the Big Five
 personality, we measure the ability of LLMs to negotiate within a
@@ -30,10 +96,8 @@ offer pragmatic insight in how negotiation bots can be designed, and a
 framework of assessing negotiation behavior based on game theory and
 computational social science.
 ]]></content:encoded>
-<pubDate>2024-05-08T17:51:53Z</pubDate>
 <pubDate>2024-05-09T01:09:09Z</pubDate>
 </item>
-
 <item>
 <title>Diffusion-HMC: Parameter Inference with Diffusion Model driven
   Hamiltonian Monte Carlo</title>
