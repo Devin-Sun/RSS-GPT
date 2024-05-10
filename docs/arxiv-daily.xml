@@ -5,14 +5,44 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>LLMs with Personalities in Multi-issue Negotiation Games</title>
+<link>http://arxiv.org/abs/2405.05248v2</link>
+<guid>http://arxiv.org/abs/2405.05248v2</guid>
+<content:encoded><![CDATA[
+<div> 人工智能, 大语言模型, 谈判, 个性特质, 游戏理论
+<br>
+这篇文章使用大型语言模型（LLMs）来调查人工智能代理人在谈判中的表现，测量他们对游戏理论中的谈判能力以及衡量公平和风险概念的方法论挑战。研究使用模拟方法进行了1500次单问题和多问题谈判的实验，结果显示对称性和不对称性的议题估值增加了领域复杂性，提高了协议达成率，但减少了侵略性谈判的剩余价值。通过梯度提升回归和Shapley解释器，研究发现高度的开放性、尽责性和神经质与公平倾向相关，而低宜人性和低开放性与理性倾向相关。低尽责性与高毒性相关。这些结果表明LLMs可能具有内置的防护措施，以默认公平行为，但可以"越狱"以利用易于相处的对手。此外，研究还提出了关于如何设计谈判机器人以及基于博弈论和计算社会科学的谈判行为评估框架的实用见解。
+<br><br>总结: 本研究使用大型语言模型检验了人工智能代理人在谈判中的表现，并得出了一些重要结果。通过实验发现了LLMs在谈判中的行为特质，以及如何设计谈判机器人和评估谈判行为的框架。 <div>
+Powered by large language models (LLMs), AI agents have become capable of
+many human tasks. Using the most canonical definitions of the Big Five
+personality, we measure the ability of LLMs to negotiate within a
+game-theoretical framework, as well as methodological challenges to measuring
+notions of fairness and risk. Simulations (n=1,500) for both single-issue and
+multi-issue negotiation reveal increase in domain complexity with asymmetric
+issue valuations improve agreement rates but decrease surplus from aggressive
+negotiation. Through gradient-boosted regression and Shapley explainers, we
+find high openness, conscientiousness, and neuroticism are associated with fair
+tendencies; low agreeableness and low openness are associated with rational
+tendencies. Low conscientiousness is associated with high toxicity. These
+results indicate that LLMs may have built-in guardrails that default to fair
+behavior, but can be "jail broken" to exploit agreeable opponents. We also
+offer pragmatic insight in how negotiation bots can be designed, and a
+framework of assessing negotiation behavior based on game theory and
+computational social science.
+]]></content:encoded>
+<pubDate>2024-05-08T17:51:53Z</pubDate>
+<pubDate>2024-05-09T01:09:09Z</pubDate>
+</item>
+
+<item>
 <title>Diffusion-HMC: Parameter Inference with Diffusion Model driven
   Hamiltonian Monte Carlo</title>
 <link>http://arxiv.org/abs/2405.05255v1</link>
 <guid>http://arxiv.org/abs/2405.05255v1</guid>
 <content:encoded><![CDATA[
-<div> 生成模型，宇宙学，参数推断，暗物质密度场，哈密顿蒙特卡洛<br>
-<br>
-本研究利用扩散生成模型作为宇宙学参数推断模型和冷暗物质密度场的仿真模型。该模型能够仿真与目标分布一致的总结统计信息的场景。进一步利用扩散生成模型的近似似然性质，通过哈密顿蒙特卡洛方法对给定的测试图像进行宇宙学参数的后验采样，从而获得对宇宙学的紧密限制。最后，本研究证明了与基线参数推断网络相比，这种参数推断方法对噪声的影响更为稳健。 <br><br>总结: <br>生成模型在宇宙学中的应用，模拟暗物质密度场，参数推断，哈密顿蒙特卡洛方法，对噪声的鲁棒性。 <div>
+<div> 生成模型，宇宙学，参数推断，暗物质密度场，哈密顿蒙特卡洛<br />
+<br />
+本研究利用扩散生成模型作为宇宙学参数推断模型和冷暗物质密度场的仿真模型。该模型能够仿真与目标分布一致的总结统计信息的场景。进一步利用扩散生成模型的近似似然性质，通过哈密顿蒙特卡洛方法对给定的测试图像进行宇宙学参数的后验采样，从而获得对宇宙学的紧密限制。最后，本研究证明了与基线参数推断网络相比，这种参数推断方法对噪声的影响更为稳健。 <br /><br />总结: <br />生成模型在宇宙学中的应用，模拟暗物质密度场，参数推断，哈密顿蒙特卡洛方法，对噪声的鲁棒性。 <div>
 Diffusion generative models have excelled at diverse image generation and
 reconstruction tasks across fields. A less explored avenue is their application
 to discriminative tasks involving regression or classification problems. The
@@ -32,7 +62,6 @@ this parameter inference approach is more robust to the addition of noise than
 baseline parameter inference networks.
 ]]></content:encoded>
 <pubDate>2024-05-08T17:59:03Z</pubDate>
-<pubDate>2024-05-08T17:59:03Z</pubDate>
 </item>
 <item>
 <title>LLMs with Personalities in Multi-issue Negotiation Games</title>
@@ -41,7 +70,7 @@ baseline parameter inference networks.
 <content:encoded><![CDATA[
 <div> Negotiation, Large Language Models, Personality, Fairness, Risk
 
-AI代理人通过大型语言模型（LLM）已经可以完成很多人类任务。本研究使用大五人格的经典定义，衡量了LLM在博弈理论框架内进行谈判的能力，以及衡量公平和风险概念的方法论挑战。针对单一议题和多议题谈判的1500次模拟显示，领域复杂性的增加以及对称议题价值的不平衡会提高协议率，但会降低激进谈判的剩余价值。通过梯度提升回归和Shapley解释器，我们发现高的开放性、责任心和神经质与公平倾向相关；低的宜人性和低的开放性与理性倾向相关。低的责任心与高的毒性相关。这些结果表明，LLM可能具有默认公平行为的内置防护，但可以被"越狱"以利用易被说服的对手。我们还提供了关于如何设计谈判机器人以及基于博弈论和计算社会科学的评估谈判行为的实用见解。 <br><br>总结: 本研究通过大型语言模型对谈判能力进行了量化分析，发现LLM可能内置了默认公平行为的保障，但也可以被“越狱”以利用易被说服的对手。同时，提出了设计谈判机器人和评估谈判行为的实用见解。 <div>
+AI代理人通过大型语言模型（LLM）已经可以完成很多人类任务。本研究使用大五人格的经典定义，衡量了LLM在博弈理论框架内进行谈判的能力，以及衡量公平和风险概念的方法论挑战。针对单一议题和多议题谈判的1500次模拟显示，领域复杂性的增加以及对称议题价值的不平衡会提高协议率，但会降低激进谈判的剩余价值。通过梯度提升回归和Shapley解释器，我们发现高的开放性、责任心和神经质与公平倾向相关；低的宜人性和低的开放性与理性倾向相关。低的责任心与高的毒性相关。这些结果表明，LLM可能具有默认公平行为的内置防护，但可以被"越狱"以利用易被说服的对手。我们还提供了关于如何设计谈判机器人以及基于博弈论和计算社会科学的评估谈判行为的实用见解。 <br /><br />总结: 本研究通过大型语言模型对谈判能力进行了量化分析，发现LLM可能内置了默认公平行为的保障，但也可以被“越狱”以利用易被说服的对手。同时，提出了设计谈判机器人和评估谈判行为的实用见解。 <div>
 Powered by large language models (LLMs), AI agents have become capable of
 many human tasks. Using the most canonical definitions of the Big Five
 personality, we measure the ability of LLMs to negotiate within a
@@ -60,9 +89,7 @@ framework of assessing negotiation behavior based on game theory and
 computational social science.
 ]]></content:encoded>
 <pubDate>2024-05-08T17:51:53Z</pubDate>
-<pubDate>2024-05-08T17:51:53Z</pubDate>
 </item>
-
 <item>
 <title>Pose Priors from Language Models</title>
 <link>http://arxiv.org/abs/2405.03689v1</link>
