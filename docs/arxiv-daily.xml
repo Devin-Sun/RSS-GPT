@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency
   for Tool Planning</title>
 <link>http://arxiv.org/abs/2405.05955v1</link>
 <guid>http://arxiv.org/abs/2405.05955v1</guid>
 <content:encoded><![CDATA[
-<div> 模型、Smurfs、多智能体框架、任务分解、工具利用<br>
-在本文中，介绍了一个名为"Smurfs"的多智能体框架，旨在将传统的大型语言模型转化为协同作用的多智能体集合，以提高任务分解和执行效率。该框架通过创新的提示策略，在模型内分配不同的角色，从而促进专业智能体之间的合作。实证研究以mistral-7b-instruct模型为案例，展示了Smurfs在复杂工具利用场景中的卓越能力。值得注意的是，在ToolBench I2和I3基准测试中，Smurfs以惊人的84.4%胜率超过了ChatGPT-ReACT和GPT-4模型的最高记录。此外，通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献，并为未来探索多智能体大型语言模型系统铺平了道路。 <br><br>总结: <br>模型的介绍，Smurfs框架的设计目的和主要功能<br>基于mistral-7b-instruct模型的应用实证研究，展示了Smurfs框架在复杂工具利用场景中的优越能力和表现<br>通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献<br>对比了Smurfs和其他模型在ToolBench I2和I3基准测试中的表现，突出了Smurfs的优越性能<br>为未来探索多智能体大型语言模型系统提供了新的思路和方向 <div>
+<div> 模型、Smurfs、多智能体框架、任务分解、工具利用<br />
+在本文中，介绍了一个名为"Smurfs"的多智能体框架，旨在将传统的大型语言模型转化为协同作用的多智能体集合，以提高任务分解和执行效率。该框架通过创新的提示策略，在模型内分配不同的角色，从而促进专业智能体之间的合作。实证研究以mistral-7b-instruct模型为案例，展示了Smurfs在复杂工具利用场景中的卓越能力。值得注意的是，在ToolBench I2和I3基准测试中，Smurfs以惊人的84.4%胜率超过了ChatGPT-ReACT和GPT-4模型的最高记录。此外，通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献，并为未来探索多智能体大型语言模型系统铺平了道路。 <br /><br />总结: <br />模型的介绍，Smurfs框架的设计目的和主要功能<br />基于mistral-7b-instruct模型的应用实证研究，展示了Smurfs框架在复杂工具利用场景中的优越能力和表现<br />通过全面的割除研究，验证了多智能体框架核心组件对其整体有效性的贡献<br />对比了Smurfs和其他模型在ToolBench I2和I3基准测试中的表现，突出了Smurfs的优越性能<br />为未来探索多智能体大型语言模型系统提供了新的思路和方向 <div>
 The emergence of large language models (LLMs) has opened up unprecedented
 possibilities for automating complex tasks that are often comparable to human
 performance. Despite their capabilities, LLMs still encounter difficulties in
@@ -34,7 +35,6 @@ multi-agent framework to its overall efficacy. This not only verifies the
 effectiveness of the framework, but also sets a route for future exploration of
 multi-agent LLM systems.
 ]]></content:encoded>
-<pubDate>2024-05-09T17:49:04Z</pubDate>
 <pubDate>2024-05-09T17:49:04Z</pubDate>
 </item>
 <item>
@@ -67,9 +67,7 @@ state-of-the-art performance in VFI, leaving strong potential for further
 enhancement.
 ]]></content:encoded>
 <pubDate>2024-05-09T17:46:22Z</pubDate>
-<pubDate>2024-05-09T17:46:22Z</pubDate>
 </item>
-
 <item>
 <title>LLMs with Personalities in Multi-issue Negotiation Games</title>
 <link>http://arxiv.org/abs/2405.05248v2</link>
