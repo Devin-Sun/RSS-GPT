@@ -4,6 +4,80 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Conformal Validity Guarantees Exist for Any Data Distribution</title>
+<link>http://arxiv.org/abs/2405.06627v1</link>
+<guid>http://arxiv.org/abs/2405.06627v1</guid>
+<content:encoded><![CDATA[
+<div> 黑盒优化, 主动学习, 数据分布, 不确定性, 风险量化
+总结:
+本文讨论了随着机器学习的普及，从业者日益寻求量化和控制这些系统所承担风险的手段。特别是在黑盒优化和主动学习中，机器学习系统具有自主收集数据的能力，其行为引发了数据分布的顺序反馈循环转变，这一挑战尤为突出。虽然符合预测已成为一种有前途的不确定性和风险量化方法，但现有的变种要么无法适应数据依赖性转变的序列，要么没有充分利用由我们控制的代理引发的转变事实。本文证明了符合预测在理论上可以扩展到\textit{任何}联合数据分布，而不仅仅是可交换或准可交换的数据分布，尽管在最一般的情况下计算极为不切实际。对于实际应用，我们概述了一种推导任何数据分布的具体符合算法的程序，并利用这一程序导出了一系列关于代理引发的协变量转变的易处理的算法。我们在合成黑盒优化和主动学习任务上对所提出的算法进行了实证评估。 <div>
+As machine learning (ML) gains widespread adoption, practitioners are
+increasingly seeking means to quantify and control the risk these systems
+incur. This challenge is especially salient when ML systems have autonomy to
+collect their own data, such as in black-box optimization and active learning,
+where their actions induce sequential feedback-loop shifts in the data
+distribution. Conformal prediction has emerged as a promising approach to
+uncertainty and risk quantification, but existing variants either fail to
+accommodate sequences of data-dependent shifts, or do not fully exploit the
+fact that agent-induced shift is under our control. In this work we prove that
+conformal prediction can theoretically be extended to \textit{any} joint data
+distribution, not just exchangeable or quasi-exchangeable ones, although it is
+exceedingly impractical to compute in the most general case. For practical
+applications, we outline a procedure for deriving specific conformal algorithms
+for any data distribution, and we use this procedure to derive tractable
+algorithms for a series of agent-induced covariate shifts. We evaluate the
+proposed algorithms empirically on synthetic black-box optimization and active
+learning tasks.
+]]></content:encoded>
+<pubDate>2024-05-10T17:40:24Z</pubDate>
+<pubDate>2024-05-10T17:40:24Z</pubDate>
+</item>
+<item>
+<title>Characterizing the Accuracy - Efficiency Trade-off of Low-rank
+  Decomposition in Language Models</title>
+<link>http://arxiv.org/abs/2405.06626v1</link>
+<guid>http://arxiv.org/abs/2405.06626v1</guid>
+<content:encoded><![CDATA[
+<div> 低秩分解、大型语言模型、内存优化、模型压缩、精度-效率权衡
+<br><br>
+在大型语言模型中，模型大小的激增使得计算与模型大小的比率大幅降低，从而将大型语言模型推向内存受限的领域。为了优化内存占用和流量，研究者们积极探索模型压缩方法，如量化和参数修剪。然而，针对低秩分解在大型语言模型中的精度与效率权衡尚未得到充分理解。因此，本文对低秩分解方法，特别是Tucker分解，在最近的语言模型上进行了精度与效率权衡的研究。通过对BERT和Llama 2模型在六个广泛使用的语言模型基准上进行案例研究，结果显示，我们可以在几乎不影响精度的情况下实现9%的模型大小减少。这表明低秩分解可能是大型语言模型应用的一个有前景的方向，尤其是对于需要实时服务并且延迟和模型精度同等重要的应用场景，比如人工智能辅助和实时编程助手。 
+<br>
+总结: <br>
+1. 模型压缩是为了优化大型语言模型的内存占用和流量。
+2. 低秩分解方法有望在不影响精度的情况下减小模型大小。
+3. 通过对Tucker分解在BERT和Llama 2模型上进行研究，证明了低秩分解方法的潜力。 <div>
+Large language models (LLMs) have emerged and presented their general
+problem-solving capabilities with one model. However, the model size has
+increased dramatically with billions of parameters to enable such broad
+problem-solving capabilities. In addition, due to the dominance of
+matrix-matrix and matrix-vector multiplications in LLMs, the compute-to-model
+size ratio is significantly lower than that of CNNs. This shift pushes LLMs
+from a computation-bound regime to a memory-bound regime. Therefore, optimizing
+the memory footprint and traffic is an important optimization direction for
+LLMs today.
+  Model compression methods such as quantization and parameter pruning have
+been actively explored for achieving the memory footprint and traffic
+optimization. However, the accuracy-efficiency trade-off of rank pruning for
+LLMs is not well-understood yet. Therefore, we characterize the
+accuracy-efficiency trade-off of a low-rank decomposition method, specifically
+Tucker decomposition, on recent language models, including an open-source LLM,
+Llama 2.
+  We formalize the low-rank decomposition design space and show that the
+decomposition design space is enormous (e.g., O($2^{37}$) for Llama2-7B). To
+navigate such a vast design space, we formulate the design space and perform
+thorough case studies of accuracy-efficiency trade-offs using six widely used
+LLM benchmarks on BERT and Llama 2 models. Our results show that we can achieve
+a 9\% model size reduction with minimal accuracy drops, which range from 4\%p
+to 10\%p, depending on the difficulty of the benchmark, without any retraining
+to recover accuracy after decomposition. The results show that low-rank
+decomposition can be a promising direction for LLM-based applications that
+require real-time service in scale (e.g., AI agent assist and real-time coding
+assistant), where the latency is as important as the model accuracy.
+]]></content:encoded>
+<pubDate>2024-05-10T17:40:02Z</pubDate>
+<pubDate>2024-05-10T17:40:02Z</pubDate>
+</item>
 
 <item>
 <title>Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency

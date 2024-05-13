@@ -5523,3 +5523,29 @@ Filter: [Probing Multimodal LLMs as World Models for Driving](http://arxiv.org/a
 Filter: [New Algorithms and Lower Bounds for Streaming Tournaments](http://arxiv.org/abs/2405.05952v1)
 append_entries: 0
 Finish: 2024-05-13 00:39:16.078025
+------------------------------------------------------
+Started: 2024-05-13 12:15:06.844330
+Existing_entries: 128
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On Existence of Latency Optimal Uncoded Storage Schemes in
+  Geo-Distributed Data Storage Systems](http://arxiv.org/abs/2405.06641v1)
+Filter: [Linearizing Large Language Models](http://arxiv.org/abs/2405.06640v1)
+Filter: [Value Augmented Sampling for Language Model Alignment and
+  Personalization](http://arxiv.org/abs/2405.06639v1)
+Filter: [Federated Document Visual Question Answering: A Pilot Study](http://arxiv.org/abs/2405.06636v1)
+Filter: [Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA
+  Benchmark](http://arxiv.org/abs/2405.06634v1)
+Token length: 1228
+Summarized using GPT-3.5-turbo-1106
+Append: [Conformal Validity Guarantees Exist for Any Data Distribution](http://arxiv.org/abs/2405.06627v1)
+Token length: 1894
+Summarized using GPT-3.5-turbo-1106
+Append: [Characterizing the Accuracy - Efficiency Trade-off of Low-rank
+  Decomposition in Language Models](http://arxiv.org/abs/2405.06626v1)
+Filter: [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable
+  AI Systems](http://arxiv.org/abs/2405.06624v1)
+Filter: [On Streaming Codes for Simultaneously Correcting Burst and Random
+  Erasures](http://arxiv.org/abs/2405.06621v1)
+Filter: [Optimal Uniform Circle Formation by Asynchronous Luminous Robots](http://arxiv.org/abs/2405.06617v1)
+append_entries: 2
+Finish: 2024-05-13 12:15:21.786648
