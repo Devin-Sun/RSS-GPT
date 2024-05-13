@@ -5507,3 +5507,19 @@ Filter: [Probing Multimodal LLMs as World Models for Driving](http://arxiv.org/a
 Filter: [New Algorithms and Lower Bounds for Streaming Tournaments](http://arxiv.org/abs/2405.05952v1)
 append_entries: 0
 Finish: 2024-05-12 12:15:14.862705
+------------------------------------------------------
+Started: 2024-05-13 00:39:15.373245
+Existing_entries: 128
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [A Universal Growth Rate for Learning with Smooth Surrogate Losses](http://arxiv.org/abs/2405.05968v1)
+Filter: [Distilling Diffusion Models into Conditional GANs](http://arxiv.org/abs/2405.05967v1)
+Filter: [Natural Language Processing RELIES on Linguistics](http://arxiv.org/abs/2405.05966v1)
+Filter: [Age Aware Scheduling for Differentially-Private Federated Learning](http://arxiv.org/abs/2405.05962v1)
+Filter: [Self-Supervised Learning of Time Series Representation via Diffusion
+  Process and Imputation-Interpolation-Forecasting Mask](http://arxiv.org/abs/2405.05959v1)
+Filter: [OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage
+  Pruning](http://arxiv.org/abs/2405.05957v1)
+Filter: [Probing Multimodal LLMs as World Models for Driving](http://arxiv.org/abs/2405.05956v1)
+Filter: [New Algorithms and Lower Bounds for Streaming Tournaments](http://arxiv.org/abs/2405.05952v1)
+append_entries: 0
+Finish: 2024-05-13 00:39:16.078025
