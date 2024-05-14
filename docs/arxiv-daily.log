@@ -5549,3 +5549,22 @@ Filter: [On Streaming Codes for Simultaneously Correcting Burst and Random
 Filter: [Optimal Uniform Circle Formation by Asynchronous Luminous Robots](http://arxiv.org/abs/2405.06617v1)
 append_entries: 2
 Finish: 2024-05-13 12:15:21.786648
+------------------------------------------------------
+Started: 2024-05-14 00:37:59.195721
+Existing_entries: 130
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On Existence of Latency Optimal Uncoded Storage Schemes in
+  Geo-Distributed Data Storage Systems](http://arxiv.org/abs/2405.06641v1)
+Filter: [Linearizing Large Language Models](http://arxiv.org/abs/2405.06640v1)
+Filter: [Value Augmented Sampling for Language Model Alignment and
+  Personalization](http://arxiv.org/abs/2405.06639v1)
+Filter: [Federated Document Visual Question Answering: A Pilot Study](http://arxiv.org/abs/2405.06636v1)
+Filter: [Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA
+  Benchmark](http://arxiv.org/abs/2405.06634v1)
+Filter: [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable
+  AI Systems](http://arxiv.org/abs/2405.06624v1)
+Filter: [On Streaming Codes for Simultaneously Correcting Burst and Random
+  Erasures](http://arxiv.org/abs/2405.06621v1)
+Filter: [Optimal Uniform Circle Formation by Asynchronous Luminous Robots](http://arxiv.org/abs/2405.06617v1)
+append_entries: 0
+Finish: 2024-05-14 00:38:00.055696

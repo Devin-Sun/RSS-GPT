@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Conformal Validity Guarantees Exist for Any Data Distribution</title>
 <link>http://arxiv.org/abs/2405.06627v1</link>
@@ -31,7 +32,6 @@ proposed algorithms empirically on synthetic black-box optimization and active
 learning tasks.
 ]]></content:encoded>
 <pubDate>2024-05-10T17:40:24Z</pubDate>
-<pubDate>2024-05-10T17:40:24Z</pubDate>
 </item>
 <item>
 <title>Characterizing the Accuracy - Efficiency Trade-off of Low-rank
@@ -40,10 +40,10 @@ learning tasks.
 <guid>http://arxiv.org/abs/2405.06626v1</guid>
 <content:encoded><![CDATA[
 <div> 低秩分解、大型语言模型、内存优化、模型压缩、精度-效率权衡
-<br><br>
+<br /><br />
 在大型语言模型中，模型大小的激增使得计算与模型大小的比率大幅降低，从而将大型语言模型推向内存受限的领域。为了优化内存占用和流量，研究者们积极探索模型压缩方法，如量化和参数修剪。然而，针对低秩分解在大型语言模型中的精度与效率权衡尚未得到充分理解。因此，本文对低秩分解方法，特别是Tucker分解，在最近的语言模型上进行了精度与效率权衡的研究。通过对BERT和Llama 2模型在六个广泛使用的语言模型基准上进行案例研究，结果显示，我们可以在几乎不影响精度的情况下实现9%的模型大小减少。这表明低秩分解可能是大型语言模型应用的一个有前景的方向，尤其是对于需要实时服务并且延迟和模型精度同等重要的应用场景，比如人工智能辅助和实时编程助手。 
-<br>
-总结: <br>
+<br />
+总结: <br />
 1. 模型压缩是为了优化大型语言模型的内存占用和流量。
 2. 低秩分解方法有望在不影响精度的情况下减小模型大小。
 3. 通过对Tucker分解在BERT和Llama 2模型上进行研究，证明了低秩分解方法的潜力。 <div>
@@ -76,9 +76,7 @@ require real-time service in scale (e.g., AI agent assist and real-time coding
 assistant), where the latency is as important as the model accuracy.
 ]]></content:encoded>
 <pubDate>2024-05-10T17:40:02Z</pubDate>
-<pubDate>2024-05-10T17:40:02Z</pubDate>
 </item>
-
 <item>
 <title>Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency
   for Tool Planning</title>
