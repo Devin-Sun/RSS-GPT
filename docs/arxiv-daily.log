@@ -5568,3 +5568,27 @@ Filter: [On Streaming Codes for Simultaneously Correcting Burst and Random
 Filter: [Optimal Uniform Circle Formation by Asynchronous Luminous Robots](http://arxiv.org/abs/2405.06617v1)
 append_entries: 0
 Finish: 2024-05-14 00:38:00.055696
+------------------------------------------------------
+Started: 2024-05-14 12:15:45.783791
+Existing_entries: 130
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MambaOut: Do We Really Need Mamba for Vision?](http://arxiv.org/abs/2405.07992v1)
+Token length: 1664
+Summarized using GPT-3.5-turbo-1106
+Append: [SPIN: Simultaneous Perception, Interaction and Navigation](http://arxiv.org/abs/2405.07991v1)
+Filter: [Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large
+  Language Models in Code Generation from Scientific Plots](http://arxiv.org/abs/2405.07990v1)
+Token length: 1392
+Summarized using GPT-3.5-turbo-1106
+Append: [A Generalist Learner for Multifaceted Medical Image Interpretation](http://arxiv.org/abs/2405.07988v1)
+Filter: [The Platonic Representation Hypothesis](http://arxiv.org/abs/2405.07987v1)
+Filter: [Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly
+  Detection for Curiosity](http://arxiv.org/abs/2405.07982v1)
+Filter: [Diagnosing and Predicting Autonomous Vehicle Operational Safety Using
+  Multiple Simulation Modalities and a Virtual Environment](http://arxiv.org/abs/2405.07981v1)
+Filter: [Generalizing Quantum Tanner Codes](http://arxiv.org/abs/2405.07980v1)
+Filter: [A Demographic-Conditioned Variational Autoencoder for fMRI Distribution
+  Sampling and Removal of Confounds](http://arxiv.org/abs/2405.07977v1)
+Filter: [Dynamic Programming for Symbolic Boolean Realizability and Synthesis](http://arxiv.org/abs/2405.07975v1)
+append_entries: 2
+Finish: 2024-05-14 12:15:54.162824
