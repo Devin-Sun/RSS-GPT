@@ -5610,3 +5610,25 @@ Filter: [A Demographic-Conditioned Variational Autoencoder for fMRI Distribution
 Filter: [Dynamic Programming for Symbolic Boolean Realizability and Synthesis](http://arxiv.org/abs/2405.07975v1)
 append_entries: 0
 Finish: 2024-05-15 00:38:08.528312
+------------------------------------------------------
+Started: 2024-05-15 12:16:36.413625
+Existing_entries: 132
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](http://arxiv.org/abs/2405.08816v1)
+Filter: [Efficient Vision-Language Pre-training by Cluster Masking](http://arxiv.org/abs/2405.08815v1)
+Token length: 1220
+Summarized using GPT-3.5-turbo-1106
+Append: [CinePile: A Long Video Question Answering Dataset and Benchmark](http://arxiv.org/abs/2405.08813v1)
+Filter: [Quantum computing with Qiskit](http://arxiv.org/abs/2405.08810v1)
+Token length: 1016
+Summarized using GPT-3.5-turbo-1106
+Append: [SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure
+  Interpretation](http://arxiv.org/abs/2405.08807v1)
+Filter: [Prospects of Privacy Advantage in Quantum Machine Learning](http://arxiv.org/abs/2405.08801v1)
+Filter: [Estimation of Participation Factors for Power System Oscillation from
+  Measurements](http://arxiv.org/abs/2405.08800v1)
+Filter: [Two questions on Kneser colorings](http://arxiv.org/abs/2405.08797v1)
+Filter: [Ambiguous Annotations: When is a Pedestrian not a Pedestrian?](http://arxiv.org/abs/2405.08794v1)
+Filter: [A Brief Introduction to Causal Inference in Machine Learning](http://arxiv.org/abs/2405.08793v1)
+append_entries: 2
+Finish: 2024-05-15 12:16:48.968483
