@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>SPIN: Simultaneous Perception, Interaction and Navigation</title>
 <link>http://arxiv.org/abs/2405.07991v1</link>
 <guid>http://arxiv.org/abs/2405.07991v1</guid>
 <content:encoded><![CDATA[
 <div> 移动操作，机器人，视觉，整体协调，感知
-<br>
+<br />
 该文章介绍了移动操作系统的挑战以及提出的解决方案。移动操作相比于静态操作或者运动操作来说更加具有挑战性，需要在无序动态环境中完成长期任务。文章提出了一种活动视觉系统来感知和反应环境，类似于人类利用整体协调和手眼协调来完成任务。这种系统不仅可以在复杂的环境中移动，还可以通过活动视觉系统选择何时感知何物。通过这种方法，机器人学会了在复杂杂乱的环境中移动，并展示了灵活的整体协调能力，而无需创建环境地图。文章还提供了结果可视化和视频。 <div>
 While there has been remarkable progress recently in the fields of
 manipulation and locomotion, mobile manipulation remains a long-standing
@@ -36,7 +37,6 @@ coordination using only ego-vision without needing to create environment maps.
 Results visualizations and videos at https://spin-robot.github.io/
 ]]></content:encoded>
 <pubDate>2024-05-13T17:59:36Z</pubDate>
-<pubDate>2024-05-13T17:59:36Z</pubDate>
 </item>
 <item>
 <title>A Generalist Learner for Multifaceted Medical Image Interpretation</title>
@@ -44,9 +44,9 @@ Results visualizations and videos at https://spin-robot.github.io/
 <guid>http://arxiv.org/abs/2405.07988v1</guid>
 <content:encoded><![CDATA[
 <div> 医疗人工智能，MedVersa，多模态学习，医学图像解释，数据集
-<br><br>
+<br /><br />
 提出了MedVersa，一个通用的学习系统，可以学习和处理医学图像的多个任务。它利用大型语言模型作为可学习的协调器，允许从视觉和语言监督中学习，支持多模态输入，并且可以实时进行任务规范。通过引入MedInterp数据集，包括超过1300万个注释实例，涵盖了11个任务跨越3种模态，来支持MedVersa的开发。实验表明，MedVersa在9个任务中实现了最先进的性能，有时优于专家对手超过10％。这种通用方法为医学图像解释打开了新的可能性，为更适应和高效的人工智能辅助临床决策铺平了道路。 
-<br>MedVersa是第一个展示多模态生成医学人工智能在实现多模态输出、输入和动态任务规范方面的可行性，突显了它作为全面医学图像分析多功能系统的潜力。 <div>
+<br />MedVersa是第一个展示多模态生成医学人工智能在实现多模态输出、输入和动态任务规范方面的可行性，突显了它作为全面医学图像分析多功能系统的潜力。 <div>
 Current medical artificial intelligence systems are often limited to narrow
 applications, hindering their widespread adoption in clinical practice. To
 address this limitation, we propose MedVersa, a generalist learner that enables
@@ -68,9 +68,7 @@ interpretation paves the way for more adaptable and efficient AI-assisted
 clinical decision-making.
 ]]></content:encoded>
 <pubDate>2024-05-13T17:58:51Z</pubDate>
-<pubDate>2024-05-13T17:58:51Z</pubDate>
 </item>
-
 <item>
 <title>Conformal Validity Guarantees Exist for Any Data Distribution</title>
 <link>http://arxiv.org/abs/2405.06627v1</link>

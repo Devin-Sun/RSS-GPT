@@ -5592,3 +5592,21 @@ Filter: [A Demographic-Conditioned Variational Autoencoder for fMRI Distribution
 Filter: [Dynamic Programming for Symbolic Boolean Realizability and Synthesis](http://arxiv.org/abs/2405.07975v1)
 append_entries: 2
 Finish: 2024-05-14 12:15:54.162824
+------------------------------------------------------
+Started: 2024-05-15 00:38:07.804128
+Existing_entries: 132
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MambaOut: Do We Really Need Mamba for Vision?](http://arxiv.org/abs/2405.07992v1)
+Filter: [Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large
+  Language Models in Code Generation from Scientific Plots](http://arxiv.org/abs/2405.07990v1)
+Filter: [The Platonic Representation Hypothesis](http://arxiv.org/abs/2405.07987v1)
+Filter: [Enhancing Rover Mobility Monitoring: Autoencoder-driven Anomaly
+  Detection for Curiosity](http://arxiv.org/abs/2405.07982v1)
+Filter: [Diagnosing and Predicting Autonomous Vehicle Operational Safety Using
+  Multiple Simulation Modalities and a Virtual Environment](http://arxiv.org/abs/2405.07981v1)
+Filter: [Generalizing Quantum Tanner Codes](http://arxiv.org/abs/2405.07980v1)
+Filter: [A Demographic-Conditioned Variational Autoencoder for fMRI Distribution
+  Sampling and Removal of Confounds](http://arxiv.org/abs/2405.07977v1)
+Filter: [Dynamic Programming for Symbolic Boolean Realizability and Synthesis](http://arxiv.org/abs/2405.07975v1)
+append_entries: 0
+Finish: 2024-05-15 00:38:08.528312
