@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>CinePile: A Long Video Question Answering Dataset and Benchmark</title>
 <link>http://arxiv.org/abs/2405.08813v1</link>
 <guid>http://arxiv.org/abs/2405.08813v1</guid>
 <content:encoded><![CDATA[
 <div> 长视频理解，数据集，CinePile，问题-答案数据集，LLMs，视频理解模型
-<br><br>
+<br /><br />
 本文介绍了针对真实长视频理解的创新数据集和基准测试CinePile。该数据集包含了30.5万道多项选择题，涵盖了视觉和多模态方面的各种内容，包括时间理解，人物与物体的互动，以及场景中事件或动作的推理。作者利用先进的LLMs与人类相结合的方法构建了这个问题-答案数据集。此外，他们还评估了最近的视频中心化LLMs在数据集的测试部分上的表现，结果显示即使最先进的视频中心化LLMs在这些任务上的表现也明显落后于人类表现，突显了视频理解中的复杂性和挑战。数据集可以在链接https://hf.co/datasets/tomg-group-umd/cinepile上获取。
-<br><br>总结: 本文介绍了CinePile数据集，包括多项选择题和LLMs评估结果，突出了视频理解的复杂性和挑战。 <div>
+<br /><br />总结: 本文介绍了CinePile数据集，包括多项选择题和LLMs评估结果，突出了视频理解的复杂性和挑战。 <div>
 Current datasets for long-form video understanding often fall short of
 providing genuine long-form comprehension challenges, as many tasks derived
 from these datasets can be successfully tackled by analyzing just one or a few
@@ -32,7 +33,6 @@ in video understanding. The dataset is available at
 https://hf.co/datasets/tomg-group-umd/cinepile
 ]]></content:encoded>
 <pubDate>2024-05-14T17:59:02Z</pubDate>
-<pubDate>2024-05-14T17:59:02Z</pubDate>
 </item>
 <item>
 <title>SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure
@@ -42,7 +42,7 @@ https://hf.co/datasets/tomg-group-umd/cinepile
 <content:encoded><![CDATA[
 <div> 科学研究, 图形解释, 多模态模型, 基准测试, CS arXiv paper
 
-多模态模型在科学研究中的应用潜力巨大，但在图形解释方面的能力尚未得到很好的表征。本文介绍了SciFIBench，这是一个科学图形解释基准测试，包括1000个多项选择题和12个类别的两项任务。题目经过人工筛选和质量控制，对26个多模态模型进行了评估，结果显示这是一个具有挑战性的基准测试。最后，研究了多模态模型在扩展问题集上的表现。SciFIBench的发布旨在推动该领域的进展。 <br><br>总结: <div>
+多模态模型在科学研究中的应用潜力巨大，但在图形解释方面的能力尚未得到很好的表征。本文介绍了SciFIBench，这是一个科学图形解释基准测试，包括1000个多项选择题和12个类别的两项任务。题目经过人工筛选和质量控制，对26个多模态模型进行了评估，结果显示这是一个具有挑战性的基准测试。最后，研究了多模态模型在扩展问题集上的表现。SciFIBench的发布旨在推动该领域的进展。 <br /><br />总结: <div>
 Large multimodal models (LMMs) have proven flexible and generalisable across
 many tasks and fields. Although they have strong potential to aid scientific
 research, their capabilities in this domain are not well characterised. A key
@@ -59,9 +59,7 @@ question sets from our benchmark. We release SciFIBench to encourage progress
 in this domain.
 ]]></content:encoded>
 <pubDate>2024-05-14T17:54:17Z</pubDate>
-<pubDate>2024-05-14T17:54:17Z</pubDate>
 </item>
-
 <item>
 <title>SPIN: Simultaneous Perception, Interaction and Navigation</title>
 <link>http://arxiv.org/abs/2405.07991v1</link>

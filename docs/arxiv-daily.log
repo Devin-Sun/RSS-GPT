@@ -5632,3 +5632,18 @@ Filter: [Ambiguous Annotations: When is a Pedestrian not a Pedestrian?](http://a
 Filter: [A Brief Introduction to Causal Inference in Machine Learning](http://arxiv.org/abs/2405.08793v1)
 append_entries: 2
 Finish: 2024-05-15 12:16:48.968483
+------------------------------------------------------
+Started: 2024-05-16 00:37:47.271663
+Existing_entries: 134
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition](http://arxiv.org/abs/2405.08816v1)
+Filter: [Efficient Vision-Language Pre-training by Cluster Masking](http://arxiv.org/abs/2405.08815v1)
+Filter: [Quantum computing with Qiskit](http://arxiv.org/abs/2405.08810v2)
+Filter: [Prospects of Privacy Advantage in Quantum Machine Learning](http://arxiv.org/abs/2405.08801v1)
+Filter: [Estimation of Participation Factors for Power System Oscillation from
+  Measurements](http://arxiv.org/abs/2405.08800v1)
+Filter: [Two questions on Kneser colorings](http://arxiv.org/abs/2405.08797v1)
+Filter: [Ambiguous Annotations: When is a Pedestrian not a Pedestrian?](http://arxiv.org/abs/2405.08794v1)
+Filter: [A Brief Introduction to Causal Inference in Machine Learning](http://arxiv.org/abs/2405.08793v1)
+append_entries: 0
+Finish: 2024-05-16 00:37:48.069048
