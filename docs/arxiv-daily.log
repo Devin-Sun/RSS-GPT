@@ -5647,3 +5647,25 @@ Filter: [Ambiguous Annotations: When is a Pedestrian not a Pedestrian?](http://a
 Filter: [A Brief Introduction to Causal Inference in Machine Learning](http://arxiv.org/abs/2405.08793v1)
 append_entries: 0
 Finish: 2024-05-16 00:37:48.069048
+------------------------------------------------------
+Started: 2024-05-16 12:15:40.745022
+Existing_entries: 134
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation](http://arxiv.org/abs/2405.09546v1)
+Filter: [Classifying geospatial objects from multiview aerial imagery using
+  semantic meshes](http://arxiv.org/abs/2405.09544v1)
+Filter: [Spectral complexity of deep neural networks](http://arxiv.org/abs/2405.09541v1)
+Filter: [MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis
+  Diagnosis in Esophageal Cancer](http://arxiv.org/abs/2405.09539v1)
+Filter: [Wasserstein Gradient Boosting: A General Framework with Applications to
+  Posterior Regression](http://arxiv.org/abs/2405.09536v1)
+Filter: [Restoring balance: principled under/oversampling of data for optimal
+  classification](http://arxiv.org/abs/2405.09535v1)
+Filter: [Learning-Based Compress-and-Forward Schemes for the Relay Channel](http://arxiv.org/abs/2405.09534v1)
+Filter: [Ticket-based multi-strand method for increased efficiency in
+  proof-of-work based blockchains](http://arxiv.org/abs/2405.09531v1)
+Filter: [Energy-Efficient Sleep Mode Optimization of 5G mmWave Networks Using
+  Deep Contextual MAB](http://arxiv.org/abs/2405.09528v1)
+Filter: [Improved classical shadows from local symmetries in the Schur basis](http://arxiv.org/abs/2405.09525v1)
+append_entries: 0
+Finish: 2024-05-16 12:15:41.520559
