@@ -5710,3 +5710,22 @@ Filter: [Efficient Implementation of an Abstract Domain of Quantified First-Orde
 Filter: [4D Panoptic Scene Graph Generation](http://arxiv.org/abs/2405.10305v1)
 append_entries: 0
 Finish: 2024-05-17 12:14:36.425195
+------------------------------------------------------
+Started: 2024-05-18 00:37:56.065303
+Existing_entries: 134
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Toon3D: Seeing Cartoons from a New Perspective](http://arxiv.org/abs/2405.10320v1)
+Filter: [Text-to-Vector Generation with Neural Path Representation](http://arxiv.org/abs/2405.10317v1)
+Filter: [Analogist: Out-of-the-box Visual In-Context Learning with Image
+  Diffusion Model](http://arxiv.org/abs/2405.10316v1)
+Filter: [TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction](http://arxiv.org/abs/2405.10315v1)
+Filter: [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](http://arxiv.org/abs/2405.10314v1)
+Filter: [How Far Are We From AGI](http://arxiv.org/abs/2405.10313v1)
+Filter: [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language
+  Models](http://arxiv.org/abs/2405.10311v1)
+Filter: [Stochastic Q-learning for Large Discrete Action Spaces](http://arxiv.org/abs/2405.10310v1)
+Filter: [Efficient Implementation of an Abstract Domain of Quantified First-Order
+  Formulas](http://arxiv.org/abs/2405.10308v1)
+Filter: [4D Panoptic Scene Graph Generation](http://arxiv.org/abs/2405.10305v1)
+append_entries: 0
+Finish: 2024-05-18 00:37:56.854410
