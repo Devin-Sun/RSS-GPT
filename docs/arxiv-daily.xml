@@ -4,6 +4,43 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Adapting Large Multimodal Models to Distribution Shifts: The Role of
+  In-Context Learning</title>
+<link>http://arxiv.org/abs/2405.12217v1</link>
+<guid>http://arxiv.org/abs/2405.12217v1</guid>
+<content:encoded><![CDATA[
+<div> LMMs, adaptability, in-context learning, TopKNearestPR, InvariantSelectPR
+LMM大型多模型，具有高鲁棒性，适应性强，但在特定领域需要领域特定的适应性。提出了在上下文中学习(ICL)作为增强LMM适应性的有效替代方法，以及选择示例的困难和方法。通过评估无监督ICL方法TopKNearestPR，发现其效果受制于预训练视觉编码器的不足。因此提出了一种新方法InvariantSelectPR，利用Class-conditioned Contrastive Invariance（CCI）来增强预训练视觉编码器，提高其鲁棒性。实验证明，InvariantSelectPR显著提高了LMM的适应性，在基准数据集上取得了显著的性能提高。总结: LMM具有高鲁棒性但需要特定领域的适应性；ICL是一种有效的增强LMM适应性的替代方法；TopKNearestPR方法的效果受限于预训练视觉编码器的不足；InvariantSelectPR利用CCI提高了LMM的适应性。 <div>
+Recent studies indicate that large multimodal models (LMMs) are highly robust
+against natural distribution shifts, often surpassing previous baselines.
+Despite this, domain-specific adaptation is still necessary, particularly in
+specialized areas like healthcare. Due to the impracticality of fine-tuning
+LMMs given their vast parameter space, this work investigates in-context
+learning (ICL) as an effective alternative for enhancing LMMs' adaptability. We
+find that the success of ICL heavily relies on the choice of demonstration,
+mirroring challenges seen in large language models but introducing unique
+complexities for LMMs facing distribution shifts. Our study addresses this by
+evaluating an unsupervised ICL method, TopKNearestPR, which selects in-context
+examples through a nearest example search based on feature similarity. We
+uncover that its effectiveness is limited by the deficiencies of pre-trained
+vision encoders under distribution shift scenarios. To address these
+challenges, we propose InvariantSelectPR, a novel method leveraging
+Class-conditioned Contrastive Invariance (CCI) for more robust demonstration
+selection. Specifically, CCI enhances pre-trained vision encoders by improving
+their discriminative capabilities across different classes and ensuring
+invariance to domain-specific variations. This enhancement allows the encoders
+to effectively identify and retrieve the most informative examples, which are
+then used to guide LMMs in adapting to new query samples under varying
+distributions. Our experiments show that InvariantSelectPR substantially
+improves the adaptability of LMMs, achieving significant performance gains on
+benchmark datasets, with a 34.2%$\uparrow$ accuracy increase in 7-shot on
+Camelyon17 and 16.9%$\uparrow$ increase in 7-shot on HAM10000 compared to the
+baseline zero-shot performance.
+]]></content:encoded>
+<pubDate>2024-05-20T17:59:21Z</pubDate>
+<pubDate>2024-05-20T17:59:21Z</pubDate>
+</item>
 
 <item>
 <title>Observational Scaling Laws and the Predictability of Language Model

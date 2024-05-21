@@ -5836,3 +5836,19 @@ Filter: [The Local Interaction Basis: Identifying Computationally-Relevant and
   Sparsely Interacting Features in Neural Networks](http://arxiv.org/abs/2405.10928v1)
 append_entries: 0
 Finish: 2024-05-21 00:38:30.888590
+------------------------------------------------------
+Started: 2024-05-21 12:15:10.729607
+Existing_entries: 135
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Images that Sound: Composing Images and Sounds on a Single Canvas](http://arxiv.org/abs/2405.12221v1)
+Filter: [Locational marginal burden: Quantifying the equity of optimal power flow
+  solutions](http://arxiv.org/abs/2405.12219v1)
+Filter: [Fast Generalizable Gaussian Splatting Reconstruction from Multi-View
+  Stereo](http://arxiv.org/abs/2405.12218v1)
+Token length: 1843
+Summarized using GPT-3.5-turbo-1106
+Append: [Adapting Large Multimodal Models to Distribution Shifts: The Role of
+  In-Context Learning](http://arxiv.org/abs/2405.12217v1)
+Filter: [Octo: An Open-Source Generalist Robot Policy](http://arxiv.org/abs/2405.12213v1)
+append_entries: 1
+Finish: 2024-05-21 12:15:15.690165
