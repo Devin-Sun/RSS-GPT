@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Observational Scaling Laws and the Predictability of Language Model
   Performance</title>
 <link>http://arxiv.org/abs/2405.10938v1</link>
 <guid>http://arxiv.org/abs/2405.10938v1</guid>
 <content:encoded><![CDATA[
-<div> scaling laws, language model performance, observational approach, training compute efficiencies, predictability<br>
-<br>总结:<br>文章主要讨论了语言模型性能随规模变化的规律性以及如何利用观测方法构建缩放定律。作者提出了通过观察已有的约80个公开模型来构建缩放定律的替代方法，并指出了模型家族在训练计算效率和能力方面的差异。作者还展示了复杂的缩放现象是可以预测的，包括一些新现象的平滑、S形行为以及如何预测后训练干预对语言模型能力的影响。 <div>
+<div> scaling laws, language model performance, observational approach, training compute efficiencies, predictability<br />
+<br />总结:<br />文章主要讨论了语言模型性能随规模变化的规律性以及如何利用观测方法构建缩放定律。作者提出了通过观察已有的约80个公开模型来构建缩放定律的替代方法，并指出了模型家族在训练计算效率和能力方面的差异。作者还展示了复杂的缩放现象是可以预测的，包括一些新现象的平滑、S形行为以及如何预测后训练干预对语言模型能力的影响。 <div>
 Understanding how language model performance varies with scale is critical to
 benchmark and algorithm development. Scaling laws are one approach to building
 this understanding, but the requirement of training models across many
@@ -32,9 +33,7 @@ post-training interventions like Chain-of-Thought and Self-Consistency as
 language model capabilities continue to improve.
 ]]></content:encoded>
 <pubDate>2024-05-17T17:49:44Z</pubDate>
-<pubDate>2024-05-17T17:49:44Z</pubDate>
 </item>
-
 <item>
 <title>CinePile: A Long Video Question Answering Dataset and Benchmark</title>
 <link>http://arxiv.org/abs/2405.08813v1</link>

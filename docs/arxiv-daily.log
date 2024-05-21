@@ -5816,3 +5816,23 @@ Filter: [The Local Interaction Basis: Identifying Computationally-Relevant and
   Sparsely Interacting Features in Neural Networks](http://arxiv.org/abs/2405.10928v1)
 append_entries: 1
 Finish: 2024-05-20 12:17:25.028577
+------------------------------------------------------
+Started: 2024-05-21 00:38:30.085326
+Existing_entries: 135
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Probabilistic transfer learning methodology to expedite high fidelity
+  simulation of reactive flows](http://arxiv.org/abs/2405.10944v1)
+Filter: [Variational Quantum Algorithm Landscape Reconstruction by Low-Rank
+  Tensor Completion](http://arxiv.org/abs/2405.10941v1)
+Filter: [DINO as a von Mises-Fisher mixture model](http://arxiv.org/abs/2405.10939v1)
+Filter: [A Survey on Large Language Models with Multilingualism: Recent Advances
+  and New Frontiers](http://arxiv.org/abs/2405.10936v1)
+Filter: [Reconstruction of Manipulated Garment with Guided Deformation Prior](http://arxiv.org/abs/2405.10934v1)
+Filter: [Learning low-degree quantum objects](http://arxiv.org/abs/2405.10933v1)
+Filter: [FitNets: An Adaptive Framework to Learn Accurate Traffic Distributions](http://arxiv.org/abs/2405.10931v1)
+Filter: [Submodular Information Selection for Hypothesis Testing with
+  Misclassification Penalties](http://arxiv.org/abs/2405.10930v1)
+Filter: [The Local Interaction Basis: Identifying Computationally-Relevant and
+  Sparsely Interacting Features in Neural Networks](http://arxiv.org/abs/2405.10928v1)
+append_entries: 0
+Finish: 2024-05-21 00:38:30.888590
