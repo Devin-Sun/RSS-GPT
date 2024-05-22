@@ -5874,3 +5874,25 @@ Filter: [Metacognitive Capabilities of LLMs: An Exploration in Mathematical
   Problem Solving](http://arxiv.org/abs/2405.12205v1)
 append_entries: 0
 Finish: 2024-05-22 00:38:27.737810
+------------------------------------------------------
+Started: 2024-05-22 12:15:55.213378
+Existing_entries: 136
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Reducing Transformer Key-Value Cache Size with Cross-Layer Attention](http://arxiv.org/abs/2405.12981v1)
+Filter: [OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](http://arxiv.org/abs/2405.12979v1)
+Filter: [Personalized Residuals for Concept-Driven Text-to-Image Generation](http://arxiv.org/abs/2405.12978v1)
+Filter: [A Sound Type System for Secure Currency Flow](http://arxiv.org/abs/2405.12976v1)
+Filter: [BiomedParse: a biomedical foundation model for image parsing of
+  everything everywhere all at once](http://arxiv.org/abs/2405.12971v1)
+Filter: [Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and
+  Attribute Control](http://arxiv.org/abs/2405.12970v1)
+Filter: [Can We Treat Noisy Labels as Accurate?](http://arxiv.org/abs/2405.12969v1)
+Filter: [The future of cosmological likelihood-based inference: accelerated
+  high-dimensional parameter estimation and model comparison](http://arxiv.org/abs/2405.12965v1)
+Filter: [Differential Walk on Spheres](http://arxiv.org/abs/2405.12964v1)
+Token length: 1861
+Summarized using GPT-3.5-turbo-1106
+Append: [Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a
+  Transformer Architecture: A Multicenter Study in Glioblastoma](http://arxiv.org/abs/2405.12963v1)
+append_entries: 1
+Finish: 2024-05-22 12:16:01.203342
