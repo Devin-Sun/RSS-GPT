@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Adapting Large Multimodal Models to Distribution Shifts: The Role of
   In-Context Learning</title>
@@ -39,9 +40,7 @@ Camelyon17 and 16.9%$\uparrow$ increase in 7-shot on HAM10000 compared to the
 baseline zero-shot performance.
 ]]></content:encoded>
 <pubDate>2024-05-20T17:59:21Z</pubDate>
-<pubDate>2024-05-20T17:59:21Z</pubDate>
 </item>
-
 <item>
 <title>Observational Scaling Laws and the Predictability of Language Model
   Performance</title>
