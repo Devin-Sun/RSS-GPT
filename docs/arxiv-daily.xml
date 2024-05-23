@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a
   Transformer Architecture: A Multicenter Study in Glioblastoma</title>
 <link>http://arxiv.org/abs/2405.12963v1</link>
 <guid>http://arxiv.org/abs/2405.12963v1</guid>
 <content:encoded><![CDATA[
-<div> 深度学习模型, 胶质母细胞瘤, 图像数据, 临床数据, 生存预测<br>
-<br>
-胶质母细胞瘤是一种致命的脑肿瘤，预测其生存率对治疗和临床决策至关重要。本研究提出了一种基于transformer的深度学习模型，结合了核磁共振图像、临床和分子病理数据，以改善胶质母细胞瘤的生存预测。该模型利用自监督学习技术对高维MRI输入进行编码，并通过交叉注意力有效地整合了图像和非图像数据。实验结果表明，该模型在多个独立测试集上表现稳定，且显著优于目前的基于3D-CNN的模型。结论指出，该transformer模型整合了多种输入模态的信息，为改善胶质母细胞瘤生存预测提供了重要贡献，并具有较强的泛化能力。 <br><br>总结: <br>胶质母细胞瘤是一种致命的脑肿瘤，预测其生存率对治疗和临床决策至关重要。<br>本研究提出了一种基于transformer的深度学习模型，结合了核磁共振图像、临床和分子病理数据，以改善胶质母细胞瘤的生存预测。<br>实验结果表明，该模型在多个独立测试集上表现稳定，且显著优于目前的基于3D-CNN的模型。<br>结论指出，该transformer模型整合了多种输入模态的信息，为改善胶质母细胞瘤生存预测提供了重要贡献，并具有较强的泛化能力。 <div>
+<div> 深度学习模型, 胶质母细胞瘤, 图像数据, 临床数据, 生存预测<br />
+<br />
+胶质母细胞瘤是一种致命的脑肿瘤，预测其生存率对治疗和临床决策至关重要。本研究提出了一种基于transformer的深度学习模型，结合了核磁共振图像、临床和分子病理数据，以改善胶质母细胞瘤的生存预测。该模型利用自监督学习技术对高维MRI输入进行编码，并通过交叉注意力有效地整合了图像和非图像数据。实验结果表明，该模型在多个独立测试集上表现稳定，且显著优于目前的基于3D-CNN的模型。结论指出，该transformer模型整合了多种输入模态的信息，为改善胶质母细胞瘤生存预测提供了重要贡献，并具有较强的泛化能力。 <br /><br />总结: <br />胶质母细胞瘤是一种致命的脑肿瘤，预测其生存率对治疗和临床决策至关重要。<br />本研究提出了一种基于transformer的深度学习模型，结合了核磁共振图像、临床和分子病理数据，以改善胶质母细胞瘤的生存预测。<br />实验结果表明，该模型在多个独立测试集上表现稳定，且显著优于目前的基于3D-CNN的模型。<br />结论指出，该transformer模型整合了多种输入模态的信息，为改善胶质母细胞瘤生存预测提供了重要贡献，并具有较强的泛化能力。 <div>
 Background: This research aims to improve glioblastoma survival prediction by
 integrating MR images, clinical and molecular-pathologic data in a
 transformer-based deep learning model, addressing data heterogeneity and
@@ -41,9 +42,7 @@ Consistent performance was observed across institutions supporting model
 generalizability.
 ]]></content:encoded>
 <pubDate>2024-05-21T17:44:48Z</pubDate>
-<pubDate>2024-05-21T17:44:48Z</pubDate>
 </item>
-
 <item>
 <title>Adapting Large Multimodal Models to Distribution Shifts: The Role of
   In-Context Learning</title>
