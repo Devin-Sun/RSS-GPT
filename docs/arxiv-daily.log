@@ -6013,3 +6013,23 @@ Filter: [A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large
 Filter: [Bitune: Bidirectional Instruction-Tuning](http://arxiv.org/abs/2405.14862v1)
 append_entries: 0
 Finish: 2024-05-25 12:14:36.294540
+------------------------------------------------------
+Started: 2024-05-26 00:41:51.716819
+Existing_entries: 138
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Federated Online Adaptation for Deep Stereo](http://arxiv.org/abs/2405.14873v1)
+Filter: [An Empirical Study of Training State-of-the-Art LiDAR Segmentation
+  Models](http://arxiv.org/abs/2405.14870v1)
+Filter: [NeRF-Casting: Improved View-Dependent Appearance with Consistent
+  Reflections](http://arxiv.org/abs/2405.14871v1)
+Filter: [PuzzleAvatar: Assembling 3D Avatars from Personal Albums](http://arxiv.org/abs/2405.14869v1)
+Filter: [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](http://arxiv.org/abs/2405.14868v1)
+Filter: [Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using
+  Sparse RGB Cameras](http://arxiv.org/abs/2405.14866v1)
+Filter: [Video Diffusion Models are Training-free Motion Interpreter and
+  Controller](http://arxiv.org/abs/2405.14864v1)
+Filter: [A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large
+  Language Models Reveal Human-like Patterns](http://arxiv.org/abs/2405.14863v1)
+Filter: [Bitune: Bidirectional Instruction-Tuning](http://arxiv.org/abs/2405.14862v1)
+append_entries: 0
+Finish: 2024-05-26 00:41:52.581664
