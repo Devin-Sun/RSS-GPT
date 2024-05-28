@@ -6113,3 +6113,28 @@ Filter: [Looking Backward: Streaming Video-to-Video Translation with Feature
   Banks](http://arxiv.org/abs/2405.15757v1)
 append_entries: 0
 Finish: 2024-05-28 00:38:46.598033
+------------------------------------------------------
+Started: 2024-05-28 12:15:26.785962
+Existing_entries: 138
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Matryoshka Multimodal Models](http://arxiv.org/abs/2405.17430v1)
+Filter: [GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic
+  Occupancy Prediction](http://arxiv.org/abs/2405.17429v1)
+Filter: [NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding
+  Models](http://arxiv.org/abs/2405.17428v1)
+Token length: 1231
+Summarized using GPT-3.5-turbo-1106
+Append: [Reason3D: Searching and Reasoning 3D Segmentation via Large Language
+  Model](http://arxiv.org/abs/2405.17427v1)
+Filter: [Benchmarking and Improving Bird's Eye View Perception Robustness in
+  Autonomous Driving](http://arxiv.org/abs/2405.17426v1)
+Filter: [From Neurons to Neutrons: A Case Study in Interpretability](http://arxiv.org/abs/2405.17425v1)
+Token length: 1018
+Summarized using GPT-3.5-turbo-1106
+Append: [LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence](http://arxiv.org/abs/2405.17424v1)
+Filter: [Privacy-Aware Visual Language Models](http://arxiv.org/abs/2405.17423v1)
+Filter: [Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection](http://arxiv.org/abs/2405.17422v1)
+Filter: [MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion
+  Scaffolds](http://arxiv.org/abs/2405.17421v1)
+append_entries: 2
+Finish: 2024-05-28 12:15:37.688643
