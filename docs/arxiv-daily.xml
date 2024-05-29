@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Reason3D: Searching and Reasoning 3D Segmentation via Large Language
   Model</title>
 <link>http://arxiv.org/abs/2405.17427v1</link>
 <guid>http://arxiv.org/abs/2405.17427v1</guid>
 <content:encoded><![CDATA[
-<div> 大型语言模型、3D理解、Reason3D、分割、层次掩模<br>
-本文介绍了一种名为Reason3D的新型大型语言模型，用于全面理解3D环境。Reason3D接受点云数据和文本提示作为输入，生成文本响应和分割掩模，实现了高级任务，如3D推理分割、层次搜索、表达引用和问题回答。文章提出了一种分层掩模解码器，用于定位广阔场景中的小物体。实验验证了Reason3D在大规模ScanNet和Matterport3D数据集上在3D表达引用、3D问题回答和3D推理分割任务上取得了显著成果。可从https://github.com/KuanchihHuang/Reason3D获取代码和模型。<br><br>总结: 本文介绍了一种新型大型语言模型Reason3D，用于理解3D环境。Reason3D能够处理点云数据和文本提示，实现了3D推理分割、层次搜索、表达引用和问题回答等任务。文章还提出了分层掩模解码器，用于在广阔场景中定位小物体。实验证实了Reason3D在大规模数据集上取得了显著的成果。 <div>
+<div> 大型语言模型、3D理解、Reason3D、分割、层次掩模<br />
+本文介绍了一种名为Reason3D的新型大型语言模型，用于全面理解3D环境。Reason3D接受点云数据和文本提示作为输入，生成文本响应和分割掩模，实现了高级任务，如3D推理分割、层次搜索、表达引用和问题回答。文章提出了一种分层掩模解码器，用于定位广阔场景中的小物体。实验验证了Reason3D在大规模ScanNet和Matterport3D数据集上在3D表达引用、3D问题回答和3D推理分割任务上取得了显著成果。可从https://github.com/KuanchihHuang/Reason3D获取代码和模型。<br /><br />总结: 本文介绍了一种新型大型语言模型Reason3D，用于理解3D环境。Reason3D能够处理点云数据和文本提示，实现了3D推理分割、层次搜索、表达引用和问题回答等任务。文章还提出了分层掩模解码器，用于在广阔场景中定位小物体。实验证实了Reason3D在大规模数据集上取得了显著的成果。 <div>
 Recent advancements in multimodal large language models (LLMs) have shown
 their potential in various domains, especially concept reasoning. Despite these
 developments, applications in understanding 3D environments remain limited.
@@ -31,7 +32,6 @@ tasks. Code and models are available at:
 https://github.com/KuanchihHuang/Reason3D.
 ]]></content:encoded>
 <pubDate>2024-05-27T17:59:41Z</pubDate>
-<pubDate>2024-05-27T17:59:41Z</pubDate>
 </item>
 <item>
 <title>LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence</title>
@@ -40,7 +40,7 @@ https://github.com/KuanchihHuang/Reason3D.
 <content:encoded><![CDATA[
 <div> 大型自回归模型、综合先验知识、长程规划、决策链、Minecraft。
 
-总结:<br>
+总结:<br />
 本文介绍了一种名为大型自回归模型（LARM）的新型代理技术。该技术结合了文本和多视角图像输入，并能够以自回归方式预测后续行动。为了训练LARM，研究人员开发了一种名为自回归节点传输结构的新型数据格式，并组建了相应的数据集。通过采用两阶段训练方法，LARM成功收获了Minecraft游戏中的强化装备，这需要比以往最佳方法更复杂的决策链。此外，LARM的速度是以前方法的6.8倍。这表明LARM在处理现实世界互动时具有很大的潜力。 <div>
 Due to the need to interact with the real world, embodied agents are required
 to possess comprehensive prior knowledge, long-horizon planning capability, and
@@ -58,9 +58,7 @@ the highest achievements of prior best methods. Besides, the speed of LARM is
 6.8x faster.
 ]]></content:encoded>
 <pubDate>2024-05-27T17:59:32Z</pubDate>
-<pubDate>2024-05-27T17:59:32Z</pubDate>
 </item>
-
 <item>
 <title>Improved Distribution Matching Distillation for Fast Image Synthesis</title>
 <link>http://arxiv.org/abs/2405.14867v1</link>
