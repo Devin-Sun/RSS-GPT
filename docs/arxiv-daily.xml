@@ -4,6 +4,28 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Hierarchical World Models as Visual Whole-Body Humanoid Controllers</title>
+<link>http://arxiv.org/abs/2405.18418v1</link>
+<guid>http://arxiv.org/abs/2405.18418v1</guid>
+<content:encoded><![CDATA[
+<div> 强化学习，全身控制，视觉观察，层次世界模型，仿真人形机器人<br>本文探讨了基于强化学习的高度数据驱动的视觉全身人形机器人控制方法。研究采用分层世界模型，由高级代理根据视觉观察生成指令，低级代理执行这些指令，通过奖励进行训练。该方法在模拟环境下成功实现了8项任务的控制，并生成了广受人类喜爱的动作。详细信息可在https://nicklashansen.com/rlpuppeteer 网站找到。<br><br>总结: 本文使用强化学习方法，提出了一种基于视觉观察的全身人形机器人控制方法，通过分层世界模型进行训练，取得了良好效果。 <div>
+Whole-body control for humanoids is challenging due to the high-dimensional
+nature of the problem, coupled with the inherent instability of a bipedal
+morphology. Learning from visual observations further exacerbates this
+difficulty. In this work, we explore highly data-driven approaches to visual
+whole-body humanoid control based on reinforcement learning, without any
+simplifying assumptions, reward design, or skill primitives. Specifically, we
+propose a hierarchical world model in which a high-level agent generates
+commands based on visual observations for a low-level agent to execute, both of
+which are trained with rewards. Our approach produces highly performant control
+policies in 8 tasks with a simulated 56-DoF humanoid, while synthesizing
+motions that are broadly preferred by humans. Code and videos:
+https://nicklashansen.com/rlpuppeteer
+]]></content:encoded>
+<pubDate>2024-05-28T17:57:23Z</pubDate>
+<pubDate>2024-05-28T17:57:23Z</pubDate>
+</item>
 
 <item>
 <title>Reason3D: Searching and Reasoning 3D Segmentation via Large Language

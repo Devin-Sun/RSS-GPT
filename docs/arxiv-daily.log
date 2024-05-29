@@ -6156,3 +6156,25 @@ Filter: [MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion
   Scaffolds](http://arxiv.org/abs/2405.17421v1)
 append_entries: 0
 Finish: 2024-05-29 00:42:08.614579
+------------------------------------------------------
+Started: 2024-05-29 12:15:42.651087
+Existing_entries: 140
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Notes on Applicability of GPT-4 to Document Understanding](http://arxiv.org/abs/2405.18433v1)
+Filter: [On the Origin of Llamas: Model Tree Heritage Recovery](http://arxiv.org/abs/2405.18432v1)
+Filter: [Feasibility of Privacy-Preserving Entity Resolution on Confidential
+  Healthcare Datasets Using Homomorphic Encryption](http://arxiv.org/abs/2405.18430v1)
+Filter: [DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention](http://arxiv.org/abs/2405.18428v1)
+Filter: [Classifying Overlapping Gaussian Mixtures in High Dimensions: From
+  Optimal Classifiers to Neural Nets](http://arxiv.org/abs/2405.18427v1)
+Filter: [GFlow: Recovering 4D World from Monocular Video](http://arxiv.org/abs/2405.18426v1)
+Filter: [ViG: Linear-complexity Visual Sequence Learning with Gated Linear
+  Attention](http://arxiv.org/abs/2405.18425v1)
+Filter: [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian
+  Splatting](http://arxiv.org/abs/2405.18424v1)
+Filter: [Bifurcations in Latch-Mediated Spring Actuation (LaMSA) Systems](http://arxiv.org/abs/2405.18421v1)
+Token length: 855
+Summarized using GPT-3.5-turbo-1106
+Append: [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](http://arxiv.org/abs/2405.18418v1)
+append_entries: 1
+Finish: 2024-05-29 12:15:47.696470
