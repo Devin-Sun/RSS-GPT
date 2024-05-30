@@ -4,6 +4,97 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LLMs Meet Multimodal Generation and Editing: A Survey</title>
+<link>http://arxiv.org/abs/2405.19334v1</link>
+<guid>http://arxiv.org/abs/2405.19334v1</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型，多模态学习，生成模型，技术组件，人机交互<br>
+本篇文章对多模态生成进行了系统性综述，重点在不同领域（包括图像、视频、3D和音频）的多模态生成上进行了详细阐述，突出了这些领域的里程碑式进展。具体来说，文章详尽调查了这些研究中使用的方法和多模态数据集的关键技术组成部分。此外，文章还深入探讨了工具增强的多模态代理，这些代理可以利用现有的生成模型进行人机交互。最后，文章还全面讨论了AI安全性的进展，研究了新兴应用以及未来展望。我们的工作为多模态生成提供了系统性和富有洞察力的概述，预计将推动生成内容人工智能（AIGC）和世界模型的发展。 <div>
+With the recent advancement in large language models (LLMs), there is a
+growing interest in combining LLMs with multimodal learning. Previous surveys
+of multimodal large language models (MLLMs) mainly focus on understanding. This
+survey elaborates on multimodal generation across different domains, including
+image, video, 3D, and audio, where we highlight the notable advancements with
+milestone works in these fields. Specifically, we exhaustively investigate the
+key technical components behind methods and multimodal datasets utilized in
+these studies. Moreover, we dig into tool-augmented multimodal agents that can
+use existing generative models for human-computer interaction. Lastly, we also
+comprehensively discuss the advancement in AI safety and investigate emerging
+applications as well as future prospects. Our work provides a systematic and
+insightful overview of multimodal generation, which is expected to advance the
+development of Artificial Intelligence for Generative Content (AIGC) and world
+models. A curated list of all related papers can be found at
+https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation
+]]></content:encoded>
+<pubDate>2024-05-29T17:59:20Z</pubDate>
+<pubDate>2024-05-29T17:59:20Z</pubDate>
+</item>
+<item>
+<title>Multi-Modal Generative Embedding Model</title>
+<link>http://arxiv.org/abs/2405.19333v1</link>
+<guid>http://arxiv.org/abs/2405.19333v1</guid>
+<content:encoded><![CDATA[
+<div> 生成，嵌入，Multi-Modal Generative Embedding Model (MM-GEM)，PoolAggregator，ViT-Large
+
+该研究提出了一种多模态生成嵌入模型(MM-GEM)，将生成和嵌入两个目标整合到一个大型语言模型中。他们还提出了一种PoolAggregator来提高效率，并实现细粒度的嵌入和生成能力。研究发现，这两个目标并不会显著冲突。MM-GEM在跨模态检索和零样本分类等多模态嵌入模型基准测试上表现出色，同时具有良好的图像字幕生成能力。此外，MM-GEM可以无缝执行区域级图像字幕生成和检索任务。MM-GEM中的高级文本模型还提高了长文本和图像检索的召回率超过5%。 <br><br>总结: 该研究提出了一种多模态生成嵌入模型(MM-GEM)，实现了在一个大型语言模型中整合生成和嵌入两个目标，并通过PoolAggregator实现了高效率和细粒度的嵌入和生成能力。研究发现，这种模型在多种基准测试上表现出色，并且在图像字幕生成和检索任务中也能够达到良好的效果。 <div>
+Most multi-modal tasks can be formulated into problems of either generation
+or embedding. Existing models usually tackle these two types of problems by
+decoupling language modules into a text decoder for generation, and a text
+encoder for embedding. To explore the minimalism of multi-modal paradigms, we
+attempt to achieve only one model per modality in this work. We propose a
+Multi-Modal Generative Embedding Model (MM-GEM), whereby the generative and
+embedding objectives are encapsulated in one Large Language Model. We also
+propose a PoolAggregator to boost efficiency and enable the ability of
+fine-grained embedding and generation. A surprising finding is that these two
+objectives do not significantly conflict with each other. For example, MM-GEM
+instantiated from ViT-Large and TinyLlama shows competitive performance on
+benchmarks for multimodal embedding models such as cross-modal retrieval and
+zero-shot classification, while has good ability of image captioning.
+Additionally, MM-GEM can seamlessly execute region-level image caption
+generation and retrieval tasks. Besides, the advanced text model in MM-GEM
+brings over 5% improvement in Recall@1 for long text and image retrieval.
+]]></content:encoded>
+<pubDate>2024-05-29T17:59:10Z</pubDate>
+<pubDate>2024-05-29T17:59:10Z</pubDate>
+</item>
+<item>
+<title>Normative Modules: A Generative Agent Architecture for Learning Norms
+  that Supports Multi-Agent Cooperation</title>
+<link>http://arxiv.org/abs/2405.19328v1</link>
+<guid>http://arxiv.org/abs/2405.19328v1</guid>
+<content:encoded><![CDATA[
+
+Generative agents, which implement behaviors using a large language model
+(LLM) to interpret and evaluate an environment, has demonstrated the capacity
+to solve complex tasks across many social and technological domains. However,
+when these agents interact with other agents and humans in presence of social
+structures such as existing norms, fostering cooperation between them is a
+fundamental challenge. In this paper, we develop the framework of a 'Normative
+Module': an architecture designed to enhance cooperation by enabling agents to
+recognize and adapt to the normative infrastructure of a given environment. We
+focus on the equilibrium selection aspect of the cooperation problem and inform
+our agent design based on the existence of classification institutions that
+implement correlated equilibrium to provide effective resolution of the
+equilibrium selection problem. Specifically, the normative module enables
+agents to learn through peer interactions which of multiple candidate
+institutions in the environment, does a group treat as authoritative. By
+enabling normative competence in this sense, agents gain ability to coordinate
+their sanctioning behaviour; coordinated sanctioning behaviour in turn shapes
+primary behaviour within a social environment, leading to higher average
+welfare. We design a new environment that supports institutions and evaluate
+the proposed framework based on two key criteria derived from agent
+interactions with peers and institutions: (i) the agent's ability to disregard
+non-authoritative institutions and (ii) the agent's ability to identify
+authoritative institutions among several options. We show that these
+capabilities allow the agent to achieve more stable cooperative outcomes
+compared to baseline agents without the normative module, paving the way for
+research in a new avenue of designing environments and agents that account for
+normative infrastructure.
+]]></content:encoded>
+<pubDate>2024-05-29T17:57:30Z</pubDate>
+<pubDate>2024-05-29T17:57:30Z</pubDate>
+</item>
 
 <item>
 <title>Hierarchical World Models as Visual Whole-Body Humanoid Controllers</title>
