@@ -6222,3 +6222,20 @@ Filter: [Nearest Neighbor Speculative Decoding for LLM Generation and Attributio
 Filter: [Are Large Language Models Chameleons?](http://arxiv.org/abs/2405.19323v1)
 append_entries: 3
 Finish: 2024-05-30 12:15:49.257660
+------------------------------------------------------
+Started: 2024-05-31 00:39:35.300991
+Existing_entries: 144
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [X-VILA: Cross-Modality Alignment for Large Language Model](http://arxiv.org/abs/2405.19335v1)
+Filter: [Self-Exploring Language Models: Active Preference Elicitation for Online
+  Alignment](http://arxiv.org/abs/2405.19332v1)
+Filter: [NPGA: Neural Parametric Gaussian Avatars](http://arxiv.org/abs/2405.19331v1)
+Filter: [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model
+  Series](http://arxiv.org/abs/2405.19327v1)
+Filter: [Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot
+  Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language
+  Models](http://arxiv.org/abs/2405.19326v1)
+Filter: [Nearest Neighbor Speculative Decoding for LLM Generation and Attribution](http://arxiv.org/abs/2405.19325v1)
+Filter: [Are Large Language Models Chameleons?](http://arxiv.org/abs/2405.19323v1)
+append_entries: 0
+Finish: 2024-05-31 00:39:36.040163
