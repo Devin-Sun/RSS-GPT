@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</title>
 <link>http://arxiv.org/abs/2405.20336v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 3D holistic body motions, singing vocals, RapVerse dataset, autoregressive multimodal transformers, vector-quantized variational autoencoder
 
-生成音频和人体运动的统一模型，使用RapVerse数据集进行研究，在语言、音频和动作之间进行变换。通过变换编码整体运动序列和音频，确保音频和人体运动的无缝和真实混合。实验证明，该统一生成框架不仅可以直接从文本输入中产生连贯和逼真的歌唱声音和人体运动，而且可以与专门的单模态生成系统相匹敌，为联合声音-运动生成建立了新的基准。 项目页面可用于研究目的，网址为https://vis-www.cs.umass.edu/RapVerse。<br><br>总结: 通过使用RapVerse数据集，这项工作介绍了一个新的挑战性任务，即从文本歌词直接生成3D整体人体动作和歌唱声音。研究人员使用变换编码模型统一处理语言、音频和动作，并通过实验证明了该框架的有效性和性能。 <div>
+生成音频和人体运动的统一模型，使用RapVerse数据集进行研究，在语言、音频和动作之间进行变换。通过变换编码整体运动序列和音频，确保音频和人体运动的无缝和真实混合。实验证明，该统一生成框架不仅可以直接从文本输入中产生连贯和逼真的歌唱声音和人体运动，而且可以与专门的单模态生成系统相匹敌，为联合声音-运动生成建立了新的基准。 项目页面可用于研究目的，网址为https://vis-www.cs.umass.edu/RapVerse。<br /><br />总结: 通过使用RapVerse数据集，这项工作介绍了一个新的挑战性任务，即从文本歌词直接生成3D整体人体动作和歌唱声音。研究人员使用变换编码模型统一处理语言、音频和动作，并通过实验证明了该框架的有效性和性能。 <div>
 In this work, we introduce a challenging task for simultaneously generating
 3D holistic body motions and singing vocals directly from textual lyrics
 inputs, advancing beyond existing works that typically address these two
@@ -34,9 +35,7 @@ establishing new benchmarks for joint vocal-motion generation. The project page
 is available for research purposes at https://vis-www.cs.umass.edu/RapVerse.
 ]]></content:encoded>
 <pubDate>2024-05-30T17:59:39Z</pubDate>
-<pubDate>2024-05-30T17:59:39Z</pubDate>
 </item>
-
 <item>
 <title>LLMs Meet Multimodal Generation and Editing: A Survey</title>
 <link>http://arxiv.org/abs/2405.19334v1</link>

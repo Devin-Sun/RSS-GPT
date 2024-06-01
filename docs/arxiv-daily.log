@@ -6261,3 +6261,22 @@ Filter: [SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical
   Videos](http://arxiv.org/abs/2405.20333v1)
 append_entries: 1
 Finish: 2024-05-31 12:15:23.566209
+------------------------------------------------------
+Started: 2024-06-01 00:41:48.668546
+Existing_entries: 145
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single
+  Image](http://arxiv.org/abs/2405.20343v1)
+Filter: [From Zero to Hero: Cold-Start Anomaly Detection](http://arxiv.org/abs/2405.20341v1)
+Filter: [MotionLLM: Understanding Human Behaviors from Human Motions and Videos](http://arxiv.org/abs/2405.20340v1)
+Filter: [Visual Perception by Large Language Model's Weights](http://arxiv.org/abs/2405.20339v1)
+Filter: [Mixed finite element methods for fourth order obstacle problems in
+  linearised elasticity](http://arxiv.org/abs/2405.20338v1)
+Filter: [OccSora: 4D Occupancy Generation Models as World Simulators for
+  Autonomous Driving](http://arxiv.org/abs/2405.20337v1)
+Filter: [Xwin-LM: Strong and Scalable Alignment Practice for LLMs](http://arxiv.org/abs/2405.20335v1)
+Filter: [VividDream: Generating 3D Scene with Ambient Dynamics](http://arxiv.org/abs/2405.20334v1)
+Filter: [SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical
+  Videos](http://arxiv.org/abs/2405.20333v1)
+append_entries: 0
+Finish: 2024-06-01 00:41:49.442707
