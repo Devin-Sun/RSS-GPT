@@ -6444,3 +6444,30 @@ Filter: [Unified Directly Denoising for Both Variance Preserving and Variance
   Exploding Diffusion Models](http://arxiv.org/abs/2405.21059v1)
 append_entries: 0
 Finish: 2024-06-05 00:39:05.929166
+------------------------------------------------------
+Started: 2024-06-05 12:16:00.929245
+Existing_entries: 145
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors](http://arxiv.org/abs/2406.02552v1)
+Filter: [Learning to grok: Emergence of in-context learning and skill composition
+  in modular arithmetic tasks](http://arxiv.org/abs/2406.02550v1)
+Filter: [Dreamguider: Improved Training free Diffusion-based Conditional
+  Generation](http://arxiv.org/abs/2406.02549v1)
+Filter: [Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance
+  Segmentation](http://arxiv.org/abs/2406.02548v1)
+Token length: 1177
+Summarized using GPT-3.5-turbo-1106
+Append: [Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal
+  Learning](http://arxiv.org/abs/2406.02547v1)
+Token length: 1050
+Summarized using GPT-3.5-turbo-1106
+Append: [Robust and highly scalable estimation of directional couplings from
+  time-shifted signals](http://arxiv.org/abs/2406.02545v1)
+Filter: [To Believe or Not to Believe Your LLM](http://arxiv.org/abs/2406.02543v1)
+Filter: [Loki: Low-Rank Keys for Efficient Sparse Attention](http://arxiv.org/abs/2406.02542v1)
+Filter: [Enhancing Temporal Consistency in Video Editing by Reconstructing Videos
+  with 3D Gaussian Splatting](http://arxiv.org/abs/2406.02541v1)
+Append: [ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers
+  for Image and Video Generation](http://arxiv.org/abs/2406.02540v1)
+append_entries: 3
+Finish: 2024-06-05 12:16:11.568163
