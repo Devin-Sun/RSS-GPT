@@ -6422,3 +6422,25 @@ Filter: [Unified Directly Denoising for Both Variance Preserving and Variance
   Exploding Diffusion Models](http://arxiv.org/abs/2405.21059v1)
 append_entries: 0
 Finish: 2024-06-04 12:15:34.004725
+------------------------------------------------------
+Started: 2024-06-05 00:39:05.011464
+Existing_entries: 145
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of
+  Multi-modal LLMs in Video Analysis](http://arxiv.org/abs/2405.21075v1)
+Filter: [Latent Intrinsics Emerge from Training to Relight](http://arxiv.org/abs/2405.21074v1)
+Filter: [Generalization Beyond Data Imbalance: A Controlled Study on CLIP for
+  Transferable Insights](http://arxiv.org/abs/2405.21070v1)
+Filter: [Code Pretraining Improves Entity Tracking Abilities of Language Models](http://arxiv.org/abs/2405.21068v1)
+Filter: [Mixed Diffusion for 3D Indoor Scene Synthesis](http://arxiv.org/abs/2405.21066v1)
+Filter: [Recurrent neural networks: vanishing and exploding gradients are not the
+  end of the story](http://arxiv.org/abs/2405.21064v1)
+Filter: [Neural Network Verification with Branch-and-Bound for General
+  Nonlinearities](http://arxiv.org/abs/2405.21063v1)
+Filter: [Graph External Attention Enhanced Transformer](http://arxiv.org/abs/2405.21061v2)
+Filter: [Transformers are SSMs: Generalized Models and Efficient Algorithms
+  Through Structured State Space Duality](http://arxiv.org/abs/2405.21060v1)
+Filter: [Unified Directly Denoising for Both Variance Preserving and Variance
+  Exploding Diffusion Models](http://arxiv.org/abs/2405.21059v1)
+append_entries: 0
+Finish: 2024-06-05 00:39:05.929166
