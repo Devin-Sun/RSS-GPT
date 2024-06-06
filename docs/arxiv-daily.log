@@ -6488,3 +6488,25 @@ Filter: [Enhancing Temporal Consistency in Video Editing by Reconstructing Video
   with 3D Gaussian Splatting](http://arxiv.org/abs/2406.02541v2)
 append_entries: 0
 Finish: 2024-06-06 00:39:09.808537
+------------------------------------------------------
+Started: 2024-06-06 12:15:46.982641
+Existing_entries: 148
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1486
+Summarized using GPT-3.5-turbo-1106
+Append: [Wings: Learning Multimodal LLMs without Text-only Forgetting](http://arxiv.org/abs/2406.03496v1)
+Filter: [Grokking Modular Polynomials](http://arxiv.org/abs/2406.03495v1)
+Filter: [Solving Poisson Equations using Neural Walk-on-Spheres](http://arxiv.org/abs/2406.03494v1)
+Filter: [The Logarithmic Memristor-Based Bayesian Machine](http://arxiv.org/abs/2406.03492v1)
+Filter: [Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large
+  Language Model Training](http://arxiv.org/abs/2406.03488v1)
+Filter: [Analyzing LLM Behavior in Dialogue Summarization: Unveiling
+  Circumstantial Hallucination Trends](http://arxiv.org/abs/2406.03487v1)
+Filter: [BIPED: Pedagogically Informed Tutoring System for ESL Education](http://arxiv.org/abs/2406.03486v1)
+Filter: [Highway Value Iteration Networks](http://arxiv.org/abs/2406.03485v1)
+Filter: [QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero
+  Overhead](http://arxiv.org/abs/2406.03482v1)
+Filter: [Unpacking Approaches to Learning and Teaching Machine Learning in K-12
+  Education: Transparency, Ethics, and Design Activities](http://arxiv.org/abs/2406.03480v1)
+append_entries: 1
+Finish: 2024-06-06 12:15:52.238225
