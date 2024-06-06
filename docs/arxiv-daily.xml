@@ -4,19 +4,20 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal
   Learning</title>
 <link>http://arxiv.org/abs/2406.02547v1</link>
 <guid>http://arxiv.org/abs/2406.02547v1</guid>
 <content:encoded><![CDATA[
-<div> 多模态模型，训练，长上下文长度，GPU内存，计算成本<br>
-探索性研究，视觉化上下文文本处理，长文本处理，FLOPs，下游基准性能<br>
-VisInContext方法显著减少了GPU内存使用和FLOPs<br>
-研究表明，VisInContext训练的模型在下游基准测试中表现优异<br>
+<div> 多模态模型，训练，长上下文长度，GPU内存，计算成本<br />
+探索性研究，视觉化上下文文本处理，长文本处理，FLOPs，下游基准性能<br />
+VisInContext方法显著减少了GPU内存使用和FLOPs<br />
+研究表明，VisInContext训练的模型在下游基准测试中表现优异<br />
 VisInContext方法对增加上下文文本长度和增强文档理解能力有潜力
 
-<br><br>总结:
+<br /><br />总结:
 本研究探索了一种新的多模态大语言模型中增加长上下文文本长度的方法——视觉化上下文文本处理（VisInContext）。该方法显著降低了GPU内存使用和浮点运算（FLOPs），使得在训练和推断阶段，可以将预训练的上下文文本长度从256扩展到2048个标记，而几乎保持相同的FLOPs。实验结果表明，采用VisInContext训练的模型在常见的下游基准测试中表现优异，还显示出在增加上下文文本长度和增强文档理解能力方面有巨大潜力。 <div>
 Training models with longer in-context lengths is a significant challenge for
 multimodal model due to substantial GPU memory and computational costs. This
@@ -36,7 +37,6 @@ capabilities, showing great potential in document QA tasks and sequential
 document retrieval.
 ]]></content:encoded>
 <pubDate>2024-06-04T17:59:25Z</pubDate>
-<pubDate>2024-06-04T17:59:25Z</pubDate>
 </item>
 <item>
 <title>Robust and highly scalable estimation of directional couplings from
@@ -46,7 +46,7 @@ document retrieval.
 <content:encoded><![CDATA[
 <div> 网络、方向耦合、延迟、变分贝叶斯、测量参数
 
-这篇论文介绍了如何通过变分贝叶斯框架来估计网络节点之间的方向耦合，解决了因测量中可能存在未知延迟而导致问题不适定的情况。通过边际化延迟的不确定性，得到了保守的耦合估计。为了克服传统变分方法的过于自信的问题，采用了混合变分推断方案，其中测量参数的后验分布使用前向KL loss进行估计，而耦合的条件后验分布则使用高度可扩展的基于梯度的变分推断方法进行估计。在对实际数据进行的实验证实中，表明该网络能够提供可靠且保守的耦合估计，远远优于回归DCM等类似方法。 <br><br>总结: 网络节点间的方向耦合估计在存在未知延迟的情况下是一个挑战，本文提出了使用变分贝叶斯框架来边际化延迟的不确定性以获得保守的耦合估计。通过混合变分推断方案克服了传统方法的问题，在实验中展示了该方法的可靠性和优越性。 <div>
+这篇论文介绍了如何通过变分贝叶斯框架来估计网络节点之间的方向耦合，解决了因测量中可能存在未知延迟而导致问题不适定的情况。通过边际化延迟的不确定性，得到了保守的耦合估计。为了克服传统变分方法的过于自信的问题，采用了混合变分推断方案，其中测量参数的后验分布使用前向KL loss进行估计，而耦合的条件后验分布则使用高度可扩展的基于梯度的变分推断方法进行估计。在对实际数据进行的实验证实中，表明该网络能够提供可靠且保守的耦合估计，远远优于回归DCM等类似方法。 <br /><br />总结: 网络节点间的方向耦合估计在存在未知延迟的情况下是一个挑战，本文提出了使用变分贝叶斯框架来边际化延迟的不确定性以获得保守的耦合估计。通过混合变分推断方案克服了传统方法的问题，在实验中展示了该方法的可靠性和优越性。 <div>
 The estimation of directed couplings between the nodes of a network from
 indirect measurements is a central methodological challenge in scientific
 fields such as neuroscience, systems biology and economics. Unfortunately, the
@@ -63,7 +63,6 @@ network provides reliable and conservative estimates of the couplings, greatly
 outperforming similar methods such as regression DCM.
 ]]></content:encoded>
 <pubDate>2024-06-04T17:58:33Z</pubDate>
-<pubDate>2024-06-04T17:58:33Z</pubDate>
 </item>
 <item>
 <title>ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers
@@ -71,7 +70,6 @@ outperforming similar methods such as regression DCM.
 <link>http://arxiv.org/abs/2406.02540v1</link>
 <guid>http://arxiv.org/abs/2406.02540v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion transformers (DiTs) have exhibited remarkable performance in visual
 generation tasks, such as generating realistic images or videos based on
 textual instructions. However, larger model sizes and multi-frame processing
@@ -93,9 +91,7 @@ ViDiTQ-MP achieves W4A8 with negligible visual quality degradation, resulting
 in a 2.5x memory optimization and a 1.5x latency speedup.
 ]]></content:encoded>
 <pubDate>2024-06-04T17:57:10Z</pubDate>
-<pubDate>2024-06-04T17:57:10Z</pubDate>
 </item>
-
 <item>
 <title>RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text</title>
 <link>http://arxiv.org/abs/2405.20336v1</link>
