@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Wings: Learning Multimodal LLMs without Text-only Forgetting</title>
 <link>http://arxiv.org/abs/2406.03496v1</link>
 <guid>http://arxiv.org/abs/2406.03496v1</guid>
 <content:encoded><![CDATA[
-<div> Wings, MLLMs, attention, text-only forgetting, multimodal comprehension<br>
-<br>
-Wings是一种新型的MLLM，它在文本对话和多模态理解方面表现出色。通过分析MLLM在多模态指令中的注意力，我们发现文本遗忘与注意力从图像前到图像后的转移有关。因此，我们设计了额外的模块作为增强学习器，以补偿注意力转移。视觉和文本学习者在每一层的注意力模块内并行连接，以平衡对视觉元素的关注，并在后续阶段通过基于注意力的路由与文本学习者合作整合输出。我们设计了低秩残差注意力（LoRRA）来保证学习效率。实验证明，Wings在纯文本和视觉问答任务中均优于同等规模的MLLM。在新建的交错式图像文本（IIT）基准测试上，Wings在纯文本丰富和多模态丰富问答任务中表现出卓越的性能。<br><br>总结:Wings是一种新型的MLLM，它在文本对话和多模态理解方面表现出色。同时，通过对MLLM在多模态指令中的注意力分析，发现了文本遗忘与注意力转移的关联，从而设计了补偿模块。Wings在实验中表现出比同等规模的MLLM更优异的性能，在纯文本丰富和多模态丰富问答任务中均表现出色。 <div>
+<div> Wings, MLLMs, attention, text-only forgetting, multimodal comprehension<br />
+<br />
+Wings是一种新型的MLLM，它在文本对话和多模态理解方面表现出色。通过分析MLLM在多模态指令中的注意力，我们发现文本遗忘与注意力从图像前到图像后的转移有关。因此，我们设计了额外的模块作为增强学习器，以补偿注意力转移。视觉和文本学习者在每一层的注意力模块内并行连接，以平衡对视觉元素的关注，并在后续阶段通过基于注意力的路由与文本学习者合作整合输出。我们设计了低秩残差注意力（LoRRA）来保证学习效率。实验证明，Wings在纯文本和视觉问答任务中均优于同等规模的MLLM。在新建的交错式图像文本（IIT）基准测试上，Wings在纯文本丰富和多模态丰富问答任务中表现出卓越的性能。<br /><br />总结:Wings是一种新型的MLLM，它在文本对话和多模态理解方面表现出色。同时，通过对MLLM在多模态指令中的注意力分析，发现了文本遗忘与注意力转移的关联，从而设计了补偿模块。Wings在实验中表现出比同等规模的MLLM更优异的性能，在纯文本丰富和多模态丰富问答任务中均表现出色。 <div>
 Multimodal large language models (MLLMs), initiated with a trained LLM, first
 align images with text and then fine-tune on multimodal mixed inputs. However,
 the MLLM catastrophically forgets the text-only instructions, which do not
@@ -34,9 +35,7 @@ benchmark, Wings exhibits superior performance from text-only-rich to
 multimodal-rich question-answering tasks.
 ]]></content:encoded>
 <pubDate>2024-06-05T17:59:40Z</pubDate>
-<pubDate>2024-06-05T17:59:40Z</pubDate>
 </item>
-
 <item>
 <title>Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal
   Learning</title>
