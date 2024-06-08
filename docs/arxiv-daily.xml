@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
+  Diffusion</title>
+<link>http://arxiv.org/abs/2406.04338v1</link>
+<guid>http://arxiv.org/abs/2406.04338v1</guid>
+<content:encoded><![CDATA[
+<div> 物理属性，3D对象，视频扩散模型，物理仿真，材料模型<br>
+总结:<br>
+近年来，3D生成模型发展迅速，但目前的模型偏重于表面特征，忽视了真实世界中物体行为的内在物理特性。为了准确模拟物理对齐的动态行为，有必要预测材料的物理属性并将其纳入行为预测过程。本文提出了一种通过视频扩散模型学习3D对象各种物理属性的新方法，该方法基于粘弹性材料模型设计了高度通用的物理仿真系统，能够模拟广泛的材料，并利用视频扩散模型中的物理先验知识。大量实验证明了我们方法的有效性，展示了Physics3D在弹性和塑性材料方面的巨大潜力，有助于弥合物理世界与虚拟神经空间之间的差距，提供更好的虚拟环境中真实物理原则的整合和应用。 <div>
+In recent years, there has been rapid development in 3D generation models,
+opening up new possibilities for applications such as simulating the dynamic
+movements of 3D objects and customizing their behaviors. However, current 3D
+generative models tend to focus only on surface features such as color and
+shape, neglecting the inherent physical properties that govern the behavior of
+objects in the real world. To accurately simulate physics-aligned dynamics, it
+is essential to predict the physical properties of materials and incorporate
+them into the behavior prediction process. Nonetheless, predicting the diverse
+materials of real-world objects is still challenging due to the complex nature
+of their physical attributes. In this paper, we propose \textbf{Physics3D}, a
+novel method for learning various physical properties of 3D objects through a
+video diffusion model. Our approach involves designing a highly generalizable
+physical simulation system based on a viscoelastic material model, which
+enables us to simulate a wide range of materials with high-fidelity
+capabilities. Moreover, we distill the physical priors from a video diffusion
+model that contains more understanding of realistic object materials. Extensive
+experiments demonstrate the effectiveness of our method with both elastic and
+plastic materials. Physics3D shows great potential for bridging the gap between
+the physical world and virtual neural space, providing a better integration and
+application of realistic physical principles in virtual environments. Project
+page: https://liuff19.github.io/Physics3D.
+]]></content:encoded>
+<pubDate>2024-06-06T17:59:47Z</pubDate>
+<pubDate>2024-06-06T17:59:47Z</pubDate>
+</item>
+<item>
+<title>Coherent Zero-Shot Visual Instruction Generation</title>
+<link>http://arxiv.org/abs/2406.04337v1</link>
+<guid>http://arxiv.org/abs/2406.04337v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 文本到图像合成, 扩散模型, 图像生成, 文本理解, 大型语言模型
+
+扩散模型和大型语言模型的进展使得文本到图像合成取得了巨大进展，但生成需要保持一致性的视觉说明仍然是一个巨大挑战。本文引入了一个简单的、无需训练的框架来解决这些问题，利用了扩散模型和大型语言模型的进步。我们的方法系统地整合了文本理解和图像生成，以确保视觉说明在整个指导序列中既具有视觉吸引力，又保持一致性和准确性。我们通过测试多步说明并与几个基准进行文本对齐和一致性比较来验证其有效性。实验结果表明，我们的方法能够可视化一致和视觉上令人愉悦的说明。<br><br>总结: 本文介绍了一个简单的、无需训练的框架，利用了扩散模型和大型语言模型的进步，系统地整合了文本理解和图像生成，解决了文本到图像合成中的一致性和准确性问题。 <div>
+Despite the advances in text-to-image synthesis, particularly with diffusion
+models, generating visual instructions that require consistent representation
+and smooth state transitions of objects across sequential steps remains a
+formidable challenge. This paper introduces a simple, training-free framework
+to tackle the issues, capitalizing on the advancements in diffusion models and
+large language models (LLMs). Our approach systematically integrates text
+comprehension and image generation to ensure visual instructions are visually
+appealing and maintain consistency and accuracy throughout the instruction
+sequence. We validate the effectiveness by testing multi-step instructions and
+comparing the text alignment and consistency with several baselines. Our
+experiments show that our approach can visualize coherent and visually pleasing
+instructions
+]]></content:encoded>
+<pubDate>2024-06-06T17:59:44Z</pubDate>
+<pubDate>2024-06-06T17:59:44Z</pubDate>
+</item>
 
 <item>
 <title>Wings: Learning Multimodal LLMs without Text-only Forgetting</title>
