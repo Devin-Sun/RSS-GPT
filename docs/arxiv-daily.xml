@@ -5,6 +5,70 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs</title>
+<link>http://arxiv.org/abs/2406.05132v1</link>
+<guid>http://arxiv.org/abs/2406.05132v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 语言理解, 3D感知, 大规模数据集, 3D-LLMs, 综合评估<br>
+总结:<br>
+这篇论文讨论了语言和3D感知的整合对于发展具有身体感知能力并能理解和互动物理世界的智能体和机器人的重要性。作者介绍了一个包含大规模家庭场景和密集语言-场景指令的数据集3D-GRAND，结果显示使用这个数据集可以显著提高3D-LLMs的语境能力，并减少幻觉。作者还提出了一个综合评估标准3D-POPE来系统评估3D-LLMs的幻觉情况，结果表明数据集大小和3D-LLM性能之间存在着扩展效应。最后，作者还展示了大规模合成数据训练的模型在真实3D扫描中表现良好的初步信号。通过3D-GRAND和3D-POPE，作者旨在为身体感知人工智能社区提供必要的资源和见解，为更可靠、更基础的3D-LLMs铺平道路。 <div>
+The integration of language and 3D perception is crucial for developing
+embodied agents and robots that comprehend and interact with the physical
+world. While large language models (LLMs) have demonstrated impressive language
+understanding and generation capabilities, their adaptation to 3D environments
+(3D-LLMs) remains in its early stages. A primary challenge is the absence of
+large-scale datasets that provide dense grounding between language and 3D
+scenes. In this paper, we introduce 3D-GRAND, a pioneering large-scale dataset
+comprising 40,087 household scenes paired with 6.2 million densely-grounded
+scene-language instructions. Our results show that instruction tuning with
+3D-GRAND significantly enhances grounding capabilities and reduces
+hallucinations in 3D-LLMs. As part of our contributions, we propose a
+comprehensive benchmark 3D-POPE to systematically evaluate hallucination in
+3D-LLMs, enabling fair comparisons among future models. Our experiments
+highlight a scaling effect between dataset size and 3D-LLM performance,
+emphasizing the critical role of large-scale 3D-text datasets in advancing
+embodied AI research. Notably, our results demonstrate early signals for
+effective sim-to-real transfer, indicating that models trained on large
+synthetic data can perform well on real-world 3D scans. Through 3D-GRAND and
+3D-POPE, we aim to equip the embodied AI community with essential resources and
+insights, setting the stage for more reliable and better-grounded 3D-LLMs.
+Project website: https://3d-grand.github.io
+]]></content:encoded>
+<pubDate>2024-06-07T17:59:59Z</pubDate>
+<pubDate>2024-06-07T17:59:59Z</pubDate>
+</item>
+<item>
+<title>An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal
+  Large Language Models</title>
+<link>http://arxiv.org/abs/2406.05130v1</link>
+<guid>http://arxiv.org/abs/2406.05130v1</guid>
+<content:encoded><![CDATA[
+<div> 参数-efficient fine-tuning, MLLM, PEFT methods, multimodal instruction datasets, 模型性能
+
+参数-efficient fine-tuning（PEFT）方法是为了解决大型语言模型（MLLMs）参数过多的问题，通过对开源MLLMs的LLM组件进行实证研究，比较了四种流行的PEFT方法在多个方面的影响：对各种模型的影响、参数和PEFT模块位置的影响、微调数据的规模对模型性能的影响、PEFT方法对模型稳定性、MLLM的泛化能力以及错觉现象。研究发现，在各种实验中，adapter是表现最佳的PEFT方法，同时微调连接器层可以提高大多数MLLM的性能。总结：PEFT方法对MLLM的性能影响显著，adapter方法表现最佳，微调连接器层也能改善模型性能。 <div>
+Multimodal large language models (MLLMs) fine-tuned with multimodal
+instruction datasets have demonstrated remarkable capabilities in multimodal
+tasks. However, fine-tuning all parameters of MLLMs has become challenging as
+they usually contain billions of parameters. To address this issue, we study
+parameter-efficient fine-tuning (PEFT) methods for MLLMs. We aim to identify
+effective methods for enhancing the performance of MLLMs in scenarios where
+only a limited number of parameters are trained. This paper conducts empirical
+studies using four popular PEFT methods to fine-tune the LLM component of
+open-source MLLMs. We present a comprehensive analysis that encompasses various
+aspects, including the impact of PEFT methods on various models, parameters and
+location of the PEFT module, size of fine-tuning data, model stability based on
+PEFT methods, MLLM's generalization, and hallucination. We evaluated four PEFT
+methods on seven datasets from two different categories: unseen and seen
+datasets. Across all experiments, we show that the adapter is the
+best-performing PEFT method. At the same time, fine-tuning the connector layers
+leads to improved performance in most MLLMs. Code and data are available at
+https://github.com/alenai97/PEFT-MLLM.git.
+]]></content:encoded>
+<pubDate>2024-06-07T17:58:11Z</pubDate>
+<pubDate>2024-06-07T17:58:11Z</pubDate>
+</item>
+
+<item>
 <title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
   Diffusion</title>
 <link>http://arxiv.org/abs/2406.04338v2</link>
@@ -12,7 +76,7 @@
 <content:encoded><![CDATA[
 <div> 物理3D，生成模型，物理特性，视频扩散模型，材料模拟
 
-<br><br>总结: 
+<br /><br />总结: 
 近年来，3D生成模型得到了快速发展，为模拟3D物体的动态运动和自定义行为等应用打开了新的可能性。然而，当前的3D生成模型往往只关注颜色和形状等表面特征，忽略了真实世界中影响物体行为的固有物理特性。为了准确模拟与物理对齐的动力学特性，预测物体的物理特性并将其纳入行为预测过程是至关重要的。本文提出了一种名为Physics3D的新方法，通过视频扩散模型学习3D物体的各种物理特性。我们的方法涉及设计一个基于粘弹性材料模型的高度通用的物理模拟系统，使我们能够以高保真度模拟各种材料。此外，我们从视频扩散模型中提取了物理先验知识，更加了解真实物体材料的特性。大量实验证明了我们的方法在弹性和塑性材料方面的有效性。Physics3D显示出了在虚拟神经空间和物理世界之间弥合差距的巨大潜力，提供了在虚拟环境中更好地整合和应用真实物理原理的可能性。 <div>
 In recent years, there has been rapid development in 3D generation models,
 opening up new possibilities for applications such as simulating the dynamic
@@ -36,10 +100,8 @@ the physical world and virtual neural space, providing a better integration and
 application of realistic physical principles in virtual environments. Project
 page: https://liuff19.github.io/Physics3D.
 ]]></content:encoded>
-<pubDate>2024-06-06T17:59:47Z</pubDate>
 <pubDate>2024-06-07T01:30:11Z</pubDate>
 </item>
-
 <item>
 <title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
   Diffusion</title>

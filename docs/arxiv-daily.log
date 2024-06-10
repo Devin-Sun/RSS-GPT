@@ -6637,3 +6637,27 @@ Filter: [RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning
 Filter: [On the Expressive Power of Spectral Invariant Graph Neural Networks](http://arxiv.org/abs/2406.04336v1)
 append_entries: 1
 Finish: 2024-06-10 00:41:19.362120
+------------------------------------------------------
+Started: 2024-06-10 12:16:10.830460
+Existing_entries: 152
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1538
+Summarized using GPT-3.5-turbo-1106
+Append: [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](http://arxiv.org/abs/2406.05132v1)
+Filter: [DVOS: Self-Supervised Dense-Pattern Video Object Segmentation](http://arxiv.org/abs/2406.05131v1)
+Token length: 1262
+Summarized using GPT-3.5-turbo-1106
+Append: [An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal
+  Large Language Models](http://arxiv.org/abs/2406.05130v1)
+Filter: [PatchSVD: A Non-uniform SVD-based Image Compression Algorithm](http://arxiv.org/abs/2406.05129v1)
+Filter: [Differentiable Time-Varying Linear Prediction in the Context of
+  End-to-End Analysis-by-Synthesis](http://arxiv.org/abs/2406.05128v1)
+Filter: [Towards Semantic Equivalence of Tokenization in Multimodal LLM](http://arxiv.org/abs/2406.05127v1)
+Filter: [Optimizing Exit Queues for Proof-of-Stake Blockchains: A Mechanism
+  Design Approach](http://arxiv.org/abs/2406.05124v1)
+Filter: [Energy Propagation in Scattering Convolution Networks Can Be Arbitrarily
+  Slow](http://arxiv.org/abs/2406.05121v1)
+Filter: [Contextual fusion enhances robustness to image blurring](http://arxiv.org/abs/2406.05120v1)
+Filter: [Compositional Curvature Bounds for Deep Neural Networks](http://arxiv.org/abs/2406.05119v1)
+append_entries: 2
+Finish: 2024-06-10 12:16:19.406947
