@@ -6615,3 +6615,25 @@ Filter: [RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning
 Filter: [On the Expressive Power of Spectral Invariant Graph Neural Networks](http://arxiv.org/abs/2406.04336v1)
 append_entries: 0
 Finish: 2024-06-09 12:14:56.819099
+------------------------------------------------------
+Started: 2024-06-10 00:41:13.338174
+Existing_entries: 151
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Stereo-Depth Fusion through Virtual Pattern Projection](http://arxiv.org/abs/2406.04345v1)
+Filter: [Learning 1D Causal Visual Representation with De-focus Attention
+  Networks](http://arxiv.org/abs/2406.04342v1)
+Filter: [Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a
+  Single Image](http://arxiv.org/abs/2406.04343v1)
+Filter: [Verbalized Machine Learning: Revisiting Machine Learning with Language
+  Models](http://arxiv.org/abs/2406.04344v1)
+Filter: [Interpreting the Second-Order Effects of Neurons in CLIP](http://arxiv.org/abs/2406.04341v1)
+Filter: [GLACE: Global Local Accelerated Coordinate Encoding](http://arxiv.org/abs/2406.04340v1)
+Token length: 1588
+Summarized using GPT-3.5-turbo-1106
+Append: [Physics3D: Learning Physical Properties of 3D Gaussians via Video
+  Diffusion](http://arxiv.org/abs/2406.04338v2)
+Filter: [RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning
+  and Manipulation](http://arxiv.org/abs/2406.04339v1)
+Filter: [On the Expressive Power of Spectral Invariant Graph Neural Networks](http://arxiv.org/abs/2406.04336v1)
+append_entries: 1
+Finish: 2024-06-10 00:41:19.362120

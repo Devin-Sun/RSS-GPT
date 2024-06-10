@@ -4,6 +4,41 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
+  Diffusion</title>
+<link>http://arxiv.org/abs/2406.04338v2</link>
+<guid>http://arxiv.org/abs/2406.04338v2</guid>
+<content:encoded><![CDATA[
+<div> 物理3D，生成模型，物理特性，视频扩散模型，材料模拟
+
+<br><br>总结: 
+近年来，3D生成模型得到了快速发展，为模拟3D物体的动态运动和自定义行为等应用打开了新的可能性。然而，当前的3D生成模型往往只关注颜色和形状等表面特征，忽略了真实世界中影响物体行为的固有物理特性。为了准确模拟与物理对齐的动力学特性，预测物体的物理特性并将其纳入行为预测过程是至关重要的。本文提出了一种名为Physics3D的新方法，通过视频扩散模型学习3D物体的各种物理特性。我们的方法涉及设计一个基于粘弹性材料模型的高度通用的物理模拟系统，使我们能够以高保真度模拟各种材料。此外，我们从视频扩散模型中提取了物理先验知识，更加了解真实物体材料的特性。大量实验证明了我们的方法在弹性和塑性材料方面的有效性。Physics3D显示出了在虚拟神经空间和物理世界之间弥合差距的巨大潜力，提供了在虚拟环境中更好地整合和应用真实物理原理的可能性。 <div>
+In recent years, there has been rapid development in 3D generation models,
+opening up new possibilities for applications such as simulating the dynamic
+movements of 3D objects and customizing their behaviors. However, current 3D
+generative models tend to focus only on surface features such as color and
+shape, neglecting the inherent physical properties that govern the behavior of
+objects in the real world. To accurately simulate physics-aligned dynamics, it
+is essential to predict the physical properties of materials and incorporate
+them into the behavior prediction process. Nonetheless, predicting the diverse
+materials of real-world objects is still challenging due to the complex nature
+of their physical attributes. In this paper, we propose \textbf{Physics3D}, a
+novel method for learning various physical properties of 3D objects through a
+video diffusion model. Our approach involves designing a highly generalizable
+physical simulation system based on a viscoelastic material model, which
+enables us to simulate a wide range of materials with high-fidelity
+capabilities. Moreover, we distill the physical priors from a video diffusion
+model that contains more understanding of realistic object materials. Extensive
+experiments demonstrate the effectiveness of our method with both elastic and
+plastic materials. Physics3D shows great potential for bridging the gap between
+the physical world and virtual neural space, providing a better integration and
+application of realistic physical principles in virtual environments. Project
+page: https://liuff19.github.io/Physics3D.
+]]></content:encoded>
+<pubDate>2024-06-06T17:59:47Z</pubDate>
+<pubDate>2024-06-07T01:30:11Z</pubDate>
+</item>
 
 <item>
 <title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
