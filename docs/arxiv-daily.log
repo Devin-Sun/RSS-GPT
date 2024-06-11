@@ -6661,3 +6661,20 @@ Filter: [Contextual fusion enhances robustness to image blurring](http://arxiv.o
 Filter: [Compositional Curvature Bounds for Deep Neural Networks](http://arxiv.org/abs/2406.05119v1)
 append_entries: 2
 Finish: 2024-06-10 12:16:19.406947
+------------------------------------------------------
+Started: 2024-06-11 00:39:55.934870
+Existing_entries: 154
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DVOS: Self-Supervised Dense-Pattern Video Object Segmentation](http://arxiv.org/abs/2406.05131v1)
+Filter: [PatchSVD: A Non-uniform SVD-based Image Compression Algorithm](http://arxiv.org/abs/2406.05129v1)
+Filter: [Differentiable Time-Varying Linear Prediction in the Context of
+  End-to-End Analysis-by-Synthesis](http://arxiv.org/abs/2406.05128v1)
+Filter: [Towards Semantic Equivalence of Tokenization in Multimodal LLM](http://arxiv.org/abs/2406.05127v1)
+Filter: [Optimizing Exit Queues for Proof-of-Stake Blockchains: A Mechanism
+  Design Approach](http://arxiv.org/abs/2406.05124v1)
+Filter: [Energy Propagation in Scattering Convolution Networks Can Be Arbitrarily
+  Slow](http://arxiv.org/abs/2406.05121v1)
+Filter: [Contextual fusion enhances robustness to image blurring](http://arxiv.org/abs/2406.05120v1)
+Filter: [Compositional Curvature Bounds for Deep Neural Networks](http://arxiv.org/abs/2406.05119v1)
+append_entries: 0
+Finish: 2024-06-11 00:39:56.520699

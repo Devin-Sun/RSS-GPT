@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs</title>
 <link>http://arxiv.org/abs/2406.05132v1</link>
 <guid>http://arxiv.org/abs/2406.05132v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 语言理解, 3D感知, 大规模数据集, 3D-LLMs, 综合评估<br>
-总结:<br>
+<div> 关键词: 语言理解, 3D感知, 大规模数据集, 3D-LLMs, 综合评估<br />
+总结:<br />
 这篇论文讨论了语言和3D感知的整合对于发展具有身体感知能力并能理解和互动物理世界的智能体和机器人的重要性。作者介绍了一个包含大规模家庭场景和密集语言-场景指令的数据集3D-GRAND，结果显示使用这个数据集可以显著提高3D-LLMs的语境能力，并减少幻觉。作者还提出了一个综合评估标准3D-POPE来系统评估3D-LLMs的幻觉情况，结果表明数据集大小和3D-LLM性能之间存在着扩展效应。最后，作者还展示了大规模合成数据训练的模型在真实3D扫描中表现良好的初步信号。通过3D-GRAND和3D-POPE，作者旨在为身体感知人工智能社区提供必要的资源和见解，为更可靠、更基础的3D-LLMs铺平道路。 <div>
 The integration of language and 3D perception is crucial for developing
 embodied agents and robots that comprehend and interact with the physical
@@ -34,7 +35,6 @@ synthetic data can perform well on real-world 3D scans. Through 3D-GRAND and
 insights, setting the stage for more reliable and better-grounded 3D-LLMs.
 Project website: https://3d-grand.github.io
 ]]></content:encoded>
-<pubDate>2024-06-07T17:59:59Z</pubDate>
 <pubDate>2024-06-07T17:59:59Z</pubDate>
 </item>
 <item>
@@ -65,9 +65,7 @@ leads to improved performance in most MLLMs. Code and data are available at
 https://github.com/alenai97/PEFT-MLLM.git.
 ]]></content:encoded>
 <pubDate>2024-06-07T17:58:11Z</pubDate>
-<pubDate>2024-06-07T17:58:11Z</pubDate>
 </item>
-
 <item>
 <title>Physics3D: Learning Physical Properties of 3D Gaussians via Video
   Diffusion</title>
