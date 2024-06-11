@@ -6678,3 +6678,30 @@ Filter: [Contextual fusion enhances robustness to image blurring](http://arxiv.o
 Filter: [Compositional Curvature Bounds for Deep Neural Networks](http://arxiv.org/abs/2406.05119v1)
 append_entries: 0
 Finish: 2024-06-11 00:39:56.520699
+------------------------------------------------------
+Started: 2024-06-11 12:16:36.948351
+Existing_entries: 154
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [IllumiNeRF: 3D Relighting without Inverse Rendering](http://arxiv.org/abs/2406.06527v1)
+Token length: 1493
+Summarized using GPT-3.5-turbo-1106
+Append: [GaussianCity: Generative Gaussian Splatting for Unbounded 3D City
+  Generation](http://arxiv.org/abs/2406.06526v1)
+Token length: 1391
+Summarized using GPT-3.5-turbo-1106
+Append: [Autoregressive Model Beats Diffusion: Llama for Scalable Image
+  Generation](http://arxiv.org/abs/2406.06525v1)
+Filter: [NaRCan: Natural Refined Canonical Image with Integration of Diffusion
+  Prior for Video Editing](http://arxiv.org/abs/2406.06523v1)
+Filter: [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity
+  Surface Reconstruction](http://arxiv.org/abs/2406.06521v1)
+Filter: [Decentralized Personalized Federated Learning](http://arxiv.org/abs/2406.06520v1)
+Filter: [UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance
+  Assessor](http://arxiv.org/abs/2406.06519v1)
+Filter: [Data Augmentation for Multivariate Time Series Classification: An
+  Experimental Study](http://arxiv.org/abs/2406.06518v1)
+Filter: [Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor
+  Microenvironment Subtype Prediction](http://arxiv.org/abs/2406.06517v1)
+Filter: [Distribution-Free Predictive Inference under Unknown Temporal Drift](http://arxiv.org/abs/2406.06516v1)
+append_entries: 2
+Finish: 2024-06-11 12:16:47.378311
