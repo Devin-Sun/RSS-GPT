@@ -6724,3 +6724,27 @@ Filter: [Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor
 Filter: [Distribution-Free Predictive Inference under Unknown Temporal Drift](http://arxiv.org/abs/2406.06516v1)
 append_entries: 0
 Finish: 2024-06-12 00:39:54.876421
+------------------------------------------------------
+Started: 2024-06-12 12:15:58.426911
+Existing_entries: 156
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [An Image is Worth 32 Tokens for Reconstruction and Generation](http://arxiv.org/abs/2406.07550v1)
+Filter: [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring](http://arxiv.org/abs/2406.07551v1)
+Filter: [A3VLM: Actionable Articulation-Aware Vision Language Model](http://arxiv.org/abs/2406.07549v1)
+Filter: [Image and Video Tokenization with Binary Spherical Quantization](http://arxiv.org/abs/2406.07548v1)
+Filter: [Zero-shot Image Editing with Reference Imitation](http://arxiv.org/abs/2406.07547v1)
+Token length: 1454
+Summarized using GPT-3.5-turbo-1106
+Append: [Commonsense-T2I Challenge: Can Text-to-Image Generation Models
+  Understand Commonsense?](http://arxiv.org/abs/2406.07546v1)
+Filter: [Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs
+  Evaluation, Benchmark, and Arena](http://arxiv.org/abs/2406.07545v1)
+Token length: 1249
+Summarized using GPT-3.5-turbo-1106
+Append: [Situational Awareness Matters in 3D Vision Language Reasoning](http://arxiv.org/abs/2406.07544v1)
+Filter: [Vision Model Pre-training on Interleaved Image-Text Data via Latent
+  Compression Learning](http://arxiv.org/abs/2406.07543v1)
+Append: [Cognitive Insights Across Languages: Enhancing Multimodal Interview
+  Analysis](http://arxiv.org/abs/2406.07542v1)
+append_entries: 3
+Finish: 2024-06-12 12:16:06.804428

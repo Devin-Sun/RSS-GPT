@@ -4,6 +4,90 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Commonsense-T2I Challenge: Can Text-to-Image Generation Models
+  Understand Commonsense?</title>
+<link>http://arxiv.org/abs/2406.07546v1</link>
+<guid>http://arxiv.org/abs/2406.07546v1</guid>
+<content:encoded><![CDATA[
+<div> 文本-图像生成；常识推理；评估基准；挑战性数据集；模型分析<br>
+<br>
+挑战性的Commonsense-T2I数据集是一个新颖的任务和基准，用于评估文本-图像生成模型产生符合现实生活常识的能力。数据集由专家手动筛选和标注，提供对模型行为的细粒度分析。研究发现，即使是DALL-E 3模型在Commonsense-T2I上也只能达到48.92%的准确率，而稳定的Diffusion XL模型仅实现24.92%的准确率。实验结果表明，GPT丰富的提示无法解决这一挑战，并进行了详细的分析。Commonsense-T2I旨在成为T2I常识检查的高质量评估基准，促进现实生活图像生成的发展。<br><br>总结: 挑战性的Commonsense-T2I数据集是一个评估文本-图像生成模型的新基准，旨在促进现实生活图像生成的进步。研究发现目前的模型在该数据集上仍存在较大差距，即使是最先进的模型也只能实现有限的准确率。对于GPT-enriched提示也无法解决这一挑战，需要进行更深入的分析和改进。 <div>
+We present a novel task and benchmark for evaluating the ability of
+text-to-image(T2I) generation models to produce images that fit commonsense in
+real life, which we call Commonsense-T2I. Given two adversarial text prompts
+containing an identical set of action words with minor differences, such as "a
+lightbulb without electricity" v.s. "a lightbulb with electricity", we evaluate
+whether T2I models can conduct visual-commonsense reasoning, e.g. produce
+images that fit "the lightbulb is unlit" vs. "the lightbulb is lit"
+correspondingly. Commonsense-T2I presents an adversarial challenge, providing
+pairwise text prompts along with expected outputs. The dataset is carefully
+hand-curated by experts and annotated with fine-grained labels, such as
+commonsense type and likelihood of the expected outputs, to assist analyzing
+model behavior. We benchmark a variety of state-of-the-art (sota) T2I models
+and surprisingly find that, there is still a large gap between image synthesis
+and real life photos--even the DALL-E 3 model could only achieve 48.92% on
+Commonsense-T2I, and the stable diffusion XL model only achieves 24.92%
+accuracy. Our experiments show that GPT-enriched prompts cannot solve this
+challenge, and we include a detailed analysis about possible reasons for such
+deficiency. We aim for Commonsense-T2I to serve as a high-quality evaluation
+benchmark for T2I commonsense checking, fostering advancements in real life
+image generation.
+]]></content:encoded>
+<pubDate>2024-06-11T17:59:48Z</pubDate>
+<pubDate>2024-06-11T17:59:48Z</pubDate>
+</item>
+<item>
+<title>Situational Awareness Matters in 3D Vision Language Reasoning</title>
+<link>http://arxiv.org/abs/2406.07544v1</link>
+<guid>http://arxiv.org/abs/2406.07544v1</guid>
+<content:encoded><![CDATA[
+<div> 3D vision language reasoning, household robots, embodied AI, SIG3D, situational awareness<br>
+<br>
+该研究展示了在3D空间内进行复杂的视觉语言推理任务对于开发家庭机器人和以人为中心的智能AI具有重要意义。作者提出了SIG3D模型，该模型能够自主地在基于语言提示的情境中确定自身位置，并以此为基础回答开放性问题。通过在SQA3D和ScanQA数据集上的实验，发现SIG3D在情境估计和问题回答方面优于现有模型，情境估计准确率提升超过30%。进一步分析验证了模型设计的合理性，探究了视觉和文本标记的不同功能，并突出了在3D问题回答领域中情境意识的重要性。<br><br>总结: 该研究围绕着3D视觉语言推理展开，提出了SIG3D模型以解决情境感知和问题回答的挑战。实验证明SIG3D在这两方面表现优异，突显了情境意识在3D问题回答中的重要性。 <div>
+Being able to carry out complicated vision language reasoning tasks in 3D
+space represents a significant milestone in developing household robots and
+human-centered embodied AI. In this work, we demonstrate that a critical and
+distinct challenge in 3D vision language reasoning is situational awareness,
+which incorporates two key components: (1) The autonomous agent grounds its
+self-location based on a language prompt. (2) The agent answers open-ended
+questions from the perspective of its calculated position. To address this
+challenge, we introduce SIG3D, an end-to-end Situation-Grounded model for 3D
+vision language reasoning. We tokenize the 3D scene into sparse voxel
+representation and propose a language-grounded situation estimator, followed by
+a situated question answering module. Experiments on the SQA3D and ScanQA
+datasets show that SIG3D outperforms state-of-the-art models in situation
+estimation and question answering by a large margin (e.g., an enhancement of
+over 30% on situation estimation accuracy). Subsequent analysis corroborates
+our architectural design choices, explores the distinct functions of visual and
+textual tokens, and highlights the importance of situational awareness in the
+domain of 3D question answering.
+]]></content:encoded>
+<pubDate>2024-06-11T17:59:45Z</pubDate>
+<pubDate>2024-06-11T17:59:45Z</pubDate>
+</item>
+<item>
+<title>Cognitive Insights Across Languages: Enhancing Multimodal Interview
+  Analysis</title>
+<link>http://arxiv.org/abs/2406.07542v1</link>
+<guid>http://arxiv.org/abs/2406.07542v1</guid>
+<content:encoded><![CDATA[
+
+Cognitive decline is a natural process that occurs as individuals age. Early
+diagnosis of anomalous decline is crucial for initiating professional treatment
+that can enhance the quality of life of those affected. To address this issue,
+we propose a multimodal model capable of predicting Mild Cognitive Impairment
+and cognitive scores. The TAUKADIAL dataset is used to conduct the evaluation,
+which comprises audio recordings of clinical interviews. The proposed model
+demonstrates the ability to transcribe and differentiate between languages used
+in the interviews. Subsequently, the model extracts audio and text features,
+combining them into a multimodal architecture to achieve robust and generalized
+results. Our approach involves in-depth research to implement various features
+obtained from the proposed modalities.
+]]></content:encoded>
+<pubDate>2024-06-11T17:59:31Z</pubDate>
+<pubDate>2024-06-11T17:59:31Z</pubDate>
+</item>
 
 <item>
 <title>GaussianCity: Generative Gaussian Splatting for Unbounded 3D City
