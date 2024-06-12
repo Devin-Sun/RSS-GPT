@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>GaussianCity: Generative Gaussian Splatting for Unbounded 3D City
   Generation</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> GaussianCity, 3D city generation, NeRF, 3D-GS, unbounded 3D scenes
 
-GaussianCity是一种用于高效合成无限规模3D城市的生成高斯分布点框架。文章提出了两个关键见解：1）紧凑的3D场景表示：引入BEV-Point作为高度紧凑的中间表示，确保对于无限场景的VRAM使用量保持恒定，从而实现无限城市的生成。2）空间感知的高斯属性解码器：提出了空间感知的BEV-Point解码器，以产生3D高斯属性，利用Point Serializer集成BEV点的结构和上下文特征。大量实验证明，GaussianCity在俯视和街景3D城市生成方面取得了最先进的结果。值得注意的是，与CityDreamer相比，GaussianCity表现出60倍的速度提升（10.72 FPS对0.18 FPS）。<br><br>总结: GaussianCity 提出了一种用于高效生成无限规模3D城市的高斯分布点框架，具有紧凑的3D场景表示和空间感知的高斯属性解码器。在实验中表现出了优越的性能。 <div>
+GaussianCity是一种用于高效合成无限规模3D城市的生成高斯分布点框架。文章提出了两个关键见解：1）紧凑的3D场景表示：引入BEV-Point作为高度紧凑的中间表示，确保对于无限场景的VRAM使用量保持恒定，从而实现无限城市的生成。2）空间感知的高斯属性解码器：提出了空间感知的BEV-Point解码器，以产生3D高斯属性，利用Point Serializer集成BEV点的结构和上下文特征。大量实验证明，GaussianCity在俯视和街景3D城市生成方面取得了最先进的结果。值得注意的是，与CityDreamer相比，GaussianCity表现出60倍的速度提升（10.72 FPS对0.18 FPS）。<br /><br />总结: GaussianCity 提出了一种用于高效生成无限规模3D城市的高斯分布点框架，具有紧凑的3D场景表示和空间感知的高斯属性解码器。在实验中表现出了优越的性能。 <div>
 3D city generation with NeRF-based methods shows promising generation results
 but is computationally inefficient. Recently 3D Gaussian Splatting (3D-GS) has
 emerged as a highly efficient alternative for object-level 3D generation.
@@ -36,7 +37,6 @@ exhibits superior performance with a speedup of 60 times (10.72 FPS v.s. 0.18
 FPS).
 ]]></content:encoded>
 <pubDate>2024-06-10T17:59:55Z</pubDate>
-<pubDate>2024-06-10T17:59:55Z</pubDate>
 </item>
 <item>
 <title>Autoregressive Model Beats Diffusion: Llama for Scalable Image
@@ -44,8 +44,8 @@ FPS).
 <link>http://arxiv.org/abs/2406.06525v1</link>
 <guid>http://arxiv.org/abs/2406.06525v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: LlamaGen, 图像生成模型, 自回归模型, 缩放, 训练数据<br>
-总结: <br>本文介绍了LlamaGen，这是一种新的图像生成模型，将大型语言模型的原始“下一个标记预测”范式应用于视觉生成领域。作者发现，即使没有对视觉信号进行归纳偏差，例如Llama这样的纯自回归模型，只要适当地进行缩放，也可以实现最先进的图像生成性能。他们重新审视了图像标记器的设计空间、图像生成模型的可扩展性属性以及它们的训练数据质量。在这次探索中，他们取得了一系列成果：（1）一种图像标记器，其下采样比为16，重构质量为0.94 rFID，ImageNet基准上的代码本使用率为97%；（2）一系列有条件类别的图像生成模型，参数范围从1.11亿到31亿，在ImageNet 256x256基准测试上实现了2.18 FID，优于流行的扩散模型，如LDM、DiT；（3）一种文本有条件的图像生成模型，参数为7.75亿，经过LAION-COCO和高美学质量图像的两阶段训练，展现出了与文本对齐的竞争性视觉质量。他们验证了LLM服务框架在优化图像生成模型推理速度方面的有效性，并实现了326% - 414%的加速。他们发布了所有模型和代码，以促进视觉生成和多模式基础模型的开源社区。 <div>
+<div> 关键词: LlamaGen, 图像生成模型, 自回归模型, 缩放, 训练数据<br />
+总结: <br />本文介绍了LlamaGen，这是一种新的图像生成模型，将大型语言模型的原始“下一个标记预测”范式应用于视觉生成领域。作者发现，即使没有对视觉信号进行归纳偏差，例如Llama这样的纯自回归模型，只要适当地进行缩放，也可以实现最先进的图像生成性能。他们重新审视了图像标记器的设计空间、图像生成模型的可扩展性属性以及它们的训练数据质量。在这次探索中，他们取得了一系列成果：（1）一种图像标记器，其下采样比为16，重构质量为0.94 rFID，ImageNet基准上的代码本使用率为97%；（2）一系列有条件类别的图像生成模型，参数范围从1.11亿到31亿，在ImageNet 256x256基准测试上实现了2.18 FID，优于流行的扩散模型，如LDM、DiT；（3）一种文本有条件的图像生成模型，参数为7.75亿，经过LAION-COCO和高美学质量图像的两阶段训练，展现出了与文本对齐的竞争性视觉质量。他们验证了LLM服务框架在优化图像生成模型推理速度方面的有效性，并实现了326% - 414%的加速。他们发布了所有模型和代码，以促进视觉生成和多模式基础模型的开源社区。 <div>
 We introduce LlamaGen, a new family of image generation models that apply
 original ``next-token prediction'' paradigm of large language models to visual
 generation domain. It is an affirmative answer to whether vanilla
@@ -67,9 +67,7 @@ and codes to facilitate open-source community of visual generation and
 multimodal foundation models.
 ]]></content:encoded>
 <pubDate>2024-06-10T17:59:52Z</pubDate>
-<pubDate>2024-06-10T17:59:52Z</pubDate>
 </item>
-
 <item>
 <title>3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs</title>
 <link>http://arxiv.org/abs/2406.05132v1</link>
