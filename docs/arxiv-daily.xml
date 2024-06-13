@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Words Worth a Thousand Pictures: Measuring and Understanding Perceptual
+  Variability in Text-to-Image Generation</title>
+<link>http://arxiv.org/abs/2406.08482v1</link>
+<guid>http://arxiv.org/abs/2406.08482v1</guid>
+<content:encoded><![CDATA[
+<div> 黑盒扩散模型、图像可变性、W1KP、提示重用、语言特征分析<br>
+扩散模型是文本到图像生成的最新技术，但其感知可变性尚未得到充分研究。本文研究了提示如何影响基于黑盒扩散模型的图像可变性。我们提出了W1KP，这是一种经过人类校准的图像可变性度量，可以从现有的图像对感知距离中提取。由于当前数据集不包括最新的扩散模型，因此我们为评估而策划了三个测试集。我们的最佳感知距离在准确性方面比九个基线模型提高了高达18个百分点，我们的校准与人类的判断相匹配的概率达到了78%。利用W1KP，我们研究了提示的重复使用，并表明Imagen提示可以在生成的图像变得与已生成的图像太相似之前重复使用10-50次，而Stable Diffusion XL和DALL-E 3可以重复使用50-200次。最后，我们分析了真实提示的56个语言特征，发现提示的长度、CLIP嵌入范数、具体性和词义对可变性影响最大。据我们所知，我们是首批从视觉语言学角度分析扩散可变性的研究者。我们的项目页面位于http://w1kp.com。<br><br>总结: 本文研究了扩散模型的图像可变性，提出了W1KP度量及其重要性，以及对提示重复使用和语言特征分析的结果进行了详细研究，为扩散模型的进一步发展提出了有益的见解。 <div>
+Diffusion models are the state of the art in text-to-image generation, but
+their perceptual variability remains understudied. In this paper, we examine
+how prompts affect image variability in black-box diffusion-based models. We
+propose W1KP, a human-calibrated measure of variability in a set of images,
+bootstrapped from existing image-pair perceptual distances. Current datasets do
+not cover recent diffusion models, thus we curate three test sets for
+evaluation. Our best perceptual distance outperforms nine baselines by up to 18
+points in accuracy, and our calibration matches graded human judgements 78% of
+the time. Using W1KP, we study prompt reusability and show that Imagen prompts
+can be reused for 10-50 random seeds before new images become too similar to
+already generated images, while Stable Diffusion XL and DALL-E 3 can be reused
+50-200 times. Lastly, we analyze 56 linguistic features of real prompts,
+finding that the prompt's length, CLIP embedding norm, concreteness, and word
+senses influence variability most. As far as we are aware, we are the first to
+analyze diffusion variability from a visuolinguistic perspective. Our project
+page is at http://w1kp.com
+]]></content:encoded>
+<pubDate>2024-06-12T17:59:27Z</pubDate>
+<pubDate>2024-06-12T17:59:27Z</pubDate>
+</item>
+<item>
+<title>What If We Recaption Billions of Web Images with LLaMA-3?</title>
+<link>http://arxiv.org/abs/2406.08478v1</link>
+<guid>http://arxiv.org/abs/2406.08478v1</guid>
+<content:encoded><![CDATA[
+<div> LLaMA-3, 图像-文本对, 数据增强, 生成模型, 判别模型
+<br> 
+本文介绍了如何利用开源的LLaMA-3进行图像-文本对的数据增强，并且在数据集Recap-DataComp-1B上进行了实验。实验证明，经过增强的数据集可以显著提升训练先进的视觉-语言模型，在判别模型（如CLIP）中表现出增强的零-shot性能，在生成模型（如文本到图像Diffusion Transformers）中生成的图像与用户的文本指令更加吻合，特别是在处理复杂查询时。 通过这篇文章，我们可以了解到数据增强对于提升视觉-语言模型的作用，以及LLaMA-3的重要性和应用价值。
+<br><br>总结: 
+数据增强的重要性和作用、LLaMA-3的应用、Recap-DataComp-1B数据集的实验效果、判别模型和生成模型的表现提升、复杂查询的处理。 <div>
+Web-crawled image-text pairs are inherently noisy. Prior studies demonstrate
+that semantically aligning and enriching textual descriptions of these pairs
+can significantly enhance model training across various vision-language tasks,
+particularly text-to-image generation. However, large-scale investigations in
+this area remain predominantly closed-source. Our paper aims to bridge this
+community effort, leveraging the powerful and \textit{open-sourced} LLaMA-3, a
+GPT-4 level LLM. Our recaptioning pipeline is simple: first, we fine-tune a
+LLaMA-3-8B powered LLaVA-1.5 and then employ it to recaption 1.3 billion images
+from the DataComp-1B dataset. Our empirical results confirm that this enhanced
+dataset, Recap-DataComp-1B, offers substantial benefits in training advanced
+vision-language models. For discriminative models like CLIP, we observe
+enhanced zero-shot performance in cross-modal retrieval tasks. For generative
+models like text-to-image Diffusion Transformers, the generated images exhibit
+a significant improvement in alignment with users' text instructions,
+especially in following complex queries. Our project page is
+https://www.haqtu.me/Recap-Datacomp-1B/
+]]></content:encoded>
+<pubDate>2024-06-12T17:59:07Z</pubDate>
+<pubDate>2024-06-12T17:59:07Z</pubDate>
+</item>
 
 <item>
 <title>Commonsense-T2I Challenge: Can Text-to-Image Generation Models
