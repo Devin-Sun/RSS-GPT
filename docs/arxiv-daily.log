@@ -6748,3 +6748,18 @@ Append: [Cognitive Insights Across Languages: Enhancing Multimodal Interview
   Analysis](http://arxiv.org/abs/2406.07542v1)
 append_entries: 3
 Finish: 2024-06-12 12:16:06.804428
+------------------------------------------------------
+Started: 2024-06-13 00:39:36.654001
+Existing_entries: 159
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [An Image is Worth 32 Tokens for Reconstruction and Generation](http://arxiv.org/abs/2406.07550v1)
+Filter: [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring](http://arxiv.org/abs/2406.07551v1)
+Filter: [A3VLM: Actionable Articulation-Aware Vision Language Model](http://arxiv.org/abs/2406.07549v1)
+Filter: [Image and Video Tokenization with Binary Spherical Quantization](http://arxiv.org/abs/2406.07548v1)
+Filter: [Zero-shot Image Editing with Reference Imitation](http://arxiv.org/abs/2406.07547v1)
+Filter: [Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs
+  Evaluation, Benchmark, and Arena](http://arxiv.org/abs/2406.07545v1)
+Filter: [Vision Model Pre-training on Interleaved Image-Text Data via Latent
+  Compression Learning](http://arxiv.org/abs/2406.07543v1)
+append_entries: 0
+Finish: 2024-06-13 00:39:37.251065

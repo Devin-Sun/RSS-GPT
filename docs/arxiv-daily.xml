@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Commonsense-T2I Challenge: Can Text-to-Image Generation Models
   Understand Commonsense?</title>
 <link>http://arxiv.org/abs/2406.07546v1</link>
 <guid>http://arxiv.org/abs/2406.07546v1</guid>
 <content:encoded><![CDATA[
-<div> 文本-图像生成；常识推理；评估基准；挑战性数据集；模型分析<br>
-<br>
-挑战性的Commonsense-T2I数据集是一个新颖的任务和基准，用于评估文本-图像生成模型产生符合现实生活常识的能力。数据集由专家手动筛选和标注，提供对模型行为的细粒度分析。研究发现，即使是DALL-E 3模型在Commonsense-T2I上也只能达到48.92%的准确率，而稳定的Diffusion XL模型仅实现24.92%的准确率。实验结果表明，GPT丰富的提示无法解决这一挑战，并进行了详细的分析。Commonsense-T2I旨在成为T2I常识检查的高质量评估基准，促进现实生活图像生成的发展。<br><br>总结: 挑战性的Commonsense-T2I数据集是一个评估文本-图像生成模型的新基准，旨在促进现实生活图像生成的进步。研究发现目前的模型在该数据集上仍存在较大差距，即使是最先进的模型也只能实现有限的准确率。对于GPT-enriched提示也无法解决这一挑战，需要进行更深入的分析和改进。 <div>
+<div> 文本-图像生成；常识推理；评估基准；挑战性数据集；模型分析<br />
+<br />
+挑战性的Commonsense-T2I数据集是一个新颖的任务和基准，用于评估文本-图像生成模型产生符合现实生活常识的能力。数据集由专家手动筛选和标注，提供对模型行为的细粒度分析。研究发现，即使是DALL-E 3模型在Commonsense-T2I上也只能达到48.92%的准确率，而稳定的Diffusion XL模型仅实现24.92%的准确率。实验结果表明，GPT丰富的提示无法解决这一挑战，并进行了详细的分析。Commonsense-T2I旨在成为T2I常识检查的高质量评估基准，促进现实生活图像生成的发展。<br /><br />总结: 挑战性的Commonsense-T2I数据集是一个评估文本-图像生成模型的新基准，旨在促进现实生活图像生成的进步。研究发现目前的模型在该数据集上仍存在较大差距，即使是最先进的模型也只能实现有限的准确率。对于GPT-enriched提示也无法解决这一挑战，需要进行更深入的分析和改进。 <div>
 We present a novel task and benchmark for evaluating the ability of
 text-to-image(T2I) generation models to produce images that fit commonsense in
 real life, which we call Commonsense-T2I. Given two adversarial text prompts
@@ -35,16 +36,15 @@ benchmark for T2I commonsense checking, fostering advancements in real life
 image generation.
 ]]></content:encoded>
 <pubDate>2024-06-11T17:59:48Z</pubDate>
-<pubDate>2024-06-11T17:59:48Z</pubDate>
 </item>
 <item>
 <title>Situational Awareness Matters in 3D Vision Language Reasoning</title>
 <link>http://arxiv.org/abs/2406.07544v1</link>
 <guid>http://arxiv.org/abs/2406.07544v1</guid>
 <content:encoded><![CDATA[
-<div> 3D vision language reasoning, household robots, embodied AI, SIG3D, situational awareness<br>
-<br>
-该研究展示了在3D空间内进行复杂的视觉语言推理任务对于开发家庭机器人和以人为中心的智能AI具有重要意义。作者提出了SIG3D模型，该模型能够自主地在基于语言提示的情境中确定自身位置，并以此为基础回答开放性问题。通过在SQA3D和ScanQA数据集上的实验，发现SIG3D在情境估计和问题回答方面优于现有模型，情境估计准确率提升超过30%。进一步分析验证了模型设计的合理性，探究了视觉和文本标记的不同功能，并突出了在3D问题回答领域中情境意识的重要性。<br><br>总结: 该研究围绕着3D视觉语言推理展开，提出了SIG3D模型以解决情境感知和问题回答的挑战。实验证明SIG3D在这两方面表现优异，突显了情境意识在3D问题回答中的重要性。 <div>
+<div> 3D vision language reasoning, household robots, embodied AI, SIG3D, situational awareness<br />
+<br />
+该研究展示了在3D空间内进行复杂的视觉语言推理任务对于开发家庭机器人和以人为中心的智能AI具有重要意义。作者提出了SIG3D模型，该模型能够自主地在基于语言提示的情境中确定自身位置，并以此为基础回答开放性问题。通过在SQA3D和ScanQA数据集上的实验，发现SIG3D在情境估计和问题回答方面优于现有模型，情境估计准确率提升超过30%。进一步分析验证了模型设计的合理性，探究了视觉和文本标记的不同功能，并突出了在3D问题回答领域中情境意识的重要性。<br /><br />总结: 该研究围绕着3D视觉语言推理展开，提出了SIG3D模型以解决情境感知和问题回答的挑战。实验证明SIG3D在这两方面表现优异，突显了情境意识在3D问题回答中的重要性。 <div>
 Being able to carry out complicated vision language reasoning tasks in 3D
 space represents a significant milestone in developing household robots and
 human-centered embodied AI. In this work, we demonstrate that a critical and
@@ -64,7 +64,6 @@ textual tokens, and highlights the importance of situational awareness in the
 domain of 3D question answering.
 ]]></content:encoded>
 <pubDate>2024-06-11T17:59:45Z</pubDate>
-<pubDate>2024-06-11T17:59:45Z</pubDate>
 </item>
 <item>
 <title>Cognitive Insights Across Languages: Enhancing Multimodal Interview
@@ -72,7 +71,6 @@ domain of 3D question answering.
 <link>http://arxiv.org/abs/2406.07542v1</link>
 <guid>http://arxiv.org/abs/2406.07542v1</guid>
 <content:encoded><![CDATA[
-
 Cognitive decline is a natural process that occurs as individuals age. Early
 diagnosis of anomalous decline is crucial for initiating professional treatment
 that can enhance the quality of life of those affected. To address this issue,
@@ -86,9 +84,7 @@ results. Our approach involves in-depth research to implement various features
 obtained from the proposed modalities.
 ]]></content:encoded>
 <pubDate>2024-06-11T17:59:31Z</pubDate>
-<pubDate>2024-06-11T17:59:31Z</pubDate>
 </item>
-
 <item>
 <title>GaussianCity: Generative Gaussian Splatting for Unbounded 3D City
   Generation</title>
