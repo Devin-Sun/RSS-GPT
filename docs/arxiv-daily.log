@@ -6802,3 +6802,29 @@ Filter: [Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens](http:/
 Filter: [RMem: Restricted Memory Banks Improve Video Object Segmentation](http://arxiv.org/abs/2406.08476v1)
 append_entries: 0
 Finish: 2024-06-14 00:39:30.176642
+------------------------------------------------------
+Started: 2024-06-14 12:16:00.241156
+Existing_entries: 161
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [VideoGPT+: Integrating Image and Video Encoders for Enhanced Video
+  Understanding](http://arxiv.org/abs/2406.09418v1)
+Filter: [An Image is Worth More Than 16x16 Patches: Exploring Transformers on
+  Individual Pixels](http://arxiv.org/abs/2406.09415v1)
+Token length: 1575
+Summarized using GPT-3.5-turbo-1106
+Append: [Alleviating Distortion in Image Generation via Multi-Resolution
+  Diffusion Models](http://arxiv.org/abs/2406.09416v1)
+Filter: [Rethinking Score Distillation as a Bridge Between Image Distributions](http://arxiv.org/abs/2406.09417v1)
+Filter: [Interpreting the Weight Space of Customized Diffusion Models](http://arxiv.org/abs/2406.09413v1)
+Filter: [Depth Anything V2](http://arxiv.org/abs/2406.09414v1)
+Token length: 919
+Summarized using GPT-3.5-turbo-1106
+Append: [Explore the Limits of Omni-modal Pretraining at Scale](http://arxiv.org/abs/2406.09412v1)
+Append: [MuirBench: A Comprehensive Benchmark for Robust Multi-image
+  Understanding](http://arxiv.org/abs/2406.09411v1)
+Filter: [Scene Graph Generation in Large-Size VHR Satellite Imagery: A
+  Large-Scale Dataset and A Context-Aware Approach](http://arxiv.org/abs/2406.09410v1)
+Filter: [CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking
+  with Event Cameras](http://arxiv.org/abs/2406.09409v1)
+append_entries: 3
+Finish: 2024-06-14 12:16:08.202079
