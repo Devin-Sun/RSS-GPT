@@ -6786,3 +6786,19 @@ Filter: [Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens](http:/
 Filter: [RMem: Restricted Memory Banks Improve Video Object Segmentation](http://arxiv.org/abs/2406.08476v1)
 append_entries: 2
 Finish: 2024-06-13 12:16:03.962608
+------------------------------------------------------
+Started: 2024-06-14 00:39:29.203170
+Existing_entries: 161
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ICE-G: Image Conditional Editing of 3D Gaussian Splats](http://arxiv.org/abs/2406.08488v1)
+Filter: [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](http://arxiv.org/abs/2406.08487v2)
+Filter: [On Evaluating Adversarial Robustness of Volumetric Medical Segmentation
+  Models](http://arxiv.org/abs/2406.08486v1)
+Filter: [Enhancing End-to-End Autonomous Driving with Latent World Model](http://arxiv.org/abs/2406.08481v1)
+Filter: [Linear equations with monomial constraints and decision problems in
+  abelian-by-cyclic groups](http://arxiv.org/abs/2406.08480v1)
+Filter: [Real3D: Scaling Up Large Reconstruction Models with Real-World Images](http://arxiv.org/abs/2406.08479v1)
+Filter: [Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens](http://arxiv.org/abs/2406.08477v1)
+Filter: [RMem: Restricted Memory Banks Improve Video Object Segmentation](http://arxiv.org/abs/2406.08476v1)
+append_entries: 0
+Finish: 2024-06-14 00:39:30.176642
