@@ -6834,3 +6834,9 @@ Existing_entries: 164
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-06-15 00:39:31.045597
+------------------------------------------------------
+Started: 2024-06-15 12:15:01.133994
+Existing_entries: 164
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-06-15 12:15:02.576185
