@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Alleviating Distortion in Image Generation via Multi-Resolution
   Diffusion Models</title>
 <link>http://arxiv.org/abs/2406.09416v1</link>
 <guid>http://arxiv.org/abs/2406.09416v1</guid>
 <content:encoded><![CDATA[
-<div> 高清图像生成, 扩散模型, 多分辨率网络, 时间相关层归一化, Transformer架构<br>
-<br>
-扩散模型在高保真图像生成方面非常有效。传统的方法使用卷积U-Net架构，而最近基于Transformer的设计表现出卓越的性能和可扩展性。然而，Transformer架构通过“分块化”输入数据（通过“分块化”）所面临的问题是在于输入标记长度对自注意力操作的二次复杂性方面存在着视觉保真度和计算复杂度之间的权衡。为了解决这一挑战，作者提出了使用DiMR多分辨率网络和TD-LN时间相关层归一化增强扩散模型。他们的方法在类相关的ImageNet生成基准测试中取得了良好的效果，超越了先前的扩散模型，并在ImageNet 256x256和512x512上取得了新的FID分数。 <br><br>总结: <br>本文提出了一种结合了DiMR多分辨率网络和TD-LN时间相关层归一化的增强扩散模型，以应对Transformer架构在保真度和计算复杂度之间的权衡问题。作者的方法在ImageNet生成基准测试中取得了良好的效果，并取得了新的FID分数。 <div>
+<div> 高清图像生成, 扩散模型, 多分辨率网络, 时间相关层归一化, Transformer架构<br />
+<br />
+扩散模型在高保真图像生成方面非常有效。传统的方法使用卷积U-Net架构，而最近基于Transformer的设计表现出卓越的性能和可扩展性。然而，Transformer架构通过“分块化”输入数据（通过“分块化”）所面临的问题是在于输入标记长度对自注意力操作的二次复杂性方面存在着视觉保真度和计算复杂度之间的权衡。为了解决这一挑战，作者提出了使用DiMR多分辨率网络和TD-LN时间相关层归一化增强扩散模型。他们的方法在类相关的ImageNet生成基准测试中取得了良好的效果，超越了先前的扩散模型，并在ImageNet 256x256和512x512上取得了新的FID分数。 <br /><br />总结: <br />本文提出了一种结合了DiMR多分辨率网络和TD-LN时间相关层归一化的增强扩散模型，以应对Transformer架构在保真度和计算复杂度之间的权衡问题。作者的方法在ImageNet生成基准测试中取得了良好的效果，并取得了新的FID分数。 <div>
 This paper presents innovative enhancements to diffusion models by
 integrating a novel multi-resolution network and time-dependent layer
 normalization. Diffusion models have gained prominence for their effectiveness
@@ -37,7 +38,6 @@ outperform prior diffusion models, setting new state-of-the-art FID scores of
 https://qihao067.github.io/projects/DiMR
 ]]></content:encoded>
 <pubDate>2024-06-13T17:59:58Z</pubDate>
-<pubDate>2024-06-13T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Explore the Limits of Omni-modal Pretraining at Scale</title>
@@ -45,7 +45,7 @@ https://qihao067.github.io/projects/DiMR
 <guid>http://arxiv.org/abs/2406.09412v1</guid>
 <content:encoded><![CDATA[
 <div> 多模态智能、预训练、MiCo、性能记录、GitHub
-<br><br>
+<br /><br />
 总结:
 本研究提出了一种名为MiCo的可扩展预训练范式，旨在构建多模态智能。该方法能够在不同的模态和数据量下进行预训练，并在各种任务中展现出显著的能力，包括对10种不同模态的单模态感知基准任务、25种跨模态理解任务以及18种多模态大型语言模型基准任务。我们的模型在性能上建立了37项最新记录。希望本研究能够为全模态智能的发展做出贡献。可以在https://github.com/invictus717/MiCo找到代码和模型。 <div>
 We propose to build omni-modal intelligence, which is capable of
@@ -63,7 +63,6 @@ development of omni-modal intelligence. Code and Models are at
 https://github.com/invictus717/MiCo
 ]]></content:encoded>
 <pubDate>2024-06-13T17:59:53Z</pubDate>
-<pubDate>2024-06-13T17:59:53Z</pubDate>
 </item>
 <item>
 <title>MuirBench: A Comprehensive Benchmark for Robust Multi-image
@@ -71,7 +70,6 @@ https://github.com/invictus717/MiCo
 <link>http://arxiv.org/abs/2406.09411v1</link>
 <guid>http://arxiv.org/abs/2406.09411v1</guid>
 <content:encoded><![CDATA[
-
 We introduce MuirBench, a comprehensive benchmark that focuses on robust
 multi-image understanding capabilities of multimodal LLMs. MuirBench consists
 of 12 diverse multi-image tasks (e.g., scene understanding, ordering) that
@@ -89,9 +87,7 @@ multimodal LLMs that can look beyond a single image, suggesting potential
 pathways for future improvements.
 ]]></content:encoded>
 <pubDate>2024-06-13T17:59:52Z</pubDate>
-<pubDate>2024-06-13T17:59:52Z</pubDate>
 </item>
-
 <item>
 <title>Words Worth a Thousand Pictures: Measuring and Understanding Perceptual
   Variability in Text-to-Image Generation</title>
