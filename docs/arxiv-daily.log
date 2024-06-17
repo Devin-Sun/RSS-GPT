@@ -6880,3 +6880,27 @@ Filter: [CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking
   with Event Cameras](http://arxiv.org/abs/2406.09409v1)
 append_entries: 0
 Finish: 2024-06-17 00:41:41.590501
+------------------------------------------------------
+Started: 2024-06-17 12:16:13.381032
+Existing_entries: 164
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Quantifying Variance in Evaluation Benchmarks](http://arxiv.org/abs/2406.10229v1)
+Filter: [VEGA: Learning Interleaved Image-Text Comprehension in Vision-Language
+  Large Models](http://arxiv.org/abs/2406.10228v1)
+Token length: 1492
+Summarized using GPT-3.5-turbo-1106
+Append: [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](http://arxiv.org/abs/2406.10227v1)
+Filter: [SatDiffMoE: A Mixture of Estimation Method for Satellite Image
+  Super-resolution with Latent Diffusion Models](http://arxiv.org/abs/2406.10225v1)
+Filter: [EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric
+  Foundation Models](http://arxiv.org/abs/2406.10224v1)
+Filter: [Diffusion Synthesizer for Efficient Multilingual Speech to Speech
+  Translation](http://arxiv.org/abs/2406.10223v1)
+Filter: [Short Film Dataset (SFD): A Benchmark for Story-Level Video
+  Understanding](http://arxiv.org/abs/2406.10221v1)
+Filter: [PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting](http://arxiv.org/abs/2406.10219v1)
+Filter: [Semantic Membership Inference Attack against Large Language Models](http://arxiv.org/abs/2406.10218v1)
+Filter: [Regularizing Hidden States Enables Learning Generalizable Reward Model
+  for LLMs](http://arxiv.org/abs/2406.10216v1)
+append_entries: 1
+Finish: 2024-06-17 12:16:20.185130

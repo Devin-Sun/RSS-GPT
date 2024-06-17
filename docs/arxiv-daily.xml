@@ -4,6 +4,38 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VideoGUI: A Benchmark for GUI Automation from Instructional Videos</title>
+<link>http://arxiv.org/abs/2406.10227v1</link>
+<guid>http://arxiv.org/abs/2406.10227v1</guid>
+<content:encoded><![CDATA[
+<div> GUI automation, VideoGUI, multi-modal benchmark, visual-centric tasks, evaluation metrics
+<br><br>本研究引入了VideoGUI，这是一个新颖的多模态基准，旨在评估GUI助手在以视觉为中心的GUI任务上的表现。该基准源自高质量的网络教学视频，重点关注涉及专业和新颖软件（例如Adobe Photoshop或Stable Diffusion WebUI）以及复杂活动（例如视频编辑）的任务。VideoGUI通过分层过程评估GUI助手，允许识别它们可能失败的具体级别：（i）高级规划：从视觉条件重构程序子任务，而无需语言描述；（ii）中级规划：根据视觉状态（即屏幕截图）和目标生成精确操作序列；（iii）原子操作执行：执行诸如准确点击指定元素之类的特定操作。对于每个级别，我们设计了跨个体维度的评估指标，以提供清晰的信号，例如在原子操作执行中点击、拖动、输入和滚动的个体表现。我们在VideoGUI上的评估显示，即使是当前最先进的大型多模态模型GPT4o在视觉为中心的GUI任务上表现不佳，特别是在高级规划方面。
+<br><br>总结: 本研究介绍了VideoGUI基准，其通过多层次过程评估GUI助手的性能，特别关注视觉为中心的GUI任务。该基准涵盖了复杂软件和活动，为评估提供了详细的指标，揭示了当前先进模型在面对视觉为中心的GUI任务时的不足之处。 <div>
+Graphical User Interface (GUI) automation holds significant promise for
+enhancing human productivity by assisting with computer tasks. Existing task
+formulations primarily focus on simple tasks that can be specified by a single,
+language-only instruction, such as "Insert a new slide." In this work, we
+introduce VideoGUI, a novel multi-modal benchmark designed to evaluate GUI
+assistants on visual-centric GUI tasks. Sourced from high-quality web
+instructional videos, our benchmark focuses on tasks involving professional and
+novel software (e.g., Adobe Photoshop or Stable Diffusion WebUI) and complex
+activities (e.g., video editing). VideoGUI evaluates GUI assistants through a
+hierarchical process, allowing for identification of the specific levels at
+which they may fail: (i) high-level planning: reconstruct procedural subtasks
+from visual conditions without language descriptions; (ii) middle-level
+planning: generate sequences of precise action narrations based on visual state
+(i.e., screenshot) and goals; (iii) atomic action execution: perform specific
+actions such as accurately clicking designated elements. For each level, we
+design evaluation metrics across individual dimensions to provide clear
+signals, such as individual performance in clicking, dragging, typing, and
+scrolling for atomic action execution. Our evaluation on VideoGUI reveals that
+even the SoTA large multimodal model GPT4o performs poorly on visual-centric
+GUI tasks, especially for high-level planning.
+]]></content:encoded>
+<pubDate>2024-06-14T17:59:08Z</pubDate>
+<pubDate>2024-06-14T17:59:08Z</pubDate>
+</item>
 
 <item>
 <title>Alleviating Distortion in Image Generation via Multi-Resolution
