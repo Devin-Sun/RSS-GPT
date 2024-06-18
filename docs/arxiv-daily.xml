@@ -4,6 +4,126 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Autoregressive Image Generation without Vector Quantization</title>
+<link>http://arxiv.org/abs/2406.11838v1</link>
+<guid>http://arxiv.org/abs/2406.11838v1</guid>
+<content:encoded><![CDATA[
+<div> Diffusion, Autoregressive modeling, Continuous-valued space, Diffusion Loss function, Image generation
+总结: 本文提出了一种在连续数值空间中使用扩散过程来建模每个标记概率分布的方法，从而消除了离散值标记器的需求。这种方法在标准自回归模型和广义掩模自回归（MAR）变体中取得了良好的效果，并且在序列建模方面具有速度优势。作者希望这项工作能够激发在其他连续数值领域和应用中使用自回归生成的动力。 <div>
+Conventional wisdom holds that autoregressive models for image generation are
+typically accompanied by vector-quantized tokens. We observe that while a
+discrete-valued space can facilitate representing a categorical distribution,
+it is not a necessity for autoregressive modeling. In this work, we propose to
+model the per-token probability distribution using a diffusion procedure, which
+allows us to apply autoregressive models in a continuous-valued space. Rather
+than using categorical cross-entropy loss, we define a Diffusion Loss function
+to model the per-token probability. This approach eliminates the need for
+discrete-valued tokenizers. We evaluate its effectiveness across a wide range
+of cases, including standard autoregressive models and generalized masked
+autoregressive (MAR) variants. By removing vector quantization, our image
+generator achieves strong results while enjoying the speed advantage of
+sequence modeling. We hope this work will motivate the use of autoregressive
+generation in other continuous-valued domains and applications.
+]]></content:encoded>
+<pubDate>2024-06-17T17:59:58Z</pubDate>
+<pubDate>2024-06-17T17:59:58Z</pubDate>
+</item>
+<item>
+<title>mDPO: Conditional Preference Optimization for Multimodal Large Language
+  Models</title>
+<link>http://arxiv.org/abs/2406.11839v1</link>
+<guid>http://arxiv.org/abs/2406.11839v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 多模态，偏好优化，大语言模型，mDPO，奖励锚定<br>
+<br>
+在多模态情景下，直接偏好优化（DPO）已被证明是对齐大语言模型（LLM）的一个有效方法。最近的研究尝试将DPO应用于多模态场景，但发现难以实现一致的改进。通过一项比较实验，我们确定了多模态偏好优化中的无条件偏好问题，即模型忽视了图像条件。为了解决这个问题，我们提出了mDPO，这是一个多模态DPO目标，通过优化图像偏好来防止语言偏好的过度优先。此外，我们引入了奖励锚定，强制奖励对于所选的响应保持为正值，从而避免相对偏好优化中降低其可能性的问题。在两个不同大小的多模态LLM和三个广泛使用的基准测试上的实验证明，mDPO有效解决了多模态偏好优化中的无条件偏好问题，并显著提升了模型性能，特别是减少了臆想现象。<br><br>总结:多模态直接偏好优化（DPO）有效解决了无条件偏好问题，通过优化图像偏好防止语言偏好的过度优先。引入奖励锚定避免了相对偏好优化中降低其可能性的问题。实验表明mDPO显著提升了模型性能，特别是在减少臆想现象方面。 <div>
+Direct preference optimization (DPO) has shown to be an effective method for
+large language model (LLM) alignment. Recent works have attempted to apply DPO
+to multimodal scenarios but have found it challenging to achieve consistent
+improvement. Through a comparative experiment, we identify the unconditional
+preference problem in multimodal preference optimization, where the model
+overlooks the image condition. To address this problem, we propose mDPO, a
+multimodal DPO objective that prevents the over-prioritization of language-only
+preferences by also optimizing image preference. Moreover, we introduce a
+reward anchor that forces the reward to be positive for chosen responses,
+thereby avoiding the decrease in their likelihood -- an intrinsic problem of
+relative preference optimization. Experiments on two multimodal LLMs of
+different sizes and three widely used benchmarks demonstrate that mDPO
+effectively addresses the unconditional preference problem in multimodal
+preference optimization and significantly improves model performance,
+particularly in reducing hallucination.
+]]></content:encoded>
+<pubDate>2024-06-17T17:59:58Z</pubDate>
+<pubDate>2024-06-17T17:59:58Z</pubDate>
+</item>
+<item>
+<title>Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of
+  99%</title>
+<link>http://arxiv.org/abs/2406.11837v1</link>
+<guid>http://arxiv.org/abs/2406.11837v1</guid>
+<content:encoded><![CDATA[
+
+In the realm of image quantization exemplified by VQGAN, the process encodes
+images into discrete tokens drawn from a codebook with a predefined size.
+Recent advancements, particularly with LLAMA 3, reveal that enlarging the
+codebook significantly enhances model performance. However, VQGAN and its
+derivatives, such as VQGAN-FC (Factorized Codes) and VQGAN-EMA, continue to
+grapple with challenges related to expanding the codebook size and enhancing
+codebook utilization. For instance, VQGAN-FC is restricted to learning a
+codebook with a maximum size of 16,384, maintaining a typically low utilization
+rate of less than 12% on ImageNet. In this work, we propose a novel image
+quantization model named VQGAN-LC (Large Codebook), which extends the codebook
+size to 100,000, achieving an utilization rate exceeding 99%. Unlike previous
+methods that optimize each codebook entry, our approach begins with a codebook
+initialized with 100,000 features extracted by a pre-trained vision encoder.
+Optimization then focuses on training a projector that aligns the entire
+codebook with the feature distributions of the encoder in VQGAN-LC. We
+demonstrate the superior performance of our model over its counterparts across
+a variety of tasks, including image reconstruction, image classification,
+auto-regressive image generation using GPT, and image creation with diffusion-
+and flow-based generative models. Code and models are available at
+https://github.com/zh460045050/VQGAN-LC.
+]]></content:encoded>
+<pubDate>2024-06-17T17:59:57Z</pubDate>
+<pubDate>2024-06-17T17:59:57Z</pubDate>
+</item>
+<item>
+<title>Exploring the Role of Large Language Models in Prompt Encoding for
+  Diffusion Models</title>
+<link>http://arxiv.org/abs/2406.11831v1</link>
+<guid>http://arxiv.org/abs/2406.11831v1</guid>
+<content:encoded><![CDATA[
+
+Large language models (LLMs) based on decoder-only transformers have
+demonstrated superior text understanding capabilities compared to CLIP and
+T5-series models. However, the paradigm for utilizing current advanced LLMs in
+text-to-image diffusion models remains to be explored. We observed an unusual
+phenomenon: directly using a large language model as the prompt encoder
+significantly degrades the prompt-following ability in image generation. We
+identified two main obstacles behind this issue. One is the misalignment
+between the next token prediction training in LLM and the requirement for
+discriminative prompt features in diffusion models. The other is the intrinsic
+positional bias introduced by the decoder-only architecture. To deal with this
+issue, we propose a novel framework to fully harness the capabilities of LLMs.
+Through the carefully designed usage guidance, we effectively enhance the text
+representation capability for prompt encoding and eliminate its inherent
+positional bias. This allows us to integrate state-of-the-art LLMs into the
+text-to-image generation model flexibly. Furthermore, we also provide an
+effective manner to fuse multiple LLMs into our framework. Considering the
+excellent performance and scaling capabilities demonstrated by the transformer
+architecture, we further design an LLM-Infused Diffusion Transformer (LI-DiT)
+based on the framework. We conduct extensive experiments to validate LI-DiT
+across model size and data size. Benefiting from the inherent ability of the
+LLMs and our innovative designs, the prompt understanding performance of LI-DiT
+easily surpasses state-of-the-art open-source models as well as mainstream
+closed-source commercial models including Stable Diffusion 3, DALL-E 3, and
+Midjourney V6. The powerful LI-DiT-10B will be available after further
+optimization and security checks.
+]]></content:encoded>
+<pubDate>2024-06-17T17:59:43Z</pubDate>
+<pubDate>2024-06-17T17:59:43Z</pubDate>
+</item>
 
 <item>
 <title>VideoGUI: A Benchmark for GUI Automation from Instructional Videos</title>
