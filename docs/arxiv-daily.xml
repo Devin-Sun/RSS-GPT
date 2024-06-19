@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Autoregressive Image Generation without Vector Quantization</title>
 <link>http://arxiv.org/abs/2406.11838v1</link>
@@ -27,7 +28,6 @@ sequence modeling. We hope this work will motivate the use of autoregressive
 generation in other continuous-valued domains and applications.
 ]]></content:encoded>
 <pubDate>2024-06-17T17:59:58Z</pubDate>
-<pubDate>2024-06-17T17:59:58Z</pubDate>
 </item>
 <item>
 <title>mDPO: Conditional Preference Optimization for Multimodal Large Language
@@ -35,9 +35,9 @@ generation in other continuous-valued domains and applications.
 <link>http://arxiv.org/abs/2406.11839v1</link>
 <guid>http://arxiv.org/abs/2406.11839v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 多模态，偏好优化，大语言模型，mDPO，奖励锚定<br>
-<br>
-在多模态情景下，直接偏好优化（DPO）已被证明是对齐大语言模型（LLM）的一个有效方法。最近的研究尝试将DPO应用于多模态场景，但发现难以实现一致的改进。通过一项比较实验，我们确定了多模态偏好优化中的无条件偏好问题，即模型忽视了图像条件。为了解决这个问题，我们提出了mDPO，这是一个多模态DPO目标，通过优化图像偏好来防止语言偏好的过度优先。此外，我们引入了奖励锚定，强制奖励对于所选的响应保持为正值，从而避免相对偏好优化中降低其可能性的问题。在两个不同大小的多模态LLM和三个广泛使用的基准测试上的实验证明，mDPO有效解决了多模态偏好优化中的无条件偏好问题，并显著提升了模型性能，特别是减少了臆想现象。<br><br>总结:多模态直接偏好优化（DPO）有效解决了无条件偏好问题，通过优化图像偏好防止语言偏好的过度优先。引入奖励锚定避免了相对偏好优化中降低其可能性的问题。实验表明mDPO显著提升了模型性能，特别是在减少臆想现象方面。 <div>
+<div> 关键词: 多模态，偏好优化，大语言模型，mDPO，奖励锚定<br />
+<br />
+在多模态情景下，直接偏好优化（DPO）已被证明是对齐大语言模型（LLM）的一个有效方法。最近的研究尝试将DPO应用于多模态场景，但发现难以实现一致的改进。通过一项比较实验，我们确定了多模态偏好优化中的无条件偏好问题，即模型忽视了图像条件。为了解决这个问题，我们提出了mDPO，这是一个多模态DPO目标，通过优化图像偏好来防止语言偏好的过度优先。此外，我们引入了奖励锚定，强制奖励对于所选的响应保持为正值，从而避免相对偏好优化中降低其可能性的问题。在两个不同大小的多模态LLM和三个广泛使用的基准测试上的实验证明，mDPO有效解决了多模态偏好优化中的无条件偏好问题，并显著提升了模型性能，特别是减少了臆想现象。<br /><br />总结:多模态直接偏好优化（DPO）有效解决了无条件偏好问题，通过优化图像偏好防止语言偏好的过度优先。引入奖励锚定避免了相对偏好优化中降低其可能性的问题。实验表明mDPO显著提升了模型性能，特别是在减少臆想现象方面。 <div>
 Direct preference optimization (DPO) has shown to be an effective method for
 large language model (LLM) alignment. Recent works have attempted to apply DPO
 to multimodal scenarios but have found it challenging to achieve consistent
@@ -55,7 +55,6 @@ preference optimization and significantly improves model performance,
 particularly in reducing hallucination.
 ]]></content:encoded>
 <pubDate>2024-06-17T17:59:58Z</pubDate>
-<pubDate>2024-06-17T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of
@@ -63,7 +62,6 @@ particularly in reducing hallucination.
 <link>http://arxiv.org/abs/2406.11837v1</link>
 <guid>http://arxiv.org/abs/2406.11837v1</guid>
 <content:encoded><![CDATA[
-
 In the realm of image quantization exemplified by VQGAN, the process encodes
 images into discrete tokens drawn from a codebook with a predefined size.
 Recent advancements, particularly with LLAMA 3, reveal that enlarging the
@@ -86,7 +84,6 @@ and flow-based generative models. Code and models are available at
 https://github.com/zh460045050/VQGAN-LC.
 ]]></content:encoded>
 <pubDate>2024-06-17T17:59:57Z</pubDate>
-<pubDate>2024-06-17T17:59:57Z</pubDate>
 </item>
 <item>
 <title>Exploring the Role of Large Language Models in Prompt Encoding for
@@ -94,7 +91,6 @@ https://github.com/zh460045050/VQGAN-LC.
 <link>http://arxiv.org/abs/2406.11831v1</link>
 <guid>http://arxiv.org/abs/2406.11831v1</guid>
 <content:encoded><![CDATA[
-
 Large language models (LLMs) based on decoder-only transformers have
 demonstrated superior text understanding capabilities compared to CLIP and
 T5-series models. However, the paradigm for utilizing current advanced LLMs in
@@ -122,9 +118,7 @@ Midjourney V6. The powerful LI-DiT-10B will be available after further
 optimization and security checks.
 ]]></content:encoded>
 <pubDate>2024-06-17T17:59:43Z</pubDate>
-<pubDate>2024-06-17T17:59:43Z</pubDate>
 </item>
-
 <item>
 <title>VideoGUI: A Benchmark for GUI Automation from Instructional Videos</title>
 <link>http://arxiv.org/abs/2406.10227v1</link>
