@@ -6964,3 +6964,26 @@ Filter: [Unveiling Encoder-Free Vision-Language Models](http://arxiv.org/abs/240
 Filter: [Language Modeling with Editable External Knowledge](http://arxiv.org/abs/2406.11830v1)
 append_entries: 0
 Finish: 2024-06-19 00:40:16.231304
+------------------------------------------------------
+Started: 2024-06-19 12:15:57.862094
+Existing_entries: 169
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective
+  Distillation and Unlabeled Data Augmentation](http://arxiv.org/abs/2406.12849v1)
+Filter: [ChangeViT: Unleashing Plain Vision Transformers for Change Detection](http://arxiv.org/abs/2406.12847v1)
+Token length: 1368
+Summarized using GPT-3.5-turbo-1106
+Append: [DrVideo: Document Retrieval Based Long Video Understanding](http://arxiv.org/abs/2406.12846v1)
+Filter: [Interpretable Preferences via Multi-Objective Reward Modeling and
+  Mixture-of-Experts](http://arxiv.org/abs/2406.12845v1)
+Token length: 1116
+Summarized using GPT-3.5-turbo-1106
+Append: [Synergizing Foundation Models and Federated Learning: A Survey](http://arxiv.org/abs/2406.12844v1)
+Append: [Can Go AIs be adversarially robust?](http://arxiv.org/abs/2406.12843v1)
+Filter: [A Characterization of Semi-Involutory MDS Matrices](http://arxiv.org/abs/2406.12842v1)
+Filter: [Demystifying Higher-Order Graph Neural Networks](http://arxiv.org/abs/2406.12841v1)
+Filter: [Evaluating the design space of diffusion-based generative models](http://arxiv.org/abs/2406.12839v1)
+Filter: [Towards an Automatic Framework for Solving Optimization Problems with
+  Quantum Computers](http://arxiv.org/abs/2406.12840v1)
+append_entries: 3
+Finish: 2024-06-19 12:16:04.967685
