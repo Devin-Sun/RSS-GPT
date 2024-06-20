@@ -4,12 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>DrVideo: Document Retrieval Based Long Video Understanding</title>
 <link>http://arxiv.org/abs/2406.12846v1</link>
 <guid>http://arxiv.org/abs/2406.12846v1</guid>
 <content:encoded><![CDATA[
-<div> 长视频理解，document-retrieval-based system, large language models, agent-based iterative loop, 实验证实方法有效。<br><br>长视频理解在现有方法中存在挑战，难以定位关键信息和进行长距离推理。为了解决这一问题，研究人员提出了DrVideo，这是一个基于文档检索的系统，旨在利用大型语言模型的力量。具体来说，DrVideo将长视频转换为基于文本的长文档，以便最初检索关键帧并增加这些帧的信息。随后，它采用基于代理的迭代循环不断搜索缺失信息，增加相关数据，并一旦收集到足够的与问题相关的信息，就以链式思维的方式提供最终预测。对长视频基准进行的实验证实了该方法的有效性。DrVideo在EgoSchema基准（3分钟）上的准确率高出3.8，MovieChat-1K break模式上高出17.9，在MovieChat-1K全局模式（10分钟）上高出38.0，在LLama-Vid QA数据集（超过60分钟）上高出30.2。 <br><br>总结: 该研究提出了DrVideo系统，利用大型语言模型将长视频转换为文本以进行理解，证实其在长视频理解任务中的有效性。 <div>
+<div> 长视频理解，document-retrieval-based system, large language models, agent-based iterative loop, 实验证实方法有效。<br /><br />长视频理解在现有方法中存在挑战，难以定位关键信息和进行长距离推理。为了解决这一问题，研究人员提出了DrVideo，这是一个基于文档检索的系统，旨在利用大型语言模型的力量。具体来说，DrVideo将长视频转换为基于文本的长文档，以便最初检索关键帧并增加这些帧的信息。随后，它采用基于代理的迭代循环不断搜索缺失信息，增加相关数据，并一旦收集到足够的与问题相关的信息，就以链式思维的方式提供最终预测。对长视频基准进行的实验证实了该方法的有效性。DrVideo在EgoSchema基准（3分钟）上的准确率高出3.8，MovieChat-1K break模式上高出17.9，在MovieChat-1K全局模式（10分钟）上高出38.0，在LLama-Vid QA数据集（超过60分钟）上高出30.2。 <br /><br />总结: 该研究提出了DrVideo系统，利用大型语言模型将长视频转换为文本以进行理解，证实其在长视频理解任务中的有效性。 <div>
 Existing methods for long video understanding primarily focus on videos only
 lasting tens of seconds, with limited exploration of techniques for handling
 longer videos. The increased number of frames in longer videos presents two
@@ -30,7 +31,6 @@ minutes), +17.9 in MovieChat-1K break mode, +38.0 in MovieChat-1K global mode
 (10 minutes), and +30.2 on the LLama-Vid QA dataset (over 60 minutes).
 ]]></content:encoded>
 <pubDate>2024-06-18T17:59:03Z</pubDate>
-<pubDate>2024-06-18T17:59:03Z</pubDate>
 </item>
 <item>
 <title>Synergizing Foundation Models and Federated Learning: A Survey</title>
@@ -38,8 +38,8 @@ minutes), +17.9 in MovieChat-1K break mode, +38.0 in MovieChat-1K global mode
 <guid>http://arxiv.org/abs/2406.12844v1</guid>
 <content:encoded><![CDATA[
 <div> 关键词: Foundation Models, Federated Learning, 数据隐私, 协作学习, 应用领域
-<br>
-总结:<br>
+<br />
+总结:<br />
 本文主要讨论了基金会模型（FMs）和联邦学习（FL）的潜力和挑战。FMs在预训练阶段需要大量的高质量数据，而FL是一种协作学习范式，可以突破数据可用性的障碍。通过FL，FMs可以定制和适应各种领域特定任务，同时保护数据隐私。文章还总结了核心技术、未来方向和应用，并提供了一个关于FM-FL的定期更新的文集。 <div>
 The recent development of Foundation Models (FMs), represented by large
 language models, vision transformers, and multimodal models, has been making a
@@ -58,14 +58,12 @@ directions, and applications. A periodically updated paper collection on FM-FL
 is available at https://github.com/lishenghui/awesome-fm-fl.
 ]]></content:encoded>
 <pubDate>2024-06-18T17:58:09Z</pubDate>
-<pubDate>2024-06-18T17:58:09Z</pubDate>
 </item>
 <item>
 <title>Can Go AIs be adversarially robust?</title>
 <link>http://arxiv.org/abs/2406.12843v1</link>
 <guid>http://arxiv.org/abs/2406.12843v1</guid>
 <content:encoded><![CDATA[
-
 Prior work found that superhuman Go AIs like KataGo can be defeated by simple
 adversarial strategies. In this paper, we study if simple defenses can improve
 KataGo's worst-case performance. We test three natural defenses: adversarial
@@ -80,9 +78,7 @@ domains such as Go. For interactive examples of attacks and a link to our
 codebase, see https://goattack.far.ai.
 ]]></content:encoded>
 <pubDate>2024-06-18T17:57:49Z</pubDate>
-<pubDate>2024-06-18T17:57:49Z</pubDate>
 </item>
-
 <item>
 <title>Autoregressive Image Generation without Vector Quantization</title>
 <link>http://arxiv.org/abs/2406.11838v1</link>
