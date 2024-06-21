@@ -7035,3 +7035,30 @@ Filter: [Towards an Automatic Framework for Solving Optimization Problems with
   Quantum Computers](http://arxiv.org/abs/2406.12840v1)
 append_entries: 0
 Finish: 2024-06-21 00:39:22.282417
+------------------------------------------------------
+Started: 2024-06-21 12:15:12.466719
+Existing_entries: 172
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](http://arxiv.org/abs/2406.14563v1)
+Token length: 1481
+Summarized using GPT-3.5-turbo-1106
+Append: [Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities](http://arxiv.org/abs/2406.14562v1)
+Filter: [How to Compute the Probability of a Word](http://arxiv.org/abs/2406.14561v1)
+Filter: [Disentangled Representation Learning for Environment-agnostic Speaker
+  Recognition](http://arxiv.org/abs/2406.14559v1)
+Token length: 1594
+Summarized using GPT-3.5-turbo-1106
+Append: [CooHOI: Learning Cooperative Human-Object Interaction with Manipulated
+  Object Dynamics](http://arxiv.org/abs/2406.14558v1)
+Filter: [Generalized upwind summation-by-parts operators and their application to
+  nodal discontinuous Galerkin methods](http://arxiv.org/abs/2406.14557v1)
+Filter: [Asynchronous Large Language Model Enhanced Planner for Autonomous
+  Driving](http://arxiv.org/abs/2406.14556v1)
+Append: [A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
+  Models](http://arxiv.org/abs/2406.14555v1)
+Filter: [xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned
+  MT Evaluation Metrics](http://arxiv.org/abs/2406.14553v1)
+Filter: [Advancing Fine-Grained Classification by Structure and Subject
+  Preserving Augmentation](http://arxiv.org/abs/2406.14551v1)
+append_entries: 3
+Finish: 2024-06-21 12:15:22.241047
