@@ -7080,3 +7080,21 @@ Filter: [Advancing Fine-Grained Classification by Structure and Subject
   Preserving Augmentation](http://arxiv.org/abs/2406.14551v1)
 append_entries: 0
 Finish: 2024-06-22 00:39:03.298846
+------------------------------------------------------
+Started: 2024-06-22 12:14:23.994210
+Existing_entries: 175
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](http://arxiv.org/abs/2406.14563v1)
+Filter: [How to Compute the Probability of a Word](http://arxiv.org/abs/2406.14561v1)
+Filter: [Disentangled Representation Learning for Environment-agnostic Speaker
+  Recognition](http://arxiv.org/abs/2406.14559v1)
+Filter: [Generalized upwind summation-by-parts operators and their application to
+  nodal discontinuous Galerkin methods](http://arxiv.org/abs/2406.14557v1)
+Filter: [Asynchronous Large Language Model Enhanced Planner for Autonomous
+  Driving](http://arxiv.org/abs/2406.14556v1)
+Filter: [xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned
+  MT Evaluation Metrics](http://arxiv.org/abs/2406.14553v1)
+Filter: [Advancing Fine-Grained Classification by Structure and Subject
+  Preserving Augmentation](http://arxiv.org/abs/2406.14551v1)
+append_entries: 0
+Finish: 2024-06-22 12:14:24.799585
