@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities</title>
 <link>http://arxiv.org/abs/2406.14562v1</link>
 <guid>http://arxiv.org/abs/2406.14562v1</guid>
 <content:encoded><![CDATA[
-<div> 多模态大型语言模型、视觉推理、白板思维提示、结果、分析<br>
-总结:<br>
+<div> 多模态大型语言模型、视觉推理、白板思维提示、结果、分析<br />
+总结:<br />
 这篇论文介绍了一种简单的方法，即白板思维提示，用于在多模态大型语言模型中解锁视觉推理能力。通过为模型提供一个“白板”，让其将推理步骤以图像的形式展示，然后将这些图像返回给模型进行进一步处理。该方法在四项涉及视觉和空间推理的自然语言任务中取得了最先进的结果。论文还探讨了该技术成功的领域以及错误的来源。白板思维提示能够显著提高模型的准确性，而传统的“链式思维”方法在某些情况下表现不佳。  <div>
 When presented with questions involving visual thinking, humans naturally
 switch reasoning modalities, often forming mental images or drawing visual
@@ -34,7 +35,6 @@ settings. We present a detailed exploration of where the technique succeeds as
 well as its sources of error.
 ]]></content:encoded>
 <pubDate>2024-06-20T17:59:45Z</pubDate>
-<pubDate>2024-06-20T17:59:45Z</pubDate>
 </item>
 <item>
 <title>CooHOI: Learning Cooperative Human-Object Interaction with Manipulated
@@ -44,7 +44,7 @@ well as its sources of error.
 <content:encoded><![CDATA[
 <div> 多人合作，物体运输，学习范式，CooHOI框架，AMP框架
 
-多年来，由于大规模动作捕捉数据的可用性和强化学习方法的应用，人形控制取得了显著进展。然而，许多现实世界的任务，如移动大型和沉重的家具，需要多角色协作。由于多角色协作数据的稀缺性和多代理学习所带来的效率挑战，这些任务不能简单地使用为单一代理场景设计的训练范式来解决。在本文中，我们介绍了合作人物物体交互（CooHOI）框架，这是一个新颖的框架，通过两阶段学习范式来解决多人物体运输问题：个体技能获取和随后的转移。最初，一个单一代理使用对抗性运动先验（AMP）框架学习执行任务。随后，代理通过考虑并行训练中操纵对象的共享动力学来学习与其他人合作，使用多代理近端策略优化（MAPPO）方法。当一个代理与对象互动，导致特定物体动力学变化时，其他代理学习做出适当的响应，从而实现了队友之间的隐式沟通和协调。与先前依赖基于跟踪的方法进行多字符HOI的方法不同，CooHOI本质上是高效的，不依赖于多角色交互的动作捕捉数据，并且可以无缝地扩展到包括更多参与者和广泛的对象类型。<br><br>总结: 该研究介绍了CoоHOI框架，通过AMP框架进行个体技能获取，随后使用MAPPO方法进行多角色协作学习。该框架不依赖于动作捕捉数据，能够实现隐式沟通和协调。 <div>
+多年来，由于大规模动作捕捉数据的可用性和强化学习方法的应用，人形控制取得了显著进展。然而，许多现实世界的任务，如移动大型和沉重的家具，需要多角色协作。由于多角色协作数据的稀缺性和多代理学习所带来的效率挑战，这些任务不能简单地使用为单一代理场景设计的训练范式来解决。在本文中，我们介绍了合作人物物体交互（CooHOI）框架，这是一个新颖的框架，通过两阶段学习范式来解决多人物体运输问题：个体技能获取和随后的转移。最初，一个单一代理使用对抗性运动先验（AMP）框架学习执行任务。随后，代理通过考虑并行训练中操纵对象的共享动力学来学习与其他人合作，使用多代理近端策略优化（MAPPO）方法。当一个代理与对象互动，导致特定物体动力学变化时，其他代理学习做出适当的响应，从而实现了队友之间的隐式沟通和协调。与先前依赖基于跟踪的方法进行多字符HOI的方法不同，CooHOI本质上是高效的，不依赖于多角色交互的动作捕捉数据，并且可以无缝地扩展到包括更多参与者和广泛的对象类型。<br /><br />总结: 该研究介绍了CoоHOI框架，通过AMP框架进行个体技能获取，随后使用MAPPO方法进行多角色协作学习。该框架不依赖于动作捕捉数据，能够实现隐式沟通和协调。 <div>
 Recent years have seen significant advancements in humanoid control, largely
 due to the availability of large-scale motion capture data and the application
 of reinforcement learning methodologies. However, many real-world tasks, such
@@ -69,7 +69,6 @@ seamlessly extended to include more participants and a wide range of object
 types
 ]]></content:encoded>
 <pubDate>2024-06-20T17:59:22Z</pubDate>
-<pubDate>2024-06-20T17:59:22Z</pubDate>
 </item>
 <item>
 <title>A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion
@@ -77,7 +76,6 @@ types
 <link>http://arxiv.org/abs/2406.14555v1</link>
 <guid>http://arxiv.org/abs/2406.14555v1</guid>
 <content:encoded><![CDATA[
-
 Image editing aims to edit the given synthetic or real image to meet the
 specific requirements from users. It is widely studied in recent years as a
 promising and challenging field of Artificial Intelligence Generative Content
@@ -105,9 +103,7 @@ keep tracing related works at
 https://github.com/xinchengshuai/Awesome-Image-Editing.
 ]]></content:encoded>
 <pubDate>2024-06-20T17:58:52Z</pubDate>
-<pubDate>2024-06-20T17:58:52Z</pubDate>
 </item>
-
 <item>
 <title>DrVideo: Document Retrieval Based Long Video Understanding</title>
 <link>http://arxiv.org/abs/2406.12846v1</link>
