@@ -7152,3 +7152,29 @@ Filter: [Advancing Fine-Grained Classification by Structure and Subject
   Preserving Augmentation](http://arxiv.org/abs/2406.14551v2)
 append_entries: 0
 Finish: 2024-06-24 00:41:32.005363
+------------------------------------------------------
+Started: 2024-06-24 12:16:22.048039
+Existing_entries: 175
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [A SMART Mnemonic Sounds like "Glue Tonic": Mixing LLMs with Student
+  Feedback to Make Mnemonic Learning Stick](http://arxiv.org/abs/2406.15352v1)
+Filter: [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and
+  Benchmarking](http://arxiv.org/abs/2406.15349v1)
+Filter: [Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous
+  Decentralized Federated Learning Approach](http://arxiv.org/abs/2406.15346v1)
+Token length: 1553
+Summarized using GPT-3.5-turbo-1106
+Append: [GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene
+  Expression Data in Alignment with Bioinformaticians](http://arxiv.org/abs/2406.15341v1)
+Filter: [Full-Scale Indexing and Semantic Annotation of CT Imaging: Boosting
+  FAIRness](http://arxiv.org/abs/2406.15340v1)
+Filter: [Image Conductor: Precision Control for Interactive Video Synthesis](http://arxiv.org/abs/2406.15339v1)
+Filter: [Keystroke Dynamics Against Academic Dishonesty in the Age of LLMs](http://arxiv.org/abs/2406.15335v1)
+Token length: 1174
+Summarized using GPT-3.5-turbo-1106
+Append: [Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning](http://arxiv.org/abs/2406.15334v1)
+Append: [GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D
+  Gaussian Generation](http://arxiv.org/abs/2406.15333v1)
+Filter: [Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild](http://arxiv.org/abs/2406.15331v1)
+append_entries: 3
+Finish: 2024-06-24 12:16:30.501890
