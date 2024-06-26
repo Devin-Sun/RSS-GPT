@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Revisiting Referring Expression Comprehension Evaluation in the Era of
   Large Multimodal Models</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: Referring expression comprehension, large multimodal models, benchmarks, labeling error rates, Ref-L4
 
-总结:<br><br>这篇文章主要介绍了针对文本描述定位目标实例的Referring expression comprehension (REC)技术。最近，大型多模态模型（LMMs）如CogVLM的出现推动了REC技术的进展，取得了92.44%的准确率。然而，研究质疑现有的基准数据集如RefCOCO，RefCOCO+和RefCOCOg是否能充分评估LMMs的能力。作者通过对这些基准数据集进行手动检查，发现了高达14%到24%的标注错误率，这削弱了评估的真实性。为了解决这一问题，他们排除了问题实例，并重新评估了多个能够处理REC任务的LMMs，显示出显著的准确率提高，突显了基准数据集噪音的影响。作为回应，他们推出了Ref-L4，这是一个专门设计用于评估现代REC模型的全面基准数据集，具有大样本量、多样的物体类别、长的指代表达和丰富的词汇量等特点。他们在Ref-L4上评估了总共24个大型模型，并提供了有价值的见解。原始的RefCOCO，RefCOCO+和RefCOCOg数据集的清理版本，以及他们的Ref-L4基准数据集和评估代码，均可在https://github.com/JierunChen/Ref-L4上获得。 <div>
+总结:<br /><br />这篇文章主要介绍了针对文本描述定位目标实例的Referring expression comprehension (REC)技术。最近，大型多模态模型（LMMs）如CogVLM的出现推动了REC技术的进展，取得了92.44%的准确率。然而，研究质疑现有的基准数据集如RefCOCO，RefCOCO+和RefCOCOg是否能充分评估LMMs的能力。作者通过对这些基准数据集进行手动检查，发现了高达14%到24%的标注错误率，这削弱了评估的真实性。为了解决这一问题，他们排除了问题实例，并重新评估了多个能够处理REC任务的LMMs，显示出显著的准确率提高，突显了基准数据集噪音的影响。作为回应，他们推出了Ref-L4，这是一个专门设计用于评估现代REC模型的全面基准数据集，具有大样本量、多样的物体类别、长的指代表达和丰富的词汇量等特点。他们在Ref-L4上评估了总共24个大型模型，并提供了有价值的见解。原始的RefCOCO，RefCOCO+和RefCOCOg数据集的清理版本，以及他们的Ref-L4基准数据集和评估代码，均可在https://github.com/JierunChen/Ref-L4上获得。 <div>
 Referring expression comprehension (REC) involves localizing a target
 instance based on a textual description. Recent advancements in REC have been
 driven by large multimodal models (LMMs) like CogVLM, which achieved 92.44%
@@ -35,7 +36,6 @@ our Ref-L4 benchmark and evaluation code, are available at
 https://github.com/JierunChen/Ref-L4.
 ]]></content:encoded>
 <pubDate>2024-06-24T17:59:58Z</pubDate>
-<pubDate>2024-06-24T17:59:58Z</pubDate>
 </item>
 <item>
 <title>FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models</title>
@@ -44,7 +44,7 @@ https://github.com/JierunChen/Ref-L4.
 <content:encoded><![CDATA[
 <div> 关键词: 扩散模型, 视频生成, 轨迹控制, 噪音构造, 注意力计算
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章介绍了一个新的方法，不需经过训练就能实现视频生成过程的轨迹控制。首先分析了初始噪音对生成内容运动轨迹的影响，并提出了一个名为 FreeTraj 的方法，通过修改噪音采样和注意力机制来实现轨迹控制。接着，扩展了 FreeTraj 方法，实现了更长、更大的视频生成，并可以手动或自动生成轨迹。实验结果表明，该方法在增强视频扩散模型轨迹可控性方面取得了很好的效果。 <div>
 Diffusion model has demonstrated remarkable capability in video generation,
 which further sparks interest in introducing trajectory control into the
@@ -65,14 +65,12 @@ experiments validate the efficacy of our approach in enhancing the trajectory
 controllability of video diffusion models.
 ]]></content:encoded>
 <pubDate>2024-06-24T17:59:56Z</pubDate>
-<pubDate>2024-06-24T17:59:56Z</pubDate>
 </item>
 <item>
 <title>Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs</title>
 <link>http://arxiv.org/abs/2406.16860v1</link>
 <guid>http://arxiv.org/abs/2406.16860v1</guid>
 <content:encoded><![CDATA[
-
 We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a
 vision-centric approach. While stronger language models can enhance multimodal
 capabilities, the design choices for vision components are often insufficiently
@@ -97,7 +95,6 @@ evaluation recipes. We hope our release will inspire and accelerate
 advancements in multimodal systems and visual representation learning.
 ]]></content:encoded>
 <pubDate>2024-06-24T17:59:42Z</pubDate>
-<pubDate>2024-06-24T17:59:42Z</pubDate>
 </item>
 <item>
 <title>DreamBench++: A Human-Aligned Benchmark for Personalized Image
@@ -105,7 +102,6 @@ advancements in multimodal systems and visual representation learning.
 <link>http://arxiv.org/abs/2406.16855v1</link>
 <guid>http://arxiv.org/abs/2406.16855v1</guid>
 <content:encoded><![CDATA[
-
 Personalized image generation holds great promise in assisting humans in
 everyday work and life due to its impressive function in creatively generating
 personalized content. However, current evaluations either are automated but
@@ -119,14 +115,12 @@ models, we demonstrate that DreamBench++ results in significantly more
 human-aligned evaluation, helping boost the community with innovative findings.
 ]]></content:encoded>
 <pubDate>2024-06-24T17:58:47Z</pubDate>
-<pubDate>2024-06-24T17:58:47Z</pubDate>
 </item>
 <item>
 <title>Long Context Transfer from Language to Vision</title>
 <link>http://arxiv.org/abs/2406.16852v1</link>
 <guid>http://arxiv.org/abs/2406.16852v1</guid>
 <content:encoded><![CDATA[
-
 Video sequences offer valuable temporal information, but existing large
 multimodal models (LMMs) fall short in understanding extremely long videos.
 Many works address this by reducing the number of visual tokens using visual
@@ -145,9 +139,7 @@ sampling more input frames. Our work is open-sourced at
 https://github.com/EvolvingLMMs-Lab/LongVA.
 ]]></content:encoded>
 <pubDate>2024-06-24T17:58:06Z</pubDate>
-<pubDate>2024-06-24T17:58:06Z</pubDate>
 </item>
-
 <item>
 <title>GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene
   Expression Data in Alignment with Bioinformaticians</title>

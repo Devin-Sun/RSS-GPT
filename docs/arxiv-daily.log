@@ -7219,3 +7219,16 @@ Filter: [Losing Visual Needles in Image Haystacks: Vision Language Models are
   Easily Distracted in Short and Long Contexts](http://arxiv.org/abs/2406.16851v1)
 append_entries: 5
 Finish: 2024-06-25 12:15:56.997610
+------------------------------------------------------
+Started: 2024-06-26 00:39:45.226308
+Existing_entries: 183
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal](http://arxiv.org/abs/2406.16864v1)
+Filter: [Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](http://arxiv.org/abs/2406.16862v1)
+Filter: [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](http://arxiv.org/abs/2406.16858v1)
+Filter: [GeoMFormer: A General Architecture for Geometric Molecular
+  Representation Learning](http://arxiv.org/abs/2406.16853v1)
+Filter: [Losing Visual Needles in Image Haystacks: Vision Language Models are
+  Easily Distracted in Short and Long Contexts](http://arxiv.org/abs/2406.16851v1)
+append_entries: 0
+Finish: 2024-06-26 00:39:46.126534
