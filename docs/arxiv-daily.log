@@ -7232,3 +7232,27 @@ Filter: [Losing Visual Needles in Image Haystacks: Vision Language Models are
   Easily Distracted in Short and Long Contexts](http://arxiv.org/abs/2406.16851v1)
 append_entries: 0
 Finish: 2024-06-26 00:39:46.126534
+------------------------------------------------------
+Started: 2024-06-26 12:17:01.857717
+Existing_entries: 183
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1372
+Summarized using GPT-3.5-turbo-1106
+Append: [Text-Animator: Controllable Visual Text Video Generation](http://arxiv.org/abs/2406.17777v1)
+Filter: [Fast and Uncertainty-Aware SVBRDF Recovery from Multi-View Capture using
+  Frequency Domain Analysis](http://arxiv.org/abs/2406.17774v1)
+Token length: 1409
+Summarized using GPT-3.5-turbo-1106
+Append: [MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning](http://arxiv.org/abs/2406.17770v1)
+Append: [EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot
+  Skills from Offline Data](http://arxiv.org/abs/2406.17768v1)
+Filter: [Splitting Guarantees for Prophet Inequalities via Nonlinear Systems](http://arxiv.org/abs/2406.17767v1)
+Filter: [BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context
+  Learning](http://arxiv.org/abs/2406.17764v1)
+Filter: [DiffusionPDE: Generative PDE-Solving Under Partial Observation](http://arxiv.org/abs/2406.17763v1)
+Filter: [Solving Hard Mizar Problems with Instantiation and Strategy Invention](http://arxiv.org/abs/2406.17762v1)
+Filter: [CaLMQA: Exploring culturally specific long-form question answering
+  across 23 languages](http://arxiv.org/abs/2406.17761v1)
+Filter: [Interpreting Attention Layer Outputs with Sparse Autoencoders](http://arxiv.org/abs/2406.17759v1)
+append_entries: 3
+Finish: 2024-06-26 12:17:14.051281
