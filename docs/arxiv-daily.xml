@@ -4,6 +4,112 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Symbolic Learning Enables Self-Evolving Agents</title>
+<link>http://arxiv.org/abs/2406.18532v1</link>
+<guid>http://arxiv.org/abs/2406.18532v1</guid>
+<content:encoded><![CDATA[
+<div> agent symbolic learning, language agents, data-centric, artificial general intelligence, back-propagation and gradient descent
+<br><br>
+agent symbolic learning 是一种系统框架，使得语言代理能够以数据为中心地使用符号优化器自行优化。它利用符号网络和模仿连接主义学习的两种基本算法：反向传播和梯度下降，以自然语言的方式处理权重、损失和梯度。这种方法使得语言代理能够在创建和部署后自行更新，并成为“自我进化的代理”。这一方法的引入使得语言代理的研究从模型和工程为中心转向了以数据为中心的学习，是通往人工通用智能的关键。 <br>agent symbolic learning, data-centric, 自我进化的代理<br>包含所有要点的总结:
+agent symbolic learning 是一种系统框架，使得语言代理能够以数据为中心地使用符号优化器自行优化。它利用符号网络和模仿连接主义学习的两种基本算法：反向传播和梯度下降，以自然语言的方式处理权重、损失和梯度。这种方法使得语言代理能够在创建和部署后自行更新，并成为“自我进化的代理”。这一方法的引入使得语言代理的研究从模型和工程为中心转向了以数据为中心的学习，是通往人工通用智能的关键。 <div>
+The AI community has been exploring a pathway to artificial general
+intelligence (AGI) by developing "language agents", which are complex large
+language models (LLMs) pipelines involving both prompting techniques and tool
+usage methods. While language agents have demonstrated impressive capabilities
+for many real-world tasks, a fundamental limitation of current language agents
+research is that they are model-centric, or engineering-centric. That's to say,
+the progress on prompts, tools, and pipelines of language agents requires
+substantial manual engineering efforts from human experts rather than
+automatically learning from data. We believe the transition from model-centric,
+or engineering-centric, to data-centric, i.e., the ability of language agents
+to autonomously learn and evolve in environments, is the key for them to
+possibly achieve AGI.
+  In this work, we introduce agent symbolic learning, a systematic framework
+that enables language agents to optimize themselves on their own in a
+data-centric way using symbolic optimizers. Specifically, we consider agents as
+symbolic networks where learnable weights are defined by prompts, tools, and
+the way they are stacked together. Agent symbolic learning is designed to
+optimize the symbolic network within language agents by mimicking two
+fundamental algorithms in connectionist learning: back-propagation and gradient
+descent. Instead of dealing with numeric weights, agent symbolic learning works
+with natural language simulacrums of weights, loss, and gradients. We conduct
+proof-of-concept experiments on both standard benchmarks and complex real-world
+tasks and show that agent symbolic learning enables language agents to update
+themselves after being created and deployed in the wild, resulting in
+"self-evolving agents".
+]]></content:encoded>
+<pubDate>2024-06-26T17:59:18Z</pubDate>
+<pubDate>2024-06-26T17:59:18Z</pubDate>
+</item>
+<item>
+<title>MultiDiff: Consistent Novel View Synthesis from a Single Image</title>
+<link>http://arxiv.org/abs/2406.18524v1</link>
+<guid>http://arxiv.org/abs/2406.18524v1</guid>
+<content:encoded><![CDATA[
+<div> 深度预测，视频扩散，多视角一致，生成图像，实时编辑
+<br>
+本文介绍了一种名为MultiDiff的新方法，用于从单个RGB图像中一致地合成新视图。该方法结合了单目深度预测和视频扩散模型的强先验知识，提高了几何稳定性，并允许模型学习生成图像之间的连续、像素精确的对应关系。与依赖自回归图像生成的方法相比，MultiDiff可以同时合成一系列帧，产生高质量、多视角一致的结果，甚至对于有着大摄像机移动的长期场景生成，也能减少推断时间。此外，MultiDiff还引入了一种新颖的结构化噪声分布，用于提高一致性和图像质量。实验结果表明，MultiDiff在RealEstate10K和ScanNet这两个具有挑战性的真实世界数据集上表现优于现有方法。最后，该模型自然支持多视角一致的编辑，无需进一步调整。
+<br><br>总结: MultiDiff方法结合了深度预测和视频扩散模型的先验知识，实现了高质量、多视角一致的图像生成，并且能够实时编辑。 <div>
+We introduce MultiDiff, a novel approach for consistent novel view synthesis
+of scenes from a single RGB image. The task of synthesizing novel views from a
+single reference image is highly ill-posed by nature, as there exist multiple,
+plausible explanations for unobserved areas. To address this issue, we
+incorporate strong priors in form of monocular depth predictors and
+video-diffusion models. Monocular depth enables us to condition our model on
+warped reference images for the target views, increasing geometric stability.
+The video-diffusion prior provides a strong proxy for 3D scenes, allowing the
+model to learn continuous and pixel-accurate correspondences across generated
+images. In contrast to approaches relying on autoregressive image generation
+that are prone to drifts and error accumulation, MultiDiff jointly synthesizes
+a sequence of frames yielding high-quality and multi-view consistent results --
+even for long-term scene generation with large camera movements, while reducing
+inference time by an order of magnitude. For additional consistency and image
+quality improvements, we introduce a novel, structured noise distribution. Our
+experimental results demonstrate that MultiDiff outperforms state-of-the-art
+methods on the challenging, real-world datasets RealEstate10K and ScanNet.
+Finally, our model naturally supports multi-view consistent editing without the
+need for further tuning.
+]]></content:encoded>
+<pubDate>2024-06-26T17:53:51Z</pubDate>
+<pubDate>2024-06-26T17:53:51Z</pubDate>
+</item>
+<item>
+<title>ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of
+  Text-to-Time-lapse Video Generation</title>
+<link>http://arxiv.org/abs/2406.18522v1</link>
+<guid>http://arxiv.org/abs/2406.18522v1</guid>
+<content:encoded><![CDATA[
+
+We propose a novel text-to-video (T2V) generation benchmark,
+ChronoMagic-Bench, to evaluate the temporal and metamorphic capabilities of the
+T2V models (e.g. Sora and Lumiere) in time-lapse video generation. In contrast
+to existing benchmarks that focus on the visual quality and textual relevance
+of generated videos, ChronoMagic-Bench focuses on the model's ability to
+generate time-lapse videos with significant metamorphic amplitude and temporal
+coherence. The benchmark probes T2V models for their physics, biology, and
+chemistry capabilities, in a free-form text query. For these purposes,
+ChronoMagic-Bench introduces 1,649 prompts and real-world videos as references,
+categorized into four major types of time-lapse videos: biological,
+human-created, meteorological, and physical phenomena, which are further
+divided into 75 subcategories. This categorization comprehensively evaluates
+the model's capacity to handle diverse and complex transformations. To
+accurately align human preference with the benchmark, we introduce two new
+automatic metrics, MTScore and CHScore, to evaluate the videos' metamorphic
+attributes and temporal coherence. MTScore measures the metamorphic amplitude,
+reflecting the degree of change over time, while CHScore assesses the temporal
+coherence, ensuring the generated videos maintain logical progression and
+continuity. Based on the ChronoMagic-Bench, we conduct comprehensive manual
+evaluations of ten representative T2V models, revealing their strengths and
+weaknesses across different categories of prompts, and providing a thorough
+evaluation framework that addresses current gaps in video generation research.
+Moreover, we create a large-scale ChronoMagic-Pro dataset, containing 460k
+high-quality pairs of 720p time-lapse videos and detailed captions ensuring
+high physical pertinence and large metamorphic amplitude.
+]]></content:encoded>
+<pubDate>2024-06-26T17:50:47Z</pubDate>
+<pubDate>2024-06-26T17:50:47Z</pubDate>
+</item>
 
 <item>
 <title>Text-Animator: Controllable Visual Text Video Generation</title>

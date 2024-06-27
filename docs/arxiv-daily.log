@@ -7272,3 +7272,27 @@ Filter: [CaLMQA: Exploring culturally specific long-form question answering
 Filter: [Interpreting Attention Layer Outputs with Sparse Autoencoders](http://arxiv.org/abs/2406.17759v1)
 append_entries: 0
 Finish: 2024-06-27 00:40:20.272646
+------------------------------------------------------
+Started: 2024-06-27 12:16:18.589197
+Existing_entries: 186
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Compositionality in Concept Learning](http://arxiv.org/abs/2406.18534v1)
+Filter: [On Scaling Up 3D Gaussian Splatting Training](http://arxiv.org/abs/2406.18533v1)
+Token length: 1794
+Summarized using GPT-3.5-turbo-1106
+Append: [Symbolic Learning Enables Self-Evolving Agents](http://arxiv.org/abs/2406.18532v1)
+Filter: [MatchTime: Towards Automatic Soccer Game Commentary Generation](http://arxiv.org/abs/2406.18530v1)
+Filter: [Confident Natural Policy Gradient for Local Planning in
+  $q_π$-realizable Constrained MDPs](http://arxiv.org/abs/2406.18529v1)
+Filter: [PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine
+  Translation and Summarization Evaluation](http://arxiv.org/abs/2406.18528v1)
+Token length: 1414
+Summarized using GPT-3.5-turbo-1106
+Append: [MultiDiff: Consistent Novel View Synthesis from a Single Image](http://arxiv.org/abs/2406.18524v1)
+Append: [ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of
+  Text-to-Time-lapse Video Generation](http://arxiv.org/abs/2406.18522v1)
+Filter: [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal
+  LLMs](http://arxiv.org/abs/2406.18521v1)
+Filter: [Distinguishing mechanisms of social contagion from local network view](http://arxiv.org/abs/2406.18519v1)
+append_entries: 3
+Finish: 2024-06-27 12:16:28.098222
