@@ -7312,3 +7312,28 @@ Filter: [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal
 Filter: [Distinguishing mechanisms of social contagion from local network view](http://arxiv.org/abs/2406.18519v1)
 append_entries: 0
 Finish: 2024-06-28 00:40:17.741167
+------------------------------------------------------
+Started: 2024-06-28 12:15:45.365086
+Existing_entries: 189
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SimLOB: Learning Representations of Limited Order Book for Financial
+  Market Simulation](http://arxiv.org/abs/2406.19396v1)
+Filter: [Dataset Size Recovery from LoRA Weights](http://arxiv.org/abs/2406.19395v1)
+Filter: [HUWSOD: Holistic Self-training for Unified Weakly Supervised Object
+  Detection](http://arxiv.org/abs/2406.19394v1)
+Filter: [Looking 3D: Anomaly Detection with 2D-3D Alignment](http://arxiv.org/abs/2406.19393v1)
+Token length: 1197
+Summarized using GPT-3.5-turbo-1106
+Append: [ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos](http://arxiv.org/abs/2406.19392v1)
+Filter: [Fibottention: Inceptive Visual Representation Learning with Diverse
+  Attention Across Heads](http://arxiv.org/abs/2406.19391v1)
+Filter: [SALVe: Semantic Alignment Verification for Floorplan Reconstruction from
+  Sparse Panoramas](http://arxiv.org/abs/2406.19390v1)
+Token length: 1486
+Summarized using GPT-3.5-turbo-1106
+Append: [OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and
+  Understanding](http://arxiv.org/abs/2406.19389v1)
+Filter: [Taming Data and Transformers for Audio Generation](http://arxiv.org/abs/2406.19388v1)
+Filter: [The Remarkable Robustness of LLMs: Stages of Inference?](http://arxiv.org/abs/2406.19384v1)
+append_entries: 2
+Finish: 2024-06-28 12:15:55.530971
