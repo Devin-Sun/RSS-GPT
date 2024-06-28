@@ -7296,3 +7296,19 @@ Filter: [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal
 Filter: [Distinguishing mechanisms of social contagion from local network view](http://arxiv.org/abs/2406.18519v1)
 append_entries: 3
 Finish: 2024-06-27 12:16:28.098222
+------------------------------------------------------
+Started: 2024-06-28 00:40:17.076082
+Existing_entries: 189
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Compositionality in Concept Learning](http://arxiv.org/abs/2406.18534v1)
+Filter: [On Scaling Up 3D Gaussian Splatting Training](http://arxiv.org/abs/2406.18533v1)
+Filter: [MatchTime: Towards Automatic Soccer Game Commentary Generation](http://arxiv.org/abs/2406.18530v1)
+Filter: [Confident Natural Policy Gradient for Local Planning in
+  $q_π$-realizable Constrained MDPs](http://arxiv.org/abs/2406.18529v1)
+Filter: [PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine
+  Translation and Summarization Evaluation](http://arxiv.org/abs/2406.18528v1)
+Filter: [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal
+  LLMs](http://arxiv.org/abs/2406.18521v1)
+Filter: [Distinguishing mechanisms of social contagion from local network view](http://arxiv.org/abs/2406.18519v1)
+append_entries: 0
+Finish: 2024-06-28 00:40:17.741167
