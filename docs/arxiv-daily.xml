@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos</title>
 <link>http://arxiv.org/abs/2406.19392v1</link>
 <guid>http://arxiv.org/abs/2406.19392v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: ReXTime, temporal reasoning, video events, benchmark, large language models <br>
-<br> 
-本文介绍了ReXTime基准测试，旨在严格测试AI模型在视频事件中进行时间推理的能力。ReXTime专注于跨时间推理，即在问题和相应答案出现在不同视频片段时的人类理解能力。这种推理需要对视频片段之间的因果关系有高级理解，即使是最前沿的多模态大语言模型也会面临重大挑战。为了促进这种评估，作者们开发了一个自动化流水线，用于生成时间推理问题-答案对，显著减少了对繁重的手工注释的需求。他们的基准测试包括921个精心审核的验证样本和2,143个测试样本，每个样本都经过手工筛选以确保准确性和相关性。评估结果显示，尽管最前沿的大语言模型表现优于学术模型，但它们仍然落后于人类性能，有着14.3%的显著准确度差距。此外，作者的流水线创建了一个由9695个机器生成样本组成的训练数据集，而不需要手工努力，经验研究表明这可以通过微调来增强跨时间推理能力。<br><br>总结: 本文介绍了ReXTime基准测试的设计和评估结果，以及作者们通过自动化流水线生成训练数据集的方法和作用。 <div>
+<div> 关键词: ReXTime, temporal reasoning, video events, benchmark, large language models <br />
+<br /> 
+本文介绍了ReXTime基准测试，旨在严格测试AI模型在视频事件中进行时间推理的能力。ReXTime专注于跨时间推理，即在问题和相应答案出现在不同视频片段时的人类理解能力。这种推理需要对视频片段之间的因果关系有高级理解，即使是最前沿的多模态大语言模型也会面临重大挑战。为了促进这种评估，作者们开发了一个自动化流水线，用于生成时间推理问题-答案对，显著减少了对繁重的手工注释的需求。他们的基准测试包括921个精心审核的验证样本和2,143个测试样本，每个样本都经过手工筛选以确保准确性和相关性。评估结果显示，尽管最前沿的大语言模型表现优于学术模型，但它们仍然落后于人类性能，有着14.3%的显著准确度差距。此外，作者的流水线创建了一个由9695个机器生成样本组成的训练数据集，而不需要手工努力，经验研究表明这可以通过微调来增强跨时间推理能力。<br /><br />总结: 本文介绍了ReXTime基准测试的设计和评估结果，以及作者们通过自动化流水线生成训练数据集的方法和作用。 <div>
 We introduce ReXTime, a benchmark designed to rigorously test AI models'
 ability to perform temporal reasoning within video events. Specifically,
 ReXTime focuses on reasoning across time, i.e. human-like understanding when
@@ -30,7 +31,6 @@ generated samples without manual effort, which empirical studies suggest can
 enhance the across-time reasoning via fine-tuning.
 ]]></content:encoded>
 <pubDate>2024-06-27T17:59:45Z</pubDate>
-<pubDate>2024-06-27T17:59:45Z</pubDate>
 </item>
 <item>
 <title>OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and
@@ -39,7 +39,7 @@ enhance the across-time reasoning via fine-tuning.
 <guid>http://arxiv.org/abs/2406.19389v1</guid>
 <content:encoded><![CDATA[
 <div> 像素级理解，推理能力，文本指示，OMG-LLaVA，视觉多模态模型
-<br><br>
+<br /><br />
 总结:
 本文提出了OMG-LLaVA框架，将强大的像素级视觉理解能力与推理能力相结合。该框架可以接受各种视觉和文本指示，实现灵活的用户交互。作者使用通用分割方法作为视觉编码器，将图像信息、感知先验和视觉提示整合成LLM所需的视觉令牌。LLM负责理解用户的文本指示，并基于视觉信息提供文本响应和像素级分割结果。作者提出了感知先验嵌入来更好地整合感知先验和图像特征。OMG-LLaVA在单一模型中实现了图像级、对象级和像素级推理和理解能力，在多个基准测试中达到或超越了专业方法的性能。与使用LLM连接各专业方法的做法不同，本文旨在对一个编码器、一个解码器和一个LLM进行端到端训练。该代码和模型已发布供进一步研究使用。 <div>
 Current universal segmentation methods demonstrate strong capabilities in
@@ -64,9 +64,7 @@ end-to-end training on one encoder, one decoder, and one LLM. The code and
 model have been released for further research.
 ]]></content:encoded>
 <pubDate>2024-06-27T17:59:01Z</pubDate>
-<pubDate>2024-06-27T17:59:01Z</pubDate>
 </item>
-
 <item>
 <title>Symbolic Learning Enables Self-Evolving Agents</title>
 <link>http://arxiv.org/abs/2406.18532v1</link>
