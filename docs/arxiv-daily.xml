@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful
+  Navigators</title>
+<link>http://arxiv.org/abs/2406.20083v1</link>
+<guid>http://arxiv.org/abs/2406.20083v1</guid>
+<content:encoded><![CDATA[
+<div> 强化学习、视觉变压器编码器、长期记忆、导航机器人、性能突破<br>
+这篇文章介绍了一种名为PoliFormer的室内导航Agent，它是通过强化学习在模拟环境中进行训练的，并且可以在无需适应的情况下在真实世界中实现泛化。PoliFormer使用了视觉变压器编码器和因果变压器解码器，能够实现长期记忆和推理。它在多台机器上进行了数亿次的交互训练，实现了高效的训练和高吞吐量。PoliFormer在LoCoBot和Stretch RE-1机器人以及四个导航基准测试中都取得了最先进的结果，尤其在CHORES-S基准测试的目标导航中表现出了非凡的成绩，成功率达到了85.5%，比以往提升了28.5%。此外，PoliFormer还可以轻松扩展到各种下游应用领域，包括目标追踪、多目标导航和开放词汇的导航，无需微调即可实现。<br><br>总结: 该文章介绍了PoliFormer，一种强化学习训练的导航Agent，通过视觉变压器编码器和因果变压器解码器实现长期记忆和推理。在多个机器上进行了数亿次的交互训练，取得了在真实世界中泛化的先进结果，尤其在CHORES-S基准测试中表现突出。该技术还能轻松应用于多个领域，无需微调即可实现。 <div>
+We present PoliFormer (Policy Transformer), an RGB-only indoor navigation
+agent trained end-to-end with reinforcement learning at scale that generalizes
+to the real-world without adaptation despite being trained purely in
+simulation. PoliFormer uses a foundational vision transformer encoder with a
+causal transformer decoder enabling long-term memory and reasoning. It is
+trained for hundreds of millions of interactions across diverse environments,
+leveraging parallelized, multi-machine rollouts for efficient training with
+high throughput. PoliFormer is a masterful navigator, producing
+state-of-the-art results across two distinct embodiments, the LoCoBot and
+Stretch RE-1 robots, and four navigation benchmarks. It breaks through the
+plateaus of previous work, achieving an unprecedented 85.5% success rate in
+object goal navigation on the CHORES-S benchmark, a 28.5% absolute improvement.
+PoliFormer can also be trivially extended to a variety of downstream
+applications such as object tracking, multi-object navigation, and
+open-vocabulary navigation with no finetuning.
+]]></content:encoded>
+<pubDate>2024-06-28T17:51:10Z</pubDate>
+<pubDate>2024-06-28T17:51:10Z</pubDate>
+</item>
 
 <item>
 <title>ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos</title>
