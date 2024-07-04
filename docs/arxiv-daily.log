@@ -7518,3 +7518,22 @@ Filter: [Scalable Multi-Output Gaussian Processes with Stochastic Variational
 Filter: [Database Systems Course: Service Learning Project](http://arxiv.org/abs/2407.02475v1)
 append_entries: 2
 Finish: 2024-07-03 12:16:45.238403
+------------------------------------------------------
+Started: 2024-07-04 00:40:31.605963
+Existing_entries: 194
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via
+  Dynamic Sparse Attention](http://arxiv.org/abs/2407.02490v1)
+Filter: [Magic Insert: Style-Aware Drag-and-Drop](http://arxiv.org/abs/2407.02489v1)
+Filter: [Neurocache: Efficient Vector Retrieval for Long-range Language Modeling](http://arxiv.org/abs/2407.02486v1)
+Filter: [RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs](http://arxiv.org/abs/2407.02485v1)
+Filter: [Characterizing the Interpretability of Attention Maps in Digital
+  Pathology](http://arxiv.org/abs/2407.02484v1)
+Filter: [Boosting Consistency in Story Visualization with Rich-Contextual
+  Conditional Diffusion Models](http://arxiv.org/abs/2407.02482v1)
+Filter: [Scalable Multi-Output Gaussian Processes with Stochastic Variational
+  Inference](http://arxiv.org/abs/2407.02476v1)
+Filter: [Database Systems Course: Service Learning Project](http://arxiv.org/abs/2407.02475v1)
+append_entries: 0
+Finish: 2024-07-04 00:40:32.921719

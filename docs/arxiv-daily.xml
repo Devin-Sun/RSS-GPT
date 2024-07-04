@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MMedAgent: Learning to Use Medical Tools with Multi-modal Agent</title>
 <link>http://arxiv.org/abs/2407.02483v1</link>
 <guid>http://arxiv.org/abs/2407.02483v1</guid>
 <content:encoded><![CDATA[
 <div> 医疗领域, 多模态大语言模型, MMedAgent, 任务, 效率
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种名为MMedAgent的医疗领域专用代理系统，通过开发一个包含六种医疗工具解决七项任务的指示调整数据集，使得该代理系统能够根据任务选择最合适的工具。实验结果表明，MMedAgent在各种医疗任务中均实现了优越的性能，超过了开源方法甚至是闭源模型GPT-4o。此外，MMedAgent在更新和集成新的医疗工具方面也表现出高效性。 <div>
 Multi-Modal Large Language Models (MLLMs), despite being successful, exhibit
 limited generality and often fall short when compared to specialized models.
@@ -28,15 +29,14 @@ closed-source model, GPT-4o. Furthermore, MMedAgent exhibits efficiency in
 updating and integrating new medical tools.
 ]]></content:encoded>
 <pubDate>2024-07-02T17:58:23Z</pubDate>
-<pubDate>2024-07-02T17:58:23Z</pubDate>
 </item>
 <item>
 <title>Understanding Alignment in Multimodal LLMs: A Comprehensive Study</title>
 <link>http://arxiv.org/abs/2407.02477v1</link>
 <guid>http://arxiv.org/abs/2407.02477v1</guid>
 <content:encoded><![CDATA[
-<div> 多模态大语言模型（MLLMs）, 对齐算法, 偏好数据集, 图像理解, 幻觉<br>
-本文主要研究了多模态大语言模型中偏好对齐的各个方面。首先对对齐算法进行了分类，包括离线和在线方法，并指出在某些情况下结合这两种方法可以改善模型性能。其次，对多种已发表的多模态偏好数据集进行了回顾，并讨论了它们构建细节对模型性能的影响。接着，介绍了一种新颖的多模态偏好数据创建方法——偏好驱动的幻觉采样（BDHS），并展示了它在各种基准测试中取得了与先前已发表的对齐工作竞争性的性能。<br><br>总结:多模态大语言模型的对齐算法包括离线和在线方法，结合两种方法可改善模型性能。已发表的多模态偏好数据集对模型性能有影响。偏好驱动的幻觉采样（BDHS）是一种新颖的数据创建方法，能够取得与先前对齐工作相媲美的性能。 <div>
+<div> 多模态大语言模型（MLLMs）, 对齐算法, 偏好数据集, 图像理解, 幻觉<br />
+本文主要研究了多模态大语言模型中偏好对齐的各个方面。首先对对齐算法进行了分类，包括离线和在线方法，并指出在某些情况下结合这两种方法可以改善模型性能。其次，对多种已发表的多模态偏好数据集进行了回顾，并讨论了它们构建细节对模型性能的影响。接着，介绍了一种新颖的多模态偏好数据创建方法——偏好驱动的幻觉采样（BDHS），并展示了它在各种基准测试中取得了与先前已发表的对齐工作竞争性的性能。<br /><br />总结:多模态大语言模型的对齐算法包括离线和在线方法，结合两种方法可改善模型性能。已发表的多模态偏好数据集对模型性能有影响。偏好驱动的幻觉采样（BDHS）是一种新颖的数据创建方法，能够取得与先前对齐工作相媲美的性能。 <div>
 Preference alignment has become a crucial component in enhancing the
 performance of Large Language Models (LLMs), yet its impact in Multimodal Large
 Language Models (MLLMs) remains comparatively underexplored. Similar to
@@ -63,9 +63,7 @@ can achieve competitive performance to previously published alignment work for
 multimodal models across a range of benchmarks.
 ]]></content:encoded>
 <pubDate>2024-07-02T17:55:03Z</pubDate>
-<pubDate>2024-07-02T17:55:03Z</pubDate>
 </item>
-
 <item>
 <title>PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful
   Navigators</title>
