@@ -4,6 +4,69 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Fair Division of Indivisible Chores via Earning Restricted Equilibria</title>
+<link>http://arxiv.org/abs/2407.03318v1</link>
+<guid>http://arxiv.org/abs/2407.03318v1</guid>
+<content:encoded><![CDATA[
+<div> envy-freeness, Pareto optimality, earning-restricted, competitive equilibrium, algorithms
+<br><br>总结:
+本研究首次提出了对m个不可分割家务的公平分配的常数逼近解决方案。我们改进了最佳已知的O(n^2)-EFX的解决方案，提出了5-EFX分配。此外，针对双值实例，我们提出了3-EFX和PO分配，改进了最佳已知的O(n)-EFX解决方案。我们还提出了2-EF2 + PO分配，改进了最佳已知的EFm + PO解决方案。我们引入了基于收入限制的分配竞争均衡的新概念，限制了代理人从每个家务中获得的收入。我们通过解决线性互补问题（LCP）来证明了ER均衡的存在，并设计了算法来实现这些结果。预计ER均衡的概念将在相关问题的进一步研究中发挥重要作用。 <div>
+We study fair division of $m$ indivisible chores among $n$ agents with
+additive preferences. We consider the desirable fairness notions of
+envy-freeness up to any chore (EFX) and envy-freeness up to $k$ chores (EF$k$),
+alongside the efficiency notion of Pareto optimality (PO). We present the first
+constant approximations of these notions, showing the existence of:
+  - 5-EFX allocations, which improve the best-known factor of $O(n^2)$-EFX.
+  - 3-EFX and PO allocations for the special case of bivalued instances, which
+improve the best-known factor of $O(n)$-EFX without any efficiency guarantees.
+  - 2-EF2 + PO allocations, which improve the best-known factor of EF$m$ + PO.
+  A notable contribution of our work is the introduction of the novel concept
+of earning-restricted (ER) competitive equilibrium for fractional allocations,
+which limits agents' earnings from each chore. Technically, our work addresses
+two main challenges: proving the existence of an ER equilibrium and designing
+algorithms that leverage ER equilibria to achieve the above results. To tackle
+the first challenge, we formulate a linear complementarity problem (LCP)
+formulation that captures all ER equilibria and show that the classic
+complementary pivot algorithm on the LCP must terminate at an ER equilibrium.
+For the second challenge, we carefully set the earning limits and use
+properties of ER equilibria to design sophisticated procedures that involve
+swapping and merging bundles to meet the desired fairness and efficiency
+criteria. We expect that the concept of ER equilibrium will be instrumental in
+deriving further results on related problems.
+]]></content:encoded>
+<pubDate>2024-07-03T17:58:22Z</pubDate>
+<pubDate>2024-07-03T17:58:22Z</pubDate>
+</item>
+<item>
+<title>BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate
+  Hallucinations</title>
+<link>http://arxiv.org/abs/2407.03314v1</link>
+<guid>http://arxiv.org/abs/2407.03314v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: BACON, VLMs, 图像注释, 结构化, 实验<br>
+<br>总结:
+本文提出了Bag-of-Concept Graph（BACON）模型，旨在赋予具有有限语言能力的模型以体验视觉语言模型（VLMs）的特权，并提高检测、视觉问答（VQA）和图像生成等下游任务的性能。文章将图像注释分解为基本的最小单元，并以图形结构呈现，使其易于理解，并能够解放难以定位的结构组成。通过精心设计提示，借助公开可用的VLMs和分割方法生成BACON注释。通过这种方式，构建了一个包含100K带注释图像的数据集，使VLMs具有显著的能力，如准确生成BACON、将提示转化为BACON格式、以BACON样式展现场景，以及通过交互式对话动态修改BACON中的元素等。广泛的实验包括检测、VQA和图像生成任务，证明了BACON作为一种救生索，可以实现以前无法实现的任务或在当前尖端解决方案中取得优异表现。 <div>
+This paper presents Bag-of-Concept Graph (BACON) to gift models with limited
+linguistic abilities to taste the privilege of Vision Language Models (VLMs)
+and boost downstream tasks such as detection, visual question answering (VQA),
+and image generation. Since the visual scenes in physical worlds are structured
+with complex relations between objects, BACON breaks down annotations into
+basic minimum elements and presents them in a graph structure. Element-wise
+style enables easy understanding, and structural composition liberates
+difficult locating. Careful prompt design births the BACON captions with the
+help of public-available VLMs and segmentation methods. In this way, we gather
+a dataset with 100K annotated images, which endow VLMs with remarkable
+capabilities, such as accurately generating BACON, transforming prompts into
+BACON format, envisioning scenarios in the style of BACONr, and dynamically
+modifying elements within BACON through interactive dialogue and more. Wide
+representative experiments, including detection, VQA, and image generation
+tasks, tell BACON as a lifeline to achieve previous out-of-reach tasks or excel
+in their current cutting-edge solutions.
+]]></content:encoded>
+<pubDate>2024-07-03T17:55:27Z</pubDate>
+<pubDate>2024-07-03T17:55:27Z</pubDate>
+</item>
 
 <item>
 <title>MMedAgent: Learning to Use Medical Tools with Multi-modal Agent</title>
