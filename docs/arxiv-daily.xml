@@ -4,6 +4,38 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VCoME: Verbal Video Composition with Multimodal Editing Effects</title>
+<link>http://arxiv.org/abs/2407.04697v1</link>
+<guid>http://arxiv.org/abs/2407.04697v1</guid>
+<content:encoded><![CDATA[
+<div> 视频编辑效果，语音视频合成，VCoME，多模态模型，数据集<br>
+总结:<br>
+这篇论文介绍了一种新颖的任务——语音视频合成中的编辑效果生成，旨在通过整合文本、视觉和音频类别的多模态编辑效果，生成连贯且视觉上吸引人的视频内容。作者提出了VCoME框架，利用大型多模态模型生成视频合成的编辑效果，同时支持基于提示的构图密度和风格控制。经过广泛的定量和定性评估，证明了VCoME的有效性。同时，综合用户研究显示，该方法能够生产专业质量的视频，而效率是专业编辑人员的85倍。 <div>
+Verbal videos, featuring voice-overs or text overlays, provide valuable
+content but present significant challenges in composition, especially when
+incorporating editing effects to enhance clarity and visual appeal. In this
+paper, we introduce the novel task of verbal video composition with editing
+effects. This task aims to generate coherent and visually appealing verbal
+videos by integrating multimodal editing effects across textual, visual, and
+audio categories. To achieve this, we curate a large-scale dataset of video
+effects compositions from publicly available sources. We then formulate this
+task as a generative problem, involving the identification of appropriate
+positions in the verbal content and the recommendation of editing effects for
+these positions. To address this task, we propose VCoME, a general framework
+that employs a large multimodal model to generate editing effects for video
+composition. Specifically, VCoME takes in the multimodal video context and
+autoregressively outputs where to apply effects within the verbal content and
+which effects are most appropriate for each position. VCoME also supports
+prompt-based control of composition density and style, providing substantial
+flexibility for diverse applications. Through extensive quantitative and
+qualitative evaluations, we clearly demonstrate the effectiveness of VCoME. A
+comprehensive user study shows that our method produces videos of professional
+quality while being 85$\times$ more efficient than professional editors.
+]]></content:encoded>
+<pubDate>2024-07-05T17:59:02Z</pubDate>
+<pubDate>2024-07-05T17:59:02Z</pubDate>
+</item>
 
 <item>
 <title>Fair Division of Indivisible Chores via Earning Restricted Equilibria</title>
