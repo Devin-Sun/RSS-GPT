@@ -7715,3 +7715,23 @@ Filter: [Efficient Betti Matching Enables Topology-Aware 3D Segmentation via
   Persistent Homology](http://arxiv.org/abs/2407.04683v1)
 append_entries: 1
 Finish: 2024-07-08 12:17:08.026947
+------------------------------------------------------
+Started: 2024-07-09 00:40:48.288988
+Existing_entries: 197
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LaRa: Efficient Large-Baseline Radiance Fields](http://arxiv.org/abs/2407.04699v1)
+Filter: [Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs](http://arxiv.org/abs/2407.04694v1)
+Filter: [ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language
+  Models](http://arxiv.org/abs/2407.04693v1)
+Filter: [Missed Causes and Ambiguous Effects: Counterfactuals Pose Challenges for
+  Interpreting Neural Networks](http://arxiv.org/abs/2407.04690v1)
+Filter: [RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot
+  Robotic Manipulation](http://arxiv.org/abs/2407.04689v1)
+Filter: [Enhancing Vehicle Re-identification and Matching for Weaving Analysis](http://arxiv.org/abs/2407.04688v1)
+Filter: [Embracing Massive Medical Data](http://arxiv.org/abs/2407.04687v1)
+Filter: [Near-optimal hierarchical matrix approximation from matrix-vector
+  products](http://arxiv.org/abs/2407.04686v1)
+Filter: [Efficient Betti Matching Enables Topology-Aware 3D Segmentation via
+  Persistent Homology](http://arxiv.org/abs/2407.04683v1)
+append_entries: 0
+Finish: 2024-07-09 00:40:48.928986
