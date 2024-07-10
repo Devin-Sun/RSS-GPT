@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side
   Images</title>
@@ -38,7 +39,6 @@ and style transfer. It provides a user-friendly, efficient solution for editing
 3D assets, with each editing step taking only seconds to complete.
 ]]></content:encoded>
 <pubDate>2024-07-08T17:59:55Z</pubDate>
-<pubDate>2024-07-08T17:59:55Z</pubDate>
 </item>
 <item>
 <title>JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized
@@ -48,7 +48,7 @@ and style transfer. It provides a user-friendly, efficient solution for editing
 <content:encoded><![CDATA[
 <div> personalization, text-to-image generation, finetuning-free, Joint-Image Diffusion, synthetic dataset generation
 
-总结:<br><br>这篇论文介绍了一种名为Joint-Image Diffusion（JEDI）的文本到图像生成技术，它不需要费时费力的微调过程，能够实现个性化定制。通过学习多个相关的文本-图像对的联合分布，以及采用可扩展的合成数据集生成技术，该模型能在生成质量上取得了大幅领先，并且在测试阶段可以轻松快速地进行个性化定制，无需额外的优化过程或者模块。 <div>
+总结:<br /><br />这篇论文介绍了一种名为Joint-Image Diffusion（JEDI）的文本到图像生成技术，它不需要费时费力的微调过程，能够实现个性化定制。通过学习多个相关的文本-图像对的联合分布，以及采用可扩展的合成数据集生成技术，该模型能在生成质量上取得了大幅领先，并且在测试阶段可以轻松快速地进行个性化定制，无需额外的优化过程或者模块。 <div>
 Personalized text-to-image generation models enable users to create images
 that depict their individual possessions in diverse scenes, finding
 applications in various domains. To achieve the personalization capability,
@@ -70,9 +70,7 @@ quality, both quantitatively and qualitatively, significantly outperforming
 both the prior finetuning-based and finetuning-free personalization baselines.
 ]]></content:encoded>
 <pubDate>2024-07-08T17:59:02Z</pubDate>
-<pubDate>2024-07-08T17:59:02Z</pubDate>
 </item>
-
 <item>
 <title>VCoME: Verbal Video Composition with Multimodal Editing Effects</title>
 <link>http://arxiv.org/abs/2407.04697v1</link>

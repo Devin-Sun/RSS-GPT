@@ -7759,3 +7759,9 @@ Filter: [Transfer Learning with Self-Supervised Vision Transformers for Snake
 Filter: [Vision-Language Models under Cultural and Inclusive Considerations](http://arxiv.org/abs/2407.06177v1)
 append_entries: 2
 Finish: 2024-07-09 12:17:23.184374
+------------------------------------------------------
+Started: 2024-07-10 00:41:25.353618
+Existing_entries: 199
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-07-10 00:41:26.262535
