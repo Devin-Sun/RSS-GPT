@@ -4,6 +4,35 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks
+  with Large Language Models</title>
+<link>http://arxiv.org/abs/2407.07086v1</link>
+<guid>http://arxiv.org/abs/2407.07086v1</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型、多智体强化学习、认知启发式架构、心理理论模块、Melting Pot基准测试<br>
+<br>
+Multi-agent reinforcement learning (MARL)方法在处理多智体系统的非静态性时面临困难，并且在与新型智体进行在线测试时无法适应性学习。本文利用大型语言模型(LLMs)创建了一个自主智体Hypothetical Minds，其特点是认知启发式架构，包括感知、记忆和两个层次抽象的分层规划模块。引入了心理理论模块，通过自然语言生成关于其他智体策略的假设，然后评估和逐步完善这些假设，强化那些能正确预测其他智体行为的假设。Hypothetical Minds在Melting Pot基准测试的一系列竞争、混合动机和协作领域中显著提高了性能，包括双人和基于人口的环境。此外，与LLM-agent基线和消融实验的比较揭示了在复杂场景中成功的假设评估和完善的重要性。<br><br>总结: 大型语言模型被用来创建一个自主智体Hypothetical Minds，它使用认知启发式架构和心理理论模块处理多智体强化学习中的挑战。在Melting Pot基准测试中取得了显著的性能提升，并且对复杂场景的成功具有重要意义。 <div>
+Multi-agent reinforcement learning (MARL) methods struggle with the
+non-stationarity of multi-agent systems and fail to adaptively learn online
+when tested with novel agents. Here, we leverage large language models (LLMs)
+to create an autonomous agent that can handle these challenges. Our agent,
+Hypothetical Minds, consists of a cognitively-inspired architecture, featuring
+modular components for perception, memory, and hierarchical planning over two
+levels of abstraction. We introduce the Theory of Mind module that scaffolds
+the high-level planning process by generating hypotheses about other agents'
+strategies in natural language. It then evaluates and iteratively refines these
+hypotheses by reinforcing hypotheses that make correct predictions about the
+other agents' behavior. Hypothetical Minds significantly improves performance
+over previous LLM-agent and RL baselines on a range of competitive, mixed
+motive, and collaborative domains in the Melting Pot benchmark, including both
+dyadic and population-based environments. Additionally, comparisons against
+LLM-agent baselines and ablations reveal the importance of hypothesis
+evaluation and refinement for succeeding on complex scenarios.
+]]></content:encoded>
+<pubDate>2024-07-09T17:57:15Z</pubDate>
+<pubDate>2024-07-09T17:57:15Z</pubDate>
+</item>
 
 <item>
 <title>Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side
