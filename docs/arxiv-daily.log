@@ -7848,3 +7848,29 @@ Filter: [Toto: Time Series Optimized Transformer for Observability](http://arxiv
 Filter: [Dynamical Measure Transport and Neural PDE Solvers for Sampling](http://arxiv.org/abs/2407.07873v1)
 append_entries: 0
 Finish: 2024-07-12 00:40:40.244338
+------------------------------------------------------
+Started: 2024-07-12 12:17:02.507444
+Existing_entries: 201
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MAVIS: Mathematical Visual Instruction Tuning](http://arxiv.org/abs/2407.08739v1)
+Filter: [Video Diffusion Alignment via Reward Gradients](http://arxiv.org/abs/2407.08737v1)
+Token length: 1559
+Summarized using GPT-3.5-turbo-1106
+Append: [Real-Time Anomaly Detection and Reactive Planning with Large Language
+  Models](http://arxiv.org/abs/2407.08735v1)
+Filter: [Transformer Circuit Faithfulness Metrics are not Robust](http://arxiv.org/abs/2407.08734v1)
+Filter: [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical
+  Reasoning with Checklist](http://arxiv.org/abs/2407.08733v1)
+Filter: [Evaluating Deep Neural Networks in Deployment (A Comparative and
+  Replicability Study)](http://arxiv.org/abs/2407.08730v1)
+Filter: [BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud
+  Registration](http://arxiv.org/abs/2407.08729v1)
+Filter: [Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using
+  Large-scale Public Data](http://arxiv.org/abs/2407.08726v1)
+Token length: 1413
+Summarized using GPT-3.5-turbo-1106
+Append: [MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces](http://arxiv.org/abs/2407.08725v1)
+Filter: [Topological Generalization Bounds for Discrete-Time Stochastic
+  Optimization Algorithms](http://arxiv.org/abs/2407.08723v1)
+append_entries: 2
+Finish: 2024-07-12 12:17:08.735022
