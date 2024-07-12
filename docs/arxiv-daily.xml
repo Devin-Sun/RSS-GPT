@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Generative Image as Action Models</title>
 <link>http://arxiv.org/abs/2407.07875v1</link>
 <guid>http://arxiv.org/abs/2407.07875v1</guid>
 <content:encoded><![CDATA[
 <div> image-generation, visuomotor control, behavior-cloning, Stable Diffusion, RLbench
-总结:<br><br>这篇文章介绍了一种名为GENIMA的行为克隆代理，该代理使用稳定扩散模型对RGB图像进行微调，以在图像上“绘制联合动作”作为目标。这些图像被馈送到控制器中，将视觉目标映射到一系列联合位置。研究人员在25个RLBench和9个真实世界操作任务上研究了GENIMA。他们发现，通过将动作转化为图像空间，利用互联网预训练的扩散模型可以生成优于最先进的视觉运动方法的策略，特别是在对场景扰动的鲁棒性和推广到新物体方面。尽管缺乏深度、关键点或运动规划器等先验知识，我们的方法也与3D代理竞争力十足。 <div>
+总结:<br /><br />这篇文章介绍了一种名为GENIMA的行为克隆代理，该代理使用稳定扩散模型对RGB图像进行微调，以在图像上“绘制联合动作”作为目标。这些图像被馈送到控制器中，将视觉目标映射到一系列联合位置。研究人员在25个RLBench和9个真实世界操作任务上研究了GENIMA。他们发现，通过将动作转化为图像空间，利用互联网预训练的扩散模型可以生成优于最先进的视觉运动方法的策略，特别是在对场景扰动的鲁棒性和推广到新物体方面。尽管缺乏深度、关键点或运动规划器等先验知识，我们的方法也与3D代理竞争力十足。 <div>
 Image-generation diffusion models have been fine-tuned to unlock new
 capabilities such as image-editing and novel view synthesis. Can we similarly
 unlock image-generation models for visuomotor control? We present GENIMA, a
@@ -25,9 +26,7 @@ is also competitive with 3D agents, despite lacking priors such as depth,
 keypoints, or motion-planners.
 ]]></content:encoded>
 <pubDate>2024-07-10T17:41:10Z</pubDate>
-<pubDate>2024-07-10T17:41:10Z</pubDate>
 </item>
-
 <item>
 <title>Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks
   with Large Language Models</title>

@@ -7828,3 +7828,23 @@ Filter: [Toto: Time Series Optimized Transformer for Observability](http://arxiv
 Filter: [Dynamical Measure Transport and Neural PDE Solvers for Sampling](http://arxiv.org/abs/2407.07873v1)
 append_entries: 1
 Finish: 2024-07-11 12:16:24.307176
+------------------------------------------------------
+Started: 2024-07-12 00:40:39.514687
+Existing_entries: 201
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Pentagonal Photonic Crystal Mirrors: Scalable Lightsails with Enhanced
+  Acceleration via Neural Topology Optimization](http://arxiv.org/abs/2407.07896v1)
+Filter: [LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large
+  Multimodal Models](http://arxiv.org/abs/2407.07895v1)
+Filter: [Training on the Test Task Confounds Evaluation and Emergence](http://arxiv.org/abs/2407.07890v1)
+Filter: [AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic
+  Manipulation](http://arxiv.org/abs/2407.07889v1)
+Filter: [Learning In-Hand Translation Using Tactile Skin With Shear and Normal
+  Force Sensing](http://arxiv.org/abs/2407.07885v1)
+Filter: [Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation](http://arxiv.org/abs/2407.07884v1)
+Filter: [Towards Robust Alignment of Language Models: Distributionally
+  Robustifying Direct Preference Optimization](http://arxiv.org/abs/2407.07880v1)
+Filter: [Toto: Time Series Optimized Transformer for Observability](http://arxiv.org/abs/2407.07874v1)
+Filter: [Dynamical Measure Transport and Neural PDE Solvers for Sampling](http://arxiv.org/abs/2407.07873v1)
+append_entries: 0
+Finish: 2024-07-12 00:40:40.244338
