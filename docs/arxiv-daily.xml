@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Real-Time Anomaly Detection and Reactive Planning with Large Language
   Models</title>
 <link>http://arxiv.org/abs/2407.08735v1</link>
 <guid>http://arxiv.org/abs/2407.08735v1</guid>
 <content:encoded><![CDATA[
-<div> 大语言模型（LLM），异常检测，机器人系统，安全控制，模型预测控制<br>
-<br>
+<div> 大语言模型（LLM），异常检测，机器人系统，安全控制，模型预测控制<br />
+<br />
 本文介绍了一个两阶段推理框架，首先是快速的二元异常分类器，分析LLM嵌入空间中的观测值，然后触发更慢的后备选择阶段，利用生成LLM的推理能力。这些阶段对应于模型预测控制策略中的分支点，确保了继续沿着各种备用计划的联合可行性，以考虑慢推理者的潜伏的延迟，从而确保安全。研究表明，快速异常分类器在资源和时间约束下提高了动态机器人系统的可信度。 <div>
 Foundation models, e.g., large language models (LLMs), trained on
 internet-scale data possess zero-shot generalization capabilities that make
@@ -36,16 +37,15 @@ our approach in both simulation and real-world experiments are available on
 this project page: https://sites.google.com/view/aesop-llm.
 ]]></content:encoded>
 <pubDate>2024-07-11T17:59:22Z</pubDate>
-<pubDate>2024-07-11T17:59:22Z</pubDate>
 </item>
 <item>
 <title>MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces</title>
 <link>http://arxiv.org/abs/2407.08725v1</link>
 <guid>http://arxiv.org/abs/2407.08725v1</guid>
 <content:encoded><![CDATA[
-<div> Urban spaces, Robotics, Embodied AI, MetaUrban, Simulation<br>
-<br>
-本文介绍了MetaUrban，这是一个用于城市空间中体验智能研究的组合仿真平台。该平台可以构建无限数量的互动城市场景，涵盖广泛的地面规划、物体摆放、行人、脆弱道路使用者和其他移动代理的外观和动态。研究设计了点导航和社交导航任务作为使用MetaUrban进行体验智能研究的初步研究，并建立了强化学习和模仿学习的各种基线。实验证明，模拟环境的组合性质可以显著提高训练移动代理的泛化能力和安全性。 MetaUrban将公开提供，以提供更多研究机会，并促进城市空间中安全可靠的体验智能。 <br><br>总结: Urban spaces, Robotics, Embodied AI, MetaUrban, Simulation <div>
+<div> Urban spaces, Robotics, Embodied AI, MetaUrban, Simulation<br />
+<br />
+本文介绍了MetaUrban，这是一个用于城市空间中体验智能研究的组合仿真平台。该平台可以构建无限数量的互动城市场景，涵盖广泛的地面规划、物体摆放、行人、脆弱道路使用者和其他移动代理的外观和动态。研究设计了点导航和社交导航任务作为使用MetaUrban进行体验智能研究的初步研究，并建立了强化学习和模仿学习的各种基线。实验证明，模拟环境的组合性质可以显著提高训练移动代理的泛化能力和安全性。 MetaUrban将公开提供，以提供更多研究机会，并促进城市空间中安全可靠的体验智能。 <br /><br />总结: Urban spaces, Robotics, Embodied AI, MetaUrban, Simulation <div>
 Public urban spaces like streetscapes and plazas serve residents and
 accommodate social life in all its vibrant variations. Recent advances in
 Robotics and Embodied AI make public urban spaces no longer exclusive to
@@ -67,9 +67,7 @@ agents. MetaUrban will be made publicly available to provide more research
 opportunities and foster safe and trustworthy embodied AI in urban spaces.
 ]]></content:encoded>
 <pubDate>2024-07-11T17:56:49Z</pubDate>
-<pubDate>2024-07-11T17:56:49Z</pubDate>
 </item>
-
 <item>
 <title>Generative Image as Action Models</title>
 <link>http://arxiv.org/abs/2407.07875v1</link>

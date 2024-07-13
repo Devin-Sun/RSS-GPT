@@ -7874,3 +7874,22 @@ Filter: [Topological Generalization Bounds for Discrete-Time Stochastic
   Optimization Algorithms](http://arxiv.org/abs/2407.08723v1)
 append_entries: 2
 Finish: 2024-07-12 12:17:08.735022
+------------------------------------------------------
+Started: 2024-07-13 00:41:15.296572
+Existing_entries: 203
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MAVIS: Mathematical Visual Instruction Tuning](http://arxiv.org/abs/2407.08739v1)
+Filter: [Video Diffusion Alignment via Reward Gradients](http://arxiv.org/abs/2407.08737v1)
+Filter: [Transformer Circuit Faithfulness Metrics are not Robust](http://arxiv.org/abs/2407.08734v1)
+Filter: [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical
+  Reasoning with Checklist](http://arxiv.org/abs/2407.08733v1)
+Filter: [Evaluating Deep Neural Networks in Deployment (A Comparative and
+  Replicability Study)](http://arxiv.org/abs/2407.08730v1)
+Filter: [BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud
+  Registration](http://arxiv.org/abs/2407.08729v1)
+Filter: [Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using
+  Large-scale Public Data](http://arxiv.org/abs/2407.08726v1)
+Filter: [Topological Generalization Bounds for Discrete-Time Stochastic
+  Optimization Algorithms](http://arxiv.org/abs/2407.08723v1)
+append_entries: 0
+Finish: 2024-07-13 00:41:16.334175
