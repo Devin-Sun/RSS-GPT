@@ -8010,3 +8010,28 @@ Filter: [GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control](http:/
 Filter: [Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators](http://arxiv.org/abs/2407.09453v1)
 append_entries: 0
 Finish: 2024-07-16 00:41:36.926892
+------------------------------------------------------
+Started: 2024-07-16 12:17:03.321830
+Existing_entries: 204
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1099
+Summarized using GPT-3.5-turbo-1106
+Append: [Make-An-Agent: A Generalizable Policy Network Generator with
+  Behavior-Prompted Diffusion](http://arxiv.org/abs/2407.10973v1)
+Filter: [VGBench: Evaluating Large Language Models on Vector Graphics
+  Understanding and Generation](http://arxiv.org/abs/2407.10972v1)
+Filter: [Walking the Values in Bayesian Inverse Reinforcement Learning](http://arxiv.org/abs/2407.10971v1)
+Filter: [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](http://arxiv.org/abs/2407.10969v1)
+Filter: [BECAUSE: Bilinear Causal Representation for Generalizable Offline
+  Model-based Reinforcement Learning](http://arxiv.org/abs/2407.10967v1)
+Filter: [No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen
+  Representations](http://arxiv.org/abs/2407.10964v1)
+Filter: [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](http://arxiv.org/abs/2407.10960v1)
+Filter: [A unified theory and statistical learning approach for traffic conflict
+  detection](http://arxiv.org/abs/2407.10959v1)
+Filter: [InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models](http://arxiv.org/abs/2407.10958v1)
+Token length: 1232
+Summarized using GPT-3.5-turbo-1106
+Append: [Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes](http://arxiv.org/abs/2407.10957v1)
+append_entries: 2
+Finish: 2024-07-16 12:17:13.362446
