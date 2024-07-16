@@ -7991,3 +7991,22 @@ Filter: [GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control](http:/
 Filter: [Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators](http://arxiv.org/abs/2407.09453v1)
 append_entries: 1
 Finish: 2024-07-15 12:17:11.167096
+------------------------------------------------------
+Started: 2024-07-16 00:41:35.594600
+Existing_entries: 204
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Integer programs with nearly totally unimodular matrices: the cographic
+  case](http://arxiv.org/abs/2407.09477v1)
+Filter: [Adaptive Prediction Ensemble: Improving Out-of-Distribution
+  Generalization of Motion Forecasting](http://arxiv.org/abs/2407.09475v1)
+Filter: [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](http://arxiv.org/abs/2407.09473v1)
+Filter: [Learning Coordinated Maneuver in Adversarial Environments](http://arxiv.org/abs/2407.09469v1)
+Filter: [Beyond Euclid: An Illustrated Guide to Modern Machine Learning with
+  Geometric, Topological, and Algebraic Structures](http://arxiv.org/abs/2407.09468v1)
+Filter: [TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event
+  Simulation for Enhanced safety](http://arxiv.org/abs/2407.09466v1)
+Filter: [Interactive Coding with Unbounded Noise](http://arxiv.org/abs/2407.09463v1)
+Filter: [GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control](http://arxiv.org/abs/2407.09459v1)
+Filter: [Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators](http://arxiv.org/abs/2407.09453v1)
+append_entries: 0
+Finish: 2024-07-16 00:41:36.926892

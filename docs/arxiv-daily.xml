@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3</title>
 <link>http://arxiv.org/abs/2407.09467v1</link>
@@ -39,9 +40,7 @@ making complex moral narratives accessible and enjoyable for young, imaginative
 minds.
 ]]></content:encoded>
 <pubDate>2024-07-12T17:46:58Z</pubDate>
-<pubDate>2024-07-12T17:46:58Z</pubDate>
 </item>
-
 <item>
 <title>Real-Time Anomaly Detection and Reactive Planning with Large Language
   Models</title>
