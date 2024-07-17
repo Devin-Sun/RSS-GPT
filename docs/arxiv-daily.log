@@ -8035,3 +8035,21 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes](http://arxiv.org/abs/2407.10957v1)
 append_entries: 2
 Finish: 2024-07-16 12:17:13.362446
+------------------------------------------------------
+Started: 2024-07-17 00:41:45.525201
+Existing_entries: 206
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [VGBench: Evaluating Large Language Models on Vector Graphics
+  Understanding and Generation](http://arxiv.org/abs/2407.10972v1)
+Filter: [Walking the Values in Bayesian Inverse Reinforcement Learning](http://arxiv.org/abs/2407.10971v1)
+Filter: [Q-Sparse: All Large Language Models can be Fully Sparsely-Activated](http://arxiv.org/abs/2407.10969v1)
+Filter: [BECAUSE: Bilinear Causal Representation for Generalizable Offline
+  Model-based Reinforcement Learning](http://arxiv.org/abs/2407.10967v1)
+Filter: [No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen
+  Representations](http://arxiv.org/abs/2407.10964v1)
+Filter: [Fast Matrix Multiplications for Lookup Table-Quantized LLMs](http://arxiv.org/abs/2407.10960v1)
+Filter: [A unified theory and statistical learning approach for traffic conflict
+  detection](http://arxiv.org/abs/2407.10959v1)
+Filter: [InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models](http://arxiv.org/abs/2407.10958v1)
+append_entries: 0
+Finish: 2024-07-17 00:41:46.246186
