@@ -4,6 +4,100 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Does Refusal Training in LLMs Generalize to the Past Tense?</title>
+<link>http://arxiv.org/abs/2407.11969v1</link>
+<guid>http://arxiv.org/abs/2407.11969v1</guid>
+<content:encoded><![CDATA[
+<div> 对齐技术, 拒绝训练, 过去时态, 失效, 模型攻击
+
+拒绝训练是用来防止大型语言模型(LLMs)生成有害、不良或非法输出的方法。本文发现了目前拒绝训练方法中的一个有趣的普遍缺陷：简单地将一个有害的请求改写为过去时态(例如，“如何制作汽油弹？”改写为“人们如何制作汽油弹？”)通常足以逃过许多最先进的LLMs的限制。作者对多个模型进行了系统评估，并发现这种简单攻击对大部分模型都取得了成功。此外，作者还发现将请求改写为将来时态的方法效果较差，这表明拒绝保护栏倾向于将过去历史性问题视为比假设的将来问题更为温和。作者的实验证明，当过去时态的例子被明确地包括在微调数据中时，对抗过去时态改写是可行的。总的来说，作者的研究结果凸显出当前广泛使用的对齐技术在应对模型攻击时可能存在脆弱性，并且并不能总是按预期的那样进行泛化。 <div>
+Refusal training is widely used to prevent LLMs from generating harmful,
+undesirable, or illegal outputs. We reveal a curious generalization gap in the
+current refusal training approaches: simply reformulating a harmful request in
+the past tense (e.g., "How to make a Molotov cocktail?" to "How did people make
+a Molotov cocktail?") is often sufficient to jailbreak many state-of-the-art
+LLMs. We systematically evaluate this method on Llama-3 8B, GPT-3.5 Turbo,
+Gemma-2 9B, Phi-3-Mini, GPT-4o, and R2D2 models using GPT-3.5 Turbo as a
+reformulation model. For example, the success rate of this simple attack on
+GPT-4o increases from 1% using direct requests to 88% using 20 past tense
+reformulation attempts on harmful requests from JailbreakBench with GPT-4 as a
+jailbreak judge. Interestingly, we also find that reformulations in the future
+tense are less effective, suggesting that refusal guardrails tend to consider
+past historical questions more benign than hypothetical future questions.
+Moreover, our experiments on fine-tuning GPT-3.5 Turbo show that defending
+against past reformulations is feasible when past tense examples are explicitly
+included in the fine-tuning data. Overall, our findings highlight that the
+widely used alignment techniques -- such as SFT, RLHF, and adversarial training
+-- employed to align the studied models can be brittle and do not always
+generalize as intended. We provide code and jailbreak artifacts at
+https://github.com/tml-epfl/llm-past-tense.
+]]></content:encoded>
+<pubDate>2024-07-16T17:59:55Z</pubDate>
+<pubDate>2024-07-16T17:59:55Z</pubDate>
+</item>
+<item>
+<title>Efficient Training with Denoised Neural Weights</title>
+<link>http://arxiv.org/abs/2407.11966v1</link>
+<guid>http://arxiv.org/abs/2407.11966v1</guid>
+<content:encoded><![CDATA[
+<div> 权重初始化、深度神经网络模型、生成对抗网络、图像转换任务、训练加速
+
+总结:<br><br>这项工作旨在解决深度神经网络模型权重初始化的挑战，通过构建一个权重生成器来合成神经网络的初始权重。作者以生成对抗网络在图像转换任务中的应用为例，收集了各种图像编辑概念及其对应的训练权重数据集，并利用这些数据集训练了一个扩散模型。该模型通过文本条件和块索引来预测权重，成功地将图像转换模型的训练时间从43.3秒大大加速，且生成质量更好，为权重初始化带来了创新的解决方案。 <div>
+Good weight initialization serves as an effective measure to reduce the
+training cost of a deep neural network (DNN) model. The choice of how to
+initialize parameters is challenging and may require manual tuning, which can
+be time-consuming and prone to human error. To overcome such limitations, this
+work takes a novel step towards building a weight generator to synthesize the
+neural weights for initialization. We use the image-to-image translation task
+with generative adversarial networks (GANs) as an example due to the ease of
+collecting model weights spanning a wide range. Specifically, we first collect
+a dataset with various image editing concepts and their corresponding trained
+weights, which are later used for the training of the weight generator. To
+address the different characteristics among layers and the substantial number
+of weights to be predicted, we divide the weights into equal-sized blocks and
+assign each block an index. Subsequently, a diffusion model is trained with
+such a dataset using both text conditions of the concept and the block indexes.
+By initializing the image translation model with the denoised weights predicted
+by our diffusion model, the training requires only 43.3 seconds. Compared to
+training from scratch (i.e., Pix2pix), we achieve a 15x training time
+acceleration for a new concept while obtaining even better image generation
+quality.
+]]></content:encoded>
+<pubDate>2024-07-16T17:59:42Z</pubDate>
+<pubDate>2024-07-16T17:59:42Z</pubDate>
+</item>
+<item>
+<title>UrbanWorld: An Urban World Model for 3D City Generation</title>
+<link>http://arxiv.org/abs/2407.11965v1</link>
+<guid>http://arxiv.org/abs/2407.11965v1</guid>
+<content:encoded><![CDATA[
+
+Cities, as the most fundamental environment of human life, encompass diverse
+physical elements such as buildings, roads and vegetation with complex
+interconnection. Crafting realistic, interactive 3D urban environments plays a
+crucial role in constructing AI agents capable of perceiving, decision-making,
+and acting like humans in real-world environments. However, creating
+high-fidelity 3D urban environments usually entails extensive manual labor from
+designers, involving intricate detailing and accurate representation of complex
+urban features. Therefore, how to accomplish this in an automatical way remains
+a longstanding challenge. Toward this problem, we propose UrbanWorld, the first
+generative urban world model that can automatically create a customized,
+realistic and interactive 3D urban world with flexible control conditions.
+UrbanWorld incorporates four key stages in the automatical crafting pipeline:
+3D layout generation from openly accessible OSM data, urban scene planning and
+designing with a powerful urban multimodal large language model (Urban MLLM),
+controllable urban asset rendering with advanced 3D diffusion techniques, and
+finally the MLLM-assisted scene refinement. The crafted high-fidelity 3D urban
+environments enable realistic feedback and interactions for general AI and
+machine perceptual systems in simulations. We are working on contributing
+UrbanWorld as an open-source and versatile platform for evaluating and
+improving AI abilities in perception, decision-making, and interaction in
+realistic urban environments.
+]]></content:encoded>
+<pubDate>2024-07-16T17:59:29Z</pubDate>
+<pubDate>2024-07-16T17:59:29Z</pubDate>
+</item>
 
 <item>
 <title>Make-An-Agent: A Generalizable Policy Network Generator with

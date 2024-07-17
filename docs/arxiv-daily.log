@@ -8053,3 +8053,27 @@ Filter: [A unified theory and statistical learning approach for traffic conflict
 Filter: [InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models](http://arxiv.org/abs/2407.10958v1)
 append_entries: 0
 Finish: 2024-07-17 00:41:46.246186
+------------------------------------------------------
+Started: 2024-07-17 12:16:36.841225
+Existing_entries: 206
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1489
+Summarized using GPT-3.5-turbo-1106
+Append: [Does Refusal Training in LLMs Generalize to the Past Tense?](http://arxiv.org/abs/2407.11969v1)
+Filter: [Hydra: Brokering Cloud and HPC Resources to Support the Execution of
+  Heterogeneous Workloads at Scale](http://arxiv.org/abs/2407.11967v1)
+Token length: 1390
+Summarized using GPT-3.5-turbo-1106
+Append: [Efficient Training with Denoised Neural Weights](http://arxiv.org/abs/2407.11966v1)
+Append: [UrbanWorld: An Urban World Model for 3D City Generation](http://arxiv.org/abs/2407.11965v1)
+Filter: [NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context
+  Window?](http://arxiv.org/abs/2407.11963v1)
+Filter: [Motion-Oriented Compositional Neural Radiance Fields for Monocular
+  Dynamic Human Modeling](http://arxiv.org/abs/2407.11962v1)
+Filter: [Faster Algorithms for Schatten-p Low Rank Approximation](http://arxiv.org/abs/2407.11959v1)
+Filter: [A Transformer-based Approach for Augmenting Software Engineering
+  Chatbots Datasets](http://arxiv.org/abs/2407.11955v1)
+Filter: [Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation](http://arxiv.org/abs/2407.11954v1)
+Filter: [Temporally Consistent Stereo Matching](http://arxiv.org/abs/2407.11950v1)
+append_entries: 3
+Finish: 2024-07-17 12:16:46.512481
