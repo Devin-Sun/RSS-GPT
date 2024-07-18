@@ -8094,3 +8094,25 @@ Filter: [Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation](h
 Filter: [Temporally Consistent Stereo Matching](http://arxiv.org/abs/2407.11950v1)
 append_entries: 0
 Finish: 2024-07-18 00:40:44.128668
+------------------------------------------------------
+Started: 2024-07-18 12:16:59.999365
+Existing_entries: 209
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1873
+Summarized using GPT-3.5-turbo-1106
+Append: [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge
+  Bases](http://arxiv.org/abs/2407.12784v1)
+Filter: [SMooDi: Stylized Motion Diffusion Model](http://arxiv.org/abs/2407.12783v1)
+Filter: [Contrastive Adversarial Training for Unsupervised Domain Adaptation](http://arxiv.org/abs/2407.12782v1)
+Token length: 1146
+Summarized using GPT-3.5-turbo-1106
+Append: [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](http://arxiv.org/abs/2407.12781v1)
+Filter: [Generalizable Human Gaussians for Sparse View Synthesis](http://arxiv.org/abs/2407.12777v1)
+Filter: [OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect
+  Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides](http://arxiv.org/abs/2407.12773v1)
+Append: [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](http://arxiv.org/abs/2407.12772v1)
+Filter: [The Role of Network and Identity in the Diffusion of Hashtags](http://arxiv.org/abs/2407.12771v1)
+Filter: [A polynomial-time classical algorithm for noisy quantum circuits](http://arxiv.org/abs/2407.12768v1)
+Filter: [Jigsaw Game: Federated Clustering](http://arxiv.org/abs/2407.12764v1)
+append_entries: 3
+Finish: 2024-07-18 12:17:09.053226
