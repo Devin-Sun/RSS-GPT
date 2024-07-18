@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Does Refusal Training in LLMs Generalize to the Past Tense?</title>
 <link>http://arxiv.org/abs/2407.11969v1</link>
@@ -34,7 +35,6 @@ generalize as intended. We provide code and jailbreak artifacts at
 https://github.com/tml-epfl/llm-past-tense.
 ]]></content:encoded>
 <pubDate>2024-07-16T17:59:55Z</pubDate>
-<pubDate>2024-07-16T17:59:55Z</pubDate>
 </item>
 <item>
 <title>Efficient Training with Denoised Neural Weights</title>
@@ -43,7 +43,7 @@ https://github.com/tml-epfl/llm-past-tense.
 <content:encoded><![CDATA[
 <div> 权重初始化、深度神经网络模型、生成对抗网络、图像转换任务、训练加速
 
-总结:<br><br>这项工作旨在解决深度神经网络模型权重初始化的挑战，通过构建一个权重生成器来合成神经网络的初始权重。作者以生成对抗网络在图像转换任务中的应用为例，收集了各种图像编辑概念及其对应的训练权重数据集，并利用这些数据集训练了一个扩散模型。该模型通过文本条件和块索引来预测权重，成功地将图像转换模型的训练时间从43.3秒大大加速，且生成质量更好，为权重初始化带来了创新的解决方案。 <div>
+总结:<br /><br />这项工作旨在解决深度神经网络模型权重初始化的挑战，通过构建一个权重生成器来合成神经网络的初始权重。作者以生成对抗网络在图像转换任务中的应用为例，收集了各种图像编辑概念及其对应的训练权重数据集，并利用这些数据集训练了一个扩散模型。该模型通过文本条件和块索引来预测权重，成功地将图像转换模型的训练时间从43.3秒大大加速，且生成质量更好，为权重初始化带来了创新的解决方案。 <div>
 Good weight initialization serves as an effective measure to reduce the
 training cost of a deep neural network (DNN) model. The choice of how to
 initialize parameters is challenging and may require manual tuning, which can
@@ -65,14 +65,12 @@ acceleration for a new concept while obtaining even better image generation
 quality.
 ]]></content:encoded>
 <pubDate>2024-07-16T17:59:42Z</pubDate>
-<pubDate>2024-07-16T17:59:42Z</pubDate>
 </item>
 <item>
 <title>UrbanWorld: An Urban World Model for 3D City Generation</title>
 <link>http://arxiv.org/abs/2407.11965v1</link>
 <guid>http://arxiv.org/abs/2407.11965v1</guid>
 <content:encoded><![CDATA[
-
 Cities, as the most fundamental environment of human life, encompass diverse
 physical elements such as buildings, roads and vegetation with complex
 interconnection. Crafting realistic, interactive 3D urban environments plays a
@@ -96,9 +94,7 @@ improving AI abilities in perception, decision-making, and interaction in
 realistic urban environments.
 ]]></content:encoded>
 <pubDate>2024-07-16T17:59:29Z</pubDate>
-<pubDate>2024-07-16T17:59:29Z</pubDate>
 </item>
-
 <item>
 <title>Make-An-Agent: A Generalizable Policy Network Generator with
   Behavior-Prompted Diffusion</title>
