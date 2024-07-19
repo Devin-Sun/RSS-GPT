@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge
   Bases</title>
@@ -14,7 +15,7 @@
 LLM agents, AgentPoison, backdoor attack, memory, RAG mechanism
 
 总结:
-LLM agents在各种应用中表现出色，但对未经验证的知识基础的依赖引发了安全和可信度问题。为此，提出了一种新颖的红队模式攻击方法AgentPoison，通过对长期记忆或RAG知识库进行毒化来攻击LLM agents。与传统的后门攻击不同，AgentPoison无需额外的模型训练或微调，并且优化的后门触发器具有出色的可转移性、上下文连贯性和隐蔽性。大量实验证明了AgentPoison对三种现实世界的LLM agents的攻击有效性。在每个agent上，AgentPoison的平均攻击成功率高于80%，对善意性能的影响很小(小于1%)，毒化率小于0.1%。 <br><br> <div>
+LLM agents在各种应用中表现出色，但对未经验证的知识基础的依赖引发了安全和可信度问题。为此，提出了一种新颖的红队模式攻击方法AgentPoison，通过对长期记忆或RAG知识库进行毒化来攻击LLM agents。与传统的后门攻击不同，AgentPoison无需额外的模型训练或微调，并且优化的后门触发器具有出色的可转移性、上下文连贯性和隐蔽性。大量实验证明了AgentPoison对三种现实世界的LLM agents的攻击有效性。在每个agent上，AgentPoison的平均攻击成功率高于80%，对善意性能的影响很小(小于1%)，毒化率小于0.1%。 <br /><br /> <div>
 LLM agents have demonstrated remarkable performance across various
 applications, primarily due to their advanced capabilities in reasoning,
 utilizing external knowledge and tools, calling APIs, and executing actions to
@@ -42,15 +43,14 @@ higher than 80% with minimal impact on benign performance (less than 1%) with a
 poison rate less than 0.1%.
 ]]></content:encoded>
 <pubDate>2024-07-17T17:59:47Z</pubDate>
-<pubDate>2024-07-17T17:59:47Z</pubDate>
 </item>
 <item>
 <title>VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control</title>
 <link>http://arxiv.org/abs/2407.12781v1</link>
 <guid>http://arxiv.org/abs/2407.12781v1</guid>
 <content:encoded><![CDATA[
-<div> Transformer-based video synthesis, camera control, U-Net-based diffusion models, spatial and temporal generation, ControlNet-like conditioning mechanism<br>
-<br>总结:<br>该文章介绍了现代文本到视频合成模型，这些模型能够从文本描述生成连贯、逼真的视频。然而，现有模型大多缺乏对相机运动的精细控制，这在涉及内容创作、视觉效果和3D视觉的下游应用中至关重要。最近的新方法展示了生成具有可控相机姿势的视频的能力，这些技术利用了预训练的基于U-Net的扩散模型，明确地分离了空间和时间生成。然而，目前还没有现有方法能够对处理空间和时间信息的基于transformer的视频扩散模型进行相机控制。因此，该论文提出了使用类似ControlNet的调节机制，通过Plucker坐标结合时空相机嵌入，对3D相机进行transformer的调控。在RealEstate10K数据集上进行微调后，该方法展示了在可控视频生成方面的最新性能。据我们所知，这项工作是首次为基于transformer的视频扩散模型实现了相机控制。 <div>
+<div> Transformer-based video synthesis, camera control, U-Net-based diffusion models, spatial and temporal generation, ControlNet-like conditioning mechanism<br />
+<br />总结:<br />该文章介绍了现代文本到视频合成模型，这些模型能够从文本描述生成连贯、逼真的视频。然而，现有模型大多缺乏对相机运动的精细控制，这在涉及内容创作、视觉效果和3D视觉的下游应用中至关重要。最近的新方法展示了生成具有可控相机姿势的视频的能力，这些技术利用了预训练的基于U-Net的扩散模型，明确地分离了空间和时间生成。然而，目前还没有现有方法能够对处理空间和时间信息的基于transformer的视频扩散模型进行相机控制。因此，该论文提出了使用类似ControlNet的调节机制，通过Plucker坐标结合时空相机嵌入，对3D相机进行transformer的调控。在RealEstate10K数据集上进行微调后，该方法展示了在可控视频生成方面的最新性能。据我们所知，这项工作是首次为基于transformer的视频扩散模型实现了相机控制。 <div>
 Modern text-to-video synthesis models demonstrate coherent, photorealistic
 generation of complex videos from a text description. However, most existing
 models lack fine-grained control over camera movement, which is critical for
@@ -69,14 +69,12 @@ work is the first to enable camera control for transformer-based video
 diffusion models.
 ]]></content:encoded>
 <pubDate>2024-07-17T17:59:05Z</pubDate>
-<pubDate>2024-07-17T17:59:05Z</pubDate>
 </item>
 <item>
 <title>LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models</title>
 <link>http://arxiv.org/abs/2407.12772v1</link>
 <guid>http://arxiv.org/abs/2407.12772v1</guid>
 <content:encoded><![CDATA[
-
 The advances of large foundation models necessitate wide-coverage, low-cost,
 and zero-contamination benchmarks. Despite continuous exploration of language
 model evaluations, comprehensive studies on the evaluation of Large Multi-modal
@@ -98,9 +96,7 @@ https://github.com/EvolvingLMMs-Lab/lmms-eval and
 https://huggingface.co/spaces/lmms-lab/LiveBench.
 ]]></content:encoded>
 <pubDate>2024-07-17T17:51:53Z</pubDate>
-<pubDate>2024-07-17T17:51:53Z</pubDate>
 </item>
-
 <item>
 <title>Does Refusal Training in LLMs Generalize to the Past Tense?</title>
 <link>http://arxiv.org/abs/2407.11969v1</link>
