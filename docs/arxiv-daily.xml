@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Streetscapes: Large-scale Consistent Street View Generation Using
   Autoregressive Video Diffusion</title>
 <link>http://arxiv.org/abs/2407.13759v1</link>
 <guid>http://arxiv.org/abs/2407.13759v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Streetscapes, 生成方法, 语言输入, 地图/布局, 训练数据<br>
-总结:<br>
-本文介绍了一种通过语言输入和地图/布局条件来生成Streetscapes（街景）的方法，该方法能够生成长序列的城市场景视图。与最近的视频生成或3D视图合成模型相比，该方法可以适用于跨越多个街区的长序列摄像机轨迹，并保持视觉质量和一致性。作者结合了视频扩散和自回归框架，引入了一种新的时间插值方法，以防止自回归方法偏离现实城市图像的分布。他们使用Google Street View的图像和上下文地图数据对Streetscapes系统进行训练，使用户能够根据所需的城市布局生成城市视图，并控制摄像机位置。详细结果请参阅项目页面https://boyangdeng.com/streetscapes。<br> <div>
+<div> 关键词: Streetscapes, 生成方法, 语言输入, 地图/布局, 训练数据<br />
+总结:<br />
+本文介绍了一种通过语言输入和地图/布局条件来生成Streetscapes（街景）的方法，该方法能够生成长序列的城市场景视图。与最近的视频生成或3D视图合成模型相比，该方法可以适用于跨越多个街区的长序列摄像机轨迹，并保持视觉质量和一致性。作者结合了视频扩散和自回归框架，引入了一种新的时间插值方法，以防止自回归方法偏离现实城市图像的分布。他们使用Google Street View的图像和上下文地图数据对Streetscapes系统进行训练，使用户能够根据所需的城市布局生成城市视图，并控制摄像机位置。详细结果请参阅项目页面https://boyangdeng.com/streetscapes。<br /> <div>
 We present a method for generating Streetscapes-long sequences of views
 through an on-the-fly synthesized city-scale scene. Our generation is
 conditioned by language input (e.g., city name, weather), as well as an
@@ -30,9 +31,7 @@ any desired city layout, with controllable camera poses. Please see more
 results at our project page at https://boyangdeng.com/streetscapes.
 ]]></content:encoded>
 <pubDate>2024-07-18T17:56:30Z</pubDate>
-<pubDate>2024-07-18T17:56:30Z</pubDate>
 </item>
-
 <item>
 <title>AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge
   Bases</title>
