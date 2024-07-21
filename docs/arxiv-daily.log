@@ -8191,3 +8191,22 @@ Filter: [Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generatio
   of Large Language Models](http://arxiv.org/abs/2407.13757v1)
 append_entries: 0
 Finish: 2024-07-20 12:14:29.205723
+------------------------------------------------------
+Started: 2024-07-21 00:45:11.538060
+Existing_entries: 213
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GroupMamba: Parameter-Efficient and Accurate Group Visual State Space
+  Model](http://arxiv.org/abs/2407.13772v1)
+Filter: [Training-Free Model Merging for Multi-target Domain Adaptation](http://arxiv.org/abs/2407.13771v1)
+Filter: [Addressing Imbalance for Class Incremental Learning in Medical Image
+  Classification](http://arxiv.org/abs/2407.13768v1)
+Filter: [Visual Haystacks: Answering Harder Questions About Sets of Images](http://arxiv.org/abs/2407.13766v1)
+Filter: [Latent Causal Probing: A Formal Perspective on Probing with Causal
+  Models of Data](http://arxiv.org/abs/2407.13765v1)
+Filter: [Shape of Motion: 4D Reconstruction from a Single Video](http://arxiv.org/abs/2407.13764v1)
+Filter: [SegPoint: Segment Any Point Cloud via Large Language Model](http://arxiv.org/abs/2407.13761v1)
+Filter: [Neural Network Tire Force Modeling for Automated Drifting](http://arxiv.org/abs/2407.13760v1)
+Filter: [Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation
+  of Large Language Models](http://arxiv.org/abs/2407.13757v1)
+append_entries: 0
+Finish: 2024-07-21 00:45:12.794233
