@@ -8274,3 +8274,25 @@ Filter: [Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guide
   Augmentation](http://arxiv.org/abs/2407.14498v1)
 append_entries: 1
 Finish: 2024-07-22 12:16:55.151627
+------------------------------------------------------
+Started: 2024-07-23 00:41:46.113552
+Existing_entries: 214
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DEPICT: Diffusion-Enabled Permutation Importance for Image
+  Classification Tasks](http://arxiv.org/abs/2407.14509v1)
+Filter: [Internal Consistency and Self-Feedback in Large Language Models: A
+  Survey](http://arxiv.org/abs/2407.14507v1)
+Filter: [On Pre-training of Multimodal Language Models Customized for Chart
+  Understanding](http://arxiv.org/abs/2407.14506v1)
+Filter: [Nonlinear Schrödinger Network](http://arxiv.org/abs/2407.14504v1)
+Filter: [Catastrophic Goodhart: regularizing RLHF with KL divergence does not
+  mitigate heavy-tailed reward misspecification](http://arxiv.org/abs/2407.14503v1)
+Filter: [M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models](http://arxiv.org/abs/2407.14502v1)
+Filter: [Indoor Air Quality Dataset with Activities of Daily Living in Low to
+  Middle-income Communities](http://arxiv.org/abs/2407.14501v1)
+Filter: [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated
+  Concept Discovery](http://arxiv.org/abs/2407.14499v1)
+Filter: [Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided
+  Augmentation](http://arxiv.org/abs/2407.14498v1)
+append_entries: 0
+Finish: 2024-07-23 00:41:47.328434

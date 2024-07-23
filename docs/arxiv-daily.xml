@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video
   Generation</title>
@@ -14,7 +15,7 @@
 Text-to-video (T2V) generation, compositional, benchmark, metrics, models
 
 总结:
-T2V-CompBench是第一个针对组合文本到视频生成的基准测试。它包括一系列组合元素的评估，以及几种不同的评估指标。这项研究发现，目前的模型在组合文本到视频生成方面仍然面临很大挑战。通过与人工评估结果的相关性验证了提出的评估指标的有效性。我们还对各种文本到视频生成模型进行了基准测试和深入分析。这项研究为未来在这个方向的研究提供了一些启示。 <br><br>总结:提出了T2V-CompBench基准测试，包括组合成分的评估和多种评估指标。发现当前模型在组合文本到视频生成方面面临挑战，建议未来在这方面进行更深入的研究。 <div>
+T2V-CompBench是第一个针对组合文本到视频生成的基准测试。它包括一系列组合元素的评估，以及几种不同的评估指标。这项研究发现，目前的模型在组合文本到视频生成方面仍然面临很大挑战。通过与人工评估结果的相关性验证了提出的评估指标的有效性。我们还对各种文本到视频生成模型进行了基准测试和深入分析。这项研究为未来在这个方向的研究提供了一些启示。 <br /><br />总结:提出了T2V-CompBench基准测试，包括组合成分的评估和多种评估指标。发现当前模型在组合文本到视频生成方面面临挑战，建议未来在这方面进行更深入的研究。 <div>
 Text-to-video (T2V) generation models have advanced significantly, yet their
 ability to compose different objects, attributes, actions, and motions into a
 video remains unexplored. Previous text-to-video benchmarks also neglect this
@@ -35,9 +36,7 @@ generation is highly challenging for current models, and we hope that our
 attempt will shed light on future research in this direction.
 ]]></content:encoded>
 <pubDate>2024-07-19T17:58:36Z</pubDate>
-<pubDate>2024-07-19T17:58:36Z</pubDate>
 </item>
-
 <item>
 <title>Streetscapes: Large-scale Consistent Street View Generation Using
   Autoregressive Video Diffusion</title>
