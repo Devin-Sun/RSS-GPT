@@ -8296,3 +8296,25 @@ Filter: [Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guide
   Augmentation](http://arxiv.org/abs/2407.14498v1)
 append_entries: 0
 Finish: 2024-07-23 00:41:47.328434
+------------------------------------------------------
+Started: 2024-07-23 12:16:32.103237
+Existing_entries: 214
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description](http://arxiv.org/abs/2407.15850v1)
+Filter: [BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis
+  in Large-scale Scenes](http://arxiv.org/abs/2407.15848v1)
+Filter: [WayEx: Waypoint Exploration using a Single Demonstration](http://arxiv.org/abs/2407.15849v1)
+Filter: [LLMmap: Fingerprinting For Large Language Models](http://arxiv.org/abs/2407.15847v1)
+Filter: [Reconstructing Training Data From Real World Models Trained with
+  Transfer Learning](http://arxiv.org/abs/2407.15845v1)
+Filter: [CarFormer: Self-Driving with Learned Object-Centric Representations](http://arxiv.org/abs/2407.15843v1)
+Filter: [HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global
+  Positioning](http://arxiv.org/abs/2407.15844v1)
+Filter: [Artist: Aesthetically Controllable Text-Driven Stylization without
+  Training](http://arxiv.org/abs/2407.15842v1)
+Filter: [SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language
+  Models](http://arxiv.org/abs/2407.15841v1)
+Filter: [QueST: Self-Supervised Skill Abstractions for Learning Continuous
+  Control](http://arxiv.org/abs/2407.15840v1)
+append_entries: 0
+Finish: 2024-07-23 12:16:33.090320
