@@ -4,6 +4,32 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Can Large Language Models Automatically Jailbreak GPT-4V?</title>
+<link>http://arxiv.org/abs/2407.16686v1</link>
+<guid>http://arxiv.org/abs/2407.16686v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态信息处理, 隐私泄露, 自动越狱技术, 大语言模型, 安全加固<br>
+<br>研究引入了AutoJailbreak，这是一种受提示优化启发的创新自动越狱技术。通过使用大语言模型(LLMs)进行红队行动来完善越狱提示，并利用弱到强的上下文学习提示来提高效率。另外，研究提出了一种有效的搜索方法，结合了提前停止来减少优化时间和令牌消耗。实验证明，AutoJailbreak明显优于传统方法，攻击成功率(ASR)超过了95.3\%。这项研究为加强GPT-4V安全性提供了启示，并强调了潜在的大语言模型被利用来损害GPT-4V完整性的可能性。 <br><br>总结: 多模态信息处理的GPT-4V在隐私泄露方面存在安全问题，研究介绍了一种新的自动越狱技术AutoJailbreak，利用大语言模型进行红队行动，提出了有效的搜索方法，实验证明其攻击成功率显著高于传统方法。这项研究强调了大语言模型可能被利用来损害GPT-4V的完整性。 <div>
+GPT-4V has attracted considerable attention due to its extraordinary capacity
+for integrating and processing multimodal information. At the same time, its
+ability of face recognition raises new safety concerns of privacy leakage.
+Despite researchers' efforts in safety alignment through RLHF or preprocessing
+filters, vulnerabilities might still be exploited. In our study, we introduce
+AutoJailbreak, an innovative automatic jailbreak technique inspired by prompt
+optimization. We leverage Large Language Models (LLMs) for red-teaming to
+refine the jailbreak prompt and employ weak-to-strong in-context learning
+prompts to boost efficiency. Furthermore, we present an effective search method
+that incorporates early stopping to minimize optimization time and token
+expenditure. Our experiments demonstrate that AutoJailbreak significantly
+surpasses conventional methods, achieving an Attack Success Rate (ASR)
+exceeding 95.3\%. This research sheds light on strengthening GPT-4V security,
+underscoring the potential for LLMs to be exploited in compromising GPT-4V
+integrity.
+]]></content:encoded>
+<pubDate>2024-07-23T17:50:45Z</pubDate>
+<pubDate>2024-07-23T17:50:45Z</pubDate>
+</item>
 
 <item>
 <title>T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video

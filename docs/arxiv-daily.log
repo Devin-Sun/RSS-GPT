@@ -8340,3 +8340,25 @@ Filter: [QueST: Self-Supervised Skill Abstractions for Learning Continuous
   Control](http://arxiv.org/abs/2407.15840v2)
 append_entries: 0
 Finish: 2024-07-24 00:42:32.184689
+------------------------------------------------------
+Started: 2024-07-24 12:16:06.473639
+Existing_entries: 214
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Diffusion Models for Monocular Depth Estimation: Overcoming Challenging
+  Conditions](http://arxiv.org/abs/2407.16698v1)
+Filter: [AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset
+  for Efficient Transfer Learning and Open Algorithmic Benchmarking](http://arxiv.org/abs/2407.16697v1)
+Filter: [PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects](http://arxiv.org/abs/2407.16696v1)
+Filter: [Stress-Testing Long-Context Language Models with Lifelong ICL and Task
+  Haystack](http://arxiv.org/abs/2407.16695v1)
+Filter: [Aster: Fixing the Android TEE Ecosystem with Arm CCA](http://arxiv.org/abs/2407.16694v1)
+Filter: [Explanation Regularisation through the Lens of Attributions](http://arxiv.org/abs/2407.16693v1)
+Filter: [Automatic Equalization for Individual Instrument Tracks Using
+  Convolutional Neural Networks](http://arxiv.org/abs/2407.16691v1)
+Token length: 1074
+Summarized using GPT-3.5-turbo-1106
+Append: [Can Large Language Models Automatically Jailbreak GPT-4V?](http://arxiv.org/abs/2407.16686v1)
+Filter: [AutoRG-Brain: Grounded Report Generation for Brain MRI](http://arxiv.org/abs/2407.16684v1)
+Filter: [Gödel logics: Prenex fragments](http://arxiv.org/abs/2407.16683v1)
+append_entries: 1
+Finish: 2024-07-24 12:16:11.892675
