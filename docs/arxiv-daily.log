@@ -8381,3 +8381,30 @@ Filter: [AutoRG-Brain: Grounded Report Generation for Brain MRI](http://arxiv.or
 Filter: [Goedel logics: Prenex fragments](http://arxiv.org/abs/2407.16683v2)
 append_entries: 0
 Finish: 2024-07-25 00:41:31.378580
+------------------------------------------------------
+Started: 2024-07-25 12:16:24.923433
+Existing_entries: 215
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1001
+Summarized using GPT-3.5-turbo-1106
+Append: [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
+  Consistency](http://arxiv.org/abs/2407.17470v1)
+Filter: [I Could've Asked That: Reformulating Unanswerable Questions](http://arxiv.org/abs/2407.17469v1)
+Filter: [WildHallucinations: Evaluating Long-form Factuality in LLMs with
+  Real-World Entity Queries](http://arxiv.org/abs/2407.17468v1)
+Filter: [CMR Scaling Law: Predicting Critical Mixture Ratios for Continual
+  Pre-training of Language Models](http://arxiv.org/abs/2407.17467v1)
+Filter: [Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective
+  Reinforcement Learning](http://arxiv.org/abs/2407.17466v1)
+Filter: [u-$μ$P: The Unit-Scaled Maximal Update Parametrization](http://arxiv.org/abs/2407.17465v1)
+Token length: 996
+Summarized using GPT-3.5-turbo-1106
+Append: [Toward human-centered shared autonomy AI paradigms for human-robot
+  teaming in healthcare](http://arxiv.org/abs/2407.17464v1)
+Append: [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and
+  Constrained Reinforcement Learning](http://arxiv.org/abs/2407.17460v1)
+Filter: [Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics](http://arxiv.org/abs/2407.17459v1)
+Filter: [EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type
+  Classification](http://arxiv.org/abs/2407.17458v1)
+append_entries: 3
+Finish: 2024-07-25 12:16:32.646831
