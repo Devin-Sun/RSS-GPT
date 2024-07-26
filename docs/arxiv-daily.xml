@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
   Consistency</title>
 <link>http://arxiv.org/abs/2407.17470v1</link>
 <guid>http://arxiv.org/abs/2407.17470v1</guid>
 <content:encoded><![CDATA[
-<div> 生成模型，视频合成，动态3D对象，视图生成，训练数据<br>
-<br>
-本文介绍了Stable Video 4D（SV4D），一种用于多帧和多视图一致动态3D内容生成的潜在视频扩散模型。与之前依赖于分别训练的视频生成模型和新视图合成的方法不同，我们设计了一个统一的扩散模型来生成动态3D对象的新视图视频。具体来说，给定一个单眼参考视频，SV4D为每个视频帧生成了时域一致的新视图。然后，我们使用生成的新视图视频来高效地优化一个隐式的4D表示（动态NeRF），而无需在大多数先前的作品中使用的繁琐的基于SDS的优化。为了训练我们统一的新视图视频生成模型，我们从现有的Objaverse数据集中筛选了一个动态3D对象数据集。在多个数据集和用户研究上的广泛实验结果证明了SV4D在新视角视频合成和4D生成方面与先前工作相比的最新性能。 <br><br>总结: 本文提出了SV4D模型，通过统一的扩散模型生成动态3D对象的新视图视频，并能高效地优化4D表示，实验结果表明其在新视角视频合成和4D生成上表现优异。 <div>
+<div> 生成模型，视频合成，动态3D对象，视图生成，训练数据<br />
+<br />
+本文介绍了Stable Video 4D（SV4D），一种用于多帧和多视图一致动态3D内容生成的潜在视频扩散模型。与之前依赖于分别训练的视频生成模型和新视图合成的方法不同，我们设计了一个统一的扩散模型来生成动态3D对象的新视图视频。具体来说，给定一个单眼参考视频，SV4D为每个视频帧生成了时域一致的新视图。然后，我们使用生成的新视图视频来高效地优化一个隐式的4D表示（动态NeRF），而无需在大多数先前的作品中使用的繁琐的基于SDS的优化。为了训练我们统一的新视图视频生成模型，我们从现有的Objaverse数据集中筛选了一个动态3D对象数据集。在多个数据集和用户研究上的广泛实验结果证明了SV4D在新视角视频合成和4D生成方面与先前工作相比的最新性能。 <br /><br />总结: 本文提出了SV4D模型，通过统一的扩散模型生成动态3D对象的新视图视频，并能高效地优化4D表示，实验结果表明其在新视角视频合成和4D生成上表现优异。 <div>
 We present Stable Video 4D (SV4D), a latent video diffusion model for
 multi-frame and multi-view consistent dynamic 3D content generation. Unlike
 previous methods that rely on separately trained generative models for video
@@ -29,7 +30,6 @@ performance on novel-view video synthesis as well as 4D generation compared to
 prior works.
 ]]></content:encoded>
 <pubDate>2024-07-24T17:59:43Z</pubDate>
-<pubDate>2024-07-24T17:59:43Z</pubDate>
 </item>
 <item>
 <title>Toward human-centered shared autonomy AI paradigms for human-robot
@@ -37,7 +37,7 @@ prior works.
 <link>http://arxiv.org/abs/2407.17464v1</link>
 <guid>http://arxiv.org/abs/2407.17464v1</guid>
 <content:encoded><![CDATA[
-<div> 医疗机器人, 人工智能, 决策, 人机交互, 共享自治<br>
+<div> 医疗机器人, 人工智能, 决策, 人机交互, 共享自治<br />
 总结: 近年来，随着人工智能和计算工具的发展，智能范式已经出现，为不同领域的医疗机器人赋予了新的能力。然而，对于与动态最终用户或患者进行交互的医疗机器人来说，独立的决策和目标实现可能并不理想。因此，需要开发一种基于人类中心因素的自适应共享自治人工智能范式，以处理这一挑战，确保不会对人类造成伤害。 <div>
 With recent advancements in AI and computation tools, intelligent paradigms
 emerged to empower different fields such as healthcare robots with new
@@ -54,7 +54,6 @@ autonomy AI paradigm is required to be developed for the two interactive agents
 any possible ethical issues and guarantee no harm to humanity.
 ]]></content:encoded>
 <pubDate>2024-07-24T17:58:41Z</pubDate>
-<pubDate>2024-07-24T17:58:41Z</pubDate>
 </item>
 <item>
 <title>SoNIC: Safe Social Navigation with Adaptive Conformal Inference and
@@ -62,7 +61,6 @@ any possible ethical issues and guarantee no harm to humanity.
 <link>http://arxiv.org/abs/2407.17460v1</link>
 <guid>http://arxiv.org/abs/2407.17460v1</guid>
 <content:encoded><![CDATA[
-
 Reinforcement Learning (RL) has enabled social robots to generate
 trajectories without human-designed rules or interventions, which makes it more
 effective than hard-coded systems for generalizing to complex real-world
@@ -82,9 +80,7 @@ scenarios. Our code and video demos are available on our project website:
 https://sonic-social-nav.github.io/.
 ]]></content:encoded>
 <pubDate>2024-07-24T17:57:21Z</pubDate>
-<pubDate>2024-07-24T17:57:21Z</pubDate>
 </item>
-
 <item>
 <title>Can Large Language Models Automatically Jailbreak GPT-4V?</title>
 <link>http://arxiv.org/abs/2407.16686v1</link>
