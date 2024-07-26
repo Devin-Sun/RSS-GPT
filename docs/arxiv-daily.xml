@@ -4,6 +4,34 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal
+  Models: An Empirical Analysis</title>
+<link>http://arxiv.org/abs/2407.18251v1</link>
+<guid>http://arxiv.org/abs/2407.18251v1</guid>
+<content:encoded><![CDATA[
+<div> multimodal models, adversarial examples, L0-norm perturbation attacks, robustness, unimodal DNNs<br>
+<br>
+这篇文章主要评估了多模态模型对抗性示例的稳健性。作者通过在预处理的输入图像上进行L0范数扰动攻击，并在黑盒设置下对四个多模态模型和两个单模态DNN进行了攻击。攻击采用了针对少于0.04%的扰动图像区域，并结合了不同的扰动像素的空间位置：稀疏位置和以不同的连续形状排列的像素（行、列、对角线和块）。结果表明，单模态DNN比多模态模型更强壮。此外，使用基于CNN的图像编码器的模型比使用ViT的模型更容易受到攻击。在非定向攻击中，通过扰动少于0.02%的图像区域，我们获得了99%的成功率。 <br><br>总结: 在本文中，研究人员评估了多模态模型对抗性示例的稳健性，并发现单模态DNN比多模态模型更具有鲁棒性。此外，使用CNN的图像编码器的模型更容易受到攻击。攻击可以通过扰动少于0.02%的图像区域来实现99%的成功率。 <div>
+Assessing the robustness of multimodal models against adversarial examples is
+an important aspect for the safety of its users. We craft L0-norm perturbation
+attacks on the preprocessed input images. We launch them in a black-box setup
+against four multimodal models and two unimodal DNNs, considering both targeted
+and untargeted misclassification. Our attacks target less than 0.04% of
+perturbed image area and integrate different spatial positioning of perturbed
+pixels: sparse positioning and pixels arranged in different contiguous shapes
+(row, column, diagonal, and patch). To the best of our knowledge, we are the
+first to assess the robustness of three state-of-the-art multimodal models
+(ALIGN, AltCLIP, GroupViT) against different sparse and contiguous pixel
+distribution perturbations. The obtained results indicate that unimodal DNNs
+are more robust than multimodal models. Furthermore, models using CNN-based
+Image Encoder are more vulnerable than models with ViT - for untargeted
+attacks, we obtain a 99% success rate by perturbing less than 0.02% of the
+image area.
+]]></content:encoded>
+<pubDate>2024-07-25T17:59:48Z</pubDate>
+<pubDate>2024-07-25T17:59:48Z</pubDate>
+</item>
 
 <item>
 <title>SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View
