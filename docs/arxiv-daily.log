@@ -8483,3 +8483,21 @@ Filter: [Numerical Literals in Link Prediction: A Critical Examination of Models
 Filter: [CodedVO: Coded Visual Odometry](http://arxiv.org/abs/2407.18240v1)
 append_entries: 0
 Finish: 2024-07-27 12:16:46.897665
+------------------------------------------------------
+Started: 2024-07-28 00:45:32.944564
+Existing_entries: 219
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Trajectory-aligned Space-time Tokens for Few-shot Action Recognition](http://arxiv.org/abs/2407.18249v1)
+Filter: [Self-Training with Direct Preference Optimization Improves
+  Chain-of-Thought Reasoning](http://arxiv.org/abs/2407.18248v1)
+Filter: [RegionDrag: Fast Region-Based Image Editing with Diffusion Models](http://arxiv.org/abs/2407.18247v1)
+Filter: [VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads](http://arxiv.org/abs/2407.18245v1)
+Filter: [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](http://arxiv.org/abs/2407.18244v1)
+Filter: [BIV-Priv-Seg: Locating Private Content in Images Taken by People With
+  Visual Impairments](http://arxiv.org/abs/2407.18243v1)
+Filter: [LoRA-Pro: Are Low-Rank Adapters Properly Optimized?](http://arxiv.org/abs/2407.18242v1)
+Filter: [Numerical Literals in Link Prediction: A Critical Examination of Models
+  and Datasets](http://arxiv.org/abs/2407.18241v1)
+Filter: [CodedVO: Coded Visual Odometry](http://arxiv.org/abs/2407.18240v1)
+append_entries: 0
+Finish: 2024-07-28 00:45:33.700823
