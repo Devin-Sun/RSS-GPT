@@ -4,6 +4,75 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>SOAP-RL: Sequential Option Advantage Propagation for Reinforcement
+  Learning in POMDP Environments</title>
+<link>http://arxiv.org/abs/2407.18913v1</link>
+<guid>http://arxiv.org/abs/2407.18913v1</guid>
+<content:encoded><![CDATA[
+<div> POMDPs, options, reinforcement learning, SOAP, policy gradient<br>
+POMDPs与选项，强化学习，SOAP算法，策略梯度<br><br>总结: 本文比较了将强化学习算法扩展到带有选项的部分观察马尔可夫决策过程（POMDP）的方法。其中提出的两种算法，PPOEM和SOAP，旨在解决学习时间一致的选项和相关子策略的问题。PPOEM算法应用了前向-后向算法来优化带有选项的策略的预期回报，但这种学习方法在策略的实施过程中不稳定。相比之下，SOAP评估了最优选项分配的策略梯度，通过扩展广义优势估计（GAE）的概念来在时间上传播选项优势，从而获得了最坚实的表现。SOAP在POMDP环境和标准基准测试中表现出色，优于其他竞争算法，包括PPOEM，LSTM和Option-Critic。 <div>
+This work compares ways of extending Reinforcement Learning algorithms to
+Partially Observed Markov Decision Processes (POMDPs) with options. One view of
+options is as temporally extended action, which can be realized as a memory
+that allows the agent to retain historical information beyond the policy's
+context window. While option assignment could be handled using heuristics and
+hand-crafted objectives, learning temporally consistent options and associated
+sub-policies without explicit supervision is a challenge. Two algorithms, PPOEM
+and SOAP, are proposed and studied in depth to address this problem. PPOEM
+applies the forward-backward algorithm (for Hidden Markov Models) to optimize
+the expected returns for an option-augmented policy. However, this learning
+approach is unstable during on-policy rollouts. It is also unsuited for
+learning causal policies without the knowledge of future trajectories, since
+option assignments are optimized for offline sequences where the entire episode
+is available. As an alternative approach, SOAP evaluates the policy gradient
+for an optimal option assignment. It extends the concept of the generalized
+advantage estimation (GAE) to propagate option advantages through time, which
+is an analytical equivalent to performing temporal back-propagation of option
+policy gradients. This option policy is only conditional on the history of the
+agent, not future actions. Evaluated against competing baselines, SOAP
+exhibited the most robust performance, correctly discovering options for POMDP
+corridor environments, as well as on standard benchmarks including Atari and
+MuJoCo, outperforming PPOEM, as well as LSTM and Option-Critic baselines. The
+open-sourced code is available at https://github.com/shuishida/SoapRL.
+]]></content:encoded>
+<pubDate>2024-07-26T17:59:55Z</pubDate>
+<pubDate>2024-07-26T17:59:55Z</pubDate>
+</item>
+<item>
+<title>HRP: Human Affordances for Robotic Pre-Training</title>
+<link>http://arxiv.org/abs/2407.18911v1</link>
+<guid>http://arxiv.org/abs/2407.18911v1</guid>
+<content:encoded><![CDATA[
+<div> 提取关键词: 机器人代理、视觉网络、预训练、人类视频、智能机器人<br>
+<br>
+通过利用人类视频数据中提取的"affordances"，在环境和代理层面上进行预训练，以弥补机器人数据收集困难的问题。利用这些affordances对现有的表示进行微调，提高了机器人在各种任务上的性能。实验证明，这种预训练方案可以在5个真实世界任务中显著提高机器人的性能。同时，在不同的摄像头视角下也能够实现更高水平的泛化。这项研究的成果为智能机器人的发展提供了新的思路和方法。 <br><br>总结: <br>该研究利用人类视频数据中提取的"affordances"进行机器人预训练，提高了机器人在各种任务上的性能。通过微调现有的表示，实现了更高水平的泛化，在不同的摄像头视角下也能得到显著提高的表现。 <div>
+In order to *generalize* to various tasks in the wild, robotic agents will
+need a suitable representation (i.e., vision network) that enables the robot to
+predict optimal actions given high dimensional vision inputs. However, learning
+such a representation requires an extreme amount of diverse training data,
+which is prohibitively expensive to collect on a real robot. How can we
+overcome this problem? Instead of collecting more robot data, this paper
+proposes using internet-scale, human videos to extract "affordances," both at
+the environment and agent level, and distill them into a pre-trained
+representation. We present a simple framework for pre-training representations
+on hand, object, and contact "affordance labels" that highlight relevant
+objects in images and how to interact with them. These affordances are
+automatically extracted from human video data (with the help of off-the-shelf
+computer vision modules) and used to fine-tune existing representations. Our
+approach can efficiently fine-tune *any* existing representation, and results
+in models with stronger downstream robotic performance across the board. We
+experimentally demonstrate (using 3000+ robot trials) that this affordance
+pre-training scheme boosts performance by a minimum of 15% on 5 real-world
+tasks, which consider three diverse robot morphologies (including a dexterous
+hand). Unlike prior works in the space, these representations improve
+performance across 3 different camera views. Quantitatively, we find that our
+approach leads to higher levels of generalization in out-of-distribution
+settings. For code, weights, and data check: https://hrp-robot.github.io
+]]></content:encoded>
+<pubDate>2024-07-26T17:59:52Z</pubDate>
+<pubDate>2024-07-26T17:59:52Z</pubDate>
+</item>
 
 <item>
 <title>Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal
