@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>FlexAttention for Efficient High-Resolution Vision-Language Models</title>
+<link>http://arxiv.org/abs/2407.20228v1</link>
+<guid>http://arxiv.org/abs/2407.20228v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 高分辨率视觉-语言模型, FlexAttention, 注意力机制, 计算成本, 实验结果
+总结:
+高分辨率视觉-语言模型中使用的注意力机制计算成本高。为解决这一问题，研究提出了FlexAttention，它通过同时将高分辨率图像编码为高分辨率标记和低分辨率标记，并仅利用低分辨率标记和少量选定的高分辨率标记来计算注意力图，大大降低了计算成本。高分辨率标记通过高分辨率选择模块进行选择，然后与低分辨率标记和文本标记连接，并输入到分层自注意力层中进行处理，生成可用于下一步选取高分辨率标记的注意力图。FlexAttention在多模态基准测试中表现优异，同时将计算成本降低了近40%。 <div>
+Current high-resolution vision-language models encode images as
+high-resolution image tokens and exhaustively take all these tokens to compute
+attention, which significantly increases the computational cost. To address
+this problem, we propose FlexAttention, a flexible attention mechanism for
+efficient high-resolution vision-language models. Specifically, a
+high-resolution image is encoded both as high-resolution tokens and
+low-resolution tokens, where only the low-resolution tokens and a few selected
+high-resolution tokens are utilized to calculate the attention map, which
+greatly shrinks the computational cost. The high-resolution tokens are selected
+via a high-resolution selection module which could retrieve tokens of relevant
+regions based on an input attention map. The selected high-resolution tokens
+are then concatenated to the low-resolution tokens and text tokens, and input
+to a hierarchical self-attention layer which produces an attention map that
+could be used for the next-step high-resolution token selection. The
+hierarchical self-attention process and high-resolution token selection process
+are performed iteratively for each attention layer. Experiments on multimodal
+benchmarks prove that our FlexAttention outperforms existing high-resolution
+VLMs (e.g., relatively ~9% in V* Bench, ~7% in TextVQA), while also
+significantly reducing the computational cost by nearly 40%.
+]]></content:encoded>
+<pubDate>2024-07-29T17:59:05Z</pubDate>
+<pubDate>2024-07-29T17:59:05Z</pubDate>
+</item>
 
 <item>
 <title>SOAP-RL: Sequential Option Advantage Propagation for Reinforcement
