@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FlexAttention for Efficient High-Resolution Vision-Language Models</title>
 <link>http://arxiv.org/abs/2407.20228v1</link>
@@ -33,9 +34,7 @@ VLMs (e.g., relatively ~9% in V* Bench, ~7% in TextVQA), while also
 significantly reducing the computational cost by nearly 40%.
 ]]></content:encoded>
 <pubDate>2024-07-29T17:59:05Z</pubDate>
-<pubDate>2024-07-29T17:59:05Z</pubDate>
 </item>
-
 <item>
 <title>SOAP-RL: Sequential Option Advantage Propagation for Reinforcement
   Learning in POMDP Environments</title>

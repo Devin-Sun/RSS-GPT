@@ -8598,3 +8598,20 @@ Filter: [SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow
 Filter: [Registering Neural 4D Gaussians for Endoscopic Surgery](http://arxiv.org/abs/2407.20213v1)
 append_entries: 1
 Finish: 2024-07-30 12:16:34.120357
+------------------------------------------------------
+Started: 2024-07-31 00:34:41.604654
+Existing_entries: 222
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing](http://arxiv.org/abs/2407.20232v1)
+Filter: [SAPG: Split and Aggregate Policy Gradients](http://arxiv.org/abs/2407.20230v1)
+Filter: [Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229v1)
+Filter: [Models of random spanning trees](http://arxiv.org/abs/2407.20226v1)
+Filter: [Can Editing LLMs Inject Harm?](http://arxiv.org/abs/2407.20224v1)
+Filter: [Correspondence-Free SE(3) Point Cloud Registration in RKHS via
+  Unsupervised Equivariant Learning](http://arxiv.org/abs/2407.20223v1)
+Filter: [Global Structure-from-Motion Revisited](http://arxiv.org/abs/2407.20219v1)
+Filter: [SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow
+  Prediction](http://arxiv.org/abs/2407.20214v1)
+Filter: [Registering Neural 4D Gaussians for Endoscopic Surgery](http://arxiv.org/abs/2407.20213v1)
+append_entries: 0
+Finish: 2024-07-31 00:34:42.273631
