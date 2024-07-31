@@ -8615,3 +8615,24 @@ Filter: [SANGRIA: Surgical Video Scene Graph Optimization for Surgical Workflow
 Filter: [Registering Neural 4D Gaussians for Endoscopic Surgery](http://arxiv.org/abs/2407.20213v1)
 append_entries: 0
 Finish: 2024-07-31 00:34:42.273631
+------------------------------------------------------
+Started: 2024-07-31 12:16:54.456395
+Existing_entries: 222
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ThinK: Thinner Key Cache by Query-Driven Pruning](http://arxiv.org/abs/2407.21018v1)
+Filter: [Matting by Generation](http://arxiv.org/abs/2407.21017v1)
+Filter: [Add-SD: Rational Generation without Manual Reference](http://arxiv.org/abs/2407.21016v1)
+Filter: [CLEFT: Language-Image Contrastive Learning with Efficient Large Language
+  Model and Prompt Fine-Tuning](http://arxiv.org/abs/2407.21011v1)
+Filter: [Human-Data Interaction Framework: A Comprehensive Model for a Future
+  Driven by Data and Humans](http://arxiv.org/abs/2407.21010v1)
+Filter: [AI-Assisted Generation of Difficult Math Questions](http://arxiv.org/abs/2407.21009v1)
+Filter: [The Dual-Edged Sword of Technical Debt: Benefits and Issues Analyzed
+  Through Developer Discussions](http://arxiv.org/abs/2407.21007v1)
+Filter: [Settling the Pass Complexity of Approximate Matchings in Dynamic Graph
+  Streams](http://arxiv.org/abs/2407.21005v1)
+Filter: [Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models
+  for Hateful Meme Detection](http://arxiv.org/abs/2407.21004v1)
+Filter: [XHand: Real-time Expressive Hand Avatar](http://arxiv.org/abs/2407.21002v1)
+append_entries: 0
+Finish: 2024-07-31 12:16:55.745272
