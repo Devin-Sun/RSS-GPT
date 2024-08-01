@@ -8657,3 +8657,24 @@ Filter: [Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models
 Filter: [XHand: Real-time Expressive Hand Avatar](http://arxiv.org/abs/2407.21002v1)
 append_entries: 0
 Finish: 2024-08-01 00:46:13.956346
+------------------------------------------------------
+Started: 2024-08-01 12:16:38.962242
+Existing_entries: 222
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Generalized Out-of-Distribution Detection and Beyond in Vision Language
+  Model Era: A Survey](http://arxiv.org/abs/2407.21794v1)
+Filter: [Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](http://arxiv.org/abs/2407.21792v1)
+Filter: [Deep Learning for Options Trading: An End-To-End Approach](http://arxiv.org/abs/2407.21791v1)
+Filter: [Vision-Language Model Based Handwriting Verification](http://arxiv.org/abs/2407.21788v1)
+Filter: [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](http://arxiv.org/abs/2407.21787v1)
+Filter: [Robust Restaking Networks](http://arxiv.org/abs/2407.21785v1)
+Filter: [The Llama 3 Herd of Models](http://arxiv.org/abs/2407.21783v1)
+Filter: [Berkeley Humanoid: A Research Platform for Learning-based Control](http://arxiv.org/abs/2407.21781v1)
+Token length: 987
+Summarized using GPT-3.5-turbo-1106
+Append: [Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool
+  Libraries](http://arxiv.org/abs/2407.21778v1)
+Filter: [RainMamba: Enhanced Locality Learning with State Space Models for Video
+  Deraining](http://arxiv.org/abs/2407.21773v1)
+append_entries: 1
+Finish: 2024-08-01 12:16:44.568173
