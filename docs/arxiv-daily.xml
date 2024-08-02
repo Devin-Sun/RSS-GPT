@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool
   Libraries</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2407.21778v1</guid>
 <content:encoded><![CDATA[
 <div> agent, architecture, tool library, inference costs, generalizability
-<br>
+<br />
 该论文介绍了一种名为tulip agent的自主LLM（语言模型）代理架构，该架构具有对包含大量工具的工具库进行创建、读取、更新和删除访问的能力。与当前的实现不同，tulip agent不在系统提示中编码所有可用工具的描述，这减少了模型的上下文窗口，也不嵌入检索合适工具的整个提示。相反，tulip agent可以递归搜索其可扩展的工具库中的合适工具，这是通过向量存储示例实现的。tulip agent架构显著降低了推理成本，允许使用甚至是大型工具库，并使代理能够调整和扩展其工具集。作者通过数学领域的多个消融研究评估了该架构，并通过一个机器人学的应用展示了其泛化能力。GitHub上提供了参考实现和基准测试。 <div>
 We introduce tulip agent, an architecture for autonomous LLM-based agents
 with Create, Read, Update, and Delete access to a tool library containing a
@@ -29,9 +30,7 @@ implementation and the benchmark are available at
 github.com/HRI-EU/tulip_agent.
 ]]></content:encoded>
 <pubDate>2024-07-31T17:50:54Z</pubDate>
-<pubDate>2024-07-31T17:50:54Z</pubDate>
 </item>
-
 <item>
 <title>FlexAttention for Efficient High-Resolution Vision-Language Models</title>
 <link>http://arxiv.org/abs/2407.20228v1</link>
