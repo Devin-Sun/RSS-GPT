@@ -8729,3 +8729,20 @@ Filter: [RainMamba: Enhanced Locality Learning with State Space Models for Video
   Deraining](http://arxiv.org/abs/2407.21773v1)
 append_entries: 0
 Finish: 2024-08-03 00:40:59.836489
+------------------------------------------------------
+Started: 2024-08-03 12:14:36.583329
+Existing_entries: 223
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Generalized Out-of-Distribution Detection and Beyond in Vision Language
+  Model Era: A Survey](http://arxiv.org/abs/2407.21794v1)
+Filter: [Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](http://arxiv.org/abs/2407.21792v1)
+Filter: [Deep Learning for Options Trading: An End-To-End Approach](http://arxiv.org/abs/2407.21791v1)
+Filter: [Vision-Language Model Based Handwriting Verification](http://arxiv.org/abs/2407.21788v1)
+Filter: [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](http://arxiv.org/abs/2407.21787v1)
+Filter: [Robust Restaking Networks](http://arxiv.org/abs/2407.21785v1)
+Filter: [The Llama 3 Herd of Models](http://arxiv.org/abs/2407.21783v1)
+Filter: [Berkeley Humanoid: A Research Platform for Learning-based Control](http://arxiv.org/abs/2407.21781v1)
+Filter: [RainMamba: Enhanced Locality Learning with State Space Models for Video
+  Deraining](http://arxiv.org/abs/2407.21773v1)
+append_entries: 0
+Finish: 2024-08-03 12:14:37.637179
