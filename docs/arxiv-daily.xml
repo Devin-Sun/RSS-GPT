@@ -4,6 +4,130 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models
+  for Integrated Capabilities</title>
+<link>http://arxiv.org/abs/2408.00765v1</link>
+<guid>http://arxiv.org/abs/2408.00765v1</guid>
+<content:encoded><![CDATA[
+<div> 评估，MM-Vet v2，图像-文本序列理解，Claude 3.5 Sonnet，GPT-4o，InternVL2-Llama3-76B
+
+<br><br>总结：
+MM-Vet v2引入了对模型处理图像-文本序列的评估，并扩大了评估样本规模。通过使用MM-Vet v2对大型多模态模型进行基准测试，发现Claude 3.5 Sonnet在评分上略优于GPT-4o，成为最佳模型，而在开放权重模型中，InternVL2-Llama3-76B以68.4的得分领先。 <div>
+MM-Vet, with open-ended vision-language questions targeting at evaluating
+integrated capabilities, has become one of the most popular benchmarks for
+large multimodal model evaluation. MM-Vet assesses six core vision-language
+(VL) capabilities: recognition, knowledge, spatial awareness, language
+generation, OCR, and math. However, its question format is restricted to single
+image-text pairs, lacking the interleaved image and text sequences prevalent in
+real-world scenarios. To address this limitation, we introduce MM-Vet v2, which
+includes a new VL capability called "image-text sequence understanding",
+evaluating models' ability to process VL sequences. Furthermore, we maintain
+the high quality of evaluation samples while further expanding the evaluation
+set size. Using MM-Vet v2 to benchmark large multimodal models, we found that
+Claude 3.5 Sonnet is the best model with a score of 71.8, slightly
+outperforming GPT-4o which scored 71.0. Among open-weight models,
+InternVL2-Llama3-76B leads with a score of 68.4.
+]]></content:encoded>
+<pubDate>2024-08-01T17:59:54Z</pubDate>
+<pubDate>2024-08-01T17:59:54Z</pubDate>
+</item>
+<item>
+<title>AgentGen: Enhancing Planning Abilities for Large Language Model based
+  Agent via Environment and Task Generation</title>
+<link>http://arxiv.org/abs/2408.00764v1</link>
+<guid>http://arxiv.org/abs/2408.00764v1</guid>
+<content:encoded><![CDATA[
+<div> agent, LLM, planning, environment, training
+总结:<br><br>这篇文章研究了如何通过指导调节来提高LLM的规划能力，即通过训练来改进代理机器人的规划能力。它介绍了一个名为AgentGen的框架，利用LLM生成环境和规划任务，以改善代理机器人的规划能力。文章指出，AgentGen大大提高了LLM的规划能力，并在某些任务中甚至表现出色于GPT-4。文章强调了环境多样性和任务难度多样性对提高规划能力的重要性，并提出了相应的解决方案。 <div>
+Large Language Model (LLM) based agents have garnered significant attention
+and are becoming increasingly popular. Furthermore, planning ability is a
+crucial component of an LLM-based agent, involving interaction with the
+environment and executing actions to complete a planning task, which generally
+entails achieving a desired goal from an initial state. This paper investigates
+enhancing the planning abilities of LLMs through instruction tuning, referred
+to as agent training. Recent studies have demonstrated that utilizing
+expert-level trajectory for instruction-tuning LLMs effectively enhances their
+planning capabilities. However, existing work primarily focuses on synthesizing
+trajectories from manually designed planning tasks and environments. The
+labor-intensive nature of creating these environments and tasks impedes the
+generation of sufficiently varied and extensive trajectories. To address this
+limitation, this paper explores the automated synthesis of diverse environments
+and a gradual range of planning tasks, from easy to difficult. We introduce a
+framework, AgentGen, that leverages LLMs first to generate environments and
+subsequently generate planning tasks conditioned on these environments.
+Specifically, to improve environmental diversity, we propose using an
+inspiration corpus composed of various domain-specific text segments as the
+context for synthesizing environments. Moreover, to increase the difficulty
+diversity of generated planning tasks, we propose a bidirectional evolution
+method, Bi-Evol, that evolves planning tasks from easier and harder directions
+to synthesize a task set with a smoother difficulty curve. The evaluation
+results derived from AgentBoard show that AgentGen greatly improves LLMs'
+planning ability, e.g., the AgentGen instruction-tuned Llama-3 8B surpasses
+GPT-3.5 in overall performance. Moreover, in certain tasks, it even outperforms
+GPT-4.
+]]></content:encoded>
+<pubDate>2024-08-01T17:59:46Z</pubDate>
+<pubDate>2024-08-01T17:59:46Z</pubDate>
+</item>
+<item>
+<title>Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy
+  Curvature of Attention</title>
+<link>http://arxiv.org/abs/2408.00760v1</link>
+<guid>http://arxiv.org/abs/2408.00760v1</guid>
+<content:encoded><![CDATA[
+
+Conditional diffusion models have shown remarkable success in visual content
+generation, producing high-quality samples across various domains, largely due
+to classifier-free guidance (CFG). Recent attempts to extend guidance to
+unconditional models have relied on heuristic techniques, resulting in
+suboptimal generation quality and unintended effects. In this work, we propose
+Smoothed Energy Guidance (SEG), a novel training- and condition-free approach
+that leverages the energy-based perspective of the self-attention mechanism to
+enhance image generation. By defining the energy of self-attention, we
+introduce a method to reduce the curvature of the energy landscape of attention
+and use the output as the unconditional prediction. Practically, we control the
+curvature of the energy landscape by adjusting the Gaussian kernel parameter
+while keeping the guidance scale parameter fixed. Additionally, we present a
+query blurring method that is equivalent to blurring the entire attention
+weights without incurring quadratic complexity in the number of tokens. In our
+experiments, SEG achieves a Pareto improvement in both quality and the
+reduction of side effects. The code is available at
+\url{https://github.com/SusungHong/SEG-SDXL}.
+]]></content:encoded>
+<pubDate>2024-08-01T17:59:09Z</pubDate>
+<pubDate>2024-08-01T17:59:09Z</pubDate>
+</item>
+<item>
+<title>Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal
+  Language Model</title>
+<link>http://arxiv.org/abs/2408.00754v1</link>
+<guid>http://arxiv.org/abs/2408.00754v1</guid>
+<content:encoded><![CDATA[
+
+Multimodal language models (MLLMs) are increasingly being implemented in
+real-world environments, necessitating their ability to interpret 3D spaces and
+comprehend temporal dynamics. Despite their potential, current top models
+within our community still fall short in adequately understanding spatial and
+temporal dimensions. We introduce Coarse Correspondence, a simple,
+training-free, effective, and general-purpose visual prompting method to elicit
+3D and temporal understanding in multimodal LLMs. Our method uses a lightweight
+tracking model to find object correspondences between frames in a video or
+between sets of image viewpoints. It selects the most frequent object instances
+and visualizes them with markers with unique IDs in the image. With this simple
+approach, we achieve state-of-the-art results on 3D understanding benchmarks
+including ScanQA (+20.5\%) and a subset of OpenEQA (+9.7\%), and on long-form
+video benchmarks such as EgoSchema (+6.0\%). We also curate a small diagnostic
+dataset to evaluate whether MLLMs can reason about space from a described
+viewpoint other than the camera viewpoint. Again, Coarse Correspondence
+improves spatial perspective-taking abilities but we highlight that MLLMs
+struggle with this task. Together, we demonstrate that our simple prompting
+method can significantly aid downstream tasks that require 3D or temporal
+reasoning.
+]]></content:encoded>
+<pubDate>2024-08-01T17:57:12Z</pubDate>
+<pubDate>2024-08-01T17:57:12Z</pubDate>
+</item>
 
 <item>
 <title>Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool
