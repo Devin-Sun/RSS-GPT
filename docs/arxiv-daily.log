@@ -8790,3 +8790,18 @@ Filter: [A deep learning-enabled smart garment for versatile sleep behaviour
   monitoring](http://arxiv.org/abs/2408.00753v1)
 append_entries: 4
 Finish: 2024-08-04 12:14:46.645652
+------------------------------------------------------
+Started: 2024-08-05 00:43:41.627150
+Existing_entries: 227
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Optimizing Diffusion Models for Joint Trajectory Prediction and
+  Controllable Generation](http://arxiv.org/abs/2408.00766v1)
+Filter: [UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified
+  Model](http://arxiv.org/abs/2408.00762v1)
+Filter: [Tamper-Resistant Safeguards for Open-Weight LLMs](http://arxiv.org/abs/2408.00761v1)
+Filter: [Text-Guided Video Masked Autoencoder](http://arxiv.org/abs/2408.00759v1)
+Filter: [Segment anything model 2: an application to 2D and 3D medical images](http://arxiv.org/abs/2408.00756v1)
+Filter: [A deep learning-enabled smart garment for versatile sleep behaviour
+  monitoring](http://arxiv.org/abs/2408.00753v1)
+append_entries: 0
+Finish: 2024-08-05 00:43:43.397358

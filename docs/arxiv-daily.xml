@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models
   for Integrated Capabilities</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 评估，MM-Vet v2，图像-文本序列理解，Claude 3.5 Sonnet，GPT-4o，InternVL2-Llama3-76B
 
-<br><br>总结：
+<br /><br />总结：
 MM-Vet v2引入了对模型处理图像-文本序列的评估，并扩大了评估样本规模。通过使用MM-Vet v2对大型多模态模型进行基准测试，发现Claude 3.5 Sonnet在评分上略优于GPT-4o，成为最佳模型，而在开放权重模型中，InternVL2-Llama3-76B以68.4的得分领先。 <div>
 MM-Vet, with open-ended vision-language questions targeting at evaluating
 integrated capabilities, has become one of the most popular benchmarks for
@@ -30,7 +31,6 @@ outperforming GPT-4o which scored 71.0. Among open-weight models,
 InternVL2-Llama3-76B leads with a score of 68.4.
 ]]></content:encoded>
 <pubDate>2024-08-01T17:59:54Z</pubDate>
-<pubDate>2024-08-01T17:59:54Z</pubDate>
 </item>
 <item>
 <title>AgentGen: Enhancing Planning Abilities for Large Language Model based
@@ -39,7 +39,7 @@ InternVL2-Llama3-76B leads with a score of 68.4.
 <guid>http://arxiv.org/abs/2408.00764v1</guid>
 <content:encoded><![CDATA[
 <div> agent, LLM, planning, environment, training
-总结:<br><br>这篇文章研究了如何通过指导调节来提高LLM的规划能力，即通过训练来改进代理机器人的规划能力。它介绍了一个名为AgentGen的框架，利用LLM生成环境和规划任务，以改善代理机器人的规划能力。文章指出，AgentGen大大提高了LLM的规划能力，并在某些任务中甚至表现出色于GPT-4。文章强调了环境多样性和任务难度多样性对提高规划能力的重要性，并提出了相应的解决方案。 <div>
+总结:<br /><br />这篇文章研究了如何通过指导调节来提高LLM的规划能力，即通过训练来改进代理机器人的规划能力。它介绍了一个名为AgentGen的框架，利用LLM生成环境和规划任务，以改善代理机器人的规划能力。文章指出，AgentGen大大提高了LLM的规划能力，并在某些任务中甚至表现出色于GPT-4。文章强调了环境多样性和任务难度多样性对提高规划能力的重要性，并提出了相应的解决方案。 <div>
 Large Language Model (LLM) based agents have garnered significant attention
 and are becoming increasingly popular. Furthermore, planning ability is a
 crucial component of an LLM-based agent, involving interaction with the
@@ -68,7 +68,6 @@ GPT-3.5 in overall performance. Moreover, in certain tasks, it even outperforms
 GPT-4.
 ]]></content:encoded>
 <pubDate>2024-08-01T17:59:46Z</pubDate>
-<pubDate>2024-08-01T17:59:46Z</pubDate>
 </item>
 <item>
 <title>Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy
@@ -76,7 +75,6 @@ GPT-4.
 <link>http://arxiv.org/abs/2408.00760v1</link>
 <guid>http://arxiv.org/abs/2408.00760v1</guid>
 <content:encoded><![CDATA[
-
 Conditional diffusion models have shown remarkable success in visual content
 generation, producing high-quality samples across various domains, largely due
 to classifier-free guidance (CFG). Recent attempts to extend guidance to
@@ -96,7 +94,6 @@ reduction of side effects. The code is available at
 \url{https://github.com/SusungHong/SEG-SDXL}.
 ]]></content:encoded>
 <pubDate>2024-08-01T17:59:09Z</pubDate>
-<pubDate>2024-08-01T17:59:09Z</pubDate>
 </item>
 <item>
 <title>Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal
@@ -104,7 +101,6 @@ reduction of side effects. The code is available at
 <link>http://arxiv.org/abs/2408.00754v1</link>
 <guid>http://arxiv.org/abs/2408.00754v1</guid>
 <content:encoded><![CDATA[
-
 Multimodal language models (MLLMs) are increasingly being implemented in
 real-world environments, necessitating their ability to interpret 3D spaces and
 comprehend temporal dynamics. Despite their potential, current top models
@@ -126,9 +122,7 @@ method can significantly aid downstream tasks that require 3D or temporal
 reasoning.
 ]]></content:encoded>
 <pubDate>2024-08-01T17:57:12Z</pubDate>
-<pubDate>2024-08-01T17:57:12Z</pubDate>
 </item>
-
 <item>
 <title>Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool
   Libraries</title>
