@@ -8847,3 +8847,28 @@ Filter: [Pre-trained Language Models Improve the Few-shot Prompt Ability of
   Decision Transformer](http://arxiv.org/abs/2408.01402v1)
 append_entries: 0
 Finish: 2024-08-06 00:41:59.833281
+------------------------------------------------------
+Started: 2024-08-06 12:16:52.322872
+Existing_entries: 228
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Latent-INR: A Flexible Framework for Implicit Representations of Videos
+  with Discriminative Semantics](http://arxiv.org/abs/2408.02672v1)
+Filter: [Self-Taught Evaluators](http://arxiv.org/abs/2408.02666v1)
+Filter: [Structure-preserving approximations of the Serre-Green-Naghdi equations
+  in standard and hyperbolic form](http://arxiv.org/abs/2408.02665v1)
+Filter: [Integrating Model-Based Footstep Planning with Model-Free Reinforcement
+  Learning for Dynamic Legged Locomotion](http://arxiv.org/abs/2408.02662v1)
+Filter: [Context-aware Mamba-based Reinforcement Learning for social robot
+  navigation](http://arxiv.org/abs/2408.02661v1)
+Token length: 1585
+Summarized using GPT-3.5-turbo-1106
+Append: [Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
+  with Multimodal Generative Pretraining](http://arxiv.org/abs/2408.02657v1)
+Filter: [On Using Quasirandom Sequences in Machine Learning for Model Weight
+  Initialization](http://arxiv.org/abs/2408.02654v1)
+Filter: [Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large
+  Language Models?](http://arxiv.org/abs/2408.02651v1)
+Filter: [Detection of Compromised Functions in a Serverless Cloud Environment](http://arxiv.org/abs/2408.02641v1)
+Filter: [Command-line Obfuscation Detection using Small Language Models](http://arxiv.org/abs/2408.02637v1)
+append_entries: 1
+Finish: 2024-08-06 12:17:00.836783

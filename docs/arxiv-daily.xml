@@ -4,6 +4,42 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
+  with Multimodal Generative Pretraining</title>
+<link>http://arxiv.org/abs/2408.02657v1</link>
+<guid>http://arxiv.org/abs/2408.02657v1</guid>
+<content:encoded><![CDATA[
+<div> Lumina-mGPT, multimodal autoregressive models, vision and language tasks, photorealistic images, pretrained decoder-only transformer
+
+总结:
+Lumina-mGPT是一种多模态自回归模型，能够处理多种视觉和语言任务，特别擅长根据文本描述生成灵活的逼真图像。它采用预训练的仅解码器transformer作为建模多模态token序列的统一框架，通过在大规模交织的文本-图像序列上利用下一个token预测目标进行的多模态生成预训练（mGPT），能够学习广泛和通用的多模态能力，因此可以实现逼真的文本到图像的生成。利用预训练模型，提出了灵活渐进式监督微调（FP-SFT）以释放其在任何分辨率上进行高美学图像合成的潜力，同时保持其通用的多模态能力。此外，引入了全能监督微调（Omni-SFT），将Lumina-mGPT转化为一个无缝实现全能任务统一的基础模型。最终的模型展示了多功能的多模态能力，包括灵活的文本到图像生成和可控生成等视觉生成任务，分割和深度估计等视觉识别任务，以及多轮视觉问答等视觉-语言任务。此外，还对扩散基础和自回归方法进行了直接比较，分析了它们之间的差异和相似之处。 <div>
+We present Lumina-mGPT, a family of multimodal autoregressive models capable
+of various vision and language tasks, particularly excelling in generating
+flexible photorealistic images from text descriptions. Unlike existing
+autoregressive image generation approaches, Lumina-mGPT employs a pretrained
+decoder-only transformer as a unified framework for modeling multimodal token
+sequences. Our key insight is that a simple decoder-only transformer with
+multimodal Generative PreTraining (mGPT), utilizing the next-token prediction
+objective on massive interleaved text-image sequences, can learn broad and
+general multimodal capabilities, thereby illuminating photorealistic
+text-to-image generation. Building on these pretrained models, we propose
+Flexible Progressive Supervised Finetuning (FP-SFT) on high-quality image-text
+pairs to fully unlock their potential for high-aesthetic image synthesis at any
+resolution while maintaining their general multimodal capabilities.
+Furthermore, we introduce Ominiponent Supervised Finetuning (Omni-SFT),
+transforming Lumina-mGPT into a foundation model that seamlessly achieves
+omnipotent task unification. The resulting model demonstrates versatile
+multimodal capabilities, including visual generation tasks like flexible
+text-to-image generation and controllable generation, visual recognition tasks
+like segmentation and depth estimation, and vision-language tasks like
+multiturn visual question answering. Additionally, we analyze the differences
+and similarities between diffusion-based and autoregressive methods in a direct
+comparison.
+]]></content:encoded>
+<pubDate>2024-08-05T17:46:53Z</pubDate>
+<pubDate>2024-08-05T17:46:53Z</pubDate>
+</item>
 
 <item>
 <title>Talk Less, Interact Better: Evaluating In-context Conversational
