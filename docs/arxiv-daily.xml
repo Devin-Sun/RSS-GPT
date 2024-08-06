@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Talk Less, Interact Better: Evaluating In-context Conversational
   Adaptation in Multimodal LLMs</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：语言模型，交互，效率，自适应，ICCA
 
-总结:<br><br>这篇文章讨论了人类在交流中如何自发地使用越来越高效的语言，并介绍了一个自动化框架ICCA来评估多模态语言模型在交互中的自适应行为。研究发现，目前的语言模型虽然能理解对话中越来越高效的语言，却不能自发地使自己的语言变得更加高效。这表明当前的训练方式并不能培养语言交互中人类常见的语言效率特性。ICCA框架可在https://github.com/lil-lab/ICCA找到。 <div>
+总结:<br /><br />这篇文章讨论了人类在交流中如何自发地使用越来越高效的语言，并介绍了一个自动化框架ICCA来评估多模态语言模型在交互中的自适应行为。研究发现，目前的语言模型虽然能理解对话中越来越高效的语言，却不能自发地使自己的语言变得更加高效。这表明当前的训练方式并不能培养语言交互中人类常见的语言效率特性。ICCA框架可在https://github.com/lil-lab/ICCA找到。 <div>
 Humans spontaneously use increasingly efficient language as interactions
 progress, by adapting and forming ad-hoc conventions. This phenomenon has been
 studied extensively using reference games, showing properties of human language
@@ -30,9 +31,7 @@ though it is a common hallmark of human language. ICCA is available at
 https://github.com/lil-lab/ICCA.
 ]]></content:encoded>
 <pubDate>2024-08-02T17:51:57Z</pubDate>
-<pubDate>2024-08-02T17:51:57Z</pubDate>
 </item>
-
 <item>
 <title>MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models
   for Integrated Capabilities</title>
