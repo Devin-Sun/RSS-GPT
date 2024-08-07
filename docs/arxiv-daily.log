@@ -8893,3 +8893,27 @@ Filter: [Detection of Compromised Functions in a Serverless Cloud Environment](h
 Filter: [Command-line Obfuscation Detection using Small Language Models](http://arxiv.org/abs/2408.02637v1)
 append_entries: 0
 Finish: 2024-08-07 00:42:35.446918
+------------------------------------------------------
+Started: 2024-08-07 12:17:23.801480
+Existing_entries: 229
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 725
+Summarized using GPT-3.5-turbo-1106
+Append: [LLaVA-OneVision: Easy Visual Task Transfer](http://arxiv.org/abs/2408.03326v1)
+Filter: [CoverBench: A Challenging Benchmark for Complex Claim Verification](http://arxiv.org/abs/2408.03325v1)
+Filter: [ClassiFIM: An Unsupervised Method To Detect Phase Transitions](http://arxiv.org/abs/2408.03323v1)
+Filter: [Segment Anything in Medical Images and Videos: Benchmark and Deployment](http://arxiv.org/abs/2408.03322v1)
+Filter: [Hedge Fund Portfolio Construction Using PolyModel Theory and
+  iTransformer](http://arxiv.org/abs/2408.03320v1)
+Filter: [Training LLMs to Recognize Hedges in Spontaneous Narratives](http://arxiv.org/abs/2408.03319v1)
+Token length: 1788
+Summarized using GPT-3.5-turbo-1106
+Append: [Scaling LLM Test-Time Compute Optimally can be More Effective than
+  Scaling Model Parameters](http://arxiv.org/abs/2408.03314v1)
+Filter: [MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture
+  Generation](http://arxiv.org/abs/2408.03312v1)
+Filter: [Potential and Limitation of High-Frequency Cores and Caches](http://arxiv.org/abs/2408.03308v1)
+Filter: [Pre-training and in-context learning IS Bayesian inference a la De
+  Finetti](http://arxiv.org/abs/2408.03307v1)
+append_entries: 2
+Finish: 2024-08-07 12:17:30.829884

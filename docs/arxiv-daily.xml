@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LLaVA-OneVision: Easy Visual Task Transfer</title>
+<link>http://arxiv.org/abs/2408.03326v1</link>
+<guid>http://arxiv.org/abs/2408.03326v1</guid>
+<content:encoded><![CDATA[
+<div> LLaVA-OneVision, multimodal models, computer vision, transfer learning, video understanding<br>
+LLaVA-OneVision是一组开放的大型多模态模型，通过整合对数据、模型和视觉表示的见解而开发，可以在三种重要的计算机视觉场景中同时推动开放LMMs的性能边界：单图像、多图像和视频场景。LLaVA-OneVision的设计允许在不同的模态/场景之间进行强大的迁移学习，产生新的新兴能力。特别地，在通过从图像到视频的任务转移中展示了强大的视频理解和跨场景能力。<br><br>总结: LLaVA-OneVision是一组开放的大型多模态模型，通过整合对数据、模型和视觉表示的见解而开发，可以在三种重要的计算机视觉场景中同时推动开放LMMs的性能边界。其设计允许在不同的模态/场景之间进行强大的迁移学习，产生新的新兴能力。特别地，在通过从图像到视频的任务转移中展示了强大的视频理解和跨场景能力。 <div>
+We present LLaVA-OneVision, a family of open large multimodal models (LMMs)
+developed by consolidating our insights into data, models, and visual
+representations in the LLaVA-NeXT blog series. Our experimental results
+demonstrate that LLaVA-OneVision is the first single model that can
+simultaneously push the performance boundaries of open LMMs in three important
+computer vision scenarios: single-image, multi-image, and video scenarios.
+Importantly, the design of LLaVA-OneVision allows strong transfer learning
+across different modalities/scenarios, yielding new emerging capabilities. In
+particular, strong video understanding and cross-scenario capabilities are
+demonstrated through task transfer from images to videos.
+]]></content:encoded>
+<pubDate>2024-08-06T17:59:44Z</pubDate>
+<pubDate>2024-08-06T17:59:44Z</pubDate>
+</item>
+<item>
+<title>Scaling LLM Test-Time Compute Optimally can be More Effective than
+  Scaling Model Parameters</title>
+<link>http://arxiv.org/abs/2408.03314v1</link>
+<guid>http://arxiv.org/abs/2408.03314v1</guid>
+<content:encoded><![CDATA[
+<div> LLM，test-time computation，scaling，inference methods，compute-optimal strategy
+<br><br>总结:
+本文研究了在语言模型中提升推理时间计算能力的方法，并关注了一个关键问题：如果一个LLM被允许在推理时间使用固定但非微不足道的计算量，它能在具有挑战性的提示上提高多少性能？我们分析了两种主要的推理时间计算扩展机制，并发现不同方法的效果取决于提示的难度。因此，提出了一种“计算最优”扩展策略，可以针对每个提示有效地分配推理时间计算。使用这种计算最优策略，我们可以提高测试时间计算的效率，达到超过最佳N基线4倍的效果。另外，在FLOPs匹配评估中，我们发现在较小的基础模型取得了较高成功率的问题上，测试时间计算可以用来胜过一个14倍大的模型。 <div>
+Enabling LLMs to improve their outputs by using more test-time computation is
+a critical step towards building generally self-improving agents that can
+operate on open-ended natural language. In this paper, we study the scaling of
+inference-time computation in LLMs, with a focus on answering the question: if
+an LLM is allowed to use a fixed but non-trivial amount of inference-time
+compute, how much can it improve its performance on a challenging prompt?
+Answering this question has implications not only on the achievable performance
+of LLMs, but also on the future of LLM pretraining and how one should tradeoff
+inference-time and pre-training compute. Despite its importance, little
+research attempted to understand the scaling behaviors of various test-time
+inference methods. Moreover, current work largely provides negative results for
+a number of these strategies. In this work, we analyze two primary mechanisms
+to scale test-time computation: (1) searching against dense, process-based
+verifier reward models; and (2) updating the model's distribution over a
+response adaptively, given the prompt at test time. We find that in both cases,
+the effectiveness of different approaches to scaling test-time compute
+critically varies depending on the difficulty of the prompt. This observation
+motivates applying a "compute-optimal" scaling strategy, which acts to most
+effectively allocate test-time compute adaptively per prompt. Using this
+compute-optimal strategy, we can improve the efficiency of test-time compute
+scaling by more than 4x compared to a best-of-N baseline. Additionally, in a
+FLOPs-matched evaluation, we find that on problems where a smaller base model
+attains somewhat non-trivial success rates, test-time compute can be used to
+outperform a 14x larger model.
+]]></content:encoded>
+<pubDate>2024-08-06T17:35:05Z</pubDate>
+<pubDate>2024-08-06T17:35:05Z</pubDate>
+</item>
 
 <item>
 <title>Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
