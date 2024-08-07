@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation
   with Multimodal Generative Pretraining</title>
@@ -38,9 +39,7 @@ and similarities between diffusion-based and autoregressive methods in a direct
 comparison.
 ]]></content:encoded>
 <pubDate>2024-08-05T17:46:53Z</pubDate>
-<pubDate>2024-08-05T17:46:53Z</pubDate>
 </item>
-
 <item>
 <title>Talk Less, Interact Better: Evaluating In-context Conversational
   Adaptation in Multimodal LLMs</title>
