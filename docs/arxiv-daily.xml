@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>AdapMTL: Adaptive Pruning Framework for Multitask Learning Model</title>
+<link>http://arxiv.org/abs/2408.03913v1</link>
+<guid>http://arxiv.org/abs/2408.03913v1</guid>
+<content:encoded><![CDATA[
+<div> 多媒体处理，多模态处理，模型压缩，多任务学习，AdapMTL<br>
+多媒体处理中，高效处理图像、视频和传感器数据至关重要。在这一领域中，模型压缩和多任务学习至关重要，可以解决处理和解释多种媒体同时的资源密集型需求。然而，有效压缩多任务模型存在挑战，因为需要在多个任务之间平衡稀疏性分配和准确性性能。为了解决这些挑战，作者提出了AdapMTL，这是一个自适应修剪框架，专门针对多任务学习模型。AdapMTL利用多个可学习的软阈值，独立分配给共享骨干和任务特定头部，以捕捉不同组件对修剪的敏感性。在训练过程中，它同时优化软阈值和多任务学习模型权重，自动确定适当的稀疏级别，以实现高任务准确性和高整体稀疏度。它进一步结合了自适应加权机制，根据每个任务对修剪的稳健性动态调整任务特定损失的重要性。通过在流行的多任务数据集上进行全面实验证明了AdapMTL的有效性，表现优于最先进的修剪方法。 <br><br>总结:多媒体处理中，模型压缩和多任务学习是至关重要的。AdapMTL提出了一个自适应修剪框架，能够有效处理多任务学习模型的压缩，通过实验证明了其在不同数据集和架构上的卓越表现。 <div>
+In the domain of multimedia and multimodal processing, the efficient handling
+of diverse data streams such as images, video, and sensor data is paramount.
+Model compression and multitask learning (MTL) are crucial in this field,
+offering the potential to address the resource-intensive demands of processing
+and interpreting multiple forms of media simultaneously. However, effectively
+compressing a multitask model presents significant challenges due to the
+complexities of balancing sparsity allocation and accuracy performance across
+multiple tasks. To tackle these challenges, we propose AdapMTL, an adaptive
+pruning framework for MTL models. AdapMTL leverages multiple learnable soft
+thresholds independently assigned to the shared backbone and the task-specific
+heads to capture the nuances in different components' sensitivity to pruning.
+During training, it co-optimizes the soft thresholds and MTL model weights to
+automatically determine the suitable sparsity level at each component to
+achieve both high task accuracy and high overall sparsity. It further
+incorporates an adaptive weighting mechanism that dynamically adjusts the
+importance of task-specific losses based on each task's robustness to pruning.
+We demonstrate the effectiveness of AdapMTL through comprehensive experiments
+on popular multitask datasets, namely NYU-v2 and Tiny-Taskonomy, with different
+architectures, showcasing superior performance compared to state-of-the-art
+pruning methods.
+]]></content:encoded>
+<pubDate>2024-08-07T17:19:15Z</pubDate>
+<pubDate>2024-08-07T17:19:15Z</pubDate>
+</item>
 
 <item>
 <title>LLaVA-OneVision: Easy Visual Task Transfer</title>
