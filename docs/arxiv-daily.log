@@ -8955,3 +8955,21 @@ Filter: [Distributed Feedback-Feedforward Algorithms for Time-Varying Resource
   Allocation](http://arxiv.org/abs/2408.03912v1)
 append_entries: 1
 Finish: 2024-08-08 12:16:39.575739
+------------------------------------------------------
+Started: 2024-08-09 00:42:49.452460
+Existing_entries: 232
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [How Well Can Vision Language Models See Image Details?](http://arxiv.org/abs/2408.03940v1)
+Filter: [SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic
+  Performance for Mercosur Common Nomenclature](http://arxiv.org/abs/2408.03936v1)
+Filter: [From Words to Worth: Newborn Article Impact Prediction with LLM](http://arxiv.org/abs/2408.03934v1)
+Filter: [Lower Bounds for Approximate (& Exact) k-Disjoint-Shortest-Paths](http://arxiv.org/abs/2408.03933v1)
+Filter: [Fast Sprite Decomposition from Animated Graphics](http://arxiv.org/abs/2408.03923v1)
+Filter: [FMiFood: Multi-modal Contrastive Learning for Food Image Classification](http://arxiv.org/abs/2408.03922v1)
+Filter: [Certification of Linear Inclusions for Nonlinear Systems](http://arxiv.org/abs/2408.03918v1)
+Filter: [Hard to Explain: On the Computational Hardness of In-Distribution Model
+  Interpretation](http://arxiv.org/abs/2408.03915v1)
+Filter: [Distributed Feedback-Feedforward Algorithms for Time-Varying Resource
+  Allocation](http://arxiv.org/abs/2408.03912v1)
+append_entries: 0
+Finish: 2024-08-09 00:42:50.092715
