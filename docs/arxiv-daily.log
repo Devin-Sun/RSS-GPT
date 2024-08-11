@@ -9049,3 +9049,22 @@ Filter: [Core-Sparse Monge Matrix Multiplication: Improved Algorithm and
   Applications](http://arxiv.org/abs/2408.04613v1)
 append_entries: 0
 Finish: 2024-08-11 00:46:46.585154
+------------------------------------------------------
+Started: 2024-08-11 12:15:20.202008
+Existing_entries: 232
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LiDAR-Event Stereo Fusion with Hallucinations](http://arxiv.org/abs/2408.04633v1)
+Filter: [Arctic-TILT. Business Document Understanding at Sub-Billion Scale](http://arxiv.org/abs/2408.04632v1)
+Filter: [Puppet-Master: Scaling Interactive Video Generation as a Motion Prior
+  for Part-Level Dynamics](http://arxiv.org/abs/2408.04631v1)
+Filter: [LogogramNLP: Comparing Visual and Textual Representations of Ancient
+  Logographic Writing Systems for NLP](http://arxiv.org/abs/2408.04628v1)
+Filter: [Regularized Unconstrained Weakly Submodular Maximization](http://arxiv.org/abs/2408.04620v1)
+Filter: [Transformer Explainer: Interactive Learning of Text-Generative Models](http://arxiv.org/abs/2408.04619v1)
+Filter: [Longest cycles in vertex-transitive and highly connected graphs](http://arxiv.org/abs/2408.04618v1)
+Filter: [SSD Set System, Graph Decomposition and Hamiltonian Cycle](http://arxiv.org/abs/2408.04615v1)
+Filter: [Better Alignment with Instruction Back-and-Forth Translation](http://arxiv.org/abs/2408.04614v1)
+Filter: [Core-Sparse Monge Matrix Multiplication: Improved Algorithm and
+  Applications](http://arxiv.org/abs/2408.04613v1)
+append_entries: 0
+Finish: 2024-08-11 12:15:20.744893
