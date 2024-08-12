@@ -9087,3 +9087,29 @@ Filter: [Core-Sparse Monge Matrix Multiplication: Improved Algorithm and
   Applications](http://arxiv.org/abs/2408.04613v1)
 append_entries: 0
 Finish: 2024-08-12 00:44:04.645606
+------------------------------------------------------
+Started: 2024-08-12 12:18:39.904154
+Existing_entries: 232
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Preserving Privacy in Large Language Models: A Survey on Current Threats
+  and Solutions](http://arxiv.org/abs/2408.05212v1)
+Token length: 1537
+Summarized using GPT-3.5-turbo-1106
+Append: [VITA: Towards Open-Source Interactive Omni Multimodal LLM](http://arxiv.org/abs/2408.05211v1)
+Filter: [Design and Fabrication of Soft Locomotion Robots based on Spatial
+  Compliant Mechanisms](http://arxiv.org/abs/2408.05207v1)
+Filter: [Multi-Garment Customized Model Generation](http://arxiv.org/abs/2408.05206v1)
+Filter: [Kalman-Inspired Feature Propagation for Video Face Super-Resolution](http://arxiv.org/abs/2408.05205v1)
+Filter: [Evaluating the capability of large language models to personalize
+  science texts for diverse middle-school-age learners](http://arxiv.org/abs/2408.05204v1)
+Filter: [TaSL: Task Skill Localization and Consolidation for Language Model
+  Continual Learning](http://arxiv.org/abs/2408.05200v1)
+Token length: 1372
+Summarized using GPT-3.5-turbo-1106
+Append: [Cell Morphology-Guided Small Molecule Generation with GFlowNets](http://arxiv.org/abs/2408.05196v1)
+Filter: [HistoKernel: Whole Slide Image Level Maximum Mean Discrepancy Kernels
+  for Pan-Cancer Predictive Modelling](http://arxiv.org/abs/2408.05195v1)
+Filter: [A hybrid SIAC -- data-driven post-processing filter for discontinuities
+  in solutions to numerical PDEs](http://arxiv.org/abs/2408.05193v1)
+append_entries: 2
+Finish: 2024-08-12 12:18:51.626562
