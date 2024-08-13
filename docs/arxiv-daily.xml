@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>VITA: Towards Open-Source Interactive Omni Multimodal LLM</title>
 <link>http://arxiv.org/abs/2408.05211v1</link>
@@ -13,7 +14,7 @@
 
 VITA 是首个开源多模态大型语言模型（MLLM），具有视频、图像、文本和音频同时处理和分析的能力，并且拥有先进的多模态交互体验。通过对Mixtral 8x7B作为语言基础的拓展，VITA 扩展了其中文词汇，并进行了双语指导调优。通过两阶段多任务学习的方式赋予语言模型视觉和音频能力。VITA 在跨范围的单模态和多模态基准测试中表现出色，并且在增强自然的多模态人机交互体验方面取得了可观进展。VITA 是开源社区探索多模态理解和交互无缝集成的第一步。虽然VITA 还有很多工作要做，以接近闭源对应物，但我们希望其作为先驱的角色能为后续研究奠定基础。项目页面：https://vita-home.github.io。
 
-<br><br>总结：
+<br /><br />总结：
 VITA 是首个开源多模态大型语言模型，具有多模态处理和分析能力，并且拥有先进的多模态交互体验。通过扩展语言基础和双语指导调优，VITA 具备了视觉和音频能力，并在多模态基准测试中表现出色。同时，VITA 还在增强自然的多模态人机交互体验方面取得了可观进展。VITA 让开源社区有望探索多模态理解和交互无缝集成。 <div>
 The remarkable multimodal capabilities and interactive experience of GPT-4o
 underscore their necessity in practical applications, yet open-source models
@@ -38,15 +39,14 @@ role as a pioneer can serve as a cornerstone for subsequent research. Project
 Page: https://vita-home.github.io.
 ]]></content:encoded>
 <pubDate>2024-08-09T17:59:49Z</pubDate>
-<pubDate>2024-08-09T17:59:49Z</pubDate>
 </item>
 <item>
 <title>Cell Morphology-Guided Small Molecule Generation with GFlowNets</title>
 <link>http://arxiv.org/abs/2408.05196v1</link>
 <guid>http://arxiv.org/abs/2408.05196v1</guid>
 <content:encoded><![CDATA[
-<div> 高含量表型筛选，高含量成像，深度学习，分子设计，药物发现<br>
-这项工作集中在高含量成像（HCI）引导的分子设计这一新颖任务。作者提出了一种利用无监督多模态联合嵌入来定义潜在相似性作为GFlowNets的奖励的方法。所提出的模型学习生成新的分子，这些分子可能产生与给定图像目标类似的表型效应，而不依赖预注释的表型标签。研究表明，所提出的方法生成的分子在形态和结构上与目标具有高度相似性，增加了类似生物活性的可能性，这一点已被独立的 Oracle 模型确认。 <br><br>总结: <br>本研究专注于利用高含量成像（HCI）来指导分子设计，提出了一种无监督的多模态联合嵌入的方法，用于定义潜在相似性作为GFlowNets的奖励，以生成具有类似生物活性的分子。所提出的方法已经证明能够生成形态和结构与目标相似的分子，并且得到了独立的确认。 <div>
+<div> 高含量表型筛选，高含量成像，深度学习，分子设计，药物发现<br />
+这项工作集中在高含量成像（HCI）引导的分子设计这一新颖任务。作者提出了一种利用无监督多模态联合嵌入来定义潜在相似性作为GFlowNets的奖励的方法。所提出的模型学习生成新的分子，这些分子可能产生与给定图像目标类似的表型效应，而不依赖预注释的表型标签。研究表明，所提出的方法生成的分子在形态和结构上与目标具有高度相似性，增加了类似生物活性的可能性，这一点已被独立的 Oracle 模型确认。 <br /><br />总结: <br />本研究专注于利用高含量成像（HCI）来指导分子设计，提出了一种无监督的多模态联合嵌入的方法，用于定义潜在相似性作为GFlowNets的奖励，以生成具有类似生物活性的分子。所提出的方法已经证明能够生成形态和结构与目标相似的分子，并且得到了独立的确认。 <div>
 High-content phenotypic screening, including high-content imaging (HCI), has
 gained popularity in the last few years for its ability to characterize novel
 therapeutics without prior knowledge of the protein target. When combined with
@@ -68,9 +68,7 @@ likelihood of similar biological activity, as confirmed by an independent
 oracle model.
 ]]></content:encoded>
 <pubDate>2024-08-09T17:40:35Z</pubDate>
-<pubDate>2024-08-09T17:40:35Z</pubDate>
 </item>
-
 <item>
 <title>AdapMTL: Adaptive Pruning Framework for Multitask Learning Model</title>
 <link>http://arxiv.org/abs/2408.03913v1</link>
