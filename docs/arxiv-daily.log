@@ -9133,3 +9133,29 @@ Filter: [A hybrid SIAC -- data-driven post-processing filter for discontinuities
   in solutions to numerical PDEs](http://arxiv.org/abs/2408.05193v1)
 append_entries: 0
 Finish: 2024-08-13 00:43:32.813900
+------------------------------------------------------
+Started: 2024-08-13 12:17:35.092845
+Existing_entries: 234
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Is it a work or leisure travel? Applying text classification to identify
+  work-related travel on social networks](http://arxiv.org/abs/2408.06341v1)
+Filter: [Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural
+  Phenotyping with Pose Estimation Techniques](http://arxiv.org/abs/2408.06336v1)
+Filter: [LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for
+  Humor Classification](http://arxiv.org/abs/2408.06335v1)
+Filter: [FastFiD: Improve Inference Efficiency of Open Domain Question Answering
+  via Sentence Selection](http://arxiv.org/abs/2408.06333v1)
+Filter: [Animate, or Inanimate, That is the Question for Large Language Models](http://arxiv.org/abs/2408.06332v1)
+Filter: [Integration of blockchain in smart systems: problems and opportunities
+  for real-time sensor data storage](http://arxiv.org/abs/2408.06331v1)
+Filter: [Rigorous Hausdorff dimension estimates for conformal fractals](http://arxiv.org/abs/2408.06330v1)
+Filter: [HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds
+  From Heterogeneous LiDAR Sensors](http://arxiv.org/abs/2408.06328v1)
+Token length: 1492
+Summarized using GPT-3.5-turbo-1106
+Append: [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+  Agents](http://arxiv.org/abs/2408.06327v1)
+Filter: [Online Vehicle Routing with Pickups and Deliveries under Time-Dependent
+  Travel-Time Constraints](http://arxiv.org/abs/2408.06324v1)
+append_entries: 1
+Finish: 2024-08-13 12:17:42.003095
