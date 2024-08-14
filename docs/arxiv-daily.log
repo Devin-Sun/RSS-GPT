@@ -9159,3 +9159,25 @@ Filter: [Online Vehicle Routing with Pickups and Deliveries under Time-Dependent
   Travel-Time Constraints](http://arxiv.org/abs/2408.06324v1)
 append_entries: 1
 Finish: 2024-08-13 12:17:42.003095
+------------------------------------------------------
+Started: 2024-08-14 00:42:33.989187
+Existing_entries: 235
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Is it a work or leisure travel? Applying text classification to identify
+  work-related travel on social networks](http://arxiv.org/abs/2408.06341v1)
+Filter: [Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural
+  Phenotyping with Pose Estimation Techniques](http://arxiv.org/abs/2408.06336v1)
+Filter: [LOLgorithm: Integrating Semantic,Syntactic and Contextual Elements for
+  Humor Classification](http://arxiv.org/abs/2408.06335v1)
+Filter: [FastFiD: Improve Inference Efficiency of Open Domain Question Answering
+  via Sentence Selection](http://arxiv.org/abs/2408.06333v1)
+Filter: [Animate, or Inanimate, That is the Question for Large Language Models](http://arxiv.org/abs/2408.06332v1)
+Filter: [Integration of blockchain in smart systems: problems and opportunities
+  for real-time sensor data storage](http://arxiv.org/abs/2408.06331v1)
+Filter: [Rigorous Hausdorff dimension estimates for conformal fractals](http://arxiv.org/abs/2408.06330v1)
+Filter: [HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds
+  From Heterogeneous LiDAR Sensors](http://arxiv.org/abs/2408.06328v1)
+Filter: [Online Vehicle Routing with Pickups and Deliveries under Time-Dependent
+  Travel-Time Constraints](http://arxiv.org/abs/2408.06324v2)
+append_entries: 0
+Finish: 2024-08-14 00:42:37.775375
