@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Diversity Empowers Intelligence: Integrating Expertise of Software
   Engineering Agents</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2408.07060v1</guid>
 <content:encoded><![CDATA[
 <div> agent frameworks, SWE-Bench Lite, DEI, collaborative AI systems, software engineering challenges
-<br><br>总结:
+<br /><br />总结:
 本文介绍了大型语言模型(LLM)代理在解决现实世界软件工程问题方面的潜力。开源软件工程代理框架在SWE-Bench Lite中能解决超过27%的真实GitHub问题。然而，这些复杂的代理框架在不同任务中表现不同。为了充分利用这些代理的多样性，作者提出了DEI（Diversity Empowered Intelligence）框架，用于整合它们的独特专业知识。实验证明，由DEI指导的代理团体能够大幅超越最佳单个代理的表现。我们发现，一组开源SWE代理在SWE-Bench Lite上最高达到27.3%的解决率，而使用DEI后，可以达到34.3%，超过25%，超越大多数闭源解决方案。我们的最佳团队在SWE-Bench Lite上的解决率达到55%，排名最高。这些发现对协作人工智能系统及其解决复杂软件工程挑战的潜力的研究贡献良多。 <div>
 Large language model (LLM) agents have shown great potential in solving
 real-world software engineering (SWE) problems. The most advanced open-source
@@ -32,7 +33,6 @@ body of research on collaborative AI systems and their potential to solve
 complex software engineering challenges.
 ]]></content:encoded>
 <pubDate>2024-08-13T17:50:28Z</pubDate>
-<pubDate>2024-08-13T17:50:28Z</pubDate>
 </item>
 <item>
 <title>LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs</title>
@@ -40,7 +40,7 @@ complex software engineering challenges.
 <guid>http://arxiv.org/abs/2408.07055v1</guid>
 <content:encoded><![CDATA[
 <div> AgentWrite, LongWriter-6k, LongBench-Write, LLMs, DPO
-<br><br>
+<br /><br />
 总结:
 本文介绍了当前语言模型存在的输出长度限制问题，认为这是由于数据集中长输出示例的稀缺所致。为解决这一问题，作者提出了AgentWrite，一种基于代理的管道，将超长生成任务分解为子任务，使得现有的LLMs能够生成超过20,000字的连贯输出。作者还开发了包含6,000个SFT数据的LongWriter-6k数据集，其中包含长度为2k至32k字的输出。通过将这一数据集用于模型训练，成功地将现有模型的输出长度扩展到10,000字以上，并保持了输出质量。此外，作者还开发了LongBench-Write，用于评估超长生成能力的综合基准。最终，通过DPO进一步改进的9B参数模型，在这一基准上取得了业界领先的性能。研究表明，现有的长上下文LLM已经具备了更大输出窗口的潜力，唯一需要的是具有扩展输出的数据，以解锁这一能力。 <div>
 Current long context large language models (LLMs) can process inputs up to
@@ -65,9 +65,7 @@ extended output during model alignment to unlock this capability. Our code &
 models are at: https://github.com/THUDM/LongWriter.
 ]]></content:encoded>
 <pubDate>2024-08-13T17:46:12Z</pubDate>
-<pubDate>2024-08-13T17:46:12Z</pubDate>
 </item>
-
 <item>
 <title>VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
   Agents</title>

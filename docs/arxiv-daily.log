@@ -9205,3 +9205,20 @@ Filter: [Exploiting Leakage in Password Managers via Injection Attacks](http://a
 Filter: [The News Comment Gap and Algorithmic Agenda Setting in Online Forums](http://arxiv.org/abs/2408.07052v1)
 append_entries: 2
 Finish: 2024-08-14 12:16:55.976668
+------------------------------------------------------
+Started: 2024-08-15 00:40:54.478473
+Existing_entries: 237
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Approaches for enhancing extrapolability in process-based and
+  data-driven models in hydrology](http://arxiv.org/abs/2408.07071v1)
+Filter: [Asymptotic quantification of entanglement with a single copy](http://arxiv.org/abs/2408.07067v1)
+Filter: [Fingerspelling within Sign Language Translation](http://arxiv.org/abs/2408.07065v1)
+Filter: [HADRON: Human-friendly Control and Artificial Intelligence for Military
+  Drone Operations](http://arxiv.org/abs/2408.07063v1)
+Filter: [Model Counting in the Wild](http://arxiv.org/abs/2408.07059v1)
+Filter: [A Survey on Model MoErging: Recycling and Routing Among Specialized
+  Experts for Collaborative Learning](http://arxiv.org/abs/2408.07057v1)
+Filter: [Exploiting Leakage in Password Managers via Injection Attacks](http://arxiv.org/abs/2408.07054v1)
+Filter: [The News Comment Gap and Algorithmic Agenda Setting in Online Forums](http://arxiv.org/abs/2408.07052v1)
+append_entries: 0
+Finish: 2024-08-15 00:40:55.500566
