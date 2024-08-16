@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>End-to-end Semantic-centric Video-based Multimodal Affective Computing</title>
 <link>http://arxiv.org/abs/2408.07694v1</link>
 <guid>http://arxiv.org/abs/2408.07694v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 人工智能; 情感计算; 多模态; 语义分析; 视频分析<br>
-<br>
-本文介绍了一种名为SemanticMAC的新型端到端框架，用于计算人类语音视频的多模态语义中心情感。该框架利用预训练的Transformer模型进行多模态数据预处理，并设计了情感感知器模块来捕获单模态情感信息。此外，他们提出了一种语义中心方法，以三种方式统一多模态表示学习。最后，在语义中心标签的指导下，SemanticMAC有效地学习了特定和共享的语义表示。实验结果表明，在四个情感计算下游任务中，他们的方法在7个公共数据集上均超过了现有方法。 <br><br>总结:SemanticMAC框架利用Transformer模型和情感感知器模块进行多模态数据处理和情感信息捕获，并通过语义中心方法统一多模态表示学习，取得了优异的实验结果。 <div>
+<div> 关键词: 人工智能; 情感计算; 多模态; 语义分析; 视频分析<br />
+<br />
+本文介绍了一种名为SemanticMAC的新型端到端框架，用于计算人类语音视频的多模态语义中心情感。该框架利用预训练的Transformer模型进行多模态数据预处理，并设计了情感感知器模块来捕获单模态情感信息。此外，他们提出了一种语义中心方法，以三种方式统一多模态表示学习。最后，在语义中心标签的指导下，SemanticMAC有效地学习了特定和共享的语义表示。实验结果表明，在四个情感计算下游任务中，他们的方法在7个公共数据集上均超过了现有方法。 <br /><br />总结:SemanticMAC框架利用Transformer模型和情感感知器模块进行多模态数据处理和情感信息捕获，并通过语义中心方法统一多模态表示学习，取得了优异的实验结果。 <div>
 In the pathway toward Artificial General Intelligence (AGI), understanding
 human's affection is essential to enhance machine's cognition abilities. For
 achieving more sensual human-AI interaction, Multimodal Affective Computing
@@ -35,9 +36,7 @@ Extensive experimental results demonstrate that our approach surpass the
 state-of-the-art methods on 7 public datasets in four MAC downstream tasks.
 ]]></content:encoded>
 <pubDate>2024-08-14T17:50:27Z</pubDate>
-<pubDate>2024-08-14T17:50:27Z</pubDate>
 </item>
-
 <item>
 <title>Diversity Empowers Intelligence: Integrating Expertise of Software
   Engineering Agents</title>

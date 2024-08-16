@@ -9243,3 +9243,21 @@ Filter: [Composing Automatic Differentiation with Custom Derivatives of
   Higher-Order Functions](http://arxiv.org/abs/2408.07683v1)
 append_entries: 1
 Finish: 2024-08-15 12:17:30.361835
+------------------------------------------------------
+Started: 2024-08-16 00:41:59.327977
+Existing_entries: 238
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Knowledge Distillation with Refined Logits](http://arxiv.org/abs/2408.07703v1)
+Filter: [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned
+  Language Models](http://arxiv.org/abs/2408.07702v1)
+Filter: [Quantifying over Optimum Answer Sets](http://arxiv.org/abs/2408.07697v1)
+Filter: [Model-Based Control of Water Treatment with Pumped Water Storage](http://arxiv.org/abs/2408.07696v1)
+Filter: [A family of high-order accurate contour integral methods for strongly
+  continuous semigroups](http://arxiv.org/abs/2408.07691v1)
+Filter: [Detecting Near-Duplicate Face Images](http://arxiv.org/abs/2408.07689v1)
+Filter: [RSD-DOG : A New Image Descriptor based on Second Order Derivatives](http://arxiv.org/abs/2408.07687v1)
+Filter: [Auto-bidding and Auctions in Online Advertising: A Survey](http://arxiv.org/abs/2408.07685v1)
+Filter: [Composing Automatic Differentiation with Custom Derivatives of
+  Higher-Order Functions](http://arxiv.org/abs/2408.07683v1)
+append_entries: 0
+Finish: 2024-08-16 00:42:00.294479
