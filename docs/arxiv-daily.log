@@ -9371,3 +9371,25 @@ Filter: [Aliasing and Label-Independent Decomposition of Risk: Beyond the
   bias-variance trade-off](http://arxiv.org/abs/2408.08294v1)
 append_entries: 0
 Finish: 2024-08-18 12:17:06.628723
+------------------------------------------------------
+Started: 2024-08-19 00:43:15.966366
+Existing_entries: 238
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Can Large Language Models Understand Symbolic Graphics Programs?](http://arxiv.org/abs/2408.08313v1)
+Filter: [HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through
+  Contrastive Learning](http://arxiv.org/abs/2408.08312v1)
+Filter: [ScalingFilter: Assessing Data Quality through Inverse Utilization of
+  Scaling Laws](http://arxiv.org/abs/2408.08310v1)
+Filter: [Understanding the Local Geometry of Generative Model Manifolds](http://arxiv.org/abs/2408.08307v1)
+Filter: [Towards Flexible Visual Relationship Segmentation](http://arxiv.org/abs/2408.08305v1)
+Filter: [Benchmarking the Capabilities of Large Language Models in Transportation
+  System Engineering: Accuracy, Consistency, and Reasoning Behaviors](http://arxiv.org/abs/2408.08302v1)
+Filter: [VLPG-Nav: Object Navigation Using Visual Language Pose Graph and Object
+  Localization Probability Maps](http://arxiv.org/abs/2408.08301v1)
+Filter: [HELP: Hierarchical Embeddings-based Log Parsing](http://arxiv.org/abs/2408.08300v1)
+Filter: [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual
+  Learning with Pre-training](http://arxiv.org/abs/2408.08295v1)
+Filter: [Aliasing and Label-Independent Decomposition of Risk: Beyond the
+  bias-variance trade-off](http://arxiv.org/abs/2408.08294v1)
+append_entries: 0
+Finish: 2024-08-19 00:43:16.502397
