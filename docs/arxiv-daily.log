@@ -9393,3 +9393,27 @@ Filter: [Aliasing and Label-Independent Decomposition of Risk: Beyond the
   bias-variance trade-off](http://arxiv.org/abs/2408.08294v1)
 append_entries: 0
 Finish: 2024-08-19 00:43:16.502397
+------------------------------------------------------
+Started: 2024-08-19 12:17:16.742803
+Existing_entries: 238
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Accelerating Giant Impact Simulations with Machine Learning](http://arxiv.org/abs/2408.08873v1)
+Filter: [xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](http://arxiv.org/abs/2408.08872v1)
+Filter: [SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and
+  Medical Image Segmentation](http://arxiv.org/abs/2408.08870v1)
+Filter: [PEDAL: Enhancing Greedy Decoding with Large Language Models using
+  Diverse Exemplars](http://arxiv.org/abs/2408.08869v1)
+Filter: [A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree
+  Aggregation, Use BLTs](http://arxiv.org/abs/2408.08868v1)
+Filter: [Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA
+  Sequencing Data Analysis](http://arxiv.org/abs/2408.08867v1)
+Token length: 1453
+Summarized using GPT-3.5-turbo-1106
+Append: [Visual Agents as Fast and Slow Thinkers](http://arxiv.org/abs/2408.08862v1)
+Filter: [The computational power of a human society: a new model of social
+  evolution](http://arxiv.org/abs/2408.08861v1)
+Filter: [Stochastic Bandits Robust to Adversarial Attacks](http://arxiv.org/abs/2408.08859v1)
+Filter: [DPA: Dual Prototypes Alignment for Unsupervised Adaptation of
+  Vision-Language Models](http://arxiv.org/abs/2408.08855v1)
+append_entries: 1
+Finish: 2024-08-19 12:17:20.898235
