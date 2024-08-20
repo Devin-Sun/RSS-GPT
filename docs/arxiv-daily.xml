@@ -4,6 +4,39 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
+  Views</title>
+<link>http://arxiv.org/abs/2408.10195v1</link>
+<guid>http://arxiv.org/abs/2408.10195v1</guid>
+<content:encoded><![CDATA[
+<div> Sparse-view images, 3D reconstruction, camera poses, diffusion model, textured mesh
+<br><br>
+该论文介绍了一种名为SpaRP的方法，用于从单个或少数几个不重叠的二维图像中重建三维纹理网格并估计相对相机姿态。该方法利用2D扩散模型的知识，经过微调后，隐式地推断出稀疏视图之间的三维空间关系。首先，扩散模型训练用于联合预测相机姿态的替代表示和在已知姿态下对象的多视图图像，整合所有输入稀疏视图的信息。然后利用这些预测完成3D重建和姿态估计，重建的3D模型可以进一步用于精确定位输入视图的相机姿态。通过对三个数据集进行大量实验证明，该方法在3D重建质量和姿态预测准确性方面明显优于基线方法，同时表现出很高的效率。只需大约20秒即可为输入视图生成带纹理的网格和相机姿态。 <div>
+Open-world 3D generation has recently attracted considerable attention. While
+many single-image-to-3D methods have yielded visually appealing outcomes, they
+often lack sufficient controllability and tend to produce hallucinated regions
+that may not align with users' expectations. In this paper, we explore an
+important scenario in which the input consists of one or a few unposed 2D
+images of a single object, with little or no overlap. We propose a novel
+method, SpaRP, to reconstruct a 3D textured mesh and estimate the relative
+camera poses for these sparse-view images. SpaRP distills knowledge from 2D
+diffusion models and finetunes them to implicitly deduce the 3D spatial
+relationships between the sparse views. The diffusion model is trained to
+jointly predict surrogate representations for camera poses and multi-view
+images of the object under known poses, integrating all information from the
+input sparse views. These predictions are then leveraged to accomplish 3D
+reconstruction and pose estimation, and the reconstructed 3D model can be used
+to further refine the camera poses of input views. Through extensive
+experiments on three datasets, we demonstrate that our method not only
+significantly outperforms baseline methods in terms of 3D reconstruction
+quality and pose prediction accuracy but also exhibits strong efficiency. It
+requires only about 20 seconds to produce a textured mesh and camera poses for
+the input views. Project page: https://chaoxu.xyz/sparp.
+]]></content:encoded>
+<pubDate>2024-08-19T17:53:10Z</pubDate>
+<pubDate>2024-08-19T17:53:10Z</pubDate>
+</item>
 
 <item>
 <title>Visual Agents as Fast and Slow Thinkers</title>
