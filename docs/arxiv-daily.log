@@ -9463,3 +9463,24 @@ Filter: [A Biologically Inspired Design Principle for Building Robust Robotic
   Systems](http://arxiv.org/abs/2408.10192v1)
 append_entries: 1
 Finish: 2024-08-20 12:17:44.775825
+------------------------------------------------------
+Started: 2024-08-21 00:42:10.673792
+Existing_entries: 240
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](http://arxiv.org/abs/2408.10205v1)
+Filter: [Criticality Leveraged Adversarial Training (CLAT) for Boosted
+  Performance via Parameter Efficiency](http://arxiv.org/abs/2408.10204v1)
+Filter: [SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP](http://arxiv.org/abs/2408.10202v1)
+Filter: [LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing
+  Platforms](http://arxiv.org/abs/2408.10201v1)
+Filter: [SoK: Runtime Integrity](http://arxiv.org/abs/2408.10200v1)
+Filter: [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction
+  Model](http://arxiv.org/abs/2408.10198v1)
+Filter: [Demystifying the Communication Characteristics for Distributed
+  Transformer Models](http://arxiv.org/abs/2408.10197v1)
+Filter: [Area under the ROC Curve has the Most Consistent Evaluation for Binary
+  Classification](http://arxiv.org/abs/2408.10193v1)
+Filter: [A Biologically Inspired Design Principle for Building Robust Robotic
+  Systems](http://arxiv.org/abs/2408.10192v1)
+append_entries: 0
+Finish: 2024-08-21 00:42:11.638108
