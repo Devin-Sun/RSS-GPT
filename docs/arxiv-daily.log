@@ -9484,3 +9484,31 @@ Filter: [A Biologically Inspired Design Principle for Building Robust Robotic
   Systems](http://arxiv.org/abs/2408.10192v1)
 append_entries: 0
 Finish: 2024-08-21 00:42:11.638108
+------------------------------------------------------
+Started: 2024-08-21 12:16:18.175527
+Existing_entries: 240
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for
+  Interpretable Image Enhancement](http://arxiv.org/abs/2408.11055v1)
+Filter: [NeCo: Improving DINOv2's spatial representations in 19 GPU hours with
+  Patch Neighbor Consistency](http://arxiv.org/abs/2408.11054v1)
+Filter: [Revisiting VerilogEval: Newer LLMs, In-Context Learning, and
+  Specification-to-RTL Tasks](http://arxiv.org/abs/2408.11053v1)
+Token length: 1341
+Summarized using GPT-3.5-turbo-1106
+Append: [Accelerating Goal-Conditioned RL Algorithms and Research](http://arxiv.org/abs/2408.11052v1)
+Token length: 1212
+Summarized using GPT-3.5-turbo-1106
+Append: [FLAME: Learning to Navigate with Multimodal LLM in Urban Environments](http://arxiv.org/abs/2408.11051v1)
+Append: [MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context
+  Generation with Speculative Decoding](http://arxiv.org/abs/2408.11049v1)
+Filter: [RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual
+  Dexterous Robot Hands](http://arxiv.org/abs/2408.11048v1)
+Filter: [Inside the Black Box: Detecting Data Leakage in Pre-trained Language
+  Encoders](http://arxiv.org/abs/2408.11046v1)
+Filter: [Reconciling Methodological Paradigms: Employing Large Language Models as
+  Novice Qualitative Research Assistants in Talent Management Research](http://arxiv.org/abs/2408.11043v1)
+Filter: [GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on
+  Graphs](http://arxiv.org/abs/2408.11042v1)
+append_entries: 3
+Finish: 2024-08-21 12:16:27.681525

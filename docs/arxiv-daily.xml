@@ -4,6 +4,95 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Accelerating Goal-Conditioned RL Algorithms and Research</title>
+<link>http://arxiv.org/abs/2408.11052v1</link>
+<guid>http://arxiv.org/abs/2408.11052v1</guid>
+<content:encoded><![CDATA[
+<div> 自我监督；强化学习；自监督目标条件强化学习；JaxGCRL代码库；对比强化学习算法
+
+自监督在机器学习领域取得了巨大成功，但在自监督目标条件强化学习方面进展缓慢。作者通过发布高性能代码库和基准JaxGCRL来解决这一问题，使研究人员能够在单个GPU上的几分钟内训练数百万个环境步骤的代理。他们利用GPU加速环境和基于infoNCE目标的对比强化学习算法的稳定批处理版本，有效地利用了增加的数据吞吐量。这一方法为未来的自监督目标条件强化学习研究提供了基础，使研究人员能够快速迭代新想法，并在各种具有挑战性的环境中进行评估。 <br><br>总结: 本文介绍了自监督目标条件强化学习的挑战和解决方法，提出了高性能的JaxGCRL代码库，并介绍了其基于对比强化学习算法的稳定批处理版本。作者强调这一方法为未来的研究提供了基础，使研究人员能够快速迭代新想法，并在具有挑战性的环境中进行评估。 <div>
+Self-supervision has the potential to transform reinforcement learning (RL),
+paralleling the breakthroughs it has enabled in other areas of machine
+learning. While self-supervised learning in other domains aims to find patterns
+in a fixed dataset, self-supervised goal-conditioned reinforcement learning
+(GCRL) agents discover new behaviors by learning from the goals achieved during
+unstructured interaction with the environment. However, these methods have
+failed to see similar success, both due to a lack of data from slow
+environments as well as a lack of stable algorithms. We take a step toward
+addressing both of these issues by releasing a high-performance codebase and
+benchmark JaxGCRL for self-supervised GCRL, enabling researchers to train
+agents for millions of environment steps in minutes on a single GPU. The key to
+this performance is a combination of GPU-accelerated environments and a stable,
+batched version of the contrastive reinforcement learning algorithm, based on
+an infoNCE objective, that effectively makes use of this increased data
+throughput. With this approach, we provide a foundation for future research in
+self-supervised GCRL, enabling researchers to quickly iterate on new ideas and
+evaluate them in a diverse set of challenging environments. Website + Code:
+https://github.com/MichalBortkiewicz/JaxGCRL
+]]></content:encoded>
+<pubDate>2024-08-20T17:58:40Z</pubDate>
+<pubDate>2024-08-20T17:58:40Z</pubDate>
+</item>
+<item>
+<title>FLAME: Learning to Navigate with Multimodal LLM in Urban Environments</title>
+<link>http://arxiv.org/abs/2408.11051v1</link>
+<guid>http://arxiv.org/abs/2408.11051v1</guid>
+<content:encoded><![CDATA[
+<div> Multimodal LLM-based agent, FLAME, urban VLN tasks, three-phase tuning technique, state-of-the-art performance<br>
+<br>
+关键词提取：FLAME是一个基于多模态LLM的代理，用于城市VLN任务，采用三阶段调优技术，达到了最先进的表现。<br>
+1. 介绍了FLAME，这是一个基于多模态LLM的代理，专为城市VLN任务设计，通过三阶段调优技术适应导航任务。
+2. 提到了三相调优技术的几个阶段，包括单感知调优和多感知调优。
+3. 提及了FLAME在Touchdown数据集上优于现有方法，并且在任务完成率上提高了7.3%。
+4. 强调了多模态LLM在复杂导航任务中的潜力，是对多模态LLM在实体AI应用中的推进。
+<br><br>总结: <br>这项研究介绍了FLAME，一个用于城市VLN任务的新型多模态LLM代理，通过三阶段调优技术适应导航任务。实验结果显示FLAME在Touchdown数据集上优于现有方法，任务完成率提高了7.3%，展示了多模态LLM在复杂导航任务中的潜力，是对多模态LLM在实体AI应用中的推进。 <div>
+Large Language Models (LLMs) have demonstrated potential in
+Vision-and-Language Navigation (VLN) tasks, yet current applications face
+challenges. While LLMs excel in general conversation scenarios, they struggle
+with specialized navigation tasks, yielding suboptimal performance compared to
+specialized VLN models. We introduce FLAME (FLAMingo-Architected Embodied
+Agent), a novel Multimodal LLM-based agent and architecture designed for urban
+VLN tasks that efficiently handles multiple observations. Our approach
+implements a three-phase tuning technique for effective adaptation to
+navigation tasks, including single perception tuning for street view
+description, multiple perception tuning for trajectory summarization, and
+end-to-end training on VLN datasets. The augmented datasets are synthesized
+automatically. Experimental results demonstrate FLAME's superiority over
+existing methods, surpassing state-of-the-art methods by a 7.3% increase in
+task completion rate on Touchdown dataset. This work showcases the potential of
+Multimodal LLMs (MLLMs) in complex navigation tasks, representing an
+advancement towards practical applications of MLLMs in embodied AI. Project
+page: https://flame-sjtu.github.io
+]]></content:encoded>
+<pubDate>2024-08-20T17:57:46Z</pubDate>
+<pubDate>2024-08-20T17:57:46Z</pubDate>
+</item>
+<item>
+<title>MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context
+  Generation with Speculative Decoding</title>
+<link>http://arxiv.org/abs/2408.11049v1</link>
+<guid>http://arxiv.org/abs/2408.11049v1</guid>
+<content:encoded><![CDATA[
+
+Large Language Models (LLMs) have become more prevalent in long-context
+applications such as interactive chatbots, document analysis, and agent
+workflows, but it is challenging to serve long-context requests with low
+latency and high throughput. Speculative decoding (SD) is a widely used
+technique to reduce latency without sacrificing performance but the
+conventional wisdom suggests that its efficacy is limited to small batch sizes.
+In MagicDec, we show that surprisingly SD can achieve speedup even for a high
+throughput inference regime for moderate to long sequences. More interestingly,
+an intelligent drafting strategy can achieve better speedup with increasing
+batch size based on our rigorous analysis. MagicDec first identifies the
+bottleneck shifts with increasing batch size and sequence length, and uses
+these insights to deploy speculative decoding more effectively for high
+throughput inference. Then, it leverages draft models with sparse KV cache to
+address the KV bottleneck that scales with both sequence length and batch size.
+]]></content:encoded>
+<pubDate>2024-08-20T17:57:31Z</pubDate>
+<pubDate>2024-08-20T17:57:31Z</pubDate>
+</item>
 
 <item>
 <title>SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse
