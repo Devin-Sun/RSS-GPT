@@ -4,6 +4,127 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models</title>
+<link>http://arxiv.org/abs/2408.11817v1</link>
+<guid>http://arxiv.org/abs/2408.11817v1</guid>
+<content:encoded><![CDATA[
+<div> 图表分析，多模态模型，基准评估，图形属性，挑战<br>
+多模态模型在视觉任务上表现出色，但现有基准测试的上限不断受到挑战。为此，需要一个新一代基准测试来挑战未来的多模态模型。本文介绍了一个适合当前和未来多模态模型的图形分析基准测试 GRAB。这个基准测试由2170个问题组成，涵盖四个任务和23个图形属性。作者评估了20个多模态模型在GRAB上的表现，并发现这是一个具有挑战性的基准测试，最高表现的模型仅得到21.7%的分数。最后，作者进行了各种消融实验，以探讨模型的成功和困难之处。他们发布了GRAB以鼓励这一重要且不断发展的领域的进步。<br><br>总结: 多模态模型在图形分析领域表现出色，需要新的基准测试挑战未来模型。作者引入了一个名为GRAB的基准测试，包含2170个问题，覆盖4个任务和23个图形属性。他们评估了20个多模态模型的表现，并发现这是一个具有挑战性的基准测试。作者还进行了消融实验，以探讨模型的成功和困难之处，并发布了GRAB以促进这一领域的进步。 <div>
+Large multimodal models (LMMs) have exhibited proficiencies across many
+visual tasks. Although numerous well-known benchmarks exist to evaluate model
+performance, they increasingly have insufficient headroom. As such, there is a
+pressing need for a new generation of benchmarks challenging enough for the
+next generation of LMMs. One area that LMMs show potential is graph analysis,
+specifically, the tasks an analyst might typically perform when interpreting
+figures such as estimating the mean, intercepts or correlations of functions
+and data series. In this work, we introduce GRAB, a graph analysis benchmark,
+fit for current and future frontier LMMs. Our benchmark is entirely synthetic,
+ensuring high-quality, noise-free questions. GRAB is comprised of 2170
+questions, covering four tasks and 23 graph properties. We evaluate 20 LMMs on
+GRAB, finding it to be a challenging benchmark, with the highest performing
+model attaining a score of just 21.7%. Finally, we conduct various ablations to
+investigate where the models succeed and struggle. We release GRAB to encourage
+progress in this important, growing domain.
+]]></content:encoded>
+<pubDate>2024-08-21T17:59:32Z</pubDate>
+<pubDate>2024-08-21T17:59:32Z</pubDate>
+</item>
+<item>
+<title>Efficient Exploration and Discriminative World Model Learning with an
+  Object-Centric Abstraction</title>
+<link>http://arxiv.org/abs/2408.11816v1</link>
+<guid>http://arxiv.org/abs/2408.11816v1</guid>
+<content:encoded><![CDATA[
+<div> 强化学习，对象中心映射，层次化建模，模型学习，迁移学习
+<br>
+这篇文章研究了在强化学习中的探索问题，通过给予智能体一个对象中心映射，将物品建模成高级状态抽象和属性变化建模成高级时间抽象，从而简化了状态转移动力学，使得未来状态更容易预测。他们提出了一种完全基于模型的算法，通过学习一个辨别性世界模型，规划有效的探索路径，并且能够规划到达任何已发现的（抽象）状态。通过在一系列2D制作和MiniHack环境中的实验验证了他们的模型能够高效解决单一任务，实现零样本和少样本的迁移学习，以及规划长期的决策。他们的模型在实验中表现出明显的优势，超过了现有低级方法（不使用抽象）以及使用相同抽象的模型无关和基于模型的方法。最后，他们还展示了如何通过强化学习低级对象扰动策略，以及通过监督学习对象映射本身。 
+<br><br>总结: 本研究通过对象中心映射和层次化建模解决了强化学习中的探索问题，提出了一种全面的模型算法，能够高效解决任务，实现迁移学习，并且能够规划长期的决策。实验结果表明，该模型在多个环境下表现出明显的优势。 <div>
+In the face of difficult exploration problems in reinforcement learning, we
+study whether giving an agent an object-centric mapping (describing a set of
+items and their attributes) allow for more efficient learning. We found this
+problem is best solved hierarchically by modelling items at a higher level of
+state abstraction to pixels, and attribute change at a higher level of temporal
+abstraction to primitive actions. This abstraction simplifies the transition
+dynamic by making specific future states easier to predict. We make use of this
+to propose a fully model-based algorithm that learns a discriminative world
+model, plans to explore efficiently with only a count-based intrinsic reward,
+and can subsequently plan to reach any discovered (abstract) states.
+  We demonstrate the model's ability to (i) efficiently solve single tasks,
+(ii) transfer zero-shot and few-shot across item types and environments, and
+(iii) plan across long horizons. Across a suite of 2D crafting and MiniHack
+environments, we empirically show our model significantly out-performs
+state-of-the-art low-level methods (without abstraction), as well as performant
+model-free and model-based methods using the same abstraction. Finally, we show
+how to reinforce learn low level object-perturbing policies, as well as
+supervise learn the object mapping itself.
+]]></content:encoded>
+<pubDate>2024-08-21T17:59:31Z</pubDate>
+<pubDate>2024-08-21T17:59:31Z</pubDate>
+</item>
+<item>
+<title>SEA: Supervised Embedding Alignment for Token-Level Visual-Textual
+  Integration in MLLMs</title>
+<link>http://arxiv.org/abs/2408.11813v1</link>
+<guid>http://arxiv.org/abs/2408.11813v1</guid>
+<content:encoded><![CDATA[
+
+Multimodal Large Language Models (MLLMs) have recently demonstrated
+remarkable perceptual and reasoning abilities, typically comprising a Vision
+Encoder, an Adapter, and a Large Language Model (LLM). The adapter serves as
+the critical bridge between the visual and language components. However,
+training adapters with image-level supervision often results in significant
+misalignment, undermining the LLMs' capabilities and limiting the potential of
+Multimodal LLMs. To address this, we introduce Supervised Embedding Alignment
+(SEA), a token-level alignment method that leverages vision-language
+pre-trained models, such as CLIP, to align visual tokens with the LLM's
+embedding space through contrastive learning. This approach ensures a more
+coherent integration of visual and language representations, enhancing the
+performance and interpretability of multimodal LLMs while preserving their
+inherent capabilities. Extensive experiments show that SEA effectively improves
+MLLMs, particularly for smaller models, without adding extra data or inference
+computation. SEA also lays the groundwork for developing more general and
+adaptable solutions to enhance multimodal systems.
+]]></content:encoded>
+<pubDate>2024-08-21T17:58:02Z</pubDate>
+<pubDate>2024-08-21T17:58:02Z</pubDate>
+</item>
+<item>
+<title>EmbodiedSAM: Online Segment Any 3D Thing in Real Time</title>
+<link>http://arxiv.org/abs/2408.11811v1</link>
+<guid>http://arxiv.org/abs/2408.11811v1</guid>
+<content:encoded><![CDATA[
+
+Embodied tasks require the agent to fully understand 3D scenes simultaneously
+with its exploration, so an online, real-time, fine-grained and
+highly-generalized 3D perception model is desperately needed. Since
+high-quality 3D data is limited, directly training such a model in 3D is almost
+infeasible. Meanwhile, vision foundation models (VFM) has revolutionized the
+field of 2D computer vision with superior performance, which makes the use of
+VFM to assist embodied 3D perception a promising direction. However, most
+existing VFM-assisted 3D perception methods are either offline or too slow that
+cannot be applied in practical embodied tasks. In this paper, we aim to
+leverage Segment Anything Model (SAM) for real-time 3D instance segmentation in
+an online setting. This is a challenging problem since future frames are not
+available in the input streaming RGB-D video, and an instance may be observed
+in several frames so object matching between frames is required. To address
+these challenges, we first propose a geometric-aware query lifting module to
+represent the 2D masks generated by SAM by 3D-aware queries, which is then
+iteratively refined by a dual-level query decoder. In this way, the 2D masks
+are transferred to fine-grained shapes on 3D point clouds. Benefit from the
+query representation for 3D masks, we can compute the similarity matrix between
+the 3D masks from different views by efficient matrix operation, which enables
+real-time inference. Experiments on ScanNet, ScanNet200, SceneNN and 3RScan
+show our method achieves leading performance even compared with offline
+methods. Our method also demonstrates great generalization ability in several
+zero-shot dataset transferring experiments and show great potential in
+open-vocabulary and data-efficient setting. Code and demo are available at
+https://xuxw98.github.io/ESAM/, with only one RTX 3090 GPU required for
+training and evaluation.
+]]></content:encoded>
+<pubDate>2024-08-21T17:57:06Z</pubDate>
+<pubDate>2024-08-21T17:57:06Z</pubDate>
+</item>
 
 <item>
 <title>Accelerating Goal-Conditioned RL Algorithms and Research</title>

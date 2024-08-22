@@ -9532,3 +9532,28 @@ Filter: [GraphFSA: A Finite State Automaton Framework for Algorithmic Learning o
   Graphs](http://arxiv.org/abs/2408.11042v1)
 append_entries: 0
 Finish: 2024-08-22 00:43:17.214335
+------------------------------------------------------
+Started: 2024-08-22 12:17:01.968408
+Existing_entries: 243
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1123
+Summarized using GPT-3.5-turbo-1106
+Append: [GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models](http://arxiv.org/abs/2408.11817v1)
+Token length: 1342
+Summarized using GPT-3.5-turbo-1106
+Append: [Efficient Exploration and Discriminative World Model Learning with an
+  Object-Centric Abstraction](http://arxiv.org/abs/2408.11816v1)
+Filter: [Great Memory, Shallow Reasoning: Limits of $k$NN-LMs](http://arxiv.org/abs/2408.11815v1)
+Filter: [SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset](http://arxiv.org/abs/2408.11814v1)
+Append: [SEA: Supervised Embedding Alignment for Token-Level Visual-Textual
+  Integration in MLLMs](http://arxiv.org/abs/2408.11813v1)
+Filter: [Scaling Cross-Embodied Learning: One Policy for Manipulation,
+  Navigation, Locomotion and Aviation](http://arxiv.org/abs/2408.11812v1)
+Append: [EmbodiedSAM: Online Segment Any 3D Thing in Real Time](http://arxiv.org/abs/2408.11811v1)
+Filter: [Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain
+  Diffusion Models](http://arxiv.org/abs/2408.11810v1)
+Filter: [Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware
+  Point Cloud Registration in the Wild](http://arxiv.org/abs/2408.11809v1)
+Filter: [Counting simplicial pairs in hypergraphs](http://arxiv.org/abs/2408.11806v1)
+append_entries: 4
+Finish: 2024-08-22 12:17:13.025212
