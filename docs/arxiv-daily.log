@@ -9512,3 +9512,23 @@ Filter: [GraphFSA: A Finite State Automaton Framework for Algorithmic Learning o
   Graphs](http://arxiv.org/abs/2408.11042v1)
 append_entries: 3
 Finish: 2024-08-21 12:16:27.681525
+------------------------------------------------------
+Started: 2024-08-22 00:43:16.533801
+Existing_entries: 243
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for
+  Interpretable Image Enhancement](http://arxiv.org/abs/2408.11055v1)
+Filter: [NeCo: Improving DINOv2's spatial representations in 19 GPU hours with
+  Patch Neighbor Consistency](http://arxiv.org/abs/2408.11054v1)
+Filter: [Revisiting VerilogEval: Newer LLMs, In-Context Learning, and
+  Specification-to-RTL Tasks](http://arxiv.org/abs/2408.11053v1)
+Filter: [RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual
+  Dexterous Robot Hands](http://arxiv.org/abs/2408.11048v1)
+Filter: [Inside the Black Box: Detecting Data Leakage in Pre-trained Language
+  Encoders](http://arxiv.org/abs/2408.11046v1)
+Filter: [Reconciling Methodological Paradigms: Employing Large Language Models as
+  Novice Qualitative Research Assistants in Talent Management Research](http://arxiv.org/abs/2408.11043v1)
+Filter: [GraphFSA: A Finite State Automaton Framework for Algorithmic Learning on
+  Graphs](http://arxiv.org/abs/2408.11042v1)
+append_entries: 0
+Finish: 2024-08-22 00:43:17.214335
