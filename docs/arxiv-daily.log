@@ -9593,3 +9593,20 @@ Append: [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed
   Representations](http://arxiv.org/abs/2408.12590v1)
 append_entries: 1
 Finish: 2024-08-23 12:16:58.558259
+------------------------------------------------------
+Started: 2024-08-24 00:41:20.477832
+Existing_entries: 248
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DreamCinema: Cinematic Transfer with Free Camera and 3D Character](http://arxiv.org/abs/2408.12601v1)
+Filter: [Controllable Text Generation for Large Language Models: A Survey](http://arxiv.org/abs/2408.12599v1)
+Filter: [ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor
+  Reconstruction](http://arxiv.org/abs/2408.12598v1)
+Filter: [Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous
+  GPU Clusters](http://arxiv.org/abs/2408.12596v1)
+Filter: [Quantum Sabotage Complexity](http://arxiv.org/abs/2408.12595v1)
+Filter: [Non-Homophilic Graph Pre-Training and Prompt Learning](http://arxiv.org/abs/2408.12594v1)
+Filter: [Automating Deformable Gasket Assembly](http://arxiv.org/abs/2408.12593v1)
+Filter: [Exposing Shadow Branches](http://arxiv.org/abs/2408.12592v1)
+Filter: [Differentiable Logic Programming for Distant Supervision](http://arxiv.org/abs/2408.12591v1)
+append_entries: 0
+Finish: 2024-08-24 00:41:22.632976
