@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Foundational Model for Electron Micrograph Analysis: Instruction-Tuning
+  Small-Scale Language-and-Vision Assistant for Enterprise Adoption</title>
+<link>http://arxiv.org/abs/2408.13248v1</link>
+<guid>http://arxiv.org/abs/2408.13248v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 半导体成像，深度学习，视觉语言指令调整，多模态框架，知识蒸馏<br>
+<br>
+在半导体制造过程中，半导体成像和分析是至关重要的，但在深度学习中却鲜有研究，这限制了我们在半导体制造中对精确控制和优化的能力。本文介绍了一个用于分析半导体电子显微镜图像的小规模多模态框架（MAEMI），通过视觉语言指令调整。作者利用大型多模态模型进行微观图像分析，生成了一个定制的指令跟随数据集。他们通过知识蒸馏，将更大的模型的知识转移到更小的模型中，从而提高了在视觉问题回答（VQA）任务中更小模型的准确性。这种方法消除了对昂贵的专家注释数据集的需求。企业可以进一步在其专有数据上对MAEMI进行优化，提高隐私性并在低成本的消费者硬件上提高性能。作者的实验证明，MAEMI优于传统方法，适应了数据分布的变化，并支持高通量筛选。 <br><br>总结: <div>
+Semiconductor imaging and analysis are critical yet understudied in deep
+learning, limiting our ability for precise control and optimization in
+semiconductor manufacturing. We introduce a small-scale multimodal framework
+for analyzing semiconductor electron microscopy images (MAEMI) through
+vision-language instruction tuning. We generate a customized
+instruction-following dataset using large multimodal models on microscopic
+image analysis. We perform knowledge transfer from larger to smaller models
+through knowledge distillation, resulting in improved accuracy of smaller
+models on visual question answering (VQA) tasks. This approach eliminates the
+need for expensive, human expert-annotated datasets for microscopic image
+analysis tasks. Enterprises can further finetune MAEMI on their intellectual
+data, enhancing privacy and performance on low-cost consumer hardware. Our
+experiments show that MAEMI outperforms traditional methods, adapts to data
+distribution shifts, and supports high-throughput screening.
+]]></content:encoded>
+<pubDate>2024-08-23T17:42:11Z</pubDate>
+<pubDate>2024-08-23T17:42:11Z</pubDate>
+</item>
 
 <item>
 <title>xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed
