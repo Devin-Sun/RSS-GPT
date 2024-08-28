@@ -4,6 +4,63 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>GenRec: Unifying Video Generation and Recognition with Diffusion Models</title>
+<link>http://arxiv.org/abs/2408.15241v1</link>
+<guid>http://arxiv.org/abs/2408.15241v1</guid>
+<content:encoded><![CDATA[
+<div> 视频扩散模型，空间时间先验，生成与识别，GenRec框架，实验结果<br>
+视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。本文旨在探讨这些从生成过程中得出的先验是否适用于视频识别，并最终实现生成和识别的联合优化。基于稳定视频扩散，我们引入了GenRec，这是第一个使用随机帧条件过程进行训练的统一框架，从而学习广义的空间时间表示。该框架自然地支持生成和识别，并且在视觉输入包含有限信息时也具有鲁棒性。大量实验证明了GenRec在识别和生成方面的有效性。特别是，GenRec在SSV2和K400上分别取得了竞争力的识别性能，精度分别达到了75.8%和87.2%。GenRec还表现出最佳的类别条件图像到视频生成结果，在SSV2和EK-100数据集上分别达到了46.5和49.3的FVD分数。此外，GenRec在只能观察到有限帧的情况下表现出了非凡的鲁棒性。 <br><br>总结: <br>视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。GenRec框架引入了统一的训练过程，实现了生成和识别的联合优化，具有鲁棒性，能够在视觉输入包含有限信息时取得竞争性能。 <div>
+Video diffusion models are able to generate high-quality videos by learning
+strong spatial-temporal priors on large-scale datasets. In this paper, we aim
+to investigate whether such priors derived from a generative process are
+suitable for video recognition, and eventually joint optimization of generation
+and recognition. Building upon Stable Video Diffusion, we introduce GenRec, the
+first unified framework trained with a random-frame conditioning process so as
+to learn generalized spatial-temporal representations. The resulting framework
+can naturally supports generation and recognition, and more importantly is
+robust even when visual inputs contain limited information. Extensive
+experiments demonstrate the efficacy of GenRec for both recognition and
+generation. In particular, GenRec achieves competitive recognition performance,
+offering 75.8% and 87.2% accuracy on SSV2 and K400, respectively. GenRec also
+performs the best class-conditioned image-to-video generation results,
+achieving 46.5 and 49.3 FVD scores on SSV2 and EK-100 datasets. Furthermore,
+GenRec demonstrates extraordinary robustness in scenarios that only limited
+frames can be observed.
+]]></content:encoded>
+<pubDate>2024-08-27T17:59:41Z</pubDate>
+<pubDate>2024-08-27T17:59:41Z</pubDate>
+</item>
+<item>
+<title>Into the Unknown Unknowns: Engaged Human Learning through Participation
+  in Language Model Agent Conversations</title>
+<link>http://arxiv.org/abs/2408.15232v1</link>
+<guid>http://arxiv.org/abs/2408.15232v1</guid>
+<content:encoded><![CDATA[
+<div> Collaborative STORM, Co-STORM, LM agents, unknown unknowns, WildSeek dataset
+
+总结:
+Collaborative STORM (Co-STORM) 是一个新型的教育场景中教育系统，使用 LM agents 帮助用户发现未知领域的信息。与传统问答系统不同，Co-STORM 允许用户观察和偶尔引导多个 LM agents 的对话。这些 agents 代表用户提出问题，让用户有机会偶然地发现未知领域的信息。此外，Co-STORM 还会帮助用户通过动态思维导图整理信息，并生成全面的报告。研究人员构建了 WildSeek 数据集，用于自动评估 Co-STORM 的性能，结果显示 Co-STORM 在对话追踪和报告质量上均优于基准方法。在人类评估中，70% 的参与者更喜欢 Co-STORM 而不是搜索引擎，78% 的参与者更喜欢 Co-STORM 而不是 RAG 聊天机器人。Co-STORM 在发现未知领域信息的过程中展现出了出色的性能。 <div>
+While language model (LM)-powered chatbots and generative search engines
+excel at answering concrete queries, discovering information in the terrain of
+unknown unknowns remains challenging for users. To emulate the common
+educational scenario where children/students learn by listening to and
+participating in conversations of their parents/teachers, we create
+Collaborative STORM (Co-STORM). Unlike QA systems that require users to ask all
+the questions, Co-STORM lets users observe and occasionally steer the discourse
+among several LM agents. The agents ask questions on the user's behalf,
+allowing the user to discover unknown unknowns serendipitously. To facilitate
+user interaction, Co-STORM assists users in tracking the discourse by
+organizing the uncovered information into a dynamic mind map, ultimately
+generating a comprehensive report as takeaways. For automatic evaluation, we
+construct the WildSeek dataset by collecting real information-seeking records
+with user goals. Co-STORM outperforms baseline methods on both discourse trace
+and report quality. In a further human evaluation, 70% of participants prefer
+Co-STORM over a search engine, and 78% favor it over a RAG chatbot.
+]]></content:encoded>
+<pubDate>2024-08-27T17:50:03Z</pubDate>
+<pubDate>2024-08-27T17:50:03Z</pubDate>
+</item>
 
 <item>
 <title>A Practitioner's Guide to Continual Multimodal Pretraining</title>

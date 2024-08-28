@@ -9757,3 +9757,26 @@ Filter: [Dense Center-Direction Regression for Object Counting and Localization
 Filter: [Center Direction Network for Grasping Point Localization on Cloths](http://arxiv.org/abs/2408.14456v1)
 append_entries: 0
 Finish: 2024-08-28 00:43:36.866805
+------------------------------------------------------
+Started: 2024-08-28 12:18:08.316511
+Existing_entries: 250
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](http://arxiv.org/abs/2408.15242v1)
+Token length: 1167
+Summarized using GPT-3.5-turbo-1106
+Append: [GenRec: Unifying Video Generation and Recognition with Diffusion Models](http://arxiv.org/abs/2408.15241v1)
+Filter: [Generative Verifiers: Reward Modeling as Next-Token Prediction](http://arxiv.org/abs/2408.15240v1)
+Filter: [Generative Inbetweening: Adapting Image-to-Video Models for Keyframe
+  Interpolation](http://arxiv.org/abs/2408.15239v1)
+Filter: [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](http://arxiv.org/abs/2408.15237v1)
+Filter: [Learning-based Multi-View Stereo: A Survey](http://arxiv.org/abs/2408.15235v1)
+Filter: [Chebotarov continua, Jenkins-Strebel differentials and related problems:
+  a numerical approach](http://arxiv.org/abs/2408.15234v1)
+Token length: 1193
+Summarized using GPT-3.5-turbo-1106
+Append: [Into the Unknown Unknowns: Engaged Human Learning through Participation
+  in Language Model Agent Conversations](http://arxiv.org/abs/2408.15232v1)
+Filter: [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](http://arxiv.org/abs/2408.15231v1)
+Filter: [Continuity of entropies via integral representations](http://arxiv.org/abs/2408.15226v1)
+append_entries: 2
+Finish: 2024-08-28 12:18:18.282361
