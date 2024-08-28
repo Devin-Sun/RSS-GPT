@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>A Practitioner's Guide to Continual Multimodal Pretraining</title>
 <link>http://arxiv.org/abs/2408.14471v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 多模态，预训练，持续更新，实际部署，FoMo-in-Flux
 
-持续学习对于多模态基础模型在实际部署中起着重要作用。本文介绍了一个名为FoMo-in-Flux的持续多模态预训练基准测试平台，该平台考虑了现实的计算约束和实际部署需求，覆盖了63个数据集，涵盖了多样的视觉和语义信息。通过FoMo-in-Flux，作者从多个角度探讨了实际持续预训练的复杂情景，包括数据混合和流顺序的数据中心研究、各种模型更新策略的方法研究、元学习率调度和机械设计选择，以及模型和计算规模的影响。最终，作者提供了一个持续多模态预训练的实践指南，帮助在实际部署中取得更好的效果。GitHub链接为https://github.com/ExplainableML/fomo_in_flux。<br><br>总结: 该研究介绍了一个持续多模态预训练基准测试平台FoMo-in-Flux，提供了对持续预训练的多个方面进行综合研究的见解，为实际部署提供了实用的指南。 <div>
+持续学习对于多模态基础模型在实际部署中起着重要作用。本文介绍了一个名为FoMo-in-Flux的持续多模态预训练基准测试平台，该平台考虑了现实的计算约束和实际部署需求，覆盖了63个数据集，涵盖了多样的视觉和语义信息。通过FoMo-in-Flux，作者从多个角度探讨了实际持续预训练的复杂情景，包括数据混合和流顺序的数据中心研究、各种模型更新策略的方法研究、元学习率调度和机械设计选择，以及模型和计算规模的影响。最终，作者提供了一个持续多模态预训练的实践指南，帮助在实际部署中取得更好的效果。GitHub链接为https://github.com/ExplainableML/fomo_in_flux。<br /><br />总结: 该研究介绍了一个持续多模态预训练基准测试平台FoMo-in-Flux，提供了对持续预训练的多个方面进行综合研究的见解，为实际部署提供了实用的指南。 <div>
 Multimodal foundation models serve numerous applications at the intersection
 of vision and language. Still, despite being pretrained on extensive data, they
 become outdated over time. To keep models updated, research into continual
@@ -38,9 +39,7 @@ real-world deployment. Our benchmark and code is here:
 https://github.com/ExplainableML/fomo_in_flux.
 ]]></content:encoded>
 <pubDate>2024-08-26T17:59:01Z</pubDate>
-<pubDate>2024-08-26T17:59:01Z</pubDate>
 </item>
-
 <item>
 <title>Foundational Model for Electron Micrograph Analysis: Instruction-Tuning
   Small-Scale Language-and-Vision Assistant for Enterprise Adoption</title>

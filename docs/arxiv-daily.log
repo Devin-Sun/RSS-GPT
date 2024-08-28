@@ -9736,3 +9736,24 @@ Filter: [Dense Center-Direction Regression for Object Counting and Localization
 Filter: [Center Direction Network for Grasping Point Localization on Cloths](http://arxiv.org/abs/2408.14456v1)
 append_entries: 1
 Finish: 2024-08-27 12:17:15.435681
+------------------------------------------------------
+Started: 2024-08-28 00:43:35.930053
+Existing_entries: 250
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Precision on Demand: Propositional Logic for Event-Trigger Threshold
+  Regulation](http://arxiv.org/abs/2408.14473v1)
+Filter: [Advancing Humanoid Locomotion: Mastering Challenging Terrains with
+  Denoising World Model Learning](http://arxiv.org/abs/2408.14472v1)
+Filter: [Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large
+  Language Models](http://arxiv.org/abs/2408.14470v2)
+Filter: [Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos](http://arxiv.org/abs/2408.14469v1)
+Filter: [K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models
+  via K-wise Human Preferences](http://arxiv.org/abs/2408.14468v1)
+Filter: [Explicit Inductive Inference using Large Language Models](http://arxiv.org/abs/2408.14467v1)
+Filter: [A domain decomposition-based autoregressive deep learning model for
+  unsteady and nonlinear partial differential equations](http://arxiv.org/abs/2408.14461v1)
+Filter: [Dense Center-Direction Regression for Object Counting and Localization
+  with Point Supervision](http://arxiv.org/abs/2408.14457v1)
+Filter: [Center Direction Network for Grasping Point Localization on Cloths](http://arxiv.org/abs/2408.14456v1)
+append_entries: 0
+Finish: 2024-08-28 00:43:36.866805
