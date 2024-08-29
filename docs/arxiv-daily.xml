@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>GenRec: Unifying Video Generation and Recognition with Diffusion Models</title>
 <link>http://arxiv.org/abs/2408.15241v1</link>
 <guid>http://arxiv.org/abs/2408.15241v1</guid>
 <content:encoded><![CDATA[
-<div> 视频扩散模型，空间时间先验，生成与识别，GenRec框架，实验结果<br>
-视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。本文旨在探讨这些从生成过程中得出的先验是否适用于视频识别，并最终实现生成和识别的联合优化。基于稳定视频扩散，我们引入了GenRec，这是第一个使用随机帧条件过程进行训练的统一框架，从而学习广义的空间时间表示。该框架自然地支持生成和识别，并且在视觉输入包含有限信息时也具有鲁棒性。大量实验证明了GenRec在识别和生成方面的有效性。特别是，GenRec在SSV2和K400上分别取得了竞争力的识别性能，精度分别达到了75.8%和87.2%。GenRec还表现出最佳的类别条件图像到视频生成结果，在SSV2和EK-100数据集上分别达到了46.5和49.3的FVD分数。此外，GenRec在只能观察到有限帧的情况下表现出了非凡的鲁棒性。 <br><br>总结: <br>视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。GenRec框架引入了统一的训练过程，实现了生成和识别的联合优化，具有鲁棒性，能够在视觉输入包含有限信息时取得竞争性能。 <div>
+<div> 视频扩散模型，空间时间先验，生成与识别，GenRec框架，实验结果<br />
+视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。本文旨在探讨这些从生成过程中得出的先验是否适用于视频识别，并最终实现生成和识别的联合优化。基于稳定视频扩散，我们引入了GenRec，这是第一个使用随机帧条件过程进行训练的统一框架，从而学习广义的空间时间表示。该框架自然地支持生成和识别，并且在视觉输入包含有限信息时也具有鲁棒性。大量实验证明了GenRec在识别和生成方面的有效性。特别是，GenRec在SSV2和K400上分别取得了竞争力的识别性能，精度分别达到了75.8%和87.2%。GenRec还表现出最佳的类别条件图像到视频生成结果，在SSV2和EK-100数据集上分别达到了46.5和49.3的FVD分数。此外，GenRec在只能观察到有限帧的情况下表现出了非凡的鲁棒性。 <br /><br />总结: <br />视频扩散模型通过学习大规模数据集上的强空间时间先验，能够生成高质量的视频。GenRec框架引入了统一的训练过程，实现了生成和识别的联合优化，具有鲁棒性，能够在视觉输入包含有限信息时取得竞争性能。 <div>
 Video diffusion models are able to generate high-quality videos by learning
 strong spatial-temporal priors on large-scale datasets. In this paper, we aim
 to investigate whether such priors derived from a generative process are
@@ -28,7 +29,6 @@ achieving 46.5 and 49.3 FVD scores on SSV2 and EK-100 datasets. Furthermore,
 GenRec demonstrates extraordinary robustness in scenarios that only limited
 frames can be observed.
 ]]></content:encoded>
-<pubDate>2024-08-27T17:59:41Z</pubDate>
 <pubDate>2024-08-27T17:59:41Z</pubDate>
 </item>
 <item>
@@ -59,9 +59,7 @@ and report quality. In a further human evaluation, 70% of participants prefer
 Co-STORM over a search engine, and 78% favor it over a RAG chatbot.
 ]]></content:encoded>
 <pubDate>2024-08-27T17:50:03Z</pubDate>
-<pubDate>2024-08-27T17:50:03Z</pubDate>
 </item>
-
 <item>
 <title>A Practitioner's Guide to Continual Multimodal Pretraining</title>
 <link>http://arxiv.org/abs/2408.14471v1</link>

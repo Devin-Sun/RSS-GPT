@@ -9780,3 +9780,19 @@ Filter: [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](http
 Filter: [Continuity of entropies via integral representations](http://arxiv.org/abs/2408.15226v1)
 append_entries: 2
 Finish: 2024-08-28 12:18:18.282361
+------------------------------------------------------
+Started: 2024-08-29 00:43:56.579932
+Existing_entries: 252
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty](http://arxiv.org/abs/2408.15242v1)
+Filter: [Generative Verifiers: Reward Modeling as Next-Token Prediction](http://arxiv.org/abs/2408.15240v1)
+Filter: [Generative Inbetweening: Adapting Image-to-Video Models for Keyframe
+  Interpolation](http://arxiv.org/abs/2408.15239v1)
+Filter: [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](http://arxiv.org/abs/2408.15237v1)
+Filter: [Learning-based Multi-View Stereo: A Survey](http://arxiv.org/abs/2408.15235v1)
+Filter: [Chebotarov continua, Jenkins-Strebel differentials and related problems:
+  a numerical approach](http://arxiv.org/abs/2408.15234v1)
+Filter: [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](http://arxiv.org/abs/2408.15231v1)
+Filter: [Continuity of entropies via integral representations](http://arxiv.org/abs/2408.15226v1)
+append_entries: 0
+Finish: 2024-08-29 00:43:57.523221
