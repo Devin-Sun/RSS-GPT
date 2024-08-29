@@ -9796,3 +9796,28 @@ Filter: [DCT-CryptoNets: Scaling Private Inference in the Frequency Domain](http
 Filter: [Continuity of entropies via integral representations](http://arxiv.org/abs/2408.15226v1)
 append_entries: 0
 Finish: 2024-08-29 00:43:57.523221
+------------------------------------------------------
+Started: 2024-08-29 12:17:35.393366
+Existing_entries: 252
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance
+  Spectra Analysis](http://arxiv.org/abs/2408.15999v1)
+Token length: 1340
+Summarized using GPT-3.5-turbo-1106
+Append: [Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders](http://arxiv.org/abs/2408.15998v1)
+Filter: [Mamba or Transformer for Time Series Forecasting? Mixture of Universals
+  (MoU) Is All You Need](http://arxiv.org/abs/2408.15997v1)
+Filter: [Spatio-Temporal Context Prompting for Zero-Shot Action Detection](http://arxiv.org/abs/2408.15996v1)
+Filter: [TEDRA: Text-based Editing of Dynamic and Photoreal Actors](http://arxiv.org/abs/2408.15995v1)
+Filter: [Perceive-IR: Learning to Perceive Degradation Better for All-in-One
+  Image Restoration](http://arxiv.org/abs/2408.15994v1)
+Filter: [ClimDetect: A Benchmark Dataset for Climate Change Detection and
+  Attribution](http://arxiv.org/abs/2408.15993v1)
+Filter: [CoGen: Learning from Feedback with Coupled Comprehension and Generation](http://arxiv.org/abs/2408.15992v1)
+Filter: [Distribution Backtracking Builds A Faster Convergence Trajectory for
+  One-step Diffusion Distillation](http://arxiv.org/abs/2408.15991v1)
+Filter: [A Control Theoretic Approach to Simultaneously Estimate Average Value of
+  Time and Determine Dynamic Price for High-occupancy Toll Lanes](http://arxiv.org/abs/2408.15990v1)
+append_entries: 1
+Finish: 2024-08-29 12:17:43.217301

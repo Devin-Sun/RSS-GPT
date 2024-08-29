@@ -4,6 +4,37 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
+  Encoders</title>
+<link>http://arxiv.org/abs/2408.15998v1</link>
+<guid>http://arxiv.org/abs/2408.15998v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 多模态大语言模型 (MLLMs), 视觉感知, 视觉编码器, 模型设计, 研究发现
+
+多模态大语言模型 (MLLMs) 对复杂视觉信息的准确解释能力至关重要。最近的研究表明，增强的视觉感知显著减少了幻觉，并改善了对分辨率敏感任务的性能，例如光学字符识别和文档分析。一些最近的 MLLMs 通过使用多种视觉编码器来实现这一目标。尽管它们取得了成功，但对于关键方面，如专家选择和多个视觉专家的集成，缺乏系统性比较和详细的消融研究。本研究对使用多种视觉编码器和分辨率的MLLMs的设计空间进行了广泛探索。我们的研究发现了一些潜在的共同原则，这些原则适用于各种现有策略，导致了一种简化而有效的设计方法。我们发现，仅仅将来自一组互补视觉编码器的视觉标记串联起来，与更复杂的混合架构或策略一样有效。此外，我们还引入了 Pre-Alignment 来弥合以视觉为重点的编码器和语言标记之间的差距，增强了模型的连贯性。最终开发出的MLLMs系列模型 Eagle，在主要的MLLM基准测试中超过了其他主流的开源模型。 Model和 code: https://github.com/NVlabs/Eagle<br><br>总结: 本研究探讨了多模态大语言模型 (MLLMs) 对复杂视觉信息的准确解释能力，并提出了一种简化而有效的设计方法。研究发现，简单地将来自一组互补视觉编码器的视觉标记串联起来就能有效，同时引入 Pre-Alignment 进一步增强了模型的连贯性。最终开发出的MLLMs系列模型 Eagle，在主要的MLLM基准测试中表现出色。 <div>
+The ability to accurately interpret complex visual information is a crucial
+topic of multimodal large language models (MLLMs). Recent work indicates that
+enhanced visual perception significantly reduces hallucinations and improves
+performance on resolution-sensitive tasks, such as optical character
+recognition and document analysis. A number of recent MLLMs achieve this goal
+using a mixture of vision encoders. Despite their success, there is a lack of
+systematic comparisons and detailed ablation studies addressing critical
+aspects, such as expert selection and the integration of multiple vision
+experts. This study provides an extensive exploration of the design space for
+MLLMs using a mixture of vision encoders and resolutions. Our findings reveal
+several underlying principles common to various existing strategies, leading to
+a streamlined yet effective design approach. We discover that simply
+concatenating visual tokens from a set of complementary vision encoders is as
+effective as more complex mixing architectures or strategies. We additionally
+introduce Pre-Alignment to bridge the gap between vision-focused encoders and
+language tokens, enhancing model coherence. The resulting family of MLLMs,
+Eagle, surpasses other leading open-source models on major MLLM benchmarks.
+Models and code: https://github.com/NVlabs/Eagle
+]]></content:encoded>
+<pubDate>2024-08-28T17:59:31Z</pubDate>
+<pubDate>2024-08-28T17:59:31Z</pubDate>
+</item>
 
 <item>
 <title>GenRec: Unifying Video Generation and Recognition with Diffusion Models</title>
