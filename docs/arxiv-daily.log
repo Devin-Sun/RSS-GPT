@@ -9926,3 +9926,24 @@ Filter: [How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of
   Large Language Models](http://arxiv.org/abs/2408.16756v1)
 append_entries: 0
 Finish: 2024-09-01 00:53:39.200800
+------------------------------------------------------
+Started: 2024-09-01 12:16:02.786063
+Existing_entries: 253
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [3D Whole-body Grasp Synthesis with Directional Controllability](http://arxiv.org/abs/2408.16770v1)
+Filter: [SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners](http://arxiv.org/abs/2408.16768v1)
+Filter: [PromptSmooth: Certifying Robustness of Medical Vision-Language Models
+  via Prompt Learning](http://arxiv.org/abs/2408.16769v1)
+Filter: [ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion
+  Model](http://arxiv.org/abs/2408.16767v1)
+Filter: [CSGO: Content-Style Composition in Text-to-Image Generation](http://arxiv.org/abs/2408.16766v1)
+Filter: [A Score-Based Density Formula, with Applications in Diffusion Generative
+  Models](http://arxiv.org/abs/2408.16765v1)
+Filter: [UV-free Texture Generation with Denoising and Geodesic Heat Diffusions](http://arxiv.org/abs/2408.16762v1)
+Filter: [OmniRe: Omni Urban Scene Reconstruction](http://arxiv.org/abs/2408.16760v1)
+Filter: [Dissecting Out-of-Distribution Detection and Open-Set Recognition: A
+  Critical Analysis of Methods and Benchmarks](http://arxiv.org/abs/2408.16757v1)
+Filter: [How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of
+  Large Language Models](http://arxiv.org/abs/2408.16756v1)
+append_entries: 0
+Finish: 2024-09-01 12:16:03.934539
