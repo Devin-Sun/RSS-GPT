@@ -9968,3 +9968,26 @@ Filter: [How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of
   Large Language Models](http://arxiv.org/abs/2408.16756v1)
 append_entries: 0
 Finish: 2024-09-02 00:45:51.109689
+------------------------------------------------------
+Started: 2024-09-02 12:18:31.946282
+Existing_entries: 253
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Bridging Episodes and Semantics: A Novel Framework for Long-Form Video
+  Understanding](http://arxiv.org/abs/2408.17443v1)
+Filter: [Quantum state testing with restricted measurements](http://arxiv.org/abs/2408.17439v1)
+Filter: [SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic
+  CheckLists](http://arxiv.org/abs/2408.17437v1)
+Filter: [Information-Based Trajectory Planning for Autonomous Absolute Tracking
+  in Cislunar Space](http://arxiv.org/abs/2408.17435v1)
+Filter: [Audio Enhancement from Multiple Crowdsourced Recordings: A Simple and
+  Effective Baseline](http://arxiv.org/abs/2408.17434v1)
+Filter: [DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised
+  Vector-LoRA of the Foundation Model](http://arxiv.org/abs/2408.17433v1)
+Filter: [SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame
+  Selection](http://arxiv.org/abs/2408.17432v1)
+Filter: [Advancing Multi-talker ASR Performance with Large Language Models](http://arxiv.org/abs/2408.17431v1)
+Filter: [CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language
+  Models](http://arxiv.org/abs/2408.17428v1)
+Filter: [Detecting cluster patterns in tensor data](http://arxiv.org/abs/2408.17425v1)
+append_entries: 0
+Finish: 2024-09-02 12:18:34.318343
