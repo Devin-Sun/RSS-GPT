@@ -4,6 +4,38 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>ArtiFade: Learning to Generate High-quality Subject from Blemished
+  Images</title>
+<link>http://arxiv.org/abs/2409.03745v1</link>
+<guid>http://arxiv.org/abs/2409.03745v1</guid>
+<content:encoded><![CDATA[
+<div> Subject-driven, text-to-image generation, ArtiFade, artifact removal, high-quality images<br> 
+
+ArtiFade是一种针对图像去除瑕疵的方法，能够通过对预训练的文本-图像模型进行微调，从受损数据集中生成高质量、无瑕疵的图像。该方法利用包含完整图像及其受损对应物的特定数据集进行微调，以达到消除瑕疵的目的，同时保留扩散模型中固有的生成能力。研究人员还为这一任务设计了评估基准，并通过大量定性和定量实验展示了ArtiFade在分布内和分布外场景下有效去除瑕疵的普适性。总结：<br><br>总结: ArtiFade是一种用于从受损数据集中生成高质量无瑕疵图像的方法，通过微调预训练的文本-图像模型并利用特定数据集进行瑕疵消除，同时保留了扩散模型的生成能力。 <div>
+Subject-driven text-to-image generation has witnessed remarkable advancements
+in its ability to learn and capture characteristics of a subject using only a
+limited number of images. However, existing methods commonly rely on
+high-quality images for training and may struggle to generate reasonable images
+when the input images are blemished by artifacts. This is primarily attributed
+to the inadequate capability of current techniques in distinguishing
+subject-related features from disruptive artifacts. In this paper, we introduce
+ArtiFade to tackle this issue and successfully generate high-quality
+artifact-free images from blemished datasets. Specifically, ArtiFade exploits
+fine-tuning of a pre-trained text-to-image model, aiming to remove artifacts.
+The elimination of artifacts is achieved by utilizing a specialized dataset
+that encompasses both unblemished images and their corresponding blemished
+counterparts during fine-tuning. ArtiFade also ensures the preservation of the
+original generative capabilities inherent within the diffusion model, thereby
+enhancing the overall performance of subject-driven methods in generating
+high-quality and artifact-free images. We further devise evaluation benchmarks
+tailored for this task. Through extensive qualitative and quantitative
+experiments, we demonstrate the generalizability of ArtiFade in effective
+artifact removal under both in-distribution and out-of-distribution scenarios.
+]]></content:encoded>
+<pubDate>2024-09-05T17:57:59Z</pubDate>
+<pubDate>2024-09-05T17:57:59Z</pubDate>
+</item>
 
 <item>
 <title>HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical
