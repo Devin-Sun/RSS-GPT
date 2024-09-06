@@ -10129,3 +10129,22 @@ Filter: [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and
   Exploit Inaccurate Categorical Sampling](http://arxiv.org/abs/2409.02908v1)
 append_entries: 1
 Finish: 2024-09-05 12:18:07.035572
+------------------------------------------------------
+Started: 2024-09-06 00:44:28.844013
+Existing_entries: 254
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early
+  version)](http://arxiv.org/abs/2409.02920v1)
+Filter: [SpecMon: Modular Black-Box Runtime Monitoring of Security Protocols](http://arxiv.org/abs/2409.02918v1)
+Filter: [UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from
+  Endoscopic Sparse Views](http://arxiv.org/abs/2409.02917v1)
+Filter: [Pseudospectral method for solving PDEs using Matrix Product States](http://arxiv.org/abs/2409.02916v1)
+Filter: [Latent Watermarking of Audio Generative Models](http://arxiv.org/abs/2409.02915v1)
+Filter: [Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI
+  for Autonomous Driving](http://arxiv.org/abs/2409.02914v1)
+Filter: [Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR](http://arxiv.org/abs/2409.02912v1)
+Filter: [SITAR: Semi-supervised Image Transformer for Action Recognition](http://arxiv.org/abs/2409.02910v1)
+Filter: [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and
+  Exploit Inaccurate Categorical Sampling](http://arxiv.org/abs/2409.02908v1)
+append_entries: 0
+Finish: 2024-09-06 00:44:34.835621

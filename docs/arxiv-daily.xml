@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical
   MLLM Prompts</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 高分辨率图像生成, 预训练扩散模型, HiPrompt, 分层提示, 语义引导
 
-在高分辨率图像生成领域，预训练扩散模型存在物体重复和结构性伪影等问题。为了解决这些问题，文章提出了HiPrompt方法，通过引入分层提示来提供全局和局部引导，包括全局内容描述和局部贴图描述，从而在逆噪声过程中实现分层语义引导。实验结果表明，HiPrompt在高分辨率图像生成中优于现有方法，显著减少了物体重复现象并提升了结构质量。 <br><br>总结: 高分辨率图像生成领域存在预训练模型的重复物体和结构性伪影问题，HiPrompt方法通过分层提示解决了这些问题，实现了更好的高分辨率图像生成效果。 <div>
+在高分辨率图像生成领域，预训练扩散模型存在物体重复和结构性伪影等问题。为了解决这些问题，文章提出了HiPrompt方法，通过引入分层提示来提供全局和局部引导，包括全局内容描述和局部贴图描述，从而在逆噪声过程中实现分层语义引导。实验结果表明，HiPrompt在高分辨率图像生成中优于现有方法，显著减少了物体重复现象并提升了结构质量。 <br /><br />总结: 高分辨率图像生成领域存在预训练模型的重复物体和结构性伪影问题，HiPrompt方法通过分层提示解决了这些问题，实现了更好的高分辨率图像生成效果。 <div>
 The potential for higher-resolution image generation using pretrained
 diffusion models is immense, yet these models often struggle with issues of
 object repetition and structural artifacts especially when scaling to 4K
@@ -36,9 +37,7 @@ higher-resolution image generation, significantly reducing object repetition
 and enhancing structural quality.
 ]]></content:encoded>
 <pubDate>2024-09-04T17:58:08Z</pubDate>
-<pubDate>2024-09-04T17:58:08Z</pubDate>
 </item>
-
 <item>
 <title>Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of
   Encoders</title>
