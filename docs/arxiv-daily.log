@@ -10257,3 +10257,30 @@ Filter: [Understanding Data Importance in Machine Learning Attacks: Does Valuabl
   Data Pose Greater Harm?](http://arxiv.org/abs/2409.03741v1)
 append_entries: 0
 Finish: 2024-09-09 00:47:11.591969
+------------------------------------------------------
+Started: 2024-09-09 12:18:39.083962
+Existing_entries: 255
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Synergy and Synchrony in Couple Dances](http://arxiv.org/abs/2409.04440v1)
+Filter: [Accelerating Training with Neuron Interaction and Nowcasting Networks](http://arxiv.org/abs/2409.04434v1)
+Token length: 1333
+Summarized using GPT-3.5-turbo-1106
+Append: [A Survey on Knowledge Organization Systems of Research Fields: Resources
+  and Challenges](http://arxiv.org/abs/2409.04432v1)
+Filter: [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](http://arxiv.org/abs/2409.04431v1)
+Token length: 1007
+Summarized using GPT-3.5-turbo-1106
+Append: [VILA-U: a Unified Foundation Model Integrating Visual Understanding and
+  Generation](http://arxiv.org/abs/2409.04429v1)
+Filter: [Hybrid Spiking Neural Networks for Low-Power Intra-Cortical
+  Brain-Machine Interfaces](http://arxiv.org/abs/2409.04428v1)
+Filter: [Exploring Foundation Models for Synthetic Medical Imaging: A Study on
+  Chest X-Rays and Fine-Tuning Techniques](http://arxiv.org/abs/2409.04424v1)
+Append: [RLPF: Reinforcement Learning from Prediction Feedback for User
+  Summarization with LLMs](http://arxiv.org/abs/2409.04421v1)
+Filter: [Improved Parallel Algorithm for Non-Monotone Submodular Maximization
+  under Knapsack Constraint](http://arxiv.org/abs/2409.04415v1)
+Filter: [Virtual Reality-Based Preoperative Planning for Optimized Trocar
+  Placement in Thoracic Surgery: A Preliminary Study](http://arxiv.org/abs/2409.04414v1)
+append_entries: 3
+Finish: 2024-09-09 12:18:45.630240
