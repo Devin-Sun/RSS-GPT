@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>A Survey on Knowledge Organization Systems of Research Fields: Resources
   and Challenges</title>
 <link>http://arxiv.org/abs/2409.04432v1</link>
 <guid>http://arxiv.org/abs/2409.04432v1</guid>
 <content:encoded><![CDATA[
-<div> KOSs, term lists, thesauri, taxonomies, ontologies, academic disciplines<br>
-这篇文章主要介绍了知识组织系统在学术领域的重要作用，包括分类、管理和检索信息，并探讨了当前学术学科知识组织系统的现状和挑战。作者分析和比较了45种知识组织系统，发现在范围、结构、策划、使用和与其他知识组织系统的链接等方面存在着很大的异质性。最后指出了需要更加整合化的解决方案来表示学术领域的研究知识的重要性，并讨论了未来的挑战和方向。<br><br>总结: 这篇文章介绍了学术领域中知识组织系统的重要作用和现状，以及未来的挑战和方向。 <div>
+<div> KOSs, term lists, thesauri, taxonomies, ontologies, academic disciplines<br />
+这篇文章主要介绍了知识组织系统在学术领域的重要作用，包括分类、管理和检索信息，并探讨了当前学术学科知识组织系统的现状和挑战。作者分析和比较了45种知识组织系统，发现在范围、结构、策划、使用和与其他知识组织系统的链接等方面存在着很大的异质性。最后指出了需要更加整合化的解决方案来表示学术领域的研究知识的重要性，并讨论了未来的挑战和方向。<br /><br />总结: 这篇文章介绍了学术领域中知识组织系统的重要作用和现状，以及未来的挑战和方向。 <div>
 Knowledge Organization Systems (KOSs), such as term lists, thesauri,
 taxonomies, and ontologies, play a fundamental role in categorising, managing,
 and retrieving information. In the academic domain, KOSs are often adopted for
@@ -32,7 +33,6 @@ research knowledge across academic fields. We conclude by discussing the main
 challenges and the most promising future directions.
 ]]></content:encoded>
 <pubDate>2024-09-06T17:54:43Z</pubDate>
-<pubDate>2024-09-06T17:54:43Z</pubDate>
 </item>
 <item>
 <title>VILA-U: a Unified Foundation Model Integrating Visual Understanding and
@@ -41,7 +41,7 @@ challenges and the most promising future directions.
 <guid>http://arxiv.org/abs/2409.04429v1</guid>
 <content:encoded><![CDATA[
 <div> Video, Image, Language, Understanding, Generation
-<br><br>
+<br /><br />
 VILA-U是一个统一的基础模型，集成了视频、图像和语言的理解和生成。传统的视觉语言模型使用单独的模块来理解和生成视觉内容，这可能导致不对齐和增加复杂性。相比之下，VILA-U采用单一的自回归下一个令牌预测框架来完成这两个任务，消除了对扩散模型等额外组件的需求。这种方法不仅简化了模型，而且在视觉语言理解和生成方面实现了接近最新技术水平的性能。VILA-U的成功归因于两个主要因素：统一的视觉塔在预训练期间将离散的视觉令牌与文本输入对齐，增强了视觉感知，自回归图像生成可以通过高质量数据集实现与扩散模型类似的质量。这使得VILA-U能够使用完全基于令牌的自回归框架与更复杂的模型相媲美。 <div>
 VILA-U is a Unified foundation model that integrates Video, Image, Language
 understanding and generation. Traditional visual language models (VLMs) use
@@ -59,7 +59,6 @@ perform comparably to more complex models using a fully token-based
 autoregressive framework.
 ]]></content:encoded>
 <pubDate>2024-09-06T17:49:56Z</pubDate>
-<pubDate>2024-09-06T17:49:56Z</pubDate>
 </item>
 <item>
 <title>RLPF: Reinforcement Learning from Prediction Feedback for User
@@ -67,7 +66,6 @@ autoregressive framework.
 <link>http://arxiv.org/abs/2409.04421v1</link>
 <guid>http://arxiv.org/abs/2409.04421v1</guid>
 <content:encoded><![CDATA[
-
 LLM-powered personalization agent systems employ Large Language Models (LLMs)
 to predict users' behavior from their past activities. However, their
 effectiveness often hinges on the ability to effectively leverage extensive,
@@ -91,9 +89,7 @@ transforming long, noisy user histories into informative and human-readable
 representations.
 ]]></content:encoded>
 <pubDate>2024-09-06T17:30:45Z</pubDate>
-<pubDate>2024-09-06T17:30:45Z</pubDate>
 </item>
-
 <item>
 <title>ArtiFade: Learning to Generate High-quality Subject from Blemished
   Images</title>
