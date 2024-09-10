@@ -10301,3 +10301,25 @@ Filter: [Virtual Reality-Based Preoperative Planning for Optimized Trocar
   Placement in Thoracic Surgery: A Preliminary Study](http://arxiv.org/abs/2409.04414v1)
 append_entries: 0
 Finish: 2024-09-10 00:44:57.792281
+------------------------------------------------------
+Started: 2024-09-10 12:20:01.390847
+Existing_entries: 258
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering](http://arxiv.org/abs/2409.05867v1)
+Filter: [A Framework for Evaluating PM2.5 Forecasts from the Perspective of
+  Individual Decision Making](http://arxiv.org/abs/2409.05866v1)
+Filter: [Robot Utility Models: General Policies for Zero-Shot Deployment in New
+  Environments](http://arxiv.org/abs/2409.05865v1)
+Filter: [Neural MP: A Generalist Neural Motion Planner](http://arxiv.org/abs/2409.05864v1)
+Token length: 1101
+Summarized using GPT-3.5-turbo-1106
+Append: [Promptable Closed-loop Traffic Simulation](http://arxiv.org/abs/2409.05863v1)
+Filter: [Evaluating Multiview Object Consistency in Humans and Image Models](http://arxiv.org/abs/2409.05862v1)
+Filter: [Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume
+  Schemes for Low Mach Number Isentropic Euler Equations](http://arxiv.org/abs/2409.05854v1)
+Filter: [LSVOS Challenge Report: Large-scale Complex and Long Video Object
+  Segmentation](http://arxiv.org/abs/2409.05847v1)
+Filter: [An Introduction to Quantum Reinforcement Learning (QRL)](http://arxiv.org/abs/2409.05846v1)
+Filter: [Optimizing Vehicular Users Association in Urban Mobile Networks](http://arxiv.org/abs/2409.05845v1)
+append_entries: 1
+Finish: 2024-09-10 12:20:05.763228
