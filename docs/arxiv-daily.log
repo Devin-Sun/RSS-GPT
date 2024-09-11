@@ -10342,3 +10342,27 @@ Filter: [An Introduction to Quantum Reinforcement Learning (QRL)](http://arxiv.o
 Filter: [Optimizing Vehicular Users Association in Urban Mobile Networks](http://arxiv.org/abs/2409.05845v1)
 append_entries: 0
 Finish: 2024-09-11 00:44:34.291834
+------------------------------------------------------
+Started: 2024-09-11 12:17:48.670513
+Existing_entries: 259
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GeoCalib: Learning Single-image Calibration with Geometric Optimization](http://arxiv.org/abs/2409.06704v1)
+Filter: [LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation](http://arxiv.org/abs/2409.06703v1)
+Filter: [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous
+  Driving](http://arxiv.org/abs/2409.06702v1)
+Filter: [A study on Deep Convolutional Neural Networks, Transfer Learning and
+  Ensemble Model for Breast Cancer Detection](http://arxiv.org/abs/2409.06699v1)
+Token length: 1299
+Summarized using GPT-3.5-turbo-1106
+Append: [Cooptimizing Safety and Performance with a Control-Constrained
+  Formulation](http://arxiv.org/abs/2409.06696v1)
+Token length: 1918
+Summarized using GPT-3.5-turbo-1106
+Append: [DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos
+  Enhanced Kaleidoscopic Images](http://arxiv.org/abs/2409.06694v1)
+Filter: [Technical Report of Mobile Manipulator Robot for Industrial Environments](http://arxiv.org/abs/2409.06693v1)
+Filter: [HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs](http://arxiv.org/abs/2409.06692v1)
+Filter: [Geometric-Averaged Preference Optimization for Soft Preference Labels](http://arxiv.org/abs/2409.06691v1)
+Filter: [Benchmarking Sub-Genre Classification For Mainstage Dance Music](http://arxiv.org/abs/2409.06690v1)
+append_entries: 2
+Finish: 2024-09-11 12:17:55.021404
