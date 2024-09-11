@@ -10323,3 +10323,22 @@ Filter: [An Introduction to Quantum Reinforcement Learning (QRL)](http://arxiv.o
 Filter: [Optimizing Vehicular Users Association in Urban Mobile Networks](http://arxiv.org/abs/2409.05845v1)
 append_entries: 1
 Finish: 2024-09-10 12:20:05.763228
+------------------------------------------------------
+Started: 2024-09-11 00:44:29.324519
+Existing_entries: 259
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Flash Cache: Reducing Bias in Radiance Cache Based Inverse Rendering](http://arxiv.org/abs/2409.05867v1)
+Filter: [A Framework for Evaluating PM2.5 Forecasts from the Perspective of
+  Individual Decision Making](http://arxiv.org/abs/2409.05866v1)
+Filter: [Robot Utility Models: General Policies for Zero-Shot Deployment in New
+  Environments](http://arxiv.org/abs/2409.05865v1)
+Filter: [Neural MP: A Generalist Neural Motion Planner](http://arxiv.org/abs/2409.05864v1)
+Filter: [Evaluating Multiview Object Consistency in Humans and Image Models](http://arxiv.org/abs/2409.05862v2)
+Filter: [Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume
+  Schemes for Low Mach Number Isentropic Euler Equations](http://arxiv.org/abs/2409.05854v1)
+Filter: [LSVOS Challenge Report: Large-scale Complex and Long Video Object
+  Segmentation](http://arxiv.org/abs/2409.05847v1)
+Filter: [An Introduction to Quantum Reinforcement Learning (QRL)](http://arxiv.org/abs/2409.05846v1)
+Filter: [Optimizing Vehicular Users Association in Urban Mobile Networks](http://arxiv.org/abs/2409.05845v1)
+append_entries: 0
+Finish: 2024-09-11 00:44:34.291834
