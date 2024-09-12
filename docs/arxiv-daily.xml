@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Cooptimizing Safety and Performance with a Control-Constrained
   Formulation</title>
 <link>http://arxiv.org/abs/2409.06696v1</link>
 <guid>http://arxiv.org/abs/2409.06696v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 自主系统, 优化控制, 安全性, 性能, 哈密尔顿-雅可比-贝尔曼偏微分方程<br>
-总结: <br>
+<div> 关键词: 自主系统, 优化控制, 安全性, 性能, 哈密尔顿-雅可比-贝尔曼偏微分方程<br />
+总结: <br />
 本文讨论了自主系统在执行任务时面临的安全性和性能的协同优化问题。作者提出将这一问题视为受限最优控制问题，以性能为目标函数，安全性为约束条件。然而，针对一般非线性系统求解这一受限最优控制问题仍具有挑战性。作者提出将安全状态约束转化为等效的控制约束，从而得到一个状态和时间相关的控制受限最优控制问题。该等效最优控制问题可以通过动态规划原理轻松求解，并且相应的值函数是某个哈密尔顿-雅可比-贝尔曼偏微分方程的粘性解。实验结果表明，通过作者的方法综合得到的控制器在安全性和性能方面均优于基准方法。 <div>
 Autonomous systems have witnessed a rapid increase in their capabilities, but
 it remains a challenge for them to perform tasks both effectively and safely.
@@ -32,7 +33,6 @@ study, and the experiment shows that the controller synthesized using our
 method consistently outperforms the baselines, both in safety and performance.
 ]]></content:encoded>
 <pubDate>2024-09-10T17:56:59Z</pubDate>
-<pubDate>2024-09-10T17:56:59Z</pubDate>
 </item>
 <item>
 <title>DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos
@@ -40,8 +40,8 @@ method consistently outperforms the baselines, both in safety and performance.
 <link>http://arxiv.org/abs/2409.06694v1</link>
 <guid>http://arxiv.org/abs/2409.06694v1</guid>
 <content:encoded><![CDATA[
-<div> TCR, cancer, protein sequences, Chaos Game Representation, deep learning<br>
-总结:<br>
+<div> TCR, cancer, protein sequences, Chaos Game Representation, deep learning<br />
+总结:<br />
 这篇文章介绍了一种新的方法，名为DANCE，通过深度学习辅助蛋白质序列的混沌增强万花筒图像分析(TCRs)的蛋白质序列。文章指出癌症是一种复杂的疾病，TCRs在识别抗原方面起着关键作用。研究人员将TCR序列转换成图像，并利用深度学习进行分类，以获取视觉图案与蛋白质性质之间的关系。结合混沌游戏表示法的图像生成与深度学习分类，为蛋白质分析领域打开了新的可能性。 <div>
 Cancer is a complex disease characterized by uncontrolled cell growth. T cell
 receptors (TCRs), crucial proteins in the immune system, play a key role in
@@ -71,9 +71,7 @@ classification, this study opens novel possibilities in the protein analysis
 domain.
 ]]></content:encoded>
 <pubDate>2024-09-10T17:55:59Z</pubDate>
-<pubDate>2024-09-10T17:55:59Z</pubDate>
 </item>
-
 <item>
 <title>Promptable Closed-loop Traffic Simulation</title>
 <link>http://arxiv.org/abs/2409.05863v1</link>
