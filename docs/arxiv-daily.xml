@@ -4,6 +4,131 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for
+  Text-to-3D Generation</title>
+<link>http://arxiv.org/abs/2409.07454v1</link>
+<guid>http://arxiv.org/abs/2409.07454v1</guid>
+<content:encoded><![CDATA[
+<div> NeRF, 3D generation, DreamMesh, 3D architecture, text-guided Jacobians
+<br><br>
+1. 本文介绍了DreamMesh，这是一个新颖的文本到3D生成架构，使用了明确的三角网格来生成高保真的3D模型。
+2. DreamMesh利用了一个独特的粗到细的方案，在粗阶段，首先通过文本引导的雅可比矩阵来变形网格，然后使用多个视角的2D扩散模型无需调参地对网格进行纹理处理。
+3. 在精细阶段，DreamMesh联合操作网格并细化纹理地图，生成高质量的三角网格和高保真的纹理材料。
+4. 大量实验证明，DreamMesh在准确生成具有丰富文本细节和增强几何的3D内容方面明显优于现有的文本到3D方法。
+5. 该项目的相关信息可以在https://dreammesh.github.io找到。
+<br><br>总结: 本文介绍了DreamMesh，一个新的文本到3D生成架构，利用明确的三角网格和精细的纹理生成方法，相较于现有方法在生成具有丰富文本细节和增强几何的3D内容方面有明显优势。 <div>
+Learning radiance fields (NeRF) with powerful 2D diffusion models has
+garnered popularity for text-to-3D generation. Nevertheless, the implicit 3D
+representations of NeRF lack explicit modeling of meshes and textures over
+surfaces, and such surface-undefined way may suffer from the issues, e.g.,
+noisy surfaces with ambiguous texture details or cross-view inconsistency. To
+alleviate this, we present DreamMesh, a novel text-to-3D architecture that
+pivots on well-defined surfaces (triangle meshes) to generate high-fidelity
+explicit 3D model. Technically, DreamMesh capitalizes on a distinctive
+coarse-to-fine scheme. In the coarse stage, the mesh is first deformed by
+text-guided Jacobians and then DreamMesh textures the mesh with an interlaced
+use of 2D diffusion models in a tuning free manner from multiple viewpoints. In
+the fine stage, DreamMesh jointly manipulates the mesh and refines the texture
+map, leading to high-quality triangle meshes with high-fidelity textured
+materials. Extensive experiments demonstrate that DreamMesh significantly
+outperforms state-of-the-art text-to-3D methods in faithfully generating 3D
+content with richer textual details and enhanced geometry. Our project page is
+available at https://dreammesh.github.io.
+]]></content:encoded>
+<pubDate>2024-09-11T17:59:02Z</pubDate>
+<pubDate>2024-09-11T17:59:02Z</pubDate>
+</item>
+<item>
+<title>"My Grade is Wrong!": A Contestable AI Framework for Interactive
+  Feedback in Evaluating Student Essays</title>
+<link>http://arxiv.org/abs/2409.07453v1</link>
+<guid>http://arxiv.org/abs/2409.07453v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 互动反馈, 大型语言模型, CAELF, 多代理系统, 计算论证
+总结:<br><br>本文介绍了一种名为CAELF的人工智能增强型大型语言模型框架，旨在自动化互动反馈。CAELF允许学生通过整合多代理系统和计算论证来提出问题、质疑和澄清他们的反馈。文章首先由多个教学助理代理（TA代理）进行评估，然后教师代理通过形式推理汇总评估结果，生成反馈和评分。学生可以进一步通过与反馈互动来完善他们的理解。针对500篇批判性思维作文的案例研究和用户研究表明，CAELF显著改善了互动反馈，增强了LLM的推理和互动能力。这种方法为克服教育设置中限制互动反馈采用的时间和资源障碍提供了有希望的解决方案。 <div>
+Interactive feedback, where feedback flows in both directions between teacher
+and student, is more effective than traditional one-way feedback. However, it
+is often too time-consuming for widespread use in educational practice. While
+Large Language Models (LLMs) have potential for automating feedback, they
+struggle with reasoning and interaction in an interactive setting. This paper
+introduces CAELF, a Contestable AI Empowered LLM Framework for automating
+interactive feedback. CAELF allows students to query, challenge, and clarify
+their feedback by integrating a multi-agent system with computational
+argumentation. Essays are first assessed by multiple Teaching-Assistant Agents
+(TA Agents), and then a Teacher Agent aggregates the evaluations through formal
+reasoning to generate feedback and grades. Students can further engage with the
+feedback to refine their understanding. A case study on 500 critical thinking
+essays with user studies demonstrates that CAELF significantly improves
+interactive feedback, enhancing the reasoning and interaction capabilities of
+LLMs. This approach offers a promising solution to overcoming the time and
+resource barriers that have limited the adoption of interactive feedback in
+educational settings.
+]]></content:encoded>
+<pubDate>2024-09-11T17:59:01Z</pubDate>
+<pubDate>2024-09-11T17:59:01Z</pubDate>
+</item>
+<item>
+<title>Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
+  Diffusion Models</title>
+<link>http://arxiv.org/abs/2409.07452v1</link>
+<guid>http://arxiv.org/abs/2409.07452v1</guid>
+<content:encoded><![CDATA[
+
+Despite having tremendous progress in image-to-3D generation, existing
+methods still struggle to produce multi-view consistent images with
+high-resolution textures in detail, especially in the paradigm of 2D diffusion
+that lacks 3D awareness. In this work, we present High-resolution Image-to-3D
+model (Hi3D), a new video diffusion based paradigm that redefines a single
+image to multi-view images as 3D-aware sequential image generation (i.e.,
+orbital video generation). This methodology delves into the underlying temporal
+consistency knowledge in video diffusion model that generalizes well to
+geometry consistency across multiple views in 3D generation. Technically, Hi3D
+first empowers the pre-trained video diffusion model with 3D-aware prior
+(camera pose condition), yielding multi-view images with low-resolution texture
+details. A 3D-aware video-to-video refiner is learnt to further scale up the
+multi-view images with high-resolution texture details. Such high-resolution
+multi-view images are further augmented with novel views through 3D Gaussian
+Splatting, which are finally leveraged to obtain high-fidelity meshes via 3D
+reconstruction. Extensive experiments on both novel view synthesis and single
+view reconstruction demonstrate that our Hi3D manages to produce superior
+multi-view consistency images with highly-detailed textures. Source code and
+data are available at \url{https://github.com/yanghb22-fdu/Hi3D-Official}.
+]]></content:encoded>
+<pubDate>2024-09-11T17:58:57Z</pubDate>
+<pubDate>2024-09-11T17:58:57Z</pubDate>
+</item>
+<item>
+<title>FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent
+  Noising-and-Denoising Process</title>
+<link>http://arxiv.org/abs/2409.07451v1</link>
+<guid>http://arxiv.org/abs/2409.07451v1</guid>
+<content:encoded><![CDATA[
+
+The emergence of text-to-image generation models has led to the recognition
+that image enhancement, performed as post-processing, would significantly
+improve the visual quality of the generated images. Exploring diffusion models
+to enhance the generated images nevertheless is not trivial and necessitates to
+delicately enrich plentiful details while preserving the visual appearance of
+key content in the original image. In this paper, we propose a novel framework,
+namely FreeEnhance, for content-consistent image enhancement using the
+off-the-shelf image diffusion models. Technically, FreeEnhance is a two-stage
+process that firstly adds random noise to the input image and then capitalizes
+on a pre-trained image diffusion model (i.e., Latent Diffusion Models) to
+denoise and enhance the image details. In the noising stage, FreeEnhance is
+devised to add lighter noise to the region with higher frequency to preserve
+the high-frequent patterns (e.g., edge, corner) in the original image. In the
+denoising stage, we present three target properties as constraints to
+regularize the predicted noise, enhancing images with high acutance and high
+visual quality. Extensive experiments conducted on the HPDv2 dataset
+demonstrate that our FreeEnhance outperforms the state-of-the-art image
+enhancement models in terms of quantitative metrics and human preference. More
+remarkably, FreeEnhance also shows higher human preference compared to the
+commercial image enhancement solution of Magnific AI.
+]]></content:encoded>
+<pubDate>2024-09-11T17:58:50Z</pubDate>
+<pubDate>2024-09-11T17:58:50Z</pubDate>
+</item>
 
 <item>
 <title>Cooptimizing Safety and Performance with a Control-Constrained

@@ -10382,3 +10382,32 @@ Filter: [Geometric-Averaged Preference Optimization for Soft Preference Labels](
 Filter: [Benchmarking Sub-Genre Classification For Mainstage Dance Music](http://arxiv.org/abs/2409.06690v1)
 append_entries: 0
 Finish: 2024-09-12 00:44:57.949085
+------------------------------------------------------
+Started: 2024-09-12 12:17:56.336368
+Existing_entries: 261
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered
+  Stereo Pairs](http://arxiv.org/abs/2409.07456v1)
+Token length: 1251
+Summarized using GPT-3.5-turbo-1106
+Append: [DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for
+  Text-to-3D Generation](http://arxiv.org/abs/2409.07454v1)
+Token length: 1246
+Summarized using GPT-3.5-turbo-1106
+Append: ["My Grade is Wrong!": A Contestable AI Framework for Interactive
+  Feedback in Evaluating Student Essays](http://arxiv.org/abs/2409.07453v1)
+Append: [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
+  Diffusion Models](http://arxiv.org/abs/2409.07452v1)
+Append: [FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent
+  Noising-and-Denoising Process](http://arxiv.org/abs/2409.07451v1)
+Filter: [VMAS: Video-to-Music Generation via Semantic Alignment in Web Music
+  Videos](http://arxiv.org/abs/2409.07450v1)
+Filter: [Autonomous loading of ore piles with Load-Haul-Dump machines using Deep
+  Reinforcement Learning](http://arxiv.org/abs/2409.07449v1)
+Filter: [Introducing Perturb-ability Score (PS) to Enhance Robustness Against
+  Evasion Adversarial Attacks on ML-NIDS](http://arxiv.org/abs/2409.07448v1)
+Filter: [StereoCrafter: Diffusion-based Generation of Long and High-fidelity
+  Stereoscopic 3D from Monocular Videos](http://arxiv.org/abs/2409.07447v1)
+Filter: [Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning](http://arxiv.org/abs/2409.07446v1)
+append_entries: 4
+Finish: 2024-09-12 12:18:06.023133
