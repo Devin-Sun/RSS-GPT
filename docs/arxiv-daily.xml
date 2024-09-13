@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for
   Text-to-3D Generation</title>
@@ -11,13 +12,13 @@
 <guid>http://arxiv.org/abs/2409.07454v1</guid>
 <content:encoded><![CDATA[
 <div> NeRF, 3D generation, DreamMesh, 3D architecture, text-guided Jacobians
-<br><br>
+<br /><br />
 1. 本文介绍了DreamMesh，这是一个新颖的文本到3D生成架构，使用了明确的三角网格来生成高保真的3D模型。
 2. DreamMesh利用了一个独特的粗到细的方案，在粗阶段，首先通过文本引导的雅可比矩阵来变形网格，然后使用多个视角的2D扩散模型无需调参地对网格进行纹理处理。
 3. 在精细阶段，DreamMesh联合操作网格并细化纹理地图，生成高质量的三角网格和高保真的纹理材料。
 4. 大量实验证明，DreamMesh在准确生成具有丰富文本细节和增强几何的3D内容方面明显优于现有的文本到3D方法。
 5. 该项目的相关信息可以在https://dreammesh.github.io找到。
-<br><br>总结: 本文介绍了DreamMesh，一个新的文本到3D生成架构，利用明确的三角网格和精细的纹理生成方法，相较于现有方法在生成具有丰富文本细节和增强几何的3D内容方面有明显优势。 <div>
+<br /><br />总结: 本文介绍了DreamMesh，一个新的文本到3D生成架构，利用明确的三角网格和精细的纹理生成方法，相较于现有方法在生成具有丰富文本细节和增强几何的3D内容方面有明显优势。 <div>
 Learning radiance fields (NeRF) with powerful 2D diffusion models has
 garnered popularity for text-to-3D generation. Nevertheless, the implicit 3D
 representations of NeRF lack explicit modeling of meshes and textures over
@@ -37,7 +38,6 @@ content with richer textual details and enhanced geometry. Our project page is
 available at https://dreammesh.github.io.
 ]]></content:encoded>
 <pubDate>2024-09-11T17:59:02Z</pubDate>
-<pubDate>2024-09-11T17:59:02Z</pubDate>
 </item>
 <item>
 <title>"My Grade is Wrong!": A Contestable AI Framework for Interactive
@@ -46,7 +46,7 @@ available at https://dreammesh.github.io.
 <guid>http://arxiv.org/abs/2409.07453v1</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 互动反馈, 大型语言模型, CAELF, 多代理系统, 计算论证
-总结:<br><br>本文介绍了一种名为CAELF的人工智能增强型大型语言模型框架，旨在自动化互动反馈。CAELF允许学生通过整合多代理系统和计算论证来提出问题、质疑和澄清他们的反馈。文章首先由多个教学助理代理（TA代理）进行评估，然后教师代理通过形式推理汇总评估结果，生成反馈和评分。学生可以进一步通过与反馈互动来完善他们的理解。针对500篇批判性思维作文的案例研究和用户研究表明，CAELF显著改善了互动反馈，增强了LLM的推理和互动能力。这种方法为克服教育设置中限制互动反馈采用的时间和资源障碍提供了有希望的解决方案。 <div>
+总结:<br /><br />本文介绍了一种名为CAELF的人工智能增强型大型语言模型框架，旨在自动化互动反馈。CAELF允许学生通过整合多代理系统和计算论证来提出问题、质疑和澄清他们的反馈。文章首先由多个教学助理代理（TA代理）进行评估，然后教师代理通过形式推理汇总评估结果，生成反馈和评分。学生可以进一步通过与反馈互动来完善他们的理解。针对500篇批判性思维作文的案例研究和用户研究表明，CAELF显著改善了互动反馈，增强了LLM的推理和互动能力。这种方法为克服教育设置中限制互动反馈采用的时间和资源障碍提供了有希望的解决方案。 <div>
 Interactive feedback, where feedback flows in both directions between teacher
 and student, is more effective than traditional one-way feedback. However, it
 is often too time-consuming for widespread use in educational practice. While
@@ -66,7 +66,6 @@ resource barriers that have limited the adoption of interactive feedback in
 educational settings.
 ]]></content:encoded>
 <pubDate>2024-09-11T17:59:01Z</pubDate>
-<pubDate>2024-09-11T17:59:01Z</pubDate>
 </item>
 <item>
 <title>Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video
@@ -74,7 +73,6 @@ educational settings.
 <link>http://arxiv.org/abs/2409.07452v1</link>
 <guid>http://arxiv.org/abs/2409.07452v1</guid>
 <content:encoded><![CDATA[
-
 Despite having tremendous progress in image-to-3D generation, existing
 methods still struggle to produce multi-view consistent images with
 high-resolution textures in detail, especially in the paradigm of 2D diffusion
@@ -96,7 +94,6 @@ multi-view consistency images with highly-detailed textures. Source code and
 data are available at \url{https://github.com/yanghb22-fdu/Hi3D-Official}.
 ]]></content:encoded>
 <pubDate>2024-09-11T17:58:57Z</pubDate>
-<pubDate>2024-09-11T17:58:57Z</pubDate>
 </item>
 <item>
 <title>FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent
@@ -104,7 +101,6 @@ data are available at \url{https://github.com/yanghb22-fdu/Hi3D-Official}.
 <link>http://arxiv.org/abs/2409.07451v1</link>
 <guid>http://arxiv.org/abs/2409.07451v1</guid>
 <content:encoded><![CDATA[
-
 The emergence of text-to-image generation models has led to the recognition
 that image enhancement, performed as post-processing, would significantly
 improve the visual quality of the generated images. Exploring diffusion models
@@ -127,9 +123,7 @@ remarkably, FreeEnhance also shows higher human preference compared to the
 commercial image enhancement solution of Magnific AI.
 ]]></content:encoded>
 <pubDate>2024-09-11T17:58:50Z</pubDate>
-<pubDate>2024-09-11T17:58:50Z</pubDate>
 </item>
-
 <item>
 <title>Cooptimizing Safety and Performance with a Control-Constrained
   Formulation</title>
