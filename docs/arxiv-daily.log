@@ -10428,3 +10428,27 @@ Filter: [StereoCrafter: Diffusion-based Generation of Long and High-fidelity
 Filter: [Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning](http://arxiv.org/abs/2409.07446v1)
 append_entries: 0
 Finish: 2024-09-13 00:44:54.485501
+------------------------------------------------------
+Started: 2024-09-13 12:17:25.441477
+Existing_entries: 265
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with
+  Diffusion Priors](http://arxiv.org/abs/2409.08278v1)
+Filter: [Depth on Demand: Streaming Dense Depth from a Low Frame Rate Active
+  Sensor](http://arxiv.org/abs/2409.08277v1)
+Filter: [AnySkin: Plug-and-play Skin Sensing for Robotic Touch](http://arxiv.org/abs/2409.08276v1)
+Filter: [Hand-Object Interaction Pretraining from Videos](http://arxiv.org/abs/2409.08273v1)
+Token length: 1308
+Summarized using GPT-3.5-turbo-1106
+Append: [Click2Mask: Local Editing with Dynamic Mask Generation](http://arxiv.org/abs/2409.08272v1)
+Filter: [DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge
+  Transfer](http://arxiv.org/abs/2409.08271v1)
+Filter: [FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](http://arxiv.org/abs/2409.08270v1)
+Filter: [Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation](http://arxiv.org/abs/2409.08269v1)
+Filter: [CROSS: A Contributor-Project Interaction Lifecycle Model for Open Source
+  Software](http://arxiv.org/abs/2409.08267v1)
+Token length: 1818
+Summarized using GPT-3.5-turbo-1106
+Append: [Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale](http://arxiv.org/abs/2409.08264v1)
+append_entries: 2
+Finish: 2024-09-13 12:17:30.846192

@@ -4,6 +4,72 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Click2Mask: Local Editing with Dynamic Mask Generation</title>
+<link>http://arxiv.org/abs/2409.08272v1</link>
+<guid>http://arxiv.org/abs/2409.08272v1</guid>
+<content:encoded><![CDATA[
+<div> Click2Mask, local image editing, generative models, Blended Latent Diffusion, user-friendly<br>
+<br>
+本文介绍了一种名为Click2Mask的新方法，用于简化局部图像编辑过程。它只需要一个参考点和内容描述，就能动态地在参考点周围生成遮罩，在Blended Latent Diffusion (BLD) 过程中通过基于CLIP的语义损失来引导。与现有方法相比，Click2Mask不仅减少了用户的工作量，而且根据人工判断和自动指标提供了出色的局部图像编辑结果。关键贡献包括简化用户输入、能够自由添加对象并与其他编辑方法结合的动态遮罩方法。<br><br>总结: <div>
+Recent advancements in generative models have revolutionized image generation
+and editing, making these tasks accessible to non-experts. This paper focuses
+on local image editing, particularly the task of adding new content to a
+loosely specified area. Existing methods often require a precise mask or a
+detailed description of the location, which can be cumbersome and prone to
+errors. We propose Click2Mask, a novel approach that simplifies the local
+editing process by requiring only a single point of reference (in addition to
+the content description). A mask is dynamically grown around this point during
+a Blended Latent Diffusion (BLD) process, guided by a masked CLIP-based
+semantic loss. Click2Mask surpasses the limitations of segmentation-based and
+fine-tuning dependent methods, offering a more user-friendly and contextually
+accurate solution. Our experiments demonstrate that Click2Mask not only
+minimizes user effort but also delivers competitive or superior local image
+manipulation results compared to SoTA methods, according to both human
+judgement and automatic metrics. Key contributions include the simplification
+of user input, the ability to freely add objects unconstrained by existing
+segments, and the integration potential of our dynamic mask approach within
+other editing methods.
+]]></content:encoded>
+<pubDate>2024-09-12T17:59:04Z</pubDate>
+<pubDate>2024-09-12T17:59:04Z</pubDate>
+</item>
+<item>
+<title>Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</title>
+<link>http://arxiv.org/abs/2409.08264v1</link>
+<guid>http://arxiv.org/abs/2409.08264v1</guid>
+<content:encoded><![CDATA[
+<div> Agent, Windows Agent Arena, multi-modal tasks, benchmark, Navi
+<br><br>总结:
+本文介绍了大型语言模型在计算机代理方面的潜力，以及在现实环境中评估代理性能的挑战。笔者提出了一个新的环境平台——Windows Agent Arena，专注于Windows操作系统，在150多个任务中展示了代理的能力。同时，还介绍了一个多模态代理Navi，并对其性能进行了分析。文章指出了未来代理开发和数据生成的研究机会。 <div>
+Large language models (LLMs) show remarkable potential to act as computer
+agents, enhancing human productivity and software accessibility in multi-modal
+tasks that require planning and reasoning. However, measuring agent performance
+in realistic environments remains a challenge since: (i) most benchmarks are
+limited to specific modalities or domains (e.g. text-only, web navigation, Q&A,
+coding) and (ii) full benchmark evaluations are slow (on order of magnitude of
+days) given the multi-step sequential nature of tasks. To address these
+challenges, we introduce the Windows Agent Arena: a reproducible, general
+environment focusing exclusively on the Windows operating system (OS) where
+agents can operate freely within a real Windows OS and use the same wide range
+of applications, tools, and web browsers available to human users when solving
+tasks. We adapt the OSWorld framework (Xie et al., 2024) to create 150+ diverse
+Windows tasks across representative domains that require agent abilities in
+planning, screen understanding, and tool usage. Our benchmark is scalable and
+can be seamlessly parallelized in Azure for a full benchmark evaluation in as
+little as 20 minutes. To demonstrate Windows Agent Arena's capabilities, we
+also introduce a new multi-modal agent, Navi. Our agent achieves a success rate
+of 19.5% in the Windows domain, compared to 74.5% performance of an unassisted
+human. Navi also demonstrates strong performance on another popular web-based
+benchmark, Mind2Web. We offer extensive quantitative and qualitative analysis
+of Navi's performance, and provide insights into the opportunities for future
+research in agent development and data generation using Windows Agent Arena.
+  Webpage: https://microsoft.github.io/WindowsAgentArena
+  Code: https://github.com/microsoft/WindowsAgentArena
+]]></content:encoded>
+<pubDate>2024-09-12T17:56:43Z</pubDate>
+<pubDate>2024-09-12T17:56:43Z</pubDate>
+</item>
 
 <item>
 <title>DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for
