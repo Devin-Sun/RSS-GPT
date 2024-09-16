@@ -4,6 +4,86 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>The unknotting number, hard unknot diagrams, and reinforcement learning</title>
+<link>http://arxiv.org/abs/2409.09032v1</link>
+<guid>http://arxiv.org/abs/2409.09032v1</guid>
+<content:encoded><![CDATA[
+<div> 强化学习，不定结数，连接和，超几何结，数据集
+
+强化学习代理程序可找到 unknotting number 上限，确定了 57k 结的 unknotting number，接下来展示了由多个 unknotting crossings 组成的超几何结以及 unknotting number 的加法性。最终得到了 2.6 百万个不同的 hard unknot diagrams。根据假设，确定了 43 个不超过 12 个交叉的结的 unknotting number。总结：<br><br>强化学习代理程序成功确定了 unknotting number 上限，并展示了加法性的作用，同时得到了一个包含大量 unknot diagrams 的数据集。 <div>
+We have developed a reinforcement learning agent that often finds a minimal
+sequence of unknotting crossing changes for a knot diagram with up to 200
+crossings, hence giving an upper bound on the unknotting number. We have used
+this to determine the unknotting number of 57k knots. We took diagrams of
+connected sums of such knots with oppositely signed signatures, where the
+summands were overlaid. The agent has found examples where several of the
+crossing changes in an unknotting collection of crossings result in hyperbolic
+knots. Based on this, we have shown that, given knots $K$ and $K'$ that satisfy
+some mild assumptions, there is a diagram of their connected sum and $u(K) +
+u(K')$ unknotting crossings such that changing any one of them results in a
+prime knot. As a by-product, we have obtained a dataset of 2.6 million distinct
+hard unknot diagrams; most of them under 35 crossings. Assuming the additivity
+of the unknotting number, we have determined the unknotting number of 43 at
+most 12-crossing knots for which the unknotting number is unknown.
+]]></content:encoded>
+<pubDate>2024-09-13T17:59:52Z</pubDate>
+<pubDate>2024-09-13T17:59:52Z</pubDate>
+</item>
+<item>
+<title>Agents in Software Engineering: Survey, Landscape, and Vision</title>
+<link>http://arxiv.org/abs/2409.09030v1</link>
+<guid>http://arxiv.org/abs/2409.09030v1</guid>
+<content:encoded><![CDATA[
+<div> Large Language Models, Software Engineering, Agents, Perception, Memory
+
+总结:<br><br>本文是对将大型语言模型（LLMs）与软件工程（SE）相结合的研究进行了调查，提出了LLM在SE中的代理框架，包括感知、记忆和行动三个关键模块。文章还总结了结合两个领域的当前挑战，并提出了未来的发展机会。同时，他们在GitHub上维护了相关论文的存储库。 <div>
+In recent years, Large Language Models (LLMs) have achieved remarkable
+success and have been widely used in various downstream tasks, especially in
+the tasks of the software engineering (SE) field. We find that many studies
+combining LLMs with SE have employed the concept of agents either explicitly or
+implicitly. However, there is a lack of an in-depth survey to sort out the
+development context of existing works, analyze how existing works combine the
+LLM-based agent technologies to optimize various tasks, and clarify the
+framework of LLM-based agents in SE. In this paper, we conduct the first survey
+of the studies on combining LLM-based agents with SE and present a framework of
+LLM-based agents in SE which includes three key modules: perception, memory,
+and action. We also summarize the current challenges in combining the two
+fields and propose future opportunities in response to existing challenges. We
+maintain a GitHub repository of the related papers at:
+https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE.
+]]></content:encoded>
+<pubDate>2024-09-13T17:55:58Z</pubDate>
+<pubDate>2024-09-13T17:55:58Z</pubDate>
+</item>
+<item>
+<title>AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM
+  Agents</title>
+<link>http://arxiv.org/abs/2409.09013v1</link>
+<guid>http://arxiv.org/abs/2409.09013v1</guid>
+<content:encoded><![CDATA[
+
+To be safely and successfully deployed, LLMs must simultaneously satisfy
+truthfulness and utility goals. Yet, often these two goals compete (e.g., an AI
+agent assisting a used car salesman selling a car with flaws), partly due to
+ambiguous or misleading user instructions. We propose AI-LieDar, a framework to
+study how LLM-based agents navigate scenarios with utility-truthfulness
+conflicts in a multi-turn interactive setting. We design a set of realistic
+scenarios where language agents are instructed to achieve goals that are in
+conflict with being truthful during a multi-turn conversation with simulated
+human agents. To evaluate the truthfulness at large scale, we develop a
+truthfulness detector inspired by psychological literature to assess the
+agents' responses. Our experiment demonstrates that all models are truthful
+less than 50% of the time, although truthfulness and goal achievement (utility)
+rates vary across models. We further test the steerability of LLMs towards
+truthfulness, finding that models follow malicious instructions to deceive, and
+even truth-steered models can still lie. These findings reveal the complex
+nature of truthfulness in LLMs and underscore the importance of further
+research to ensure the safe and reliable deployment of LLMs and AI agents.
+]]></content:encoded>
+<pubDate>2024-09-13T17:41:12Z</pubDate>
+<pubDate>2024-09-13T17:41:12Z</pubDate>
+</item>
 
 <item>
 <title>Click2Mask: Local Editing with Dynamic Mask Generation</title>
