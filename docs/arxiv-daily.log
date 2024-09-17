@@ -10567,3 +10567,20 @@ Filter: [VAE Explainer: Supplement Learning Variational Autoencoders with
 Filter: [Contri(e)ve: Context + Retrieve for Scholarly Question Answering](http://arxiv.org/abs/2409.09010v1)
 append_entries: 3
 Finish: 2024-09-16 12:19:20.192078
+------------------------------------------------------
+Started: 2024-09-17 00:37:45.340531
+Existing_entries: 270
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for
+  Recommender Tasks](http://arxiv.org/abs/2409.09026v1)
+Filter: [INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction](http://arxiv.org/abs/2409.09021v1)
+Filter: [An Efficient and Streaming Audio Visual Active Speaker Detection System](http://arxiv.org/abs/2409.09018v1)
+Filter: [Closed-Loop Visuomotor Control with Generative Expectation for Robotic
+  Manipulation](http://arxiv.org/abs/2409.09016v1)
+Filter: [The Better Solution Probability Metric: Optimizing QAOA to Outperform
+  its Warm-Start Solution](http://arxiv.org/abs/2409.09012v1)
+Filter: [VAE Explainer: Supplement Learning Variational Autoencoders with
+  Interactive Visualization](http://arxiv.org/abs/2409.09011v1)
+Filter: [Contri(e)ve: Context + Retrieve for Scholarly Question Answering](http://arxiv.org/abs/2409.09010v1)
+append_entries: 0
+Finish: 2024-09-17 00:37:46.373610

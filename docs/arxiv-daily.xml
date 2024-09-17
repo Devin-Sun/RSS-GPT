@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>The unknotting number, hard unknot diagrams, and reinforcement learning</title>
 <link>http://arxiv.org/abs/2409.09032v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 强化学习，不定结数，连接和，超几何结，数据集
 
-强化学习代理程序可找到 unknotting number 上限，确定了 57k 结的 unknotting number，接下来展示了由多个 unknotting crossings 组成的超几何结以及 unknotting number 的加法性。最终得到了 2.6 百万个不同的 hard unknot diagrams。根据假设，确定了 43 个不超过 12 个交叉的结的 unknotting number。总结：<br><br>强化学习代理程序成功确定了 unknotting number 上限，并展示了加法性的作用，同时得到了一个包含大量 unknot diagrams 的数据集。 <div>
+强化学习代理程序可找到 unknotting number 上限，确定了 57k 结的 unknotting number，接下来展示了由多个 unknotting crossings 组成的超几何结以及 unknotting number 的加法性。最终得到了 2.6 百万个不同的 hard unknot diagrams。根据假设，确定了 43 个不超过 12 个交叉的结的 unknotting number。总结：<br /><br />强化学习代理程序成功确定了 unknotting number 上限，并展示了加法性的作用，同时得到了一个包含大量 unknot diagrams 的数据集。 <div>
 We have developed a reinforcement learning agent that often finds a minimal
 sequence of unknotting crossing changes for a knot diagram with up to 200
 crossings, hence giving an upper bound on the unknotting number. We have used
@@ -28,7 +29,6 @@ of the unknotting number, we have determined the unknotting number of 43 at
 most 12-crossing knots for which the unknotting number is unknown.
 ]]></content:encoded>
 <pubDate>2024-09-13T17:59:52Z</pubDate>
-<pubDate>2024-09-13T17:59:52Z</pubDate>
 </item>
 <item>
 <title>Agents in Software Engineering: Survey, Landscape, and Vision</title>
@@ -37,7 +37,7 @@ most 12-crossing knots for which the unknotting number is unknown.
 <content:encoded><![CDATA[
 <div> Large Language Models, Software Engineering, Agents, Perception, Memory
 
-总结:<br><br>本文是对将大型语言模型（LLMs）与软件工程（SE）相结合的研究进行了调查，提出了LLM在SE中的代理框架，包括感知、记忆和行动三个关键模块。文章还总结了结合两个领域的当前挑战，并提出了未来的发展机会。同时，他们在GitHub上维护了相关论文的存储库。 <div>
+总结:<br /><br />本文是对将大型语言模型（LLMs）与软件工程（SE）相结合的研究进行了调查，提出了LLM在SE中的代理框架，包括感知、记忆和行动三个关键模块。文章还总结了结合两个领域的当前挑战，并提出了未来的发展机会。同时，他们在GitHub上维护了相关论文的存储库。 <div>
 In recent years, Large Language Models (LLMs) have achieved remarkable
 success and have been widely used in various downstream tasks, especially in
 the tasks of the software engineering (SE) field. We find that many studies
@@ -54,7 +54,6 @@ maintain a GitHub repository of the related papers at:
 https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE.
 ]]></content:encoded>
 <pubDate>2024-09-13T17:55:58Z</pubDate>
-<pubDate>2024-09-13T17:55:58Z</pubDate>
 </item>
 <item>
 <title>AI-LieDar: Examine the Trade-off Between Utility and Truthfulness in LLM
@@ -62,7 +61,6 @@ https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE.
 <link>http://arxiv.org/abs/2409.09013v1</link>
 <guid>http://arxiv.org/abs/2409.09013v1</guid>
 <content:encoded><![CDATA[
-
 To be safely and successfully deployed, LLMs must simultaneously satisfy
 truthfulness and utility goals. Yet, often these two goals compete (e.g., an AI
 agent assisting a used car salesman selling a car with flaws), partly due to
@@ -82,9 +80,7 @@ nature of truthfulness in LLMs and underscore the importance of further
 research to ensure the safe and reliable deployment of LLMs and AI agents.
 ]]></content:encoded>
 <pubDate>2024-09-13T17:41:12Z</pubDate>
-<pubDate>2024-09-13T17:41:12Z</pubDate>
 </item>
-
 <item>
 <title>Click2Mask: Local Editing with Dynamic Mask Generation</title>
 <link>http://arxiv.org/abs/2409.08272v1</link>
