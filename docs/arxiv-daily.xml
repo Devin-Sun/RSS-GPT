@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Pennsieve - A Collaborative Platform for Translational Neuroscience and
   Beyond</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2409.10509v1</guid>
 <content:encoded><![CDATA[
 <div> 科学数据管理 平台 多学科合作 脑科学 Pennsieve
-总结:<br><br>本文介绍了Pennsieve平台，这是一个开源的、基于云的科学数据管理平台，旨在满足神经科学数据管理和多学科合作的需求。Pennsieve支持复杂的多模态数据集，提供数据可视化和分析工具。它采取了全面的数据集成方法，使研究人员能够定义自定义的元数据模式，并利用高级工具来过滤和查询他们的数据。Pennsieve的模块化架构允许外部应用程序扩展其功能，并通过同行评审的数据发布机制促进高质量的数据集，以优化下游云端和现场分析。Pennsieve是美国国家卫生研究院SPARC计划、HEAL计划的PRECSION人类疼痛网络和RE-JOIN计划的核心，服务于全球80多个研究组和几个大规模的跨机构项目。Pennsieve存储着125TB的科学数据，其中35TB的数据公开可用，涵盖了350多个高影响力的数据集。它遵循数据分享的FAIR原则，被认可为美国国家卫生研究院批准的数据库。通过促进科学数据管理、发现和分析，Pennsieve为神经科学和其他领域营造了健全、协作的研究生态系统。 <div>
+总结:<br /><br />本文介绍了Pennsieve平台，这是一个开源的、基于云的科学数据管理平台，旨在满足神经科学数据管理和多学科合作的需求。Pennsieve支持复杂的多模态数据集，提供数据可视化和分析工具。它采取了全面的数据集成方法，使研究人员能够定义自定义的元数据模式，并利用高级工具来过滤和查询他们的数据。Pennsieve的模块化架构允许外部应用程序扩展其功能，并通过同行评审的数据发布机制促进高质量的数据集，以优化下游云端和现场分析。Pennsieve是美国国家卫生研究院SPARC计划、HEAL计划的PRECSION人类疼痛网络和RE-JOIN计划的核心，服务于全球80多个研究组和几个大规模的跨机构项目。Pennsieve存储着125TB的科学数据，其中35TB的数据公开可用，涵盖了350多个高影响力的数据集。它遵循数据分享的FAIR原则，被认可为美国国家卫生研究院批准的数据库。通过促进科学数据管理、发现和分析，Pennsieve为神经科学和其他领域营造了健全、协作的研究生态系统。 <div>
 The exponential growth of neuroscientific data necessitates platforms that
 facilitate data management and multidisciplinary collaboration. In this paper,
 we introduce Pennsieve - an open-source, cloud-based scientific data management
@@ -37,15 +38,14 @@ scientific data management, discovery, and analysis, Pennsieve fosters a robust
 and collaborative research ecosystem for neuroscience and beyond.
 ]]></content:encoded>
 <pubDate>2024-09-16T17:55:58Z</pubDate>
-<pubDate>2024-09-16T17:55:58Z</pubDate>
 </item>
 <item>
 <title>MusicLIME: Explainable Multimodal Music Understanding</title>
 <link>http://arxiv.org/abs/2409.10496v1</link>
 <guid>http://arxiv.org/abs/2409.10496v1</guid>
 <content:encoded><![CDATA[
-<div> 音乐理解，多模态，模型解释，特征重要性，公平性<br>
-总结:<br>
+<div> 音乐理解，多模态，模型解释，特征重要性，公平性<br />
+总结:<br />
 本文介绍了MusicLIME，这是一个针对多模态音乐模型设计的模型无关特征重要性解释方法。与传统的单模态方法不同，MusicLIME揭示了音频和歌词特征如何相互作用并对预测做出贡献，提供了对模型决策的整体视图。此外，我们通过将局部解释汇总成全局解释，使用户能够更广泛地了解模型行为。通过这项工作，我们致力于改进多模态音乐模型的解释性，让用户能够做出明智的选择，并促进更公平、公正和透明的音乐理解系统。 <div>
 Multimodal models are critical for music understanding tasks, as they capture
 the complex interplay between audio and lyrics. However, as these models become
@@ -65,9 +65,7 @@ choices, and fostering more equitable, fair, and transparent music
 understanding systems.
 ]]></content:encoded>
 <pubDate>2024-09-16T17:28:21Z</pubDate>
-<pubDate>2024-09-16T17:28:21Z</pubDate>
 </item>
-
 <item>
 <title>The unknotting number, hard unknot diagrams, and reinforcement learning</title>
 <link>http://arxiv.org/abs/2409.09032v1</link>

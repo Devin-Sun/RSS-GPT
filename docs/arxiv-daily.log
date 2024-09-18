@@ -10613,3 +10613,25 @@ Summarized using GPT-3.5-turbo-1106
 Append: [MusicLIME: Explainable Multimodal Music Understanding](http://arxiv.org/abs/2409.10496v1)
 append_entries: 2
 Finish: 2024-09-17 12:17:59.459068
+------------------------------------------------------
+Started: 2024-09-18 00:44:58.493290
+Existing_entries: 272
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector
+  Retrieval](http://arxiv.org/abs/2409.10516v1)
+Filter: [An Efficient Self-Learning Framework For Interactive Spoken Dialog
+  Systems](http://arxiv.org/abs/2409.10515v1)
+Filter: [Enhancing Video Transmission with Machine Learning based Routing in
+  Software-Defined Networks](http://arxiv.org/abs/2409.10512v1)
+Filter: [Weak Superimposed Codes of Improved Asymptotic Rate and Their Randomized
+  Construction](http://arxiv.org/abs/2409.10511v1)
+Filter: [Context-aware Code Segmentation for C-to-Rust Translation using Large
+  Language Models](http://arxiv.org/abs/2409.10506v1)
+Filter: [DILA: Dictionary Label Attention for Mechanistic Interpretability in
+  High-dimensional Multi-label Medical Coding Prediction](http://arxiv.org/abs/2409.10504v1)
+Filter: [Causal Language Modeling Can Elicit Search and Reasoning Capabilities on
+  Logic Puzzles](http://arxiv.org/abs/2409.10502v1)
+Filter: [Partial Distribution Matching via Partial Wasserstein Adversarial
+  Networks](http://arxiv.org/abs/2409.10499v1)
+append_entries: 0
+Finish: 2024-09-18 00:44:59.263664
