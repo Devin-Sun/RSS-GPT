@@ -10660,3 +10660,17 @@ Filter: [Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound
 Filter: [Says Who? Effective Zero-Shot Annotation of Focalization](http://arxiv.org/abs/2409.11390v1)
 append_entries: 4
 Finish: 2024-09-18 12:18:07.832924
+------------------------------------------------------
+Started: 2024-09-19 00:45:56.650307
+Existing_entries: 276
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Black-box Stealthy GPS Attacks on Unmanned Aerial Vehicles](http://arxiv.org/abs/2409.11405v1)
+Filter: [AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs](http://arxiv.org/abs/2409.11404v1)
+Filter: [UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning](http://arxiv.org/abs/2409.11403v1)
+Filter: [Temporal Load Imbalance on Ondes3D Seismic Simulator for Different
+  Multicore Architectures](http://arxiv.org/abs/2409.11392v1)
+Filter: [Online 4D Ultrasound-Guided Robotic Tracking Enables 3D Ultrasound
+  Localisation Microscopy with Large Tissue Displacements](http://arxiv.org/abs/2409.11391v1)
+Filter: [Says Who? Effective Zero-Shot Annotation of Focalization](http://arxiv.org/abs/2409.11390v1)
+append_entries: 0
+Finish: 2024-09-19 00:45:57.248904

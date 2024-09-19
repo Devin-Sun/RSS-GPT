@@ -4,17 +4,18 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Phidias: A Generative Model for Creating 3D Content from Text, Image,
   and 3D Conditions with Reference-Augmented Diffusion</title>
 <link>http://arxiv.org/abs/2409.11406v1</link>
 <guid>http://arxiv.org/abs/2409.11406v1</guid>
 <content:encoded><![CDATA[
-<div> 3D建模，参考模型，生成模型，Phidias，动态引导<br>
-<br>
+<div> 3D建模，参考模型，生成模型，Phidias，动态引导<br />
+<br />
 Phidias是一种新颖的生成模型，使用扩散技术进行参考增强的3D生成。该方法利用检索或用户提供的3D参考模型来引导生成过程，提高了生成质量、泛化能力和可控性。该模型整合了三个关键组件：1）动态调节条件强度的元控制网络，2）动态参考路由，缓解输入图像和3D参考之间的不对齐，3）自引用增强，实现了自监督训练。这些设计的整合使Phidias相对于现有方法有了明显的改进。Phidias建立了一个统一的框架，可用于使用文本、图像和3D条件进行3D生成，并具有多种应用。
 
-<br><br>总结: 3D建模中，Phidias通过引入动态引导和自引用增强等技术，提高了生成质量和灵活性。该方法整合了元控制网络和动态参考路由，解决了输入图像和3D参考模型之间的不对齐问题。通过自监督训练，Phidias实现了更好的泛化能力，为3D生成领域带来了明显的改进。 <div>
+<br /><br />总结: 3D建模中，Phidias通过引入动态引导和自引用增强等技术，提高了生成质量和灵活性。该方法整合了元控制网络和动态参考路由，解决了输入图像和3D参考模型之间的不对齐问题。通过自监督训练，Phidias实现了更好的泛化能力，为3D生成领域带来了明显的改进。 <div>
 In 3D modeling, designers often use an existing 3D model as a reference to
 create new ones. This practice has inspired the development of Phidias, a novel
 generative model that uses diffusion for reference-augmented 3D generation.
@@ -30,15 +31,14 @@ methods. Phidias establishes a unified framework for 3D generation using text,
 image, and 3D conditions with versatile applications.
 ]]></content:encoded>
 <pubDate>2024-09-17T17:59:33Z</pubDate>
-<pubDate>2024-09-17T17:59:33Z</pubDate>
 </item>
 <item>
 <title>NVLM: Open Frontier-Class Multimodal LLMs</title>
 <link>http://arxiv.org/abs/2409.11402v1</link>
 <guid>http://arxiv.org/abs/2409.11402v1</guid>
 <content:encoded><![CDATA[
-<div> NVLM 1.0, multimodal, language models, vision-language tasks, model design<br>
-生产级多模态语言模型 NVLM 1.0 在视觉-语言任务上取得了最先进的结果，超越了领先的专有模型和开源模型。在模型设计方面，提出了一种新的架构，提高了训练效率和多模态推理能力。通过精心策划和提供详细信息的多模态预训练和监督微调数据集，发现数据集质量和任务多样性对于模型性能至关重要。通过融合高质量的文本数据集和大量的多模态数学和推理数据，提升了跨模态的数学和编码能力。最后，释放了模型权重并开源了代码，以推动该领域的研究。<br><br>总结: <br> NVLM 1.0 在视觉-语言任务中取得了最先进的结果，提出了新的架构，发现了数据集质量和任务多样性的重要性，提升了模型的数学和编码能力，并释放了模型权重并开源了代码。 <div>
+<div> NVLM 1.0, multimodal, language models, vision-language tasks, model design<br />
+生产级多模态语言模型 NVLM 1.0 在视觉-语言任务上取得了最先进的结果，超越了领先的专有模型和开源模型。在模型设计方面，提出了一种新的架构，提高了训练效率和多模态推理能力。通过精心策划和提供详细信息的多模态预训练和监督微调数据集，发现数据集质量和任务多样性对于模型性能至关重要。通过融合高质量的文本数据集和大量的多模态数学和推理数据，提升了跨模态的数学和编码能力。最后，释放了模型权重并开源了代码，以推动该领域的研究。<br /><br />总结: <br /> NVLM 1.0 在视觉-语言任务中取得了最先进的结果，提出了新的架构，发现了数据集质量和任务多样性的重要性，提升了模型的数学和编码能力，并释放了模型权重并开源了代码。 <div>
 We introduce NVLM 1.0, a family of frontier-class multimodal large language
 models (LLMs) that achieve state-of-the-art results on vision-language tasks,
 rivaling the leading proprietary models (e.g., GPT-4o) and open-access models
@@ -65,7 +65,6 @@ field, we are releasing the model weights and will open-source the code for the
 community: https://nvlm-project.github.io/.
 ]]></content:encoded>
 <pubDate>2024-09-17T17:59:06Z</pubDate>
-<pubDate>2024-09-17T17:59:06Z</pubDate>
 </item>
 <item>
 <title>Distributed Perception Aware Safe Leader Follower System via Control
@@ -73,7 +72,6 @@ community: https://nvlm-project.github.io/.
 <link>http://arxiv.org/abs/2409.11394v1</link>
 <guid>http://arxiv.org/abs/2409.11394v1</guid>
 <content:encoded><![CDATA[
-
 This paper addresses a distributed leader-follower formation control problem
 for a group of agents, each using a body-fixed camera with a limited field of
 view (FOV) for state estimation. The main challenge arises from the need to
@@ -91,7 +89,6 @@ effectiveness and robustness of the proposed framework in two distinct
 environments.
 ]]></content:encoded>
 <pubDate>2024-09-17T17:54:56Z</pubDate>
-<pubDate>2024-09-17T17:54:56Z</pubDate>
 </item>
 <item>
 <title>LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless
@@ -99,7 +96,6 @@ environments.
 <link>http://arxiv.org/abs/2409.11393v1</link>
 <guid>http://arxiv.org/abs/2409.11393v1</guid>
 <content:encoded><![CDATA[
-
 The integration of tools in LLM-based agents overcame the difficulties of
 standalone LLMs and traditional agents' limited capabilities. However, the
 conjunction of these technologies and the proposed enhancements in several
@@ -128,9 +124,7 @@ analysis provided clear insights into potential improvements and highlighted
 the challenges involved in the combination of specific agents.
 ]]></content:encoded>
 <pubDate>2024-09-17T17:54:17Z</pubDate>
-<pubDate>2024-09-17T17:54:17Z</pubDate>
 </item>
-
 <item>
 <title>Pennsieve - A Collaborative Platform for Translational Neuroscience and
   Beyond</title>
