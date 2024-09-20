@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Vista3D: Unravel the 3D Darkside of a Single Image</title>
 <link>http://arxiv.org/abs/2409.12193v1</link>
@@ -29,7 +30,6 @@ balance between the consistency and diversity of the generated 3D objects.
 Demos and code will be available at https://github.com/florinshen/Vista3D.
 ]]></content:encoded>
 <pubDate>2024-09-18T17:59:44Z</pubDate>
-<pubDate>2024-09-18T17:59:44Z</pubDate>
 </item>
 <item>
 <title>Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at
@@ -37,9 +37,9 @@ Demos and code will be available at https://github.com/florinshen/Vista3D.
 <link>http://arxiv.org/abs/2409.12191v1</link>
 <guid>http://arxiv.org/abs/2409.12191v1</guid>
 <content:encoded><![CDATA[
-<div> Qwen2-VL Series, upgrade, Naive Dynamic Resolution, Multimodal Rotary Position Embedding, scaling laws<br>
-<br>
-Qwen2-VL Series是Qwen-VL模型的先进升级，引入了Naive Dynamic Resolution机制，可以动态处理不同分辨率的图像，生成更高效、准确的视觉表征。同时集成了Multimodal Rotary Position Embedding（M-RoPE），有效融合了文本、图像和视频的位置信息。采用统一的范式处理图像和视频，提升了模型的视觉感知能力。通过研究大型视觉语言模型（LVLMs）的扩展规律，Qwen2-VL系列取得了竞争力极强的性能表现，尤其是Qwen2-VL-72B模型在各种多模态基准测试中表现出色，优于其他通用模型。可在\url{https://github.com/QwenLM/Qwen2-VL}获取代码。 <br><br>总结: Qwen2-VL系列引入了新的处理机制，可以动态处理图像分辨率，并融合多模态信息，通过研究大型模型的扩展规律，取得了优异的性能。 <div>
+<div> Qwen2-VL Series, upgrade, Naive Dynamic Resolution, Multimodal Rotary Position Embedding, scaling laws<br />
+<br />
+Qwen2-VL Series是Qwen-VL模型的先进升级，引入了Naive Dynamic Resolution机制，可以动态处理不同分辨率的图像，生成更高效、准确的视觉表征。同时集成了Multimodal Rotary Position Embedding（M-RoPE），有效融合了文本、图像和视频的位置信息。采用统一的范式处理图像和视频，提升了模型的视觉感知能力。通过研究大型视觉语言模型（LVLMs）的扩展规律，Qwen2-VL系列取得了竞争力极强的性能表现，尤其是Qwen2-VL-72B模型在各种多模态基准测试中表现出色，优于其他通用模型。可在\url{https://github.com/QwenLM/Qwen2-VL}获取代码。 <br /><br />总结: Qwen2-VL系列引入了新的处理机制，可以动态处理图像分辨率，并融合多模态信息，通过研究大型模型的扩展规律，取得了优异的性能。 <div>
 We present the Qwen2-VL Series, an advanced upgrade of the previous Qwen-VL
 models that redefines the conventional predetermined-resolution approach in
 visual processing. Qwen2-VL introduces the Naive Dynamic Resolution mechanism,
@@ -60,9 +60,7 @@ benchmarks, outperforming other generalist models. Code is available at
 \url{https://github.com/QwenLM/Qwen2-VL}.
 ]]></content:encoded>
 <pubDate>2024-09-18T17:59:32Z</pubDate>
-<pubDate>2024-09-18T17:59:32Z</pubDate>
 </item>
-
 <item>
 <title>Phidias: A Generative Model for Creating 3D Content from Text, Image,
   and 3D Conditions with Reference-Augmented Diffusion</title>
