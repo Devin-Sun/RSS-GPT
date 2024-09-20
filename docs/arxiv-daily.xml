@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Vista3D: Unravel the 3D Darkside of a Single Image</title>
+<link>http://arxiv.org/abs/2409.12193v1</link>
+<guid>http://arxiv.org/abs/2409.12193v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Vista3D, 3D生成, 隐含维度, 图像, 生成质量
+总结: 
+Vista3D是一个能够在短短5分钟内实现快速和一致的3D生成的框架。它采用了粗糙阶段和精细阶段的两阶段方法，通过高斯Splatting从单个图像快速生成初始几何形状，并且直接从学习的高斯Splatting中提取一个有符号距离函数（SDF），通过可微的等值面表示进行优化。此外，它使用两个独立的隐式函数来捕捉对象的可见和隐藏部分，通过角度扩散先验组合来协调二维扩散先验和三维感知扩散先验的梯度。通过广泛的评估，Vista3D有效地保持了生成的3D对象的一致性和多样性的平衡。GitHub上的演示和代码将会提供。 <div>
+We embark on the age-old quest: unveiling the hidden dimensions of objects
+from mere glimpses of their visible parts. To address this, we present Vista3D,
+a framework that realizes swift and consistent 3D generation within a mere 5
+minutes. At the heart of Vista3D lies a two-phase approach: the coarse phase
+and the fine phase. In the coarse phase, we rapidly generate initial geometry
+with Gaussian Splatting from a single image. In the fine phase, we extract a
+Signed Distance Function (SDF) directly from learned Gaussian Splatting,
+optimizing it with a differentiable isosurface representation. Furthermore, it
+elevates the quality of generation by using a disentangled representation with
+two independent implicit functions to capture both visible and obscured aspects
+of objects. Additionally, it harmonizes gradients from 2D diffusion prior with
+3D-aware diffusion priors by angular diffusion prior composition. Through
+extensive evaluation, we demonstrate that Vista3D effectively sustains a
+balance between the consistency and diversity of the generated 3D objects.
+Demos and code will be available at https://github.com/florinshen/Vista3D.
+]]></content:encoded>
+<pubDate>2024-09-18T17:59:44Z</pubDate>
+<pubDate>2024-09-18T17:59:44Z</pubDate>
+</item>
+<item>
+<title>Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at
+  Any Resolution</title>
+<link>http://arxiv.org/abs/2409.12191v1</link>
+<guid>http://arxiv.org/abs/2409.12191v1</guid>
+<content:encoded><![CDATA[
+<div> Qwen2-VL Series, upgrade, Naive Dynamic Resolution, Multimodal Rotary Position Embedding, scaling laws<br>
+<br>
+Qwen2-VL Series是Qwen-VL模型的先进升级，引入了Naive Dynamic Resolution机制，可以动态处理不同分辨率的图像，生成更高效、准确的视觉表征。同时集成了Multimodal Rotary Position Embedding（M-RoPE），有效融合了文本、图像和视频的位置信息。采用统一的范式处理图像和视频，提升了模型的视觉感知能力。通过研究大型视觉语言模型（LVLMs）的扩展规律，Qwen2-VL系列取得了竞争力极强的性能表现，尤其是Qwen2-VL-72B模型在各种多模态基准测试中表现出色，优于其他通用模型。可在\url{https://github.com/QwenLM/Qwen2-VL}获取代码。 <br><br>总结: Qwen2-VL系列引入了新的处理机制，可以动态处理图像分辨率，并融合多模态信息，通过研究大型模型的扩展规律，取得了优异的性能。 <div>
+We present the Qwen2-VL Series, an advanced upgrade of the previous Qwen-VL
+models that redefines the conventional predetermined-resolution approach in
+visual processing. Qwen2-VL introduces the Naive Dynamic Resolution mechanism,
+which enables the model to dynamically process images of varying resolutions
+into different numbers of visual tokens. This approach allows the model to
+generate more efficient and accurate visual representations, closely aligning
+with human perceptual processes. The model also integrates Multimodal Rotary
+Position Embedding (M-RoPE), facilitating the effective fusion of positional
+information across text, images, and videos. We employ a unified paradigm for
+processing both images and videos, enhancing the model's visual perception
+capabilities. To explore the potential of large multimodal models, Qwen2-VL
+investigates the scaling laws for large vision-language models (LVLMs). By
+scaling both the model size-with versions at 2B, 8B, and 72B parameters-and the
+amount of training data, the Qwen2-VL Series achieves highly competitive
+performance. Notably, the Qwen2-VL-72B model achieves results comparable to
+leading models such as GPT-4o and Claude3.5-Sonnet across various multimodal
+benchmarks, outperforming other generalist models. Code is available at
+\url{https://github.com/QwenLM/Qwen2-VL}.
+]]></content:encoded>
+<pubDate>2024-09-18T17:59:32Z</pubDate>
+<pubDate>2024-09-18T17:59:32Z</pubDate>
+</item>
 
 <item>
 <title>Phidias: A Generative Model for Creating 3D Content from Text, Image,
