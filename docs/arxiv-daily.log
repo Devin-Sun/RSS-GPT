@@ -10771,3 +10771,18 @@ Filter: [A Controlled Study on Long Context Extension and Generalization in LLMs
 Filter: [Finetuning Language Models to Emit Linguistic Expressions of Uncertainty](http://arxiv.org/abs/2409.12180v1)
 append_entries: 0
 Finish: 2024-09-22 12:16:32.721601
+------------------------------------------------------
+Started: 2024-09-23 00:48:11.886666
+Existing_entries: 278
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Gender Representation and Bias in Indian Civil Service Mock Interviews](http://arxiv.org/abs/2409.12194v3)
+Filter: [DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control](http://arxiv.org/abs/2409.12192v1)
+Filter: [Bundle Adjustment in the Eager Mode](http://arxiv.org/abs/2409.12190v1)
+Filter: [Massively Multi-Person 3D Human Motion Forecasting with Scene Context](http://arxiv.org/abs/2409.12189v1)
+Filter: [Qwen2.5-Coder Technical Report](http://arxiv.org/abs/2409.12186v1)
+Filter: [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic
+  reasoning](http://arxiv.org/abs/2409.12183v1)
+Filter: [A Controlled Study on Long Context Extension and Generalization in LLMs](http://arxiv.org/abs/2409.12181v1)
+Filter: [Finetuning Language Models to Emit Linguistic Expressions of Uncertainty](http://arxiv.org/abs/2409.12180v1)
+append_entries: 0
+Finish: 2024-09-23 00:48:12.740671
