@@ -10861,3 +10861,28 @@ Filter: [A Controlled Study on Long Context Extension and Generalization in LLMs
 Filter: [Finetuning Language Models to Emit Linguistic Expressions of Uncertainty](http://arxiv.org/abs/2409.12180v1)
 append_entries: 0
 Finish: 2024-09-25 12:18:43.021972
+------------------------------------------------------
+Started: 2024-09-26 00:47:11.040119
+Existing_entries: 278
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Articulated Object Manipulation using Online Axis Estimation with
+  SAM2-Based Tracking](http://arxiv.org/abs/2409.16287v1)
+Filter: [Self-Supervised Any-Point Tracking by Contrastive Random Walks](http://arxiv.org/abs/2409.16288v1)
+Filter: [Age of Gossip in Networks with Multiple Views of a Source](http://arxiv.org/abs/2409.16285v1)
+Token length: 1144
+Summarized using GPT-3.5-turbo-1106
+Append: [Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
+  Robot Manipulation](http://arxiv.org/abs/2409.16283v1)
+Filter: [An Explicit Consistency-Preserving Loss Function for Phase
+  Reconstruction and Speech Enhancement](http://arxiv.org/abs/2409.16282v1)
+Token length: 962
+Summarized using GPT-3.5-turbo-1106
+Append: [MonoFormer: One Transformer for Both Diffusion and Autoregression](http://arxiv.org/abs/2409.16280v1)
+Filter: [On 1-Planar Graphs with Bounded Cop-Number](http://arxiv.org/abs/2409.16279v1)
+Append: [Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation](http://arxiv.org/abs/2409.16278v1)
+Filter: [Compressed Depth Map Super-Resolution and Restoration: AIM 2024
+  Challenge Results](http://arxiv.org/abs/2409.16277v1)
+Filter: [Generative Factor Chaining: Coordinated Manipulation with
+  Diffusion-based Factor Graph](http://arxiv.org/abs/2409.16275v1)
+append_entries: 3
+Finish: 2024-09-26 00:47:19.307705

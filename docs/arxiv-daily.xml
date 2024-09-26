@@ -4,6 +4,97 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
+  Robot Manipulation</title>
+<link>http://arxiv.org/abs/2409.16283v1</link>
+<guid>http://arxiv.org/abs/2409.16283v1</guid>
+<content:encoded><![CDATA[
+<div> 预测, 机器人, 视频生成, 泛化, 目标任务
+
+预测运动信息以实现机器人对新任务的泛化很困难。本文提出了一种解决方案，即通过人类视频生成来获取网络数据中的运动信息，并将机器人策略的条件设置为生成的视频。我们展示了如何利用在网络上易得的数据进行训练的视频生成模型来实现泛化，而不是试图扩展昂贵的机器人数据收集。我们的方法Gen2Act将语言条件操纵作为零-shot人类视频生成，然后使用单一策略执行生成的视频。为了训练策略，我们使用了一个数量级较少的机器人交互数据，与视频预测模型的训练数据相比。Gen2Act根本不需要对视频模型进行微调，我们直接使用预训练模型来生成人类视频。我们在多样的真实场景中的结果表明，Gen2Act使机器人能够操纵未见过的物体类型，并对机器人数据中不存在的任务执行新的动作。 Videos are at https://homangab.github.io/gen2act/ <br><br>总结: 本文的主要观点是通过人类视频生成模型，实现对机器人在未取得数据的情况下进行泛化操作的目标，通过预测运动信息并将机器人策略设置为生成的视频，可以在训练策略时使用较少的机器人交互数据，并且无需对视频模型进行微调。最终结果表明，这一方法使机器人能够实现对未见过的物体类型进行操纵，并执行机器人数据中未包含的新任务。 <div>
+How can robot manipulation policies generalize to novel tasks involving
+unseen object types and new motions? In this paper, we provide a solution in
+terms of predicting motion information from web data through human video
+generation and conditioning a robot policy on the generated video. Instead of
+attempting to scale robot data collection which is expensive, we show how we
+can leverage video generation models trained on easily available web data, for
+enabling generalization. Our approach Gen2Act casts language-conditioned
+manipulation as zero-shot human video generation followed by execution with a
+single policy conditioned on the generated video. To train the policy, we use
+an order of magnitude less robot interaction data compared to what the video
+prediction model was trained on. Gen2Act doesn't require fine-tuning the video
+model at all and we directly use a pre-trained model for generating human
+videos. Our results on diverse real-world scenarios show how Gen2Act enables
+manipulating unseen object types and performing novel motions for tasks not
+present in the robot data. Videos are at https://homangab.github.io/gen2act/
+]]></content:encoded>
+<pubDate>2024-09-24T17:57:33Z</pubDate>
+<pubDate>2024-09-24T17:57:33Z</pubDate>
+</item>
+<item>
+<title>MonoFormer: One Transformer for Both Diffusion and Autoregression</title>
+<link>http://arxiv.org/abs/2409.16280v1</link>
+<guid>http://arxiv.org/abs/2409.16280v1</guid>
+<content:encoded><![CDATA[
+<div> Transformer, multimodality, autoregression, diffusion, image generation
+
+Transformer在视觉生成中的应用；
+单一Transformer同时处理autoregression和diffusion；
+实验结果证明该方法在图像生成方面与当前最先进方法性能相当，并保持文本生成能力；
+项目公开可用；
+
+<br><br>总结:
+这篇论文研究了一种新的多模态方法，使用单一Transformer来同时处理自回归和扩散。实验证明，这种方法在图像生成方面与当前最先进的方法性能相当，同时保持了文本生成的能力。该项目已公开可用，对于相关领域的研究具有重要意义。 <div>
+Most existing multimodality methods use separate backbones for
+autoregression-based discrete text generation and diffusion-based continuous
+visual generation, or the same backbone by discretizing the visual data to use
+autoregression for both text and visual generation. In this paper, we propose
+to study a simple idea: share one transformer for both autoregression and
+diffusion. The feasibility comes from two main aspects: (i) Transformer is
+successfully applied to diffusion for visual generation, and (ii) transformer
+training for autoregression and diffusion is very similar, and the difference
+merely lies in that diffusion uses bidirectional attention mask and
+autoregression uses causal attention mask. Experimental results show that our
+approach achieves comparable image generation performance to current
+state-of-the-art methods as well as maintains the text generation capability.
+The project is publicly available at https://monoformer.github.io/.
+]]></content:encoded>
+<pubDate>2024-09-24T17:51:04Z</pubDate>
+<pubDate>2024-09-24T17:51:04Z</pubDate>
+</item>
+<item>
+<title>Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation</title>
+<link>http://arxiv.org/abs/2409.16278v1</link>
+<guid>http://arxiv.org/abs/2409.16278v1</guid>
+<content:encoded><![CDATA[
+
+Open-vocabulary panoptic segmentation is an emerging task aiming to
+accurately segment the image into semantically meaningful masks based on a set
+of texts. Despite existing efforts, it remains challenging to develop a
+high-performing method that generalizes effectively across new domains and
+requires minimal training resources. Our in-depth analysis of current methods
+reveals a crucial insight: mask classification is the main performance
+bottleneck for open-vocab. panoptic segmentation. Based on this, we propose
+Semantic Refocused Tuning (SMART), a novel framework that greatly enhances
+open-vocab. panoptic segmentation by improving mask classification through two
+key innovations. First, SMART adopts a multimodal Semantic-guided Mask
+Attention mechanism that injects task-awareness into the regional information
+extraction process. This enables the model to capture task-specific and
+contextually relevant information for more effective mask classification.
+Second, it incorporates Query Projection Tuning, which strategically fine-tunes
+the query projection layers within the Vision Language Model (VLM) used for
+mask classification. This adjustment allows the model to adapt the image focus
+of mask tokens to new distributions with minimal training resources, while
+preserving the VLM's pre-trained knowledge. Extensive ablation studies confirm
+the superiority of our approach. Notably, SMART sets new state-of-the-art
+results, demonstrating improvements of up to +1.3 PQ and +5.4 mIoU across
+representative benchmarks, while reducing training costs by nearly 10x compared
+to the previous best method. Our code and data will be released.
+]]></content:encoded>
+<pubDate>2024-09-24T17:50:28Z</pubDate>
+<pubDate>2024-09-24T17:50:28Z</pubDate>
+</item>
 
 <item>
 <title>Vista3D: Unravel the 3D Darkside of a Single Image</title>
