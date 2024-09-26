@@ -5,6 +5,69 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+  Multimodal Models</title>
+<link>http://arxiv.org/abs/2409.17146v1</link>
+<guid>http://arxiv.org/abs/2409.17146v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态模型，闭源模型，Molmo，数据集，性能<br>
+总结:<br>
+本文介绍了最先进的多模态模型仍然是闭源的情况，开放权重模型依赖于闭源模型的合成数据来实现良好性能，作者提出了一种名为Molmo的新型VLM，并介绍了该模型的关键创新，即使用基于语音描述的高度详细的图像标题数据集。他们还提出了一个包括野外问答和创新的2D指向数据的多种数据组合，以进行微调。作者表示，他们的方法成功的关键在于模型架构细节的精心选择，以及新收集的数据集的质量。最后，作者宣布他们将在不久的将来发布所有的模型权重、字幕和微调数据，并提供代码。 Molmo系列中的最佳72B模型不仅在开放权重和数据模型领域表现优异，还在学术基准和人类评估中与专有系统相比具有明显优势。 <div>
+Today's most advanced multimodal models remain proprietary. The strongest
+open-weight models rely heavily on synthetic data from proprietary VLMs to
+achieve good performance, effectively distilling these closed models into open
+ones. As a result, the community is still missing foundational knowledge about
+how to build performant VLMs from scratch. We present Molmo, a new family of
+VLMs that are state-of-the-art in their class of openness. Our key innovation
+is a novel, highly detailed image caption dataset collected entirely from human
+annotators using speech-based descriptions. To enable a wide array of user
+interactions, we also introduce a diverse dataset mixture for fine-tuning that
+includes in-the-wild Q&A and innovative 2D pointing data. The success of our
+approach relies on careful choices for the model architecture details, a
+well-tuned training pipeline, and, most critically, the quality of our newly
+collected datasets, all of which will be released. The best-in-class 72B model
+within the Molmo family not only outperforms others in the class of open weight
+and data models but also compares favorably against proprietary systems like
+GPT-4o, Claude 3.5, and Gemini 1.5 on both academic benchmarks and human
+evaluation.
+  We will be releasing all of our model weights, captioning and fine-tuning
+data, and source code in the near future. Select model weights, inference code,
+and demo are available at https://molmo.allenai.org.
+]]></content:encoded>
+<pubDate>2024-09-25T17:59:51Z</pubDate>
+<pubDate>2024-09-25T17:59:51Z</pubDate>
+</item>
+<item>
+<title>Turn Every Application into an Agent: Towards Efficient
+  Human-Agent-Computer Interaction with API-First LLM-Based Agents</title>
+<link>http://arxiv.org/abs/2409.17140v1</link>
+<guid>http://arxiv.org/abs/2409.17140v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态大型语言模型、LLM、UI交互、API、任务完成时间、认知负荷、Agent OS
+<br><br>
+本文介绍了一种名为AXIS的新型LLM代理框架。该框架通过优先使用应用程序接口（API）而非UI操作来解决高延迟和低可靠性的问题。同时，该框架还通过自动探索应用程序来促进API的创建和扩展。在Office Word上的实验表明，AXIS将任务完成时间降低了65%-70%，认知负荷降低了38%-53%，同时准确率达到了97%-98%，与人类相当。本研究对于新的人-代-计算机互动框架和应用提供商在LLM时代的新UI设计原则做出了贡献。同时，它探索了将每个应用程序转变为代理的可能性，为向代理为中心的操作系统（Agent OS）迈出了一步。 
+<br><br> 
+总结: <div>
+Multimodal large language models (MLLMs) have enabled LLM-based agents to
+directly interact with application user interfaces (UIs), enhancing agents'
+performance in complex tasks. However, these agents often suffer from high
+latency and low reliability due to the extensive sequential UI interactions. To
+address this issue, we propose AXIS, a novel LLM-based agents framework
+prioritize actions through application programming interfaces (APIs) over UI
+actions. This framework also facilitates the creation and expansion of APIs
+through automated exploration of applications. Our experiments on Office Word
+demonstrate that AXIS reduces task completion time by 65%-70% and cognitive
+workload by 38%-53%, while maintaining accuracy of 97%-98% compare to humans.
+Our work contributes to a new human-agent-computer interaction (HACI) framework
+and a fresh UI design principle for application providers in the era of LLMs.
+It also explores the possibility of turning every applications into agents,
+paving the way towards an agent-centric operating system (Agent OS).
+]]></content:encoded>
+<pubDate>2024-09-25T17:58:08Z</pubDate>
+<pubDate>2024-09-25T17:58:08Z</pubDate>
+</item>
+
+<item>
 <title>Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
   Robot Manipulation</title>
 <link>http://arxiv.org/abs/2409.16283v1</link>
@@ -12,7 +75,7 @@
 <content:encoded><![CDATA[
 <div> 预测, 机器人, 视频生成, 泛化, 目标任务
 
-预测运动信息以实现机器人对新任务的泛化很困难。本文提出了一种解决方案，即通过人类视频生成来获取网络数据中的运动信息，并将机器人策略的条件设置为生成的视频。我们展示了如何利用在网络上易得的数据进行训练的视频生成模型来实现泛化，而不是试图扩展昂贵的机器人数据收集。我们的方法Gen2Act将语言条件操纵作为零-shot人类视频生成，然后使用单一策略执行生成的视频。为了训练策略，我们使用了一个数量级较少的机器人交互数据，与视频预测模型的训练数据相比。Gen2Act根本不需要对视频模型进行微调，我们直接使用预训练模型来生成人类视频。我们在多样的真实场景中的结果表明，Gen2Act使机器人能够操纵未见过的物体类型，并对机器人数据中不存在的任务执行新的动作。 Videos are at https://homangab.github.io/gen2act/ <br><br>总结: 本文的主要观点是通过人类视频生成模型，实现对机器人在未取得数据的情况下进行泛化操作的目标，通过预测运动信息并将机器人策略设置为生成的视频，可以在训练策略时使用较少的机器人交互数据，并且无需对视频模型进行微调。最终结果表明，这一方法使机器人能够实现对未见过的物体类型进行操纵，并执行机器人数据中未包含的新任务。 <div>
+预测运动信息以实现机器人对新任务的泛化很困难。本文提出了一种解决方案，即通过人类视频生成来获取网络数据中的运动信息，并将机器人策略的条件设置为生成的视频。我们展示了如何利用在网络上易得的数据进行训练的视频生成模型来实现泛化，而不是试图扩展昂贵的机器人数据收集。我们的方法Gen2Act将语言条件操纵作为零-shot人类视频生成，然后使用单一策略执行生成的视频。为了训练策略，我们使用了一个数量级较少的机器人交互数据，与视频预测模型的训练数据相比。Gen2Act根本不需要对视频模型进行微调，我们直接使用预训练模型来生成人类视频。我们在多样的真实场景中的结果表明，Gen2Act使机器人能够操纵未见过的物体类型，并对机器人数据中不存在的任务执行新的动作。 Videos are at https://homangab.github.io/gen2act/ <br /><br />总结: 本文的主要观点是通过人类视频生成模型，实现对机器人在未取得数据的情况下进行泛化操作的目标，通过预测运动信息并将机器人策略设置为生成的视频，可以在训练策略时使用较少的机器人交互数据，并且无需对视频模型进行微调。最终结果表明，这一方法使机器人能够实现对未见过的物体类型进行操纵，并执行机器人数据中未包含的新任务。 <div>
 How can robot manipulation policies generalize to novel tasks involving
 unseen object types and new motions? In this paper, we provide a solution in
 terms of predicting motion information from web data through human video
@@ -30,7 +93,6 @@ manipulating unseen object types and performing novel motions for tasks not
 present in the robot data. Videos are at https://homangab.github.io/gen2act/
 ]]></content:encoded>
 <pubDate>2024-09-24T17:57:33Z</pubDate>
-<pubDate>2024-09-24T17:57:33Z</pubDate>
 </item>
 <item>
 <title>MonoFormer: One Transformer for Both Diffusion and Autoregression</title>
@@ -44,7 +106,7 @@ Transformer在视觉生成中的应用；
 实验结果证明该方法在图像生成方面与当前最先进方法性能相当，并保持文本生成能力；
 项目公开可用；
 
-<br><br>总结:
+<br /><br />总结:
 这篇论文研究了一种新的多模态方法，使用单一Transformer来同时处理自回归和扩散。实验证明，这种方法在图像生成方面与当前最先进的方法性能相当，同时保持了文本生成的能力。该项目已公开可用，对于相关领域的研究具有重要意义。 <div>
 Most existing multimodality methods use separate backbones for
 autoregression-based discrete text generation and diffusion-based continuous
@@ -61,14 +123,12 @@ state-of-the-art methods as well as maintains the text generation capability.
 The project is publicly available at https://monoformer.github.io/.
 ]]></content:encoded>
 <pubDate>2024-09-24T17:51:04Z</pubDate>
-<pubDate>2024-09-24T17:51:04Z</pubDate>
 </item>
 <item>
 <title>Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation</title>
 <link>http://arxiv.org/abs/2409.16278v1</link>
 <guid>http://arxiv.org/abs/2409.16278v1</guid>
 <content:encoded><![CDATA[
-
 Open-vocabulary panoptic segmentation is an emerging task aiming to
 accurately segment the image into semantically meaningful masks based on a set
 of texts. Despite existing efforts, it remains challenging to develop a
@@ -93,9 +153,7 @@ representative benchmarks, while reducing training costs by nearly 10x compared
 to the previous best method. Our code and data will be released.
 ]]></content:encoded>
 <pubDate>2024-09-24T17:50:28Z</pubDate>
-<pubDate>2024-09-24T17:50:28Z</pubDate>
 </item>
-
 <item>
 <title>Vista3D: Unravel the 3D Darkside of a Single Image</title>
 <link>http://arxiv.org/abs/2409.12193v1</link>

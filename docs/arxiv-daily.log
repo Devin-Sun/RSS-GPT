@@ -10886,3 +10886,31 @@ Filter: [Generative Factor Chaining: Coordinated Manipulation with
   Diffusion-based Factor Graph](http://arxiv.org/abs/2409.16275v1)
 append_entries: 3
 Finish: 2024-09-26 00:47:19.307705
+------------------------------------------------------
+Started: 2024-09-26 12:19:14.431655
+Existing_entries: 281
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1452
+Summarized using GPT-3.5-turbo-1106
+Append: [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
+  Multimodal Models](http://arxiv.org/abs/2409.17146v1)
+Filter: [DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D
+  Diffusion](http://arxiv.org/abs/2409.17145v1)
+Filter: [Differential Privacy Regularization: Protecting Training Data Through
+  Loss Function Regularization](http://arxiv.org/abs/2409.17144v1)
+Filter: [Attention Prompting on Image for Large Vision-Language Models](http://arxiv.org/abs/2409.17143v1)
+Filter: [FineZip : Pushing the Limits of Large Language Models for Practical
+  Lossless Text Compression](http://arxiv.org/abs/2409.17141v1)
+Token length: 1064
+Summarized using GPT-3.5-turbo-1106
+Append: [Turn Every Application into an Agent: Towards Efficient
+  Human-Agent-Computer Interaction with API-First LLM-Based Agents](http://arxiv.org/abs/2409.17140v1)
+Filter: [Learning with Dynamics: Autonomous Regulation of UAV Based Communication
+  Networks with Dynamic UAV Crew](http://arxiv.org/abs/2409.17139v1)
+Filter: [Landscape of Policy Optimization for Finite Horizon MDPs with General
+  State and Action](http://arxiv.org/abs/2409.17138v1)
+Filter: [PACE: marrying generalization in PArameter-efficient fine-tuning with
+  Consistency rEgularization](http://arxiv.org/abs/2409.17137v1)
+Filter: [Adaptive Cost Model for Query Optimization](http://arxiv.org/abs/2409.17136v1)
+append_entries: 2
+Finish: 2024-09-26 12:19:23.886125
