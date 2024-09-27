@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
   Multimodal Models</title>
 <link>http://arxiv.org/abs/2409.17146v1</link>
 <guid>http://arxiv.org/abs/2409.17146v1</guid>
 <content:encoded><![CDATA[
-<div> 多模态模型，闭源模型，Molmo，数据集，性能<br>
-总结:<br>
+<div> 多模态模型，闭源模型，Molmo，数据集，性能<br />
+总结:<br />
 本文介绍了最先进的多模态模型仍然是闭源的情况，开放权重模型依赖于闭源模型的合成数据来实现良好性能，作者提出了一种名为Molmo的新型VLM，并介绍了该模型的关键创新，即使用基于语音描述的高度详细的图像标题数据集。他们还提出了一个包括野外问答和创新的2D指向数据的多种数据组合，以进行微调。作者表示，他们的方法成功的关键在于模型架构细节的精心选择，以及新收集的数据集的质量。最后，作者宣布他们将在不久的将来发布所有的模型权重、字幕和微调数据，并提供代码。 Molmo系列中的最佳72B模型不仅在开放权重和数据模型领域表现优异，还在学术基准和人类评估中与专有系统相比具有明显优势。 <div>
 Today's most advanced multimodal models remain proprietary. The strongest
 open-weight models rely heavily on synthetic data from proprietary VLMs to
@@ -22,7 +23,7 @@ VLMs that are state-of-the-art in their class of openness. Our key innovation
 is a novel, highly detailed image caption dataset collected entirely from human
 annotators using speech-based descriptions. To enable a wide array of user
 interactions, we also introduce a diverse dataset mixture for fine-tuning that
-includes in-the-wild Q&A and innovative 2D pointing data. The success of our
+includes in-the-wild Q&amp;A and innovative 2D pointing data. The success of our
 approach relies on careful choices for the model architecture details, a
 well-tuned training pipeline, and, most critically, the quality of our newly
 collected datasets, all of which will be released. The best-in-class 72B model
@@ -35,7 +36,6 @@ data, and source code in the near future. Select model weights, inference code,
 and demo are available at https://molmo.allenai.org.
 ]]></content:encoded>
 <pubDate>2024-09-25T17:59:51Z</pubDate>
-<pubDate>2024-09-25T17:59:51Z</pubDate>
 </item>
 <item>
 <title>Turn Every Application into an Agent: Towards Efficient
@@ -44,9 +44,9 @@ and demo are available at https://molmo.allenai.org.
 <guid>http://arxiv.org/abs/2409.17140v1</guid>
 <content:encoded><![CDATA[
 <div> 多模态大型语言模型、LLM、UI交互、API、任务完成时间、认知负荷、Agent OS
-<br><br>
+<br /><br />
 本文介绍了一种名为AXIS的新型LLM代理框架。该框架通过优先使用应用程序接口（API）而非UI操作来解决高延迟和低可靠性的问题。同时，该框架还通过自动探索应用程序来促进API的创建和扩展。在Office Word上的实验表明，AXIS将任务完成时间降低了65%-70%，认知负荷降低了38%-53%，同时准确率达到了97%-98%，与人类相当。本研究对于新的人-代-计算机互动框架和应用提供商在LLM时代的新UI设计原则做出了贡献。同时，它探索了将每个应用程序转变为代理的可能性，为向代理为中心的操作系统（Agent OS）迈出了一步。 
-<br><br> 
+<br /><br /> 
 总结: <div>
 Multimodal large language models (MLLMs) have enabled LLM-based agents to
 directly interact with application user interfaces (UIs), enhancing agents'
@@ -64,9 +64,7 @@ It also explores the possibility of turning every applications into agents,
 paving the way towards an agent-centric operating system (Agent OS).
 ]]></content:encoded>
 <pubDate>2024-09-25T17:58:08Z</pubDate>
-<pubDate>2024-09-25T17:58:08Z</pubDate>
 </item>
-
 <item>
 <title>Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable
   Robot Manipulation</title>
