@@ -4,6 +4,76 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity
+  Refiner</title>
+<link>http://arxiv.org/abs/2409.18128v1</link>
+<guid>http://arxiv.org/abs/2409.18128v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 流动模型, 生成模型, 加速采样, 质量提升, 实时图像生成
+
+流动模型在视觉生成中取得成功，流动模型重新成为生成模型中的一大族群，其在视觉质量和推断速度方面取得了竞争性甚至更好的表现。通过学习流场匹配来学习速度场，流动模型倾向于产生更直观的采样轨迹，这在采样过程中有优势。然而，与发展成熟的扩散模型快速采样器不同，流动模型的高效采样很少被探索。本文提出了一个名为FlowTurbo的框架，以加速流动模型的采样，同时提高采样质量。我们的主要观察是，在流动模型的采样过程中，速度预测器的输出会变得稳定，从而可以通过一个轻量级的速度细化器来估计速度。此外，我们引入了几种技术，包括伪修正器和样本感知编译，以进一步减少推断时间。由于FlowTurbo不改变多步采样范式，因此可以有效地应用于图像编辑、修补等各种任务。将FlowTurbo集成到不同的流动模型中，我们在条件生成方面获得了53.1%～58.3%的加速比率，在文本到图像生成方面获得了29.8%～38.5%的加速比率。值得注意的是，FlowTurbo在ImageNet上以100(ms/img)获得了FID为2.12，在38(ms/img)下获得了FID为3.93，实现了实时图像生成并建立了新的最佳表现。源代码可在https://github.com/shiml20/FlowTurbo中找到。<br><br>总结: 本文提出了FlowTurbo框架，用于加速流动模型的采样过程，并提高采样质量。该框架通过观察到流动模型中速度预测器的输出在采样过程中变得稳定，从而引入了轻量级的速度细化器来估计速度。通过引入伪修正器和样本感知编译等技术，进一步减少了推断时间。最终，在不改变多步采样范式的情况下，在各种生成任务中取得了显著的加速效果，实现了实时图像生成并建立了新的最佳表现。 <div>
+Building on the success of diffusion models in visual generation, flow-based
+models reemerge as another prominent family of generative models that have
+achieved competitive or better performance in terms of both visual quality and
+inference speed. By learning the velocity field through flow-matching,
+flow-based models tend to produce a straighter sampling trajectory, which is
+advantageous during the sampling process. However, unlike diffusion models for
+which fast samplers are well-developed, efficient sampling of flow-based
+generative models has been rarely explored. In this paper, we propose a
+framework called FlowTurbo to accelerate the sampling of flow-based models
+while still enhancing the sampling quality. Our primary observation is that the
+velocity predictor's outputs in the flow-based models will become stable during
+the sampling, enabling the estimation of velocity via a lightweight velocity
+refiner. Additionally, we introduce several techniques including a pseudo
+corrector and sample-aware compilation to further reduce inference time. Since
+FlowTurbo does not change the multi-step sampling paradigm, it can be
+effectively applied for various tasks such as image editing, inpainting, etc.
+By integrating FlowTurbo into different flow-based models, we obtain an
+acceleration ratio of 53.1%$\sim$58.3% on class-conditional generation and
+29.8%$\sim$38.5% on text-to-image generation. Notably, FlowTurbo reaches an FID
+of 2.12 on ImageNet with 100 (ms / img) and FID of 3.93 with 38 (ms / img),
+achieving the real-time image generation and establishing the new
+state-of-the-art. Code is available at https://github.com/shiml20/FlowTurbo.
+]]></content:encoded>
+<pubDate>2024-09-26T17:59:51Z</pubDate>
+<pubDate>2024-09-26T17:59:51Z</pubDate>
+</item>
+<item>
+<title>Lotus: Diffusion-based Visual Foundation Model for High-quality Dense
+  Prediction</title>
+<link>http://arxiv.org/abs/2409.18124v1</link>
+<guid>http://arxiv.org/abs/2409.18124v1</guid>
+<content:encoded><![CDATA[
+<div> 零-shot、扩散模型、密集预测、Lotus、效率提升
+<br><br>
+这篇论文提出了一种新的视觉基础模型 Lotus，针对密集预测任务中存在的问题进行了探讨和改进。论文首先分析了现有扩散形式对于密集预测的适用性，指出了原始参数化类型对于图像生成的有害影响以及多步扰动/去噪过程的不必要性。在此基础上，引入了Lotus模型，通过直接预测标注而非噪声，避免了有害方差；简化了扩散过程为单步程序，简化了优化过程并显著提升了推断速度；并采用了细节保留器的新调整策略，实现了更准确、更精细的预测。Lotus模型在各种数据集上实现了零-shot深度和法线估计的最先进性能，并在效率上显著提升，比大多数现有的基于扩散的方法快上数百倍。
+<br>总结: 论文首先分析了现有扩散形式对于密集预测的适用性，指出了问题所在；其次引入了Lotus模型，并详细阐述了其改进之处；最后指出Lotus模型在实验中取得的显著成果。 <div>
+Leveraging the visual priors of pre-trained text-to-image diffusion models
+offers a promising solution to enhance zero-shot generalization in dense
+prediction tasks. However, existing methods often uncritically use the original
+diffusion formulation, which may not be optimal due to the fundamental
+differences between dense prediction and image generation. In this paper, we
+provide a systemic analysis of the diffusion formulation for the dense
+prediction, focusing on both quality and efficiency. And we find that the
+original parameterization type for image generation, which learns to predict
+noise, is harmful for dense prediction; the multi-step noising/denoising
+diffusion process is also unnecessary and challenging to optimize. Based on
+these insights, we introduce Lotus, a diffusion-based visual foundation model
+with a simple yet effective adaptation protocol for dense prediction.
+Specifically, Lotus is trained to directly predict annotations instead of
+noise, thereby avoiding harmful variance. We also reformulate the diffusion
+process into a single-step procedure, simplifying optimization and
+significantly boosting inference speed. Additionally, we introduce a novel
+tuning strategy called detail preserver, which achieves more accurate and
+fine-grained predictions. Without scaling up the training data or model
+capacity, Lotus achieves SoTA performance in zero-shot depth and normal
+estimation across various datasets. It also significantly enhances efficiency,
+being hundreds of times faster than most existing diffusion-based methods.
+]]></content:encoded>
+<pubDate>2024-09-26T17:58:55Z</pubDate>
+<pubDate>2024-09-26T17:58:55Z</pubDate>
+</item>
 
 <item>
 <title>Molmo and PixMo: Open Weights and Open Data for State-of-the-Art
