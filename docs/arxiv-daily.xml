@@ -4,6 +4,70 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation</title>
+<link>http://arxiv.org/abs/2409.18964v1</link>
+<guid>http://arxiv.org/abs/2409.18964v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: PhysGen, 图像到视频生成, 物理模拟, 数据驱动, 图像理解
+
+PhysGen是一种新颖的图像到视频生成方法，通过将单个图像和输入条件（如施加于图像中物体上的力和扭矩）转换为现实、物理上合理和时间连续的视频。该方法的核心是将基于模型的物理模拟与数据驱动的视频生成过程相结合，实现了在图像空间中的真实动态。系统的核心组件包括：（i）有效捕捉图像几何、材料和物理参数的图像理解模块；（ii）利用刚体物理和推断的参数来模拟真实行为的图像空间动力学模拟模型；和（iii）利用生成式视频扩散来产生展现模拟运动的逼真视频素材的图像渲染和细化模块。PhysGen生成的视频在物理和外观上都非常逼真，甚至可以精确控制，通过定量比较和综合用户研究，展示出了优于现有的数据驱动图像到视频生成作品的结果。PhysGen生成的视频可用于各种下游应用，如将图像转换为逼真的动画，或让用户与图像交互并创建各种动态。 <div>
+We present PhysGen, a novel image-to-video generation method that converts a
+single image and an input condition (e.g., force and torque applied to an
+object in the image) to produce a realistic, physically plausible, and
+temporally consistent video. Our key insight is to integrate model-based
+physical simulation with a data-driven video generation process, enabling
+plausible image-space dynamics. At the heart of our system are three core
+components: (i) an image understanding module that effectively captures the
+geometry, materials, and physical parameters of the image; (ii) an image-space
+dynamics simulation model that utilizes rigid-body physics and inferred
+parameters to simulate realistic behaviors; and (iii) an image-based rendering
+and refinement module that leverages generative video diffusion to produce
+realistic video footage featuring the simulated motion. The resulting videos
+are realistic in both physics and appearance and are even precisely
+controllable, showcasing superior results over existing data-driven
+image-to-video generation works through quantitative comparison and
+comprehensive user study. PhysGen's resulting videos can be used for various
+downstream applications, such as turning an image into a realistic animation or
+allowing users to interact with the image and create various dynamics. Project
+page: https://stevenlsw.github.io/physgen/
+]]></content:encoded>
+<pubDate>2024-09-27T17:59:57Z</pubDate>
+<pubDate>2024-09-27T17:59:57Z</pubDate>
+</item>
+<item>
+<title>Ruler: A Model-Agnostic Method to Control Generated Length for Large
+  Language Models</title>
+<link>http://arxiv.org/abs/2409.18943v1</link>
+<guid>http://arxiv.org/abs/2409.18943v1</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型、生成任务、长度控制、Ruler、实验评估<br>
+本研究旨在探索大语言模型在长度受限条件下生成响应的能力。通过引入目标长度生成任务（TLG）并设计Precise Match（PM）和Flexible Match（FM）两个评估指标来评估模型遵循特定响应长度的表现。此外，提出了一种新颖的模型无关方法Ruler，利用Meta Length Tokens（MLTs）增强大语言模型在长度受限指令下的指示遵从能力。Ruler能够根据指示中的长度约束生成特定长度的响应，并在未明确提供长度约束时自动生成适当的MLT，展现出很好的通用性和多功能性。实验结果表明，在不同大语言模型上，Ruler对目标长度生成任务的有效性，例如在PM上平均提升了27.97，在FM上平均提升了29.57。此外，进行了大量消融实验，进一步证实了Ruler的有效性和通用性。 <div>
+The instruction-following ability of large language models enables humans to
+interact with AI agents in a natural way. However, when required to generate
+responses of a specific length, large language models often struggle to meet
+users' needs due to their inherent difficulty in accurately perceiving
+numerical constraints. To explore the ability of large language models to
+control the length of generated responses, we propose the Target Length
+Generation Task (TLG) and design two metrics, Precise Match (PM) and Flexible
+Match (FM) to evaluate the model's performance in adhering to specified
+response lengths. Furthermore, we introduce a novel, model-agnostic approach
+called Ruler, which employs Meta Length Tokens (MLTs) to enhance the
+instruction-following ability of large language models under length-constrained
+instructions. Specifically, Ruler equips LLMs with the ability to generate
+responses of a specified length based on length constraints within the
+instructions. Moreover, Ruler can automatically generate appropriate MLT when
+length constraints are not explicitly provided, demonstrating excellent
+versatility and generalization. Comprehensive experiments show the
+effectiveness of Ruler across different LLMs on Target Length Generation Task,
+e.g., at All Level 27.97 average gain on PM, 29.57 average gain on FM. In
+addition, we conduct extensive ablation experiments to further substantiate the
+efficacy and generalization of Ruler. Our code and data is available at
+https://github.com/Geaming2002/Ruler.
+]]></content:encoded>
+<pubDate>2024-09-27T17:44:58Z</pubDate>
+<pubDate>2024-09-27T17:44:58Z</pubDate>
+</item>
 
 <item>
 <title>FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity

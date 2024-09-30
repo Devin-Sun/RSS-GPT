@@ -11052,3 +11052,26 @@ Filter: [Slowly Scaling Per-Record Differential Privacy](http://arxiv.org/abs/24
 Filter: [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](http://arxiv.org/abs/2409.18114v1)
 append_entries: 0
 Finish: 2024-09-30 00:50:46.737738
+------------------------------------------------------
+Started: 2024-09-30 12:19:45.447840
+Existing_entries: 285
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1383
+Summarized using GPT-3.5-turbo-1106
+Append: [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](http://arxiv.org/abs/2409.18964v1)
+Filter: [Exploring Token Pruning in Vision State Space Models](http://arxiv.org/abs/2409.18962v1)
+Filter: [ProMerge: Prompt and Merge for Unsupervised Instance Segmentation](http://arxiv.org/abs/2409.18961v1)
+Filter: [$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under
+  Minimal Assumptions](http://arxiv.org/abs/2409.18959v1)
+Filter: [LML: Language Model Learning a Dataset for Data-Augmented Prediction](http://arxiv.org/abs/2409.18957v1)
+Filter: [UniCal: Unified Neural Sensor Calibration](http://arxiv.org/abs/2409.18953v1)
+Filter: [RepairBench: Leaderboard of Frontier Models for Program Repair](http://arxiv.org/abs/2409.18952v1)
+Filter: [Spectral Wavelet Dropout: Regularization in the Wavelet Domain](http://arxiv.org/abs/2409.18951v1)
+Filter: [Unconditional stability of a recurrent neural circuit implementing
+  divisive normalization](http://arxiv.org/abs/2409.18946v1)
+Token length: 1529
+Summarized using GPT-3.5-turbo-1106
+Append: [Ruler: A Model-Agnostic Method to Control Generated Length for Large
+  Language Models](http://arxiv.org/abs/2409.18943v1)
+append_entries: 2
+Finish: 2024-09-30 12:19:55.897437
