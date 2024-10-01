@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation</title>
 <link>http://arxiv.org/abs/2409.18964v1</link>
@@ -33,7 +34,6 @@ allowing users to interact with the image and create various dynamics. Project
 page: https://stevenlsw.github.io/physgen/
 ]]></content:encoded>
 <pubDate>2024-09-27T17:59:57Z</pubDate>
-<pubDate>2024-09-27T17:59:57Z</pubDate>
 </item>
 <item>
 <title>Ruler: A Model-Agnostic Method to Control Generated Length for Large
@@ -41,7 +41,7 @@ page: https://stevenlsw.github.io/physgen/
 <link>http://arxiv.org/abs/2409.18943v1</link>
 <guid>http://arxiv.org/abs/2409.18943v1</guid>
 <content:encoded><![CDATA[
-<div> 大语言模型、生成任务、长度控制、Ruler、实验评估<br>
+<div> 大语言模型、生成任务、长度控制、Ruler、实验评估<br />
 本研究旨在探索大语言模型在长度受限条件下生成响应的能力。通过引入目标长度生成任务（TLG）并设计Precise Match（PM）和Flexible Match（FM）两个评估指标来评估模型遵循特定响应长度的表现。此外，提出了一种新颖的模型无关方法Ruler，利用Meta Length Tokens（MLTs）增强大语言模型在长度受限指令下的指示遵从能力。Ruler能够根据指示中的长度约束生成特定长度的响应，并在未明确提供长度约束时自动生成适当的MLT，展现出很好的通用性和多功能性。实验结果表明，在不同大语言模型上，Ruler对目标长度生成任务的有效性，例如在PM上平均提升了27.97，在FM上平均提升了29.57。此外，进行了大量消融实验，进一步证实了Ruler的有效性和通用性。 <div>
 The instruction-following ability of large language models enables humans to
 interact with AI agents in a natural way. However, when required to generate
@@ -66,9 +66,7 @@ efficacy and generalization of Ruler. Our code and data is available at
 https://github.com/Geaming2002/Ruler.
 ]]></content:encoded>
 <pubDate>2024-09-27T17:44:58Z</pubDate>
-<pubDate>2024-09-27T17:44:58Z</pubDate>
 </item>
-
 <item>
 <title>FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity
   Refiner</title>
