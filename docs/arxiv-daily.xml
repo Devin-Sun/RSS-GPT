@@ -4,6 +4,147 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MM1.5: Methods, Analysis &amp; Insights from Multimodal LLM Fine-tuning</title>
+<link>http://arxiv.org/abs/2409.20566v1</link>
+<guid>http://arxiv.org/abs/2409.20566v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: MM1.5, 多模态大型语言模型, 图文理解, 数据 centric 方法, 模型训练策略
+
+总结:<br><br>
+该论文介绍了MM1.5，这是一种新型的多模态大型语言模型(MLLMs)，旨在增强文本丰富的图像理解、视觉引用和定位，以及多图像推理等能力。MM1.5在MM1架构的基础上采用了以数据为中心的模型训练方法，系统地探索了整个模型训练生命周期中不同数据混合的影响。这包括高质量的OCR数据和合成字幕用于持续的预训练，以及优化的视觉指令调优数据混合用于监督微调。他们的模型范围从10亿到300亿个参数不等，包括密集型和专家混合(MoE)变体，并且证明了仔细的数据策划和训练策略甚至在小尺度(10亿和30亿)下也能产生出色的性能。此外，他们还引入了两种专门的变体：MM1.5-Video，专为视频理解而设计，以及MM1.5-UI，专门针对移动UI理解。通过大量的经验研究和消融研究，他们提供了关于训练过程和决策的详细见解，为未来的MLLM开发研究提供了宝贵的指导。 <div>
+We present MM1.5, a new family of multimodal large language models (MLLMs)
+designed to enhance capabilities in text-rich image understanding, visual
+referring and grounding, and multi-image reasoning. Building upon the MM1
+architecture, MM1.5 adopts a data-centric approach to model training,
+systematically exploring the impact of diverse data mixtures across the entire
+model training lifecycle. This includes high-quality OCR data and synthetic
+captions for continual pre-training, as well as an optimized visual
+instruction-tuning data mixture for supervised fine-tuning. Our models range
+from 1B to 30B parameters, encompassing both dense and mixture-of-experts (MoE)
+variants, and demonstrate that careful data curation and training strategies
+can yield strong performance even at small scales (1B and 3B). Additionally, we
+introduce two specialized variants: MM1.5-Video, designed for video
+understanding, and MM1.5-UI, tailored for mobile UI understanding. Through
+extensive empirical studies and ablations, we provide detailed insights into
+the training processes and decisions that inform our final designs, offering
+valuable guidance for future research in MLLM development.
+]]></content:encoded>
+<pubDate>2024-09-30T17:59:34Z</pubDate>
+<pubDate>2024-09-30T17:59:34Z</pubDate>
+</item>
+<item>
+<title>LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and
+  Planning with LM-Driven PDDL Planner</title>
+<link>http://arxiv.org/abs/2409.20560v1</link>
+<guid>http://arxiv.org/abs/2409.20560v1</guid>
+<content:encoded><![CDATA[
+<div> Language models, natural language understanding, multi-agent planning, LaMMA-P, long-horizon tasks
+<br><br>总结:
+本文介绍了一种新的基于语言模型驱动的多智能体PDDL规划器（LaMMA-P），该规划器在处理长程任务时取得了最先进的性能。LaMMA-P将语言模型的推理能力与传统的启发式搜索规划器相结合，实现了高成功率和高效率，并在任务之间展现出了强大的泛化能力。此外，作者创建了MAT-THOR，一个基于AI2-THOR环境的综合基准，其中包含两个不同复杂级别的家务任务。实验结果表明，LaMMA-P的成功率比现有的基于语言模型的多智能体规划器高105%，效率高36%。作者还提供了实验视频、代码和数据集，以及每个模块中使用的详细提示，可在https://lamma-p.github.io上获取。 <div>
+Language models (LMs) possess a strong capability to comprehend natural
+language, making them effective in translating human instructions into detailed
+plans for simple robot tasks. Nevertheless, it remains a significant challenge
+to handle long-horizon tasks, especially in subtask identification and
+allocation for cooperative heterogeneous robot teams. To address this issue, we
+propose a Language Model-Driven Multi-Agent PDDL Planner (LaMMA-P), a novel
+multi-agent task planning framework that achieves state-of-the-art performance
+on long-horizon tasks. LaMMA-P integrates the strengths of the LMs' reasoning
+capability and the traditional heuristic search planner to achieve a high
+success rate and efficiency while demonstrating strong generalization across
+tasks. Additionally, we create MAT-THOR, a comprehensive benchmark that
+features household tasks with two different levels of complexity based on the
+AI2-THOR environment. The experimental results demonstrate that LaMMA-P
+achieves a 105% higher success rate and 36% higher efficiency than existing
+LM-based multi-agent planners. The experimental videos, code, and datasets of
+this work as well as the detailed prompts used in each module are available at
+https://lamma-p.github.io.
+]]></content:encoded>
+<pubDate>2024-09-30T17:58:18Z</pubDate>
+<pubDate>2024-09-30T17:58:18Z</pubDate>
+</item>
+<item>
+<title>Supervised Multi-Modal Fission Learning</title>
+<link>http://arxiv.org/abs/2409.20559v1</link>
+<guid>http://arxiv.org/abs/2409.20559v1</guid>
+<content:encoded><![CDATA[
+
+Learning from multimodal datasets can leverage complementary information and
+improve performance in prediction tasks. A commonly used strategy to account
+for feature correlations in high-dimensional datasets is the latent variable
+approach. Several latent variable methods have been proposed for multimodal
+datasets. However, these methods either focus on extracting the shared
+component across all modalities or on extracting both a shared component and
+individual components specific to each modality. To address this gap, we
+propose a Multi-Modal Fission Learning (MMFL) model that simultaneously
+identifies globally joint, partially joint, and individual components
+underlying the features of multimodal datasets. Unlike existing latent variable
+methods, MMFL uses supervision from the response variable to identify
+predictive latent components and has a natural extension for incorporating
+incomplete multimodal data. Through simulation studies, we demonstrate that
+MMFL outperforms various existing multimodal algorithms in both complete and
+incomplete modality settings. We applied MMFL to a real-world case study for
+early prediction of Alzheimers Disease using multimodal neuroimaging and
+genomics data from the Alzheimers Disease Neuroimaging Initiative (ADNI)
+dataset. MMFL provided more accurate predictions and better insights into
+within- and across-modality correlations compared to existing methods.
+]]></content:encoded>
+<pubDate>2024-09-30T17:58:03Z</pubDate>
+<pubDate>2024-09-30T17:58:03Z</pubDate>
+</item>
+<item>
+<title>Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in
+  Instructional Videos</title>
+<link>http://arxiv.org/abs/2409.20557v1</link>
+<guid>http://arxiv.org/abs/2409.20557v1</guid>
+<content:encoded><![CDATA[
+
+Goal-oriented planning, or anticipating a series of actions that transition
+an agent from its current state to a predefined objective, is crucial for
+developing intelligent assistants aiding users in daily procedural tasks. The
+problem presents significant challenges due to the need for comprehensive
+knowledge of temporal and hierarchical task structures, as well as strong
+capabilities in reasoning and planning. To achieve this, prior work typically
+relies on extensive training on the target dataset, which often results in
+significant dataset bias and a lack of generalization to unseen tasks. In this
+work, we introduce VidAssist, an integrated framework designed for
+zero/few-shot goal-oriented planning in instructional videos. VidAssist
+leverages large language models (LLMs) as both the knowledge base and the
+assessment tool for generating and evaluating action plans, thus overcoming the
+challenges of acquiring procedural knowledge from small-scale, low-diversity
+datasets. Moreover, VidAssist employs a breadth-first search algorithm for
+optimal plan generation, in which a composite of value functions designed for
+goal-oriented planning is utilized to assess the predicted actions at each
+step. Extensive experiments demonstrate that VidAssist offers a unified
+framework for different goal-oriented planning setups, e.g., visual planning
+for assistance (VPA) and procedural planning (PP), and achieves remarkable
+performance in zero-shot and few-shot setups. Specifically, our few-shot model
+outperforms the prior fully supervised state-of-the-art method by +7.7% in VPA
+and +4.81% PP task on the COIN dataset while predicting 4 future actions. Code,
+and models are publicly available at https://sites.google.com/view/vidassist.
+]]></content:encoded>
+<pubDate>2024-09-30T17:57:28Z</pubDate>
+<pubDate>2024-09-30T17:57:28Z</pubDate>
+</item>
+<item>
+<title>Inverse Painting: Reconstructing The Painting Process</title>
+<link>http://arxiv.org/abs/2409.20556v1</link>
+<guid>http://arxiv.org/abs/2409.20556v1</guid>
+<content:encoded><![CDATA[
+
+Given an input painting, we reconstruct a time-lapse video of how it may have
+been painted. We formulate this as an autoregressive image generation problem,
+in which an initially blank "canvas" is iteratively updated. The model learns
+from real artists by training on many painting videos. Our approach
+incorporates text and region understanding to define a set of painting
+"instructions" and updates the canvas with a novel diffusion-based renderer.
+The method extrapolates beyond the limited, acrylic style paintings on which it
+has been trained, showing plausible results for a wide range of artistic styles
+and genres.
+]]></content:encoded>
+<pubDate>2024-09-30T17:56:52Z</pubDate>
+<pubDate>2024-09-30T17:56:52Z</pubDate>
+</item>
 
 <item>
 <title>PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation</title>
