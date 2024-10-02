@@ -11116,3 +11116,17 @@ Append: [Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in
 Append: [Inverse Painting: Reconstructing The Painting Process](http://arxiv.org/abs/2409.20556v1)
 append_entries: 5
 Finish: 2024-10-01 12:19:37.384364
+------------------------------------------------------
+Started: 2024-10-02 00:47:42.626252
+Existing_entries: 292
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Continuously Improving Mobile Manipulation with Autonomous Real-World RL](http://arxiv.org/abs/2409.20568v1)
+Filter: [Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation
+  of LLM-Generated Medical Explanatory Arguments](http://arxiv.org/abs/2409.20565v1)
+Filter: [DressRecon: Freeform 4D Human Reconstruction from Monocular Video](http://arxiv.org/abs/2409.20563v1)
+Filter: [SpaceMesh: A Continuous Representation for Learning Manifold Surface
+  Meshes](http://arxiv.org/abs/2409.20562v1)
+Filter: [Uni$^2$Det: Unified and Universal Framework for Prompt-Guided
+  Multi-dataset 3D Detection](http://arxiv.org/abs/2409.20558v1)
+append_entries: 0
+Finish: 2024-10-02 00:47:43.263301
