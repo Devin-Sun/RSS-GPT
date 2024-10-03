@@ -11158,3 +11158,28 @@ Filter: [Uni$^2$Det: Unified and Universal Framework for Prompt-Guided
   Multi-dataset 3D Detection](http://arxiv.org/abs/2409.20558v1)
 append_entries: 0
 Finish: 2024-10-03 00:47:51.974159
+------------------------------------------------------
+Started: 2024-10-03 12:18:44.267182
+Existing_entries: 292
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Samba: Synchronized Set-of-Sequences Modeling for Multiple Object
+  Tracking](http://arxiv.org/abs/2410.01806v1)
+Filter: [Locret: Enhancing Eviction in Long-Context LLM Inference with Trained
+  Retaining Heads](http://arxiv.org/abs/2410.01805v1)
+Filter: [EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](http://arxiv.org/abs/2410.01804v1)
+Filter: [PROXI: Challenging the GNNs for Link Prediction](http://arxiv.org/abs/2410.01802v1)
+Filter: [On the expressiveness and spectral bias of KANs](http://arxiv.org/abs/2410.01803v1)
+Filter: [FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments
+  Generation from In-The-Wild Clothing Images](http://arxiv.org/abs/2410.01801v1)
+Filter: [Efficient $1$-bit tensor approximations](http://arxiv.org/abs/2410.01799v1)
+Token length: 1026
+Summarized using GPT-3.5-turbo-1106
+Append: [Windowed MAPF with Completeness Guarantees](http://arxiv.org/abs/2410.01798v1)
+Token length: 1435
+Summarized using GPT-3.5-turbo-1106
+Append: [Bellman Diffusion: Generative Modeling as Learning a Linear Operator in
+  the Distribution Space](http://arxiv.org/abs/2410.01796v1)
+Filter: [Knowledge-Driven Feature Selection and Engineering for Genotype Data
+  with Large Language Models](http://arxiv.org/abs/2410.01795v1)
+append_entries: 2
+Finish: 2024-10-03 12:19:21.358742
