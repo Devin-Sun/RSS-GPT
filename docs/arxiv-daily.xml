@@ -4,6 +4,104 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short
+  Videos</title>
+<link>http://arxiv.org/abs/2410.02763v1</link>
+<guid>http://arxiv.org/abs/2410.02763v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: LMMs, Vinoground, 理解短视频, 时间推理, 挑战
+
+要点输出:
+1. LMMs被认为已经解决了短视频理解的关键挑战，学术界和工业界逐渐将注意力转向理解长视频。
+2. 研究表明现有的LMMs在处理短视频时仍然缺乏基本的推理能力。
+3. Vinoground是一个用于评估LMM的时间反事实基准，显示现有的LMM在区分不同动作和物体转换之间的时间差异方面存在严重困难。
+4. GPT-4o模型在该基准上的表现仅为~50%，远低于人类基线水平的~90%。
+5. 时间推理在短视频中仍然是一个尚未完全解决的问题。
+
+总结:<br><br>本研究指出，尽管LMMs在短视频理解方面取得了一定进展，但仍然存在时间推理能力的严重不足。Vinoground基准表明现有模型在区分不同动作和物体转换的时间差异方面表现不佳，GPT-4o模型仅达到50%的准确率，远低于人类水平。因此，时间推理在短视频中仍然是一个待解决的挑战。 <div>
+There has been growing sentiment recently that modern large multimodal models
+(LMMs) have addressed most of the key challenges related to short video
+comprehension. As a result, both academia and industry are gradually shifting
+their attention towards the more complex challenges posed by understanding
+long-form videos. However, is this really the case? Our studies indicate that
+LMMs still lack many fundamental reasoning capabilities even when dealing with
+short videos. We introduce Vinoground, a temporal counterfactual LMM evaluation
+benchmark encompassing 1000 short and natural video-caption pairs. We
+demonstrate that existing LMMs severely struggle to distinguish temporal
+differences between different actions and object transformations. For example,
+the best model GPT-4o only obtains ~50% on our text and video scores, showing a
+large gap compared to the human baseline of ~90%. All open-source multimodal
+models and CLIP-based models perform much worse, producing mostly random chance
+performance. Through this work, we shed light onto the fact that temporal
+reasoning in short videos is a problem yet to be fully solved. The dataset and
+evaluation code are available at https://vinoground.github.io.
+]]></content:encoded>
+<pubDate>2024-10-03T17:59:58Z</pubDate>
+<pubDate>2024-10-03T17:59:58Z</pubDate>
+</item>
+<item>
+<title>Loong: Generating Minute-level Long Videos with Autoregressive Language
+  Models</title>
+<link>http://arxiv.org/abs/2410.02757v1</link>
+<guid>http://arxiv.org/abs/2410.02757v1</guid>
+<content:encoded><![CDATA[
+<div> 视频生成 挑战 长视频 自回归语言模型 Loong
+
+自回归大型语言模型（LLMs）在自然语言处理领域取得了成功，但在视频生成方面的尝试仍然受到挑战。本文分析了阻碍自回归LLMs生成长视频的挑战，并提出了名为Loong的新型自回归LLMs视频生成器。Loong将文本标记和视频标记建模为统一序列，通过渐进的短至长训练和损失再加权方案来缓解长视频训练中的损失不平衡问题。此外，对推断策略进行了进一步研究，包括视频标记的重新编码和抽样策略，以减少推断过程中的误差积累。所提出的Loong可在10秒视频上训练，并能扩展到根据文本提示生成分钟级长视频，这一结果已经得到了验证。更多样本请访问：https://epiphqny.github.io/Loong-video。<br><br>总结: 本文提出了Loong，一个能够生成分钟级长视频的自回归LLMs视频生成器。它通过统一序列建模文本标记和视频标记，采用渐进的短至长训练和损失再加权方案，以及推断策略来解决自回归LLMs生成长视频面临的挑战。 <div>
+It is desirable but challenging to generate content-rich long videos in the
+scale of minutes. Autoregressive large language models (LLMs) have achieved
+great success in generating coherent and long sequences of tokens in the domain
+of natural language processing, while the exploration of autoregressive LLMs
+for video generation is limited to generating short videos of several seconds.
+In this work, we conduct a deep analysis of the challenges that prevent
+autoregressive LLM-based video generators from generating long videos. Based on
+the observations and analysis, we propose Loong, a new autoregressive LLM-based
+video generator that can generate minute-long videos. Specifically, we model
+the text tokens and video tokens as a unified sequence for autoregressive LLMs
+and train the model from scratch. We propose progressive short-to-long training
+with a loss re-weighting scheme to mitigate the loss imbalance problem for long
+video training. We further investigate inference strategies, including video
+token re-encoding and sampling strategies, to diminish error accumulation
+during inference. Our proposed Loong can be trained on 10-second videos and be
+extended to generate minute-level long videos conditioned on text prompts, as
+demonstrated by the results. More samples are available at:
+https://epiphqny.github.io/Loong-video.
+]]></content:encoded>
+<pubDate>2024-10-03T17:59:02Z</pubDate>
+<pubDate>2024-10-03T17:59:02Z</pubDate>
+</item>
+<item>
+<title>ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for
+  Embodied AI</title>
+<link>http://arxiv.org/abs/2410.02751v1</link>
+<guid>http://arxiv.org/abs/2410.02751v1</guid>
+<content:encoded><![CDATA[
+
+Intelligent embodied agents need to quickly adapt to new scenarios by
+integrating long histories of experience into decision-making. For instance, a
+robot in an unfamiliar house initially wouldn't know the locations of objects
+needed for tasks and might perform inefficiently. However, as it gathers more
+experience, it should learn the layout of its environment and remember where
+objects are, allowing it to complete new tasks more efficiently. To enable such
+rapid adaptation to new tasks, we present ReLIC, a new approach for in-context
+reinforcement learning (RL) for embodied agents. With ReLIC, agents are capable
+of adapting to new environments using 64,000 steps of in-context experience
+with full attention while being trained through self-generated experience via
+RL. We achieve this by proposing a novel policy update scheme for on-policy RL
+called "partial updates'' as well as a Sink-KV mechanism that enables effective
+utilization of a long observation history for embodied agents. Our method
+outperforms a variety of meta-RL baselines in adapting to unseen houses in an
+embodied multi-object navigation task. In addition, we find that ReLIC is
+capable of few-shot imitation learning despite never being trained with expert
+demonstrations. We also provide a comprehensive analysis of ReLIC, highlighting
+that the combination of large-scale RL training, the proposed partial updates
+scheme, and the Sink-KV are essential for effective in-context learning. The
+code for ReLIC and all our experiments is at https://github.com/aielawady/relic
+]]></content:encoded>
+<pubDate>2024-10-03T17:58:11Z</pubDate>
+<pubDate>2024-10-03T17:58:11Z</pubDate>
+</item>
 
 <item>
 <title>Windowed MAPF with Completeness Guarantees</title>
