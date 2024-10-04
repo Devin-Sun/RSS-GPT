@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Windowed MAPF with Completeness Guarantees</title>
 <link>http://arxiv.org/abs/2410.01798v1</link>
 <guid>http://arxiv.org/abs/2410.01798v1</guid>
 <content:encoded><![CDATA[
-<div> Windowed MAPF, completeness, heuristic update, SS-CBS, agent independence<br>
-<br>
-本文介绍了传统多智能体路径规划方法的局限性，提出了一种新的框架WinC-MAPF，用于解决窗口式多智能体路径规划中的完备性问题。该框架借鉴了实时启发式搜索算法的启发式更新和多智能体路径规划算法的智能体独立性思想。作者还开发了Single-Step CBS (SS-CBS)，这是利用了CBS算法的一种新的改进，只计划一个步骤并更新启发式函数。研究结果表明，SS-CBS能够有效解决现有窗口式方法无法解决的困难情景。<br><br>总结: <br>文章介绍了传统多智能体路径规划方法的局限性，提出了新的框架WinC-MAPF，并介绍了SS-CBS算法的开发及其在解决困难情景中的效果。 <div>
+<div> Windowed MAPF, completeness, heuristic update, SS-CBS, agent independence<br />
+<br />
+本文介绍了传统多智能体路径规划方法的局限性，提出了一种新的框架WinC-MAPF，用于解决窗口式多智能体路径规划中的完备性问题。该框架借鉴了实时启发式搜索算法的启发式更新和多智能体路径规划算法的智能体独立性思想。作者还开发了Single-Step CBS (SS-CBS)，这是利用了CBS算法的一种新的改进，只计划一个步骤并更新启发式函数。研究结果表明，SS-CBS能够有效解决现有窗口式方法无法解决的困难情景。<br /><br />总结: <br />文章介绍了传统多智能体路径规划方法的局限性，提出了新的框架WinC-MAPF，并介绍了SS-CBS算法的开发及其在解决困难情景中的效果。 <div>
 Traditional multi-agent path finding (MAPF) methods try to compute entire
 start-goal paths which are collision free. However, computing an entire path
 can take too long for MAPF systems where agents need to replan fast. Methods
@@ -28,7 +29,6 @@ and updates heuristics, can effectively solve tough scenarios where existing
 windowed approaches fail.
 ]]></content:encoded>
 <pubDate>2024-10-02T17:55:46Z</pubDate>
-<pubDate>2024-10-02T17:55:46Z</pubDate>
 </item>
 <item>
 <title>Bellman Diffusion: Generative Modeling as Learning a Linear Operator in
@@ -37,9 +37,9 @@ windowed approaches fail.
 <guid>http://arxiv.org/abs/2410.01796v1</guid>
 <content:encoded><![CDATA[
 <div> DGMs, EBMs, SGMs, MDPs, RL
-<br>
+<br />
 本文介绍了深度生成模型在马尔科夫决策过程中的应用，发现现代DGM的非线性特性与MDP中贝尔曼方程所需的线性特性相冲突。为解决这一问题，引入了贝尔曼扩散，一种新颖的DGM框架，通过梯度和标量场建模来保持MDP的线性性。经验结果表明，贝尔曼扩散在分布式RL任务中比传统的基于直方图的基准收敛速度更快1.5倍。这项工作使得DGM能够有效地整合到MDP应用程序中，为先进的决策框架开辟了新的途径。
-<br><br>总结: 
+<br /><br />总结: 
 本文介绍了深度生成模型在马尔科夫决策过程(MDP)中的应用及挑战，提出了贝尔曼扩散作为解决方案，并展示了其在分布式强化学习任务中的有效性。 <div>
 Deep Generative Models (DGMs), including Energy-Based Models (EBMs) and
 Score-based Generative Models (SGMs), have advanced high-fidelity data
@@ -62,9 +62,7 @@ tasks. This work enables the effective integration of DGMs into MDP
 applications, unlocking new avenues for advanced decision-making frameworks.
 ]]></content:encoded>
 <pubDate>2024-10-02T17:53:23Z</pubDate>
-<pubDate>2024-10-02T17:53:23Z</pubDate>
 </item>
-
 <item>
 <title>MM1.5: Methods, Analysis &amp; Insights from Multimodal LLM Fine-tuning</title>
 <link>http://arxiv.org/abs/2409.20566v1</link>
