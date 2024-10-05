@@ -11217,3 +11217,19 @@ Append: [ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for
   Embodied AI](http://arxiv.org/abs/2410.02751v1)
 append_entries: 3
 Finish: 2024-10-04 12:18:41.094855
+------------------------------------------------------
+Started: 2024-10-05 00:47:05.326558
+Existing_entries: 297
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats](http://arxiv.org/abs/2410.02764v1)
+Filter: [Interpreting and Editing Vision-Language Representations to Mitigate
+  Hallucinations](http://arxiv.org/abs/2410.02762v1)
+Filter: [FakeShield: Explainable Image Forgery Detection and Localization via
+  Multi-modal Large Language Models](http://arxiv.org/abs/2410.02761v1)
+Filter: [Erasing Conceptual Knowledge from Language Models](http://arxiv.org/abs/2410.02760v1)
+Filter: [Forecasting Smog Clouds With Deep Learning](http://arxiv.org/abs/2410.02759v1)
+Filter: [CorPipe at CRAC 2024: Predicting Zero Mentions from Raw Text](http://arxiv.org/abs/2410.02756v1)
+Filter: [SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at
+  1% the Cost](http://arxiv.org/abs/2410.02755v1)
+append_entries: 0
+Finish: 2024-10-05 00:47:06.411050
