@@ -11297,3 +11297,25 @@ Filter: [SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy a
   1% the Cost](http://arxiv.org/abs/2410.02755v1)
 append_entries: 0
 Finish: 2024-10-07 00:50:25.669106
+------------------------------------------------------
+Started: 2024-10-07 12:19:27.898784
+Existing_entries: 297
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Estimating Body and Hand Motion in an Ego-sensed World](http://arxiv.org/abs/2410.03665v1)
+Filter: [Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge
+  Distillation from Multiple Large Language Models](http://arxiv.org/abs/2410.03663v1)
+Filter: [System 2 reasoning capabilities are nigh](http://arxiv.org/abs/2410.03662v1)
+Token length: 1355
+Summarized using GPT-3.5-turbo-1106
+Append: [Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language
+  Models](http://arxiv.org/abs/2410.03659v1)
+Filter: [RAFT: Realistic Attacks to Fool Text Detectors](http://arxiv.org/abs/2410.03658v1)
+Filter: [Geometric Representation Condition Improves Equivariant Molecule
+  Generation](http://arxiv.org/abs/2410.03655v1)
+Filter: [Learning Humanoid Locomotion over Challenging Terrain](http://arxiv.org/abs/2410.03654v1)
+Filter: [Dorami: Privilege Separating Security Monitor on RISC-V TEEs](http://arxiv.org/abs/2410.03653v1)
+Filter: [Minimax-optimal trust-aware multi-armed bandits](http://arxiv.org/abs/2410.03651v1)
+Filter: [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning
+  LLMs](http://arxiv.org/abs/2410.03645v1)
+append_entries: 1
+Finish: 2024-10-07 12:19:33.362656
