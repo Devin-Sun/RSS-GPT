@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language
   Models</title>
@@ -14,7 +15,7 @@
 
 LVLMs在捕捉和推理多模态输入方面表现出了令人印象深刻的能力。然而，这些模型容易出现参数知识冲突，即它们的视觉和语言组成部分之间所代表的知识不一致的情况。本文正式定义了跨模态参数知识冲突的问题并提出了一种系统的方法来检测、解释和减轻这些冲突。我们引入了一个流程，用于识别视觉和文本答案之间的冲突，展示了最近LVLMs在不同模态之间具有持续高冲突率的情况，无论模型大小如何。我们进一步研究了这些冲突如何干扰推断过程，并提出了一个对比度度量来辨别冲突样本。基于这些见解，我们开发了一种新颖的动态对比解码方法，根据答案置信度从不太自信的模态组件中删除不良的logits。对于不提供logits的模型，我们还介绍了两种基于提示的策略来减轻冲突。我们的方法在ViQuAE和InfoSeek数据集上实现了令人满意的准确度改进。具体而言，使用LLaVA-34B，我们提出的动态对比解码方法将平均准确度提高了2.24%。
 
-<br><br>总结: 
+<br /><br />总结: 
 本文研究了大型视觉-语言模型中存在的跨模态参数知识冲突问题，并提出了一种系统的方法来检测、解释和减轻这些冲突。研究发现最近的LVLMs在不同模态之间存在持续高的冲突率，影响了推理过程。研究团队提出了动态对比解码方法来解决这一问题，并取得了显著的准确度改进。 <div>
 Large Vision-Language Models (LVLMs) have demonstrated impressive
 capabilities for capturing and reasoning over multimodal inputs. However, these
@@ -37,9 +38,7 @@ Specifically, using LLaVA-34B, our proposed dynamic contrastive decoding
 improves an average accuracy of 2.24%.
 ]]></content:encoded>
 <pubDate>2024-10-04T17:59:28Z</pubDate>
-<pubDate>2024-10-04T17:59:28Z</pubDate>
 </item>
-
 <item>
 <title>Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short
   Videos</title>
