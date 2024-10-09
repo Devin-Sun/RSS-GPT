@@ -11382,3 +11382,24 @@ Filter: [DART: A Diffusion-Based Autoregressive Motion Model for Real-Time
 Filter: [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259v1)
 append_entries: 0
 Finish: 2024-10-09 00:47:25.798071
+------------------------------------------------------
+Started: 2024-10-09 12:18:41.340714
+Existing_entries: 299
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia](http://arxiv.org/abs/2410.05270v1)
+Filter: [Data Advisor: Dynamic Data Curation for Safety Alignment of Large
+  Language Models](http://arxiv.org/abs/2410.05269v1)
+Filter: [Brain Mapping with Dense Features: Grounding Cortical Semantic
+  Selectivity in Natural Images With Vision Transformers](http://arxiv.org/abs/2410.05266v1)
+Filter: [PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers
+  in LLMs](http://arxiv.org/abs/2410.05265v1)
+Filter: [Regression Conformal Prediction under Bias](http://arxiv.org/abs/2410.05263v1)
+Filter: [TurtleBench: Evaluating Top Language Models via Real-World Yes/No
+  Puzzles](http://arxiv.org/abs/2410.05262v1)
+Filter: [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and
+  Grounding with 16x Fewer Tokens](http://arxiv.org/abs/2410.05261v1)
+Filter: [DART: A Diffusion-Based Autoregressive Motion Model for Real-Time
+  Text-Driven Motion Control](http://arxiv.org/abs/2410.05260v1)
+Filter: [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](http://arxiv.org/abs/2410.05259v1)
+append_entries: 0
+Finish: 2024-10-09 12:18:51.125787
