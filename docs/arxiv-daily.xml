@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Grounding Partially-Defined Events in Multimodal Data</title>
 <link>http://arxiv.org/abs/2410.05267v1</link>
 <guid>http://arxiv.org/abs/2410.05267v1</guid>
 <content:encoded><![CDATA[
-<div> 事件建模，多模态处理，视频语言系统，挑战，LLM方法<br>
-总结:<br>
+<div> 事件建模，多模态处理，视频语言系统，挑战，LLM方法<br />
+总结:<br />
 这篇文章介绍了如何通过短视频片段学习复杂的时事事件，以及视觉数据在事件理解中所带来的挑战。为了解决多模态环境中的事件建模问题，引入了一种多模态事件部分定义的表述方法，并将其作为一个三阶段跨度检索任务。提出了一个名为MultiVENT-G的基准测试集，包含14.5小时密集注释的时事事件视频和1,168个文档，包含22.8K个标记的事件中心实体。文章还介绍了一些基于LLM的方法，并在MultiVENT-G上进行了评估。结果表明抽象事件理解所面临的挑战，并展示了事件中心视频语言系统的潜力。 <div>
 How are we able to learn about complex current events just from short
 snippets of video? While natural language enables straightforward ways to
@@ -30,9 +31,7 @@ understanding poses and demonstrates promise in event-centric video-language
 systems.
 ]]></content:encoded>
 <pubDate>2024-10-07T17:59:48Z</pubDate>
-<pubDate>2024-10-07T17:59:48Z</pubDate>
 </item>
-
 <item>
 <title>Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language
   Models</title>
