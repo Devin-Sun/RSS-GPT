@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MM-Ego: Towards Building Egocentric Multimodal LLMs</title>
 <link>http://arxiv.org/abs/2410.07177v1</link>
 <guid>http://arxiv.org/abs/2410.07177v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: egocentric video, multimodal foundation model, QA data, data engine, Memory Pointer Prompting<br>
-<br>
-该研究旨在全面探索建立自我中心视频理解的多模态基础模型。为实现这一目标，研究在三个方面展开。首先，鉴于自我中心视频理解缺乏问答数据，研究开发了一个数据引擎，基于人工注释数据，高效生成了700万个高质量自我中心视频问答样本，覆盖30秒至一小时不等的视频长度范围，目前这是最大的自我中心问答数据集。其次，研究贡献了一个具有挑战性的自我中心问答基准，包含629个视频和7026个问题，以评估模型在识别和记忆不同长度视频中的视觉细节方面的能力。研究还引入了一种新的去偏方法来减轻模型评估中不可避免的语言偏差。第三，研究提出了一种专门的多模态架构，采用了一种新颖的“记忆指针提示”机制。该设计包括一个全局视角步骤，以获得整个视频的全面理解并识别关键视觉信息，然后使用关键视觉信息生成响应的回退步骤。这使得模型能更有效地理解扩展视频内容。通过数据、基准和模型，研究成功构建了MM-Ego，一种自我中心多模态LLM，在自我中心视频理解方面表现出强大的性能。<br><br>总结: 该研究在自我中心视频理解领域取得了重要进展，通过开发数据引擎和构建多模态架构，成功生成了大规模高质量的问答样本，并提出了具有挑战性的基准测试。其提出的模型在自我中心视频理解方面表现出强大的性能，为该领域的研究和应用带来了新的可能性。 <div>
+<div> 关键词: egocentric video, multimodal foundation model, QA data, data engine, Memory Pointer Prompting<br />
+<br />
+该研究旨在全面探索建立自我中心视频理解的多模态基础模型。为实现这一目标，研究在三个方面展开。首先，鉴于自我中心视频理解缺乏问答数据，研究开发了一个数据引擎，基于人工注释数据，高效生成了700万个高质量自我中心视频问答样本，覆盖30秒至一小时不等的视频长度范围，目前这是最大的自我中心问答数据集。其次，研究贡献了一个具有挑战性的自我中心问答基准，包含629个视频和7026个问题，以评估模型在识别和记忆不同长度视频中的视觉细节方面的能力。研究还引入了一种新的去偏方法来减轻模型评估中不可避免的语言偏差。第三，研究提出了一种专门的多模态架构，采用了一种新颖的“记忆指针提示”机制。该设计包括一个全局视角步骤，以获得整个视频的全面理解并识别关键视觉信息，然后使用关键视觉信息生成响应的回退步骤。这使得模型能更有效地理解扩展视频内容。通过数据、基准和模型，研究成功构建了MM-Ego，一种自我中心多模态LLM，在自我中心视频理解方面表现出强大的性能。<br /><br />总结: 该研究在自我中心视频理解领域取得了重要进展，通过开发数据引擎和构建多模态架构，成功生成了大规模高质量的问答样本，并提出了具有挑战性的基准测试。其提出的模型在自我中心视频理解方面表现出强大的性能，为该领域的研究和应用带来了新的可能性。 <div>
 This research aims to comprehensively explore building a multimodal
 foundation model for egocentric video understanding. To achieve this goal, we
 work on three fronts. First, as there is a lack of QA data for egocentric video
@@ -33,7 +34,6 @@ successfully build MM-Ego, an egocentric multimodal LLM that shows powerful
 performance on egocentric video understanding.
 ]]></content:encoded>
 <pubDate>2024-10-09T17:59:59Z</pubDate>
-<pubDate>2024-10-09T17:59:59Z</pubDate>
 </item>
 <item>
 <title>Do better language models have crisper vision?</title>
@@ -41,8 +41,8 @@ performance on egocentric video understanding.
 <guid>http://arxiv.org/abs/2410.07173v1</guid>
 <content:encoded><![CDATA[
 <div> Visual Text Representation Benchmark, ViTeRB, large-scale decoder-based LLMs, ShareLock, CLIP-like model
-<br><br>
-总结：<br>
+<br /><br />
+总结：<br />
 本文介绍了关于文本-图像对齐的问题，提出了Visual Text Representation Benchmark (ViTeRB)用于评估语言模型在视觉世界中的表现。作者指出大规模解码器型语言模型是在视觉相关环境中很好的文本表达候选者，并提出了一个名为ShareLock的超轻量级CLIP模型。ShareLock利用了强大的视觉和语言模型的预先计算的冻结特征，仅利用563k图像-标题对就在ImageNet上取得了51%的准确率。而且训练仅需1个GPU小时，很大程度上减少了以往方法的时间成本。 <div>
 How well do text-only Large Language Models (LLMs) grasp the visual world? As
 LLMs are increasingly used in computer vision, addressing this question becomes
@@ -61,7 +61,6 @@ hour (or 10 hours including the precomputation of features) - orders of
 magnitude less than prior methods. Code will be released.
 ]]></content:encoded>
 <pubDate>2024-10-09T17:59:33Z</pubDate>
-<pubDate>2024-10-09T17:59:33Z</pubDate>
 </item>
 <item>
 <title>IterComp: Iterative Composition-Aware Feedback Learning from Model
@@ -69,7 +68,6 @@ magnitude less than prior methods. Code will be released.
 <link>http://arxiv.org/abs/2410.07171v1</link>
 <guid>http://arxiv.org/abs/2410.07171v1</guid>
 <content:encoded><![CDATA[
-
 Advanced diffusion models like RPG, Stable Diffusion 3 and FLUX have made
 notable strides in compositional text-to-image generation. However, these
 methods typically exhibit distinct strengths for compositional generation, with
@@ -95,9 +93,7 @@ avenues in reward feedback learning for diffusion models and compositional
 generation. Code: https://github.com/YangLing0818/IterComp
 ]]></content:encoded>
 <pubDate>2024-10-09T17:59:13Z</pubDate>
-<pubDate>2024-10-09T17:59:13Z</pubDate>
 </item>
-
 <item>
 <title>Grounding Partially-Defined Events in Multimodal Data</title>
 <link>http://arxiv.org/abs/2410.05267v1</link>

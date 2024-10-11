@@ -11448,3 +11448,19 @@ Filter: [Deciphering Cross-Modal Alignment in Large Vision-Language Models with
 Filter: [Sylber: Syllabic Embedding Representation of Speech from Raw Audio](http://arxiv.org/abs/2410.07168v1)
 append_entries: 3
 Finish: 2024-10-10 12:19:00.583038
+------------------------------------------------------
+Started: 2024-10-11 00:47:30.971514
+Existing_entries: 302
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge
+  Conflicts for Large Language Models](http://arxiv.org/abs/2410.07176v1)
+Filter: [Neural Circuit Architectural Priors for Quadruped Locomotion](http://arxiv.org/abs/2410.07174v1)
+Filter: [Glider: Global and Local Instruction-Driven Expert Router](http://arxiv.org/abs/2410.07172v1)
+Filter: [VIRT: Vision Instructed Transformer for Robotic Manipulation](http://arxiv.org/abs/2410.07169v1)
+Filter: [One Initialization to Rule them All: Fine-tuning via Explained Variance
+  Adaptation](http://arxiv.org/abs/2410.07170v1)
+Filter: [Deciphering Cross-Modal Alignment in Large Vision-Language Models with
+  Modality Integration Rate](http://arxiv.org/abs/2410.07167v1)
+Filter: [Sylber: Syllabic Embedding Representation of Speech from Raw Audio](http://arxiv.org/abs/2410.07168v1)
+append_entries: 0
+Finish: 2024-10-11 00:47:32.181433
