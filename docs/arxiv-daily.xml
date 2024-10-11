@@ -4,6 +4,80 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Emerging Pixel Grounding in Large Multimodal Models Without Grounding
+  Supervision</title>
+<link>http://arxiv.org/abs/2410.08209v1</link>
+<guid>http://arxiv.org/abs/2410.08209v1</guid>
+<content:encoded><![CDATA[
+<div> LMMs, grounding, supervision, DIFFLMM, attention maps
+<br>
+本文研究了当前大型多模态模型（LMMs）在概念描绘方面的挑战，提出了一种新的方法来解决这一问题。作者发现，在没有明确的概念描绘监督的情况下，LMMs可以自发地产生概念描绘能力。他们提出了一种“关注和分割”方法，利用标准LMMs的注意力图来执行像素级分割。此外，他们还提出了DIFFLMM，这是一种利用基于扩散的视觉编码器的LMM，与标准的CLIP视觉编码器相反，并且使用相同的弱监督进行训练。通过这种方法，他们在概念描绘特定和一般的视觉问题回答基准上取得了竞争性的表现。特别是，在没有任何概念描绘监督的情况下，他们在概念对话生成上实现了44.2的概念蒙版召回率，优于GLaMM模型。 <div>
+Current large multimodal models (LMMs) face challenges in grounding, which
+requires the model to relate language components to visual entities. Contrary
+to the common practice that fine-tunes LMMs with additional grounding
+supervision, we find that the grounding ability can in fact emerge in LMMs
+trained without explicit grounding supervision. To reveal this emerging
+grounding, we introduce an "attend-and-segment" method which leverages
+attention maps from standard LMMs to perform pixel-level segmentation.
+Furthermore, to enhance the grounding ability, we propose DIFFLMM, an LMM
+utilizing a diffusion-based visual encoder, as opposed to the standard CLIP
+visual encoder, and trained with the same weak supervision. Without being
+constrained by the biases and limited scale of grounding-specific supervision
+data, our approach is more generalizable and scalable. We achieve competitive
+performance on both grounding-specific and general visual question answering
+benchmarks, compared with grounding LMMs and generalist LMMs, respectively.
+Notably, we achieve a 44.2 grounding mask recall on grounded conversation
+generation without any grounding supervision, outperforming the extensively
+supervised model GLaMM. Project page: https://groundLMM.github.io.
+]]></content:encoded>
+<pubDate>2024-10-10T17:59:55Z</pubDate>
+<pubDate>2024-10-10T17:59:55Z</pubDate>
+</item>
+<item>
+<title>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large
+  Language Models with Endogenous Visual Pre-training</title>
+<link>http://arxiv.org/abs/2410.08202v1</link>
+<guid>http://arxiv.org/abs/2410.08202v1</guid>
+<content:encoded><![CDATA[
+<div> Monolithic Multimodal Large Language Models, Visual encoding, Language decoding, Delta tuning, Endogenous Visual Pre-training
+Summary:<br>
+本文介绍了关于单体多模态大型语言模型的研究。作者提出了一种名为Mono-InternVL的新型单体MLLM，该模型通过多模态专家混合结构，无缝地集成了一组视觉专家。他们还提出了一种名为内源视觉预训练（EViP）的创新预训练策略，以最大限度地发挥Mono-InternVL的视觉能力。实验结果证实了Mono-InternVL相对于现有MLLM的优越性能，特别是在6个多模态基准测试上的表现。此外，Mono-InternVL的部署效率也得到了验证，第一个标记的延迟降低了高达67%。<br>
+<br>
+总结: <br>
+- 介绍了一个名为Mono-InternVL的新型单体MLLM，该模型通过多模态专家混合结构，无缝地集成了一组视觉专家。
+- 提出了一种名为内源视觉预训练（EViP）的创新预训练策略，以最大限度地发挥Mono-InternVL的视觉能力。
+- 实验结果证实了Mono-InternVL相对于现有MLLM的优越性能，特别是在6个多模态基准测试上的表现。
+- Mono-InternVL的部署效率得到了验证，第一个标记的延迟降低了高达67%。 <div>
+The rapid advancement of Large Language Models (LLMs) has led to an influx of
+efforts to extend their capabilities to multimodal tasks. Among them, growing
+attention has been focused on monolithic Multimodal Large Language Models
+(MLLMs) that integrate visual encoding and language decoding into a single LLM.
+Despite the structural simplicity and deployment-friendliness, training a
+monolithic MLLM with promising performance still remains challenging. In
+particular, the popular approaches adopt continuous pre-training to extend a
+pre-trained LLM to a monolithic MLLM, which suffers from catastrophic
+forgetting and leads to performance degeneration. In this paper, we aim to
+overcome this limitation from the perspective of delta tuning. Specifically,
+our core idea is to embed visual parameters into a pre-trained LLM, thereby
+incrementally learning visual knowledge from massive data via delta tuning,
+i.e., freezing the LLM when optimizing the visual parameters. Based on this
+principle, we present Mono-InternVL, a novel monolithic MLLM that seamlessly
+integrates a set of visual experts via a multimodal mixture-of-experts
+structure. Moreover, we propose an innovative pre-training strategy to maximize
+the visual capability of Mono-InternVL, namely Endogenous Visual Pre-training
+(EViP). In particular, EViP is designed as a progressive learning process for
+visual experts, which aims to fully exploit the visual knowledge from noisy
+data to high-quality data. To validate our approach, we conduct extensive
+experiments on 16 benchmarks. Experimental results not only validate the
+superior performance of Mono-InternVL compared to the state-of-the-art MLLM on
+6 multimodal benchmarks, e.g., +113 points over InternVL-1.5 on OCRBench, but
+also confirm its better deployment efficiency, with first token latency reduced
+by up to 67%.
+]]></content:encoded>
+<pubDate>2024-10-10T17:59:22Z</pubDate>
+<pubDate>2024-10-10T17:59:22Z</pubDate>
+</item>
 
 <item>
 <title>MM-Ego: Towards Building Egocentric Multimodal LLMs</title>
