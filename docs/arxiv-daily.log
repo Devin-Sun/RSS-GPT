@@ -11508,3 +11508,21 @@ Filter: [Adam Exploits $\ell_\infty$-geometry of Loss Landscape via
   Coordinate-wise Adaptivity](http://arxiv.org/abs/2410.08198v1)
 append_entries: 0
 Finish: 2024-10-12 00:46:17.419470
+------------------------------------------------------
+Started: 2024-10-12 12:16:46.357196
+Existing_entries: 304
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts](http://arxiv.org/abs/2410.08211v1)
+Filter: [PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point
+  Supervised Oriented Object Detection](http://arxiv.org/abs/2410.08210v1)
+Filter: [SPA: 3D Spatial-Awareness Enables Effective Embodied Representation](http://arxiv.org/abs/2410.08208v1)
+Filter: [DICE: Discrete Inversion Enabling Controllable Editing for Multinomial
+  Diffusion and Masked Generative Models](http://arxiv.org/abs/2410.08207v1)
+Filter: [Interactive4D: Interactive 4D LiDAR Segmentation](http://arxiv.org/abs/2410.08206v1)
+Filter: [Complete and bi-continuous invariant of protein backbones under rigid
+  motion](http://arxiv.org/abs/2410.08203v1)
+Filter: [Efficient Dictionary Learning with Switch Sparse Autoencoders](http://arxiv.org/abs/2410.08201v1)
+Filter: [Adam Exploits $\ell_\infty$-geometry of Loss Landscape via
+  Coordinate-wise Adaptivity](http://arxiv.org/abs/2410.08198v1)
+append_entries: 0
+Finish: 2024-10-12 12:16:47.488570
