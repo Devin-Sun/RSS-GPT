@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Emerging Pixel Grounding in Large Multimodal Models Without Grounding
   Supervision</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2410.08209v1</guid>
 <content:encoded><![CDATA[
 <div> LMMs, grounding, supervision, DIFFLMM, attention maps
-<br>
+<br />
 本文研究了当前大型多模态模型（LMMs）在概念描绘方面的挑战，提出了一种新的方法来解决这一问题。作者发现，在没有明确的概念描绘监督的情况下，LMMs可以自发地产生概念描绘能力。他们提出了一种“关注和分割”方法，利用标准LMMs的注意力图来执行像素级分割。此外，他们还提出了DIFFLMM，这是一种利用基于扩散的视觉编码器的LMM，与标准的CLIP视觉编码器相反，并且使用相同的弱监督进行训练。通过这种方法，他们在概念描绘特定和一般的视觉问题回答基准上取得了竞争性的表现。特别是，在没有任何概念描绘监督的情况下，他们在概念对话生成上实现了44.2的概念蒙版召回率，优于GLaMM模型。 <div>
 Current large multimodal models (LMMs) face challenges in grounding, which
 requires the model to relate language components to visual entities. Contrary
@@ -32,7 +33,6 @@ generation without any grounding supervision, outperforming the extensively
 supervised model GLaMM. Project page: https://groundLMM.github.io.
 ]]></content:encoded>
 <pubDate>2024-10-10T17:59:55Z</pubDate>
-<pubDate>2024-10-10T17:59:55Z</pubDate>
 </item>
 <item>
 <title>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large
@@ -41,10 +41,10 @@ supervised model GLaMM. Project page: https://groundLMM.github.io.
 <guid>http://arxiv.org/abs/2410.08202v1</guid>
 <content:encoded><![CDATA[
 <div> Monolithic Multimodal Large Language Models, Visual encoding, Language decoding, Delta tuning, Endogenous Visual Pre-training
-Summary:<br>
-本文介绍了关于单体多模态大型语言模型的研究。作者提出了一种名为Mono-InternVL的新型单体MLLM，该模型通过多模态专家混合结构，无缝地集成了一组视觉专家。他们还提出了一种名为内源视觉预训练（EViP）的创新预训练策略，以最大限度地发挥Mono-InternVL的视觉能力。实验结果证实了Mono-InternVL相对于现有MLLM的优越性能，特别是在6个多模态基准测试上的表现。此外，Mono-InternVL的部署效率也得到了验证，第一个标记的延迟降低了高达67%。<br>
-<br>
-总结: <br>
+Summary:<br />
+本文介绍了关于单体多模态大型语言模型的研究。作者提出了一种名为Mono-InternVL的新型单体MLLM，该模型通过多模态专家混合结构，无缝地集成了一组视觉专家。他们还提出了一种名为内源视觉预训练（EViP）的创新预训练策略，以最大限度地发挥Mono-InternVL的视觉能力。实验结果证实了Mono-InternVL相对于现有MLLM的优越性能，特别是在6个多模态基准测试上的表现。此外，Mono-InternVL的部署效率也得到了验证，第一个标记的延迟降低了高达67%。<br />
+<br />
+总结: <br />
 - 介绍了一个名为Mono-InternVL的新型单体MLLM，该模型通过多模态专家混合结构，无缝地集成了一组视觉专家。
 - 提出了一种名为内源视觉预训练（EViP）的创新预训练策略，以最大限度地发挥Mono-InternVL的视觉能力。
 - 实验结果证实了Mono-InternVL相对于现有MLLM的优越性能，特别是在6个多模态基准测试上的表现。
@@ -76,9 +76,7 @@ also confirm its better deployment efficiency, with first token latency reduced
 by up to 67%.
 ]]></content:encoded>
 <pubDate>2024-10-10T17:59:22Z</pubDate>
-<pubDate>2024-10-10T17:59:22Z</pubDate>
 </item>
-
 <item>
 <title>MM-Ego: Towards Building Egocentric Multimodal LLMs</title>
 <link>http://arxiv.org/abs/2410.07177v1</link>
