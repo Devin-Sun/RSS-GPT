@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>SceneCraft: Layout-Guided 3D Scene Generation</title>
 <link>http://arxiv.org/abs/2410.09049v1</link>
@@ -32,9 +33,7 @@ geometry, and realistic visual quality. Code and more results are available at:
 https://orangesodahub.github.io/SceneCraft
 ]]></content:encoded>
 <pubDate>2024-10-11T17:59:58Z</pubDate>
-<pubDate>2024-10-11T17:59:58Z</pubDate>
 </item>
-
 <item>
 <title>Emerging Pixel Grounding in Large Multimodal Models Without Grounding
   Supervision</title>
