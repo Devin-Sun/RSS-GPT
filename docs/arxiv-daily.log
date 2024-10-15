@@ -11623,3 +11623,26 @@ Filter: [Design and Performance Evaluation of an Elbow-Based Biomechanical Energ
   Harvester](http://arxiv.org/abs/2410.09036v1)
 append_entries: 0
 Finish: 2024-10-15 00:48:55.735027
+------------------------------------------------------
+Started: 2024-10-15 12:19:16.418379
+Existing_entries: 305
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1695
+Summarized using GPT-3.5-turbo-1106
+Append: [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](http://arxiv.org/abs/2410.10821v1)
+Token length: 1382
+Summarized using GPT-3.5-turbo-1106
+Append: [When Does Perceptual Alignment Benefit Vision Representations?](http://arxiv.org/abs/2410.10817v1)
+Append: [TemporalBench: Benchmarking Fine-grained Temporal Understanding for
+  Multimodal Video Models](http://arxiv.org/abs/2410.10818v1)
+Filter: [DuoAttention: Efficient Long-Context LLM Inference with Retrieval and
+  Streaming Heads](http://arxiv.org/abs/2410.10819v1)
+Append: [LVD-2M: A Long-take Video Dataset with Temporally Dense Captions](http://arxiv.org/abs/2410.10816v1)
+Filter: [Depth Any Video with Scalable Synthetic Data](http://arxiv.org/abs/2410.10815v1)
+Filter: [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive
+  Memory](http://arxiv.org/abs/2410.10813v1)
+Filter: [Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free](http://arxiv.org/abs/2410.10814v1)
+Append: [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](http://arxiv.org/abs/2410.10812v1)
+Filter: [Deep Linear Probe Generators for Weight Space Learning](http://arxiv.org/abs/2410.10811v1)
+append_entries: 5
+Finish: 2024-10-15 12:19:25.293265
