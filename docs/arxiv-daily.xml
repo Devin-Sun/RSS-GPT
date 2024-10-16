@@ -4,6 +4,41 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>On the Effectiveness of Dataset Alignment for Fake Image Detection</title>
+<link>http://arxiv.org/abs/2410.11835v1</link>
+<guid>http://arxiv.org/abs/2410.11835v1</guid>
+<content:encoded><![CDATA[
+<div> fake image detector, latent diffusion models (LDMs), dataset alignment, generative models, image generation<br>
+<br>
+本文讨论了随着潜在扩散模型（LDMs）民主化图像生成能力，检测假图片的需求日益增长的问题。文章认为，除了算法选择之外，还需要一个良好对齐的真/假图像数据集来训练假图像检测器。针对LDMs家族，提出了通过使用LDMs自动编码器重建所有真实图像的简单方法来实现数据对齐。最后，通过使用非自然对象的图像构建检测器，并取得了令人满意的结果，证明了数据集对齐的有效性。整体来说，本研究确定了训练假图像检测器时出现的微妙但重要的问题，并提出了一个简单且廉价的解决方案来解决这些问题。<br><br>总结: <br>fake image detector的需求增长；LDMs的影响；数据集对齐的重要性；通过重建真实图像来实现对齐；非自然对象图像的检测效果。 <div>
+As latent diffusion models (LDMs) democratize image generation capabilities,
+there is a growing need to detect fake images. A good detector should focus on
+the generative models fingerprints while ignoring image properties such as
+semantic content, resolution, file format, etc. Fake image detectors are
+usually built in a data driven way, where a model is trained to separate real
+from fake images. Existing works primarily investigate network architecture
+choices and training recipes. In this work, we argue that in addition to these
+algorithmic choices, we also require a well aligned dataset of real/fake images
+to train a robust detector. For the family of LDMs, we propose a very simple
+way to achieve this: we reconstruct all the real images using the LDMs
+autoencoder, without any denoising operation. We then train a model to separate
+these real images from their reconstructions. The fakes created this way are
+extremely similar to the real ones in almost every aspect (e.g., size, aspect
+ratio, semantic content), which forces the model to look for the LDM decoders
+artifacts. We empirically show that this way of creating aligned real/fake
+datasets, which also sidesteps the computationally expensive denoising process,
+helps in building a detector that focuses less on spurious correlations,
+something that a very popular existing method is susceptible to. Finally, to
+demonstrate just how effective the alignment in a dataset can be, we build a
+detector using images that are not natural objects, and present promising
+results. Overall, our work identifies the subtle but significant issues that
+arise when training a fake image detector and proposes a simple and inexpensive
+solution to address these problems.
+]]></content:encoded>
+<pubDate>2024-10-15T17:58:07Z</pubDate>
+<pubDate>2024-10-15T17:58:07Z</pubDate>
+</item>
 
 <item>
 <title>Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models</title>
