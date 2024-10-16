@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models</title>
 <link>http://arxiv.org/abs/2410.10821v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 4D纹理, 三维网格, 视频扩散模型, 多视图一致, 时间一致
 
-Tex4D是一种零-shot方法，它将来自网格序列的固有3D几何知识与视频扩散模型的表达能力相结合，以产生多视图和时间一致的4D纹理。该方法通过UV空间中的潜在聚合来增强多视图一致性，在纹理合成过程中利用先前的条件视频生成模型来确保时间一致性。为了解决模糊的结果问题，对DDIM采样过程进行了简单而有效的修改。此外，引入了参考潜在纹理来加强去噪过程中帧之间的相关性。Tex4D是首个专门设计用于4D场景纹理的方法。大量实验表明，它在基于未纹理的网格序列上产生多视图和多帧一致的视频方面具有优势。 <br><br>总结: 4D纹理, 三维网格, 视频扩散模型, 多视图一致, 时间一致 <div>
+Tex4D是一种零-shot方法，它将来自网格序列的固有3D几何知识与视频扩散模型的表达能力相结合，以产生多视图和时间一致的4D纹理。该方法通过UV空间中的潜在聚合来增强多视图一致性，在纹理合成过程中利用先前的条件视频生成模型来确保时间一致性。为了解决模糊的结果问题，对DDIM采样过程进行了简单而有效的修改。此外，引入了参考潜在纹理来加强去噪过程中帧之间的相关性。Tex4D是首个专门设计用于4D场景纹理的方法。大量实验表明，它在基于未纹理的网格序列上产生多视图和多帧一致的视频方面具有优势。 <br /><br />总结: 4D纹理, 三维网格, 视频扩散模型, 多视图一致, 时间一致 <div>
 3D meshes are widely used in computer vision and graphics for their
 efficiency in animation and minimal memory use, playing a crucial role in
 movies, games, AR, and VR. However, creating temporally consistent and
@@ -37,15 +38,14 @@ its superiority in producing multi-view and multi-frame consistent videos based
 on untextured mesh sequences.
 ]]></content:encoded>
 <pubDate>2024-10-14T17:59:59Z</pubDate>
-<pubDate>2024-10-14T17:59:59Z</pubDate>
 </item>
 <item>
 <title>When Does Perceptual Alignment Benefit Vision Representations?</title>
 <link>http://arxiv.org/abs/2410.10817v1</link>
 <guid>http://arxiv.org/abs/2410.10817v1</guid>
 <content:encoded><![CDATA[
-<div> 模型表示，人类感知相似性，微调，计算机视觉任务，改进，人类知识注入<br>
-总结:<br>
+<div> 模型表示，人类感知相似性，微调，计算机视觉任务，改进，人类知识注入<br />
+总结:<br />
 这篇文章研究了如何将视觉模型表示与人类感知判断相结合，以提高在各种计算机视觉任务中的可用性。研究发现，将模型与人类感知判断对齐可以改善各种下游任务的性能，包括计数、分割、深度估计、实例检索和检索增强生成。此外，性能在医学成像和3D环境帧等特定领域的任务中得到广泛保留。研究结果表明，在视觉模型中注入关于人类感知知识的归纳偏见可以提高模型表示。 <div>
 Humans judge perceptual similarity according to diverse visual attributes,
 including scene layout, subject location, and camera pose. Existing vision
@@ -68,7 +68,6 @@ inductive bias about human perceptual knowledge into vision models can
 contribute to better representations.
 ]]></content:encoded>
 <pubDate>2024-10-14T17:59:58Z</pubDate>
-<pubDate>2024-10-14T17:59:58Z</pubDate>
 </item>
 <item>
 <title>TemporalBench: Benchmarking Fine-grained Temporal Understanding for
@@ -76,7 +75,6 @@ contribute to better representations.
 <link>http://arxiv.org/abs/2410.10818v1</link>
 <guid>http://arxiv.org/abs/2410.10818v1</guid>
 <content:encoded><![CDATA[
-
 Understanding fine-grained temporal dynamics is crucial for multimodal video
 comprehension and generation. Due to the lack of fine-grained temporal
 annotations, existing video benchmarks mostly resemble static image benchmarks
@@ -101,14 +99,12 @@ temporal reasoning capabilities. Both dataset and evaluation code will be made
 available.
 ]]></content:encoded>
 <pubDate>2024-10-14T17:59:58Z</pubDate>
-<pubDate>2024-10-14T17:59:58Z</pubDate>
 </item>
 <item>
 <title>LVD-2M: A Long-take Video Dataset with Temporally Dense Captions</title>
 <link>http://arxiv.org/abs/2410.10816v1</link>
 <guid>http://arxiv.org/abs/2410.10816v1</guid>
 <content:encoded><![CDATA[
-
 The efficacy of video generation models heavily depends on the quality of
 their training datasets. Most previous video generation models are trained on
 short video clips, while recently there has been increasing interest in
@@ -132,14 +128,12 @@ generation models to generate long videos with dynamic motions. We believe our
 work will significantly contribute to future research in long video generation.
 ]]></content:encoded>
 <pubDate>2024-10-14T17:59:56Z</pubDate>
-<pubDate>2024-10-14T17:59:56Z</pubDate>
 </item>
 <item>
 <title>HART: Efficient Visual Generation with Hybrid Autoregressive Transformer</title>
 <link>http://arxiv.org/abs/2410.10812v1</link>
 <guid>http://arxiv.org/abs/2410.10812v1</guid>
 <content:encoded><![CDATA[
-
 We introduce Hybrid Autoregressive Transformer (HART), an autoregressive (AR)
 visual generation model capable of directly generating 1024x1024 images,
 rivaling diffusion models in image generation quality. Existing AR models face
@@ -159,9 +153,7 @@ outperforms state-of-the-art diffusion models in both FID and CLIP score, with
 at https://github.com/mit-han-lab/hart.
 ]]></content:encoded>
 <pubDate>2024-10-14T17:59:42Z</pubDate>
-<pubDate>2024-10-14T17:59:42Z</pubDate>
 </item>
-
 <item>
 <title>SceneCraft: Layout-Guided 3D Scene Generation</title>
 <link>http://arxiv.org/abs/2410.09049v1</link>
