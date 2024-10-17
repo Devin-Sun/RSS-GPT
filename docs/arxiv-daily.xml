@@ -4,6 +4,68 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>The Curse of Multi-Modalities: Evaluating Hallucinations of Large
+  Multimodal Models across Language, Visual, and Audio</title>
+<link>http://arxiv.org/abs/2410.12787v1</link>
+<guid>http://arxiv.org/abs/2410.12787v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态模型、幻觉、挑战、CMM基准、研究方向
+<br><br>总结:
+最近，大型多模态模型在各种任务中性能大幅提升，但仍然面临幻觉问题。本文首次系统调查了涉及语言、视觉和音频的多模态模型中的幻觉现象。研究发现，幻觉的两个主要贡献者是对单模态先验的过度依赖和虚假的跨模态相关性。为了解决这些挑战，引入了CMM基准，全面评估了多模态模型中的幻觉现象，并提出了潜在的研究方向，以增强多模态模型的可靠性。 <div>
+Recent advancements in large multimodal models (LMMs) have significantly
+enhanced performance across diverse tasks, with ongoing efforts to further
+integrate additional modalities such as video and audio. However, most existing
+LMMs remain vulnerable to hallucinations, the discrepancy between the factual
+multimodal input and the generated textual output, which has limited their
+applicability in various real-world scenarios. This paper presents the first
+systematic investigation of hallucinations in LMMs involving the three most
+common modalities: language, visual, and audio. Our study reveals two key
+contributors to hallucinations: overreliance on unimodal priors and spurious
+inter-modality correlations. To address these challenges, we introduce the
+benchmark The Curse of Multi-Modalities (CMM), which comprehensively evaluates
+hallucinations in LMMs, providing a detailed analysis of their underlying
+issues. Our findings highlight key vulnerabilities, including imbalances in
+modality integration and biases from training data, underscoring the need for
+balanced cross-modal learning and enhanced hallucination mitigation strategies.
+Based on our observations and findings, we suggest potential research
+directions that could enhance the reliability of LMMs.
+]]></content:encoded>
+<pubDate>2024-10-16T17:59:02Z</pubDate>
+<pubDate>2024-10-16T17:59:02Z</pubDate>
+</item>
+<item>
+<title>JudgeBench: A Benchmark for Evaluating LLM-based Judges</title>
+<link>http://arxiv.org/abs/2410.12784v1</link>
+<guid>http://arxiv.org/abs/2410.12784v1</guid>
+<content:encoded><![CDATA[
+<div> 评估框架, LLM-based judges, JudgeBench, 挑战性响应对, GitHub链接
+总结:<br>
+本文提出了评估LLM-based judges准确性的新框架，以及一个名为JudgeBench的基准测试。该基准测试利用了一种新的处理流程，将现有的困难数据集转化为具有客观正确性偏好标签的挑战性响应对。研究发现，JudgeBench相比于之前的基准测试更具挑战性，许多强大的模型（如GPT-4o）的表现仅略好于随机猜测。JudgeBench为评估不断进步的LLM-based judges提供了可靠的平台。GitHub上提供了数据和代码。 <div>
+LLM-based judges have emerged as a scalable alternative to human evaluation
+and are increasingly used to assess, compare, and improve models. However, the
+reliability of LLM-based judges themselves is rarely scrutinized. As LLMs
+become more advanced, their responses grow more sophisticated, requiring
+stronger judges to evaluate them. Existing benchmarks primarily focus on a
+judge's alignment with human preferences, but often fail to account for more
+challenging tasks where crowdsourced human preference is a poor indicator of
+factual and logical correctness. To address this, we propose a novel evaluation
+framework to objectively evaluate LLM-based judges. Based on this framework, we
+propose JudgeBench, a benchmark for evaluating LLM-based judges on challenging
+response pairs spanning knowledge, reasoning, math, and coding. JudgeBench
+leverages a novel pipeline for converting existing difficult datasets into
+challenging response pairs with preference labels reflecting objective
+correctness. Our comprehensive evaluation on a collection of prompted judges,
+fine-tuned judges, multi-agent judges, and reward models shows that JudgeBench
+poses a significantly greater challenge than previous benchmarks, with many
+strong models (e.g., GPT-4o) performing just slightly better than random
+guessing. Overall, JudgeBench offers a reliable platform for assessing
+increasingly advanced LLM-based judges. Data and code are available at
+https://github.com/ScalerLab/JudgeBench .
+]]></content:encoded>
+<pubDate>2024-10-16T17:58:19Z</pubDate>
+<pubDate>2024-10-16T17:58:19Z</pubDate>
+</item>
 
 <item>
 <title>On the Effectiveness of Dataset Alignment for Fake Image Detection</title>
