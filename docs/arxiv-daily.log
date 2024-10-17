@@ -11682,3 +11682,23 @@ Filter: [Analysis and Benchmarking of Extending Blind Face Image Restoration to
   Videos](http://arxiv.org/abs/2410.11828v1)
 append_entries: 1
 Finish: 2024-10-16 12:19:18.044223
+------------------------------------------------------
+Started: 2024-10-17 00:47:58.870402
+Existing_entries: 311
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MoH: Multi-Head Attention as Mixture-of-Head Attention](http://arxiv.org/abs/2410.11842v1)
+Filter: [GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable
+  Recommendation](http://arxiv.org/abs/2410.11841v1)
+Filter: [A Hitchhiker's Guide to Scaling Law Estimation](http://arxiv.org/abs/2410.11840v1)
+Filter: [High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion](http://arxiv.org/abs/2410.11838v1)
+Filter: [Contrastive Touch-to-Touch Pretraining](http://arxiv.org/abs/2410.11834v1)
+Filter: [Mitigating Suboptimality of Deterministic Policy Gradients in Complex
+  Q-functions](http://arxiv.org/abs/2410.11833v1)
+Filter: [CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real
+  Videos](http://arxiv.org/abs/2410.11831v1)
+Filter: [MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained
+  Vision-Language Understanding](http://arxiv.org/abs/2410.11829v1)
+Filter: [Analysis and Benchmarking of Extending Blind Face Image Restoration to
+  Videos](http://arxiv.org/abs/2410.11828v1)
+append_entries: 0
+Finish: 2024-10-17 00:47:59.921963
