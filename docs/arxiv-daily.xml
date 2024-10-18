@@ -4,6 +4,97 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Fluid: Scaling Autoregressive Text-to-image Generative Models with
+  Continuous Tokens</title>
+<link>http://arxiv.org/abs/2410.13863v1</link>
+<guid>http://arxiv.org/abs/2410.13863v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: autoregressive models, text-to-image generation, discrete tokens, continuous tokens, transformer architectures
+
+总结:<br><br>这项研究调查了在文本到图像生成中的扩展问题，关注了离散或连续标记以及随机或固定光栅顺序使用BERT或GPT等变压器架构这两个关键因素。结果显示，尽管所有模型在验证损失方面有效扩展，但它们的评估性能（以FID、GenEval得分和视觉质量衡量）存在不同的趋势。基于连续标记的模型在视觉质量上明显优于使用离散标记的模型。此外，生成顺序和注意机制显著影响GenEval得分：随机顺序模型的GenEval得分明显优于光栅顺序模型。在这些发现的启发下，研究人员训练了Fluid，这是一个基于连续标记的随机顺序自回归模型。Fluid 10.5B模型在MS-COCO 30K上实现了新的零样本FID状态，为6.16，同时在GenEval基准上获得了整体得分0.69。希望这些发现和结果能够鼓励未来努力进一步弥合视觉和语言模型之间的扩展差距。 <div>
+Scaling up autoregressive models in vision has not proven as beneficial as in
+large language models. In this work, we investigate this scaling problem in the
+context of text-to-image generation, focusing on two critical factors: whether
+models use discrete or continuous tokens, and whether tokens are generated in a
+random or fixed raster order using BERT- or GPT-like transformer architectures.
+Our empirical results show that, while all models scale effectively in terms of
+validation loss, their evaluation performance -- measured by FID, GenEval
+score, and visual quality -- follows different trends. Models based on
+continuous tokens achieve significantly better visual quality than those using
+discrete tokens. Furthermore, the generation order and attention mechanisms
+significantly affect the GenEval score: random-order models achieve notably
+better GenEval scores compared to raster-order models. Inspired by these
+findings, we train Fluid, a random-order autoregressive model on continuous
+tokens. Fluid 10.5B model achieves a new state-of-the-art zero-shot FID of 6.16
+on MS-COCO 30K, and 0.69 overall score on the GenEval benchmark. We hope our
+findings and results will encourage future efforts to further bridge the
+scaling gap between vision and language models.
+]]></content:encoded>
+<pubDate>2024-10-17T17:59:59Z</pubDate>
+<pubDate>2024-10-17T17:59:59Z</pubDate>
+</item>
+<item>
+<title>PUMA: Empowering Unified MLLM with Multi-granular Visual Generation</title>
+<link>http://arxiv.org/abs/2410.13861v1</link>
+<guid>http://arxiv.org/abs/2410.13861v1</guid>
+<content:encoded><![CDATA[
+<div> 多模态基础模型，视觉-语言理解，MLLM，图像生成，PUMA
+
+这项工作介绍了PUMA，它是一种统一的MLLM框架，能够统一多粒度视觉特征作为MLLM的输入和输出，在不同图像生成任务中满足不同粒度的要求。通过多模态预训练和任务特定指导调整，PUMA在多种多模态任务中展现了出色的表现，是朝着真正统一的MLLM迈出的重要一步。PUMA的代码和模型将在https://github.com/rongyaofang/PUMA发布。<br><br>总结: 近期的多模态基础模型的进步在视觉-语言理解方面取得了显著进展。然而，现有研究不够充分地解决了统一MLLM范式下不同图像生成任务的不同粒度需求。本工作提出的PUMA能够统一多粒度视觉特征，并在多种多模态任务中展现出优异的性能，是迈向真正统一MLLM的重要一步。 <div>
+Recent advancements in multimodal foundation models have yielded significant
+progress in vision-language understanding. Initial attempts have also explored
+the potential of multimodal large language models (MLLMs) for visual content
+generation. However, existing works have insufficiently addressed the varying
+granularity demands of different image generation tasks within a unified MLLM
+paradigm - from the diversity required in text-to-image generation to the
+precise controllability needed in image manipulation. In this work, we propose
+PUMA, emPowering Unified MLLM with Multi-grAnular visual generation. PUMA
+unifies multi-granular visual features as both inputs and outputs of MLLMs,
+elegantly addressing the different granularity requirements of various image
+generation tasks within a unified MLLM framework. Following multimodal
+pretraining and task-specific instruction tuning, PUMA demonstrates proficiency
+in a wide range of multimodal tasks. This work represents a significant step
+towards a truly unified MLLM capable of adapting to the granularity demands of
+various visual tasks. The code and model will be released in
+https://github.com/rongyaofang/PUMA.
+]]></content:encoded>
+<pubDate>2024-10-17T17:59:57Z</pubDate>
+<pubDate>2024-10-17T17:59:57Z</pubDate>
+</item>
+<item>
+<title>$γ-$MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large
+  Language Models</title>
+<link>http://arxiv.org/abs/2410.13859v1</link>
+<guid>http://arxiv.org/abs/2410.13859v1</guid>
+<content:encoded><![CDATA[
+
+Despite the significant progress in multimodal large language models (MLLMs),
+their high computational cost remains a barrier to real-world deployment.
+Inspired by the mixture of depths (MoDs) in natural language processing, we aim
+to address this limitation from the perspective of ``activated tokens''. Our
+key insight is that if most tokens are redundant for the layer computation,
+then can be skipped directly via the MoD layer. However, directly converting
+the dense layers of MLLMs to MoD layers leads to substantial performance
+degradation. To address this issue, we propose an innovative MoD adaptation
+strategy for existing MLLMs called $\gamma$-MoD. In $\gamma$-MoD, a novel
+metric is proposed to guide the deployment of MoDs in the MLLM, namely rank of
+attention maps (ARank). Through ARank, we can effectively identify which layer
+is redundant and should be replaced with the MoD layer. Based on ARank, we
+further propose two novel designs to maximize the computational sparsity of
+MLLM while maintaining its performance, namely shared vision-language router
+and masked routing learning. With these designs, more than 90% dense layers of
+the MLLM can be effectively converted to the MoD ones. To validate our method,
+we apply it to three popular MLLMs, and conduct extensive experiments on 9
+benchmark datasets. Experimental results not only validate the significant
+efficiency benefit of $\gamma$-MoD to existing MLLMs but also confirm its
+generalization ability on various MLLMs. For example, with a minor performance
+drop, i.e., -1.5%, $\gamma$-MoD can reduce the training and inference time of
+LLaVA-HR by 31.0% and 53.2%, respectively.
+]]></content:encoded>
+<pubDate>2024-10-17T17:59:53Z</pubDate>
+<pubDate>2024-10-17T17:59:53Z</pubDate>
+</item>
 
 <item>
 <title>The Curse of Multi-Modalities: Evaluating Hallucinations of Large

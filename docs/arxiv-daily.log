@@ -11747,3 +11747,29 @@ Filter: [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric
   Learning and Generative Modeling on Data Manifolds](http://arxiv.org/abs/2410.12779v1)
 append_entries: 0
 Finish: 2024-10-18 00:48:16.343091
+------------------------------------------------------
+Started: 2024-10-18 12:18:43.257827
+Existing_entries: 313
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1279
+Summarized using GPT-3.5-turbo-1106
+Append: [Fluid: Scaling Autoregressive Text-to-image Generative Models with
+  Continuous Tokens](http://arxiv.org/abs/2410.13863v1)
+Filter: [UniDrive: Towards Universal Driving Perception Across Camera
+  Configurations](http://arxiv.org/abs/2410.13864v1)
+Filter: [DepthSplat: Connecting Gaussian Splatting and Depth](http://arxiv.org/abs/2410.13862v1)
+Token length: 1173
+Summarized using GPT-3.5-turbo-1106
+Append: [PUMA: Empowering Unified MLLM with Multi-granular Visual Generation](http://arxiv.org/abs/2410.13861v1)
+Filter: [VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding](http://arxiv.org/abs/2410.13860v1)
+Append: [$γ-$MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large
+  Language Models](http://arxiv.org/abs/2410.13859v1)
+Filter: [How Numerical Precision Affects Mathematical Reasoning Capabilities of
+  LLMs](http://arxiv.org/abs/2410.13857v1)
+Filter: [Diffusing States and Matching Scores: A New Framework for Imitation
+  Learning](http://arxiv.org/abs/2410.13855v1)
+Filter: [Can MLLMs Understand the Deep Implication Behind Chinese Images?](http://arxiv.org/abs/2410.13854v1)
+Filter: [AutoAL: Automated Active Learning with Differentiable Query Strategy
+  Search](http://arxiv.org/abs/2410.13853v1)
+append_entries: 3
+Finish: 2024-10-18 12:18:52.383782
