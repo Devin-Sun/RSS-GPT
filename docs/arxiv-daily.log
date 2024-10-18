@@ -11728,3 +11728,22 @@ Filter: [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric
   Learning and Generative Modeling on Data Manifolds](http://arxiv.org/abs/2410.12779v1)
 append_entries: 2
 Finish: 2024-10-17 12:19:03.735068
+------------------------------------------------------
+Started: 2024-10-18 00:48:15.328669
+Existing_entries: 313
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Context is Key(NMF): Modelling Topical Information Dynamics in Chinese
+  Diaspora Media](http://arxiv.org/abs/2410.12791v1)
+Filter: [Dual Prototype Evolving for Test-Time Generalization of Vision-Language
+  Models](http://arxiv.org/abs/2410.12790v1)
+Filter: [Meta-Chunking: Learning Efficient Text Segmentation via Logical
+  Perception](http://arxiv.org/abs/2410.12788v1)
+Filter: [Metal Price Spike Prediction via a Neurosymbolic Ensemble Approach](http://arxiv.org/abs/2410.12785v1)
+Filter: [Context-Scaling versus Task-Scaling in In-Context Learning](http://arxiv.org/abs/2410.12783v1)
+Filter: [In-Context Learning Enables Robot Action Prediction in LLMs](http://arxiv.org/abs/2410.12782v1)
+Filter: [Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage
+  Gaussian Splats](http://arxiv.org/abs/2410.12781v1)
+Filter: [Geometry-Aware Generative Autoencoders for Warped Riemannian Metric
+  Learning and Generative Modeling on Data Manifolds](http://arxiv.org/abs/2410.12779v1)
+append_entries: 0
+Finish: 2024-10-18 00:48:16.343091
