@@ -11858,3 +11858,32 @@ Filter: [AutoAL: Automated Active Learning with Differentiable Query Strategy
   Search](http://arxiv.org/abs/2410.13853v1)
 append_entries: 0
 Finish: 2024-10-21 00:50:43.603686
+------------------------------------------------------
+Started: 2024-10-21 12:19:33.714769
+Existing_entries: 316
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Are AI Detectors Good Enough? A Survey on Quality of Datasets With
+  Machine-Generated Texts](http://arxiv.org/abs/2410.14677v1)
+Filter: [SudoLM: Learning Access Control of Parametric Knowledge with
+  Authorization Alignment](http://arxiv.org/abs/2410.14676v1)
+Filter: [Enhancing Large Language Models' Situated Faithfulness to External
+  Contexts](http://arxiv.org/abs/2410.14675v1)
+Filter: [Self-supervised contrastive learning performs non-linear system
+  identification](http://arxiv.org/abs/2410.14673v1)
+Token length: 1075
+Summarized using GPT-3.5-turbo-1106
+Append: [BiGR: Harnessing Binary Latent Codes for Image Generation and Improved
+  Visual Representation Capabilities](http://arxiv.org/abs/2410.14672v1)
+Filter: [Decomposing The Dark Matter of Sparse Autoencoders](http://arxiv.org/abs/2410.14670v1)
+Filter: [NaturalBench: Evaluating Vision-Language Models on Natural Adversarial
+  Samples](http://arxiv.org/abs/2410.14669v1)
+Token length: 1193
+Summarized using GPT-3.5-turbo-1106
+Append: [MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image
+  Description and Reasoning Steps](http://arxiv.org/abs/2410.14668v1)
+Filter: [Stochastic Gradient Descent Jittering for Inverse Problems: Alleviating
+  the Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2410.14667v1)
+Filter: [DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie
+  Character-Aware Discourse Graph](http://arxiv.org/abs/2410.14666v1)
+append_entries: 2
+Finish: 2024-10-21 12:19:39.973903
