@@ -11887,3 +11887,24 @@ Filter: [DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie
   Character-Aware Discourse Graph](http://arxiv.org/abs/2410.14666v1)
 append_entries: 2
 Finish: 2024-10-21 12:19:39.973903
+------------------------------------------------------
+Started: 2024-10-22 00:49:19.908292
+Existing_entries: 318
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Are AI Detectors Good Enough? A Survey on Quality of Datasets With
+  Machine-Generated Texts](http://arxiv.org/abs/2410.14677v1)
+Filter: [SudoLM: Learning Access Control of Parametric Knowledge with
+  Authorization Alignment](http://arxiv.org/abs/2410.14676v1)
+Filter: [Enhancing Large Language Models' Situated Faithfulness to External
+  Contexts](http://arxiv.org/abs/2410.14675v1)
+Filter: [Self-supervised contrastive learning performs non-linear system
+  identification](http://arxiv.org/abs/2410.14673v1)
+Filter: [Decomposing The Dark Matter of Sparse Autoencoders](http://arxiv.org/abs/2410.14670v1)
+Filter: [NaturalBench: Evaluating Vision-Language Models on Natural Adversarial
+  Samples](http://arxiv.org/abs/2410.14669v1)
+Filter: [Stochastic Gradient Descent Jittering for Inverse Problems: Alleviating
+  the Accuracy-Robustness Tradeoff](http://arxiv.org/abs/2410.14667v1)
+Filter: [DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie
+  Character-Aware Discourse Graph](http://arxiv.org/abs/2410.14666v1)
+append_entries: 0
+Finish: 2024-10-22 00:49:21.461776
