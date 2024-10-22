@@ -11908,3 +11908,30 @@ Filter: [DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie
   Character-Aware Discourse Graph](http://arxiv.org/abs/2410.14666v1)
 append_entries: 0
 Finish: 2024-10-22 00:49:21.461776
+------------------------------------------------------
+Started: 2024-10-22 12:19:15.974098
+Existing_entries: 318
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without
+  Learned Priors](http://arxiv.org/abs/2410.16271v1)
+Filter: [MvDrag3D: Drag-based Creative 3D Editing via Multi-view
+  Generation-Reconstruction Priors](http://arxiv.org/abs/2410.16272v1)
+Filter: [Reflection-Bench: probing AI intelligence with reflection](http://arxiv.org/abs/2410.16270v1)
+Filter: [SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a
+  Training-Free Memory Tree](http://arxiv.org/abs/2410.16268v1)
+Token length: 955
+Summarized using GPT-3.5-turbo-1106
+Append: [xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video
+  Even in VLMs](http://arxiv.org/abs/2410.16267v1)
+Token length: 1331
+Summarized using GPT-3.5-turbo-1106
+Append: [3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with
+  View-consistent 2D Diffusion Priors](http://arxiv.org/abs/2410.16266v1)
+Filter: [Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5%
+  Parameters and 90% Performance](http://arxiv.org/abs/2410.16261v1)
+Append: [Agent-to-Sim: Learning Interactive Behavior Models from Casual
+  Longitudinal Videos](http://arxiv.org/abs/2410.16259v1)
+Filter: [The microscale organization of directed hypergraphs](http://arxiv.org/abs/2410.16258v1)
+Append: [Elucidating the design space of language models for image generation](http://arxiv.org/abs/2410.16257v1)
+append_entries: 4
+Finish: 2024-10-22 12:19:24.263363

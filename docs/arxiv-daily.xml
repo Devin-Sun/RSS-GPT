@@ -4,6 +4,130 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video
+  Even in VLMs</title>
+<link>http://arxiv.org/abs/2410.16267v1</link>
+<guid>http://arxiv.org/abs/2410.16267v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: xGen-MM-Vid, BLIP-3-Video, multimodal language model, temporal encoder, visual tokens
+
+这篇文章介绍了一种名为xGen-MM-Vid（BLIP-3-Video）的多模式语言模型，专门设计用于有效捕捉多帧视频的时间信息。 BLIP-3-Video利用了“时间编码器”，除了传统的视觉标记器之外，还将多帧的标记序列映射成一组紧凑的视觉标记。这使得BLIP3-Video可以使用比竞争模型（例如32 vs. 4608 tokens）少得多的视觉标记。我们尝试了不同类型的时间编码器，包括可学习的时空池化以及类似Token Turing Machines的顺序模型。实验证实，BLIP-3-Video在使用更少的视觉标记的情况下，获得了与规模大得多的最先进模型（例如34B）相当的视频问答准确性，同时更小巧高效（即4B）。项目网站：https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html
+
+<br><br>总结: 
+这篇文章介绍了一种名为xGen-MM-Vid（BLIP-3-Video）的多模式语言模型，该模型特别设计用于捕捉多帧视频的时间信息。BLIP-3-Video利用了“时间编码器”和传统的视觉标记器，使得模型可以使用更少的视觉标记。作者尝试了不同类型的时间编码器，并在实验证实BLIP-3-Video使用更少的视觉标记的情况下，在视频问答准确性方面获得了非常好的结果。 <div>
+We present xGen-MM-Vid (BLIP-3-Video): a multimodal language model for
+videos, particularly designed to efficiently capture temporal information over
+multiple frames. BLIP-3-Video takes advantage of the 'temporal encoder' in
+addition to the conventional visual tokenizer, which maps a sequence of tokens
+over multiple frames into a compact set of visual tokens. This enables
+BLIP3-Video to use much fewer visual tokens than its competing models (e.g., 32
+vs. 4608 tokens). We explore different types of temporal encoders, including
+learnable spatio-temporal pooling as well as sequential models like Token
+Turing Machines. We experimentally confirm that BLIP-3-Video obtains video
+question-answering accuracies comparable to much larger state-of-the-art models
+(e.g., 34B), while being much smaller (i.e., 4B) and more efficient by using
+fewer visual tokens. The project website is at
+https://www.salesforceairesearch.com/opensource/xGen-MM-Vid/index.html
+]]></content:encoded>
+<pubDate>2024-10-21T17:59:11Z</pubDate>
+<pubDate>2024-10-21T17:59:11Z</pubDate>
+</item>
+<item>
+<title>3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with
+  View-consistent 2D Diffusion Priors</title>
+<link>http://arxiv.org/abs/2410.16266v1</link>
+<guid>http://arxiv.org/abs/2410.16266v1</guid>
+<content:encoded><![CDATA[
+<div> novel-view synthesis, 3D Gaussian splatting, 3DGS-Enhancer, view-consistent latent features, spatial-temporal decoder 
+
+生成新视角综合是指从多个输入图像或视频生成场景的新视角，最近的技术进步如3D高斯喷溅（3DGS）在高效的流水线中实现了产生逼真渲染的显著成功。然而，在具有挑战性的情况下生成高质量的新视图，如稀疏输入视图，仍然很困难，因为欠采样区域信息不足，往往会导致明显的伪影。本文提出了3DGS-Enhancer，这是一个增强3DGS表示质量的新流水线。我们利用2D视频扩散先验来解决具有挑战性的3D视图一致性问题，将其重新制定为实现视频生成过程中的时间一致性。3DGS-Enhancer恢复了渲染新视图的具有视图一致性的潜在特征，并通过空间-时间解码器将它们与输入视图集成在一起。增强的视图然后用于微调初始3DGS模型，显著提高了其渲染性能。在大规模无限场景数据集上进行的大量实验表明，与最先进的方法相比，3DGS-Enhancer产生了优越的重建性能和高保真度的渲染结果。
+
+<br><br>总结: 
+1. 介绍了novel-view synthesis目标和3D Gaussian splatting的进展。
+2. 提出了3DGS-Enhancer，用于增强3DGS表示的质量。
+3. 利用2D视频扩散先验解决了3D视图一致性问题。
+4. 通过空间-时间解码器集成增强的视图和输入视图，并进行微调。
+5. 在大规模无限场景数据集上进行实验证明3DGS-Enhancer的卓越性能。 <div>
+Novel-view synthesis aims to generate novel views of a scene from multiple
+input images or videos, and recent advancements like 3D Gaussian splatting
+(3DGS) have achieved notable success in producing photorealistic renderings
+with efficient pipelines. However, generating high-quality novel views under
+challenging settings, such as sparse input views, remains difficult due to
+insufficient information in under-sampled areas, often resulting in noticeable
+artifacts. This paper presents 3DGS-Enhancer, a novel pipeline for enhancing
+the representation quality of 3DGS representations. We leverage 2D video
+diffusion priors to address the challenging 3D view consistency problem,
+reformulating it as achieving temporal consistency within a video generation
+process. 3DGS-Enhancer restores view-consistent latent features of rendered
+novel views and integrates them with the input views through a spatial-temporal
+decoder. The enhanced views are then used to fine-tune the initial 3DGS model,
+significantly improving its rendering performance. Extensive experiments on
+large-scale datasets of unbounded scenes demonstrate that 3DGS-Enhancer yields
+superior reconstruction performance and high-fidelity rendering results
+compared to state-of-the-art methods. The project webpage is
+https://xiliu8006.github.io/3DGS-Enhancer-project .
+]]></content:encoded>
+<pubDate>2024-10-21T17:59:09Z</pubDate>
+<pubDate>2024-10-21T17:59:09Z</pubDate>
+</item>
+<item>
+<title>Agent-to-Sim: Learning Interactive Behavior Models from Casual
+  Longitudinal Videos</title>
+<link>http://arxiv.org/abs/2410.16259v1</link>
+<guid>http://arxiv.org/abs/2410.16259v1</guid>
+<content:encoded><![CDATA[
+
+We present Agent-to-Sim (ATS), a framework for learning interactive behavior
+models of 3D agents from casual longitudinal video collections. Different from
+prior works that rely on marker-based tracking and multiview cameras, ATS
+learns natural behaviors of animal and human agents non-invasively through
+video observations recorded over a long time-span (e.g., a month) in a single
+environment. Modeling 3D behavior of an agent requires persistent 3D tracking
+(e.g., knowing which point corresponds to which) over a long time period. To
+obtain such data, we develop a coarse-to-fine registration method that tracks
+the agent and the camera over time through a canonical 3D space, resulting in a
+complete and persistent spacetime 4D representation. We then train a generative
+model of agent behaviors using paired data of perception and motion of an agent
+queried from the 4D reconstruction. ATS enables real-to-sim transfer from video
+recordings of an agent to an interactive behavior simulator. We demonstrate
+results on pets (e.g., cat, dog, bunny) and human given monocular RGBD videos
+captured by a smartphone.
+]]></content:encoded>
+<pubDate>2024-10-21T17:57:50Z</pubDate>
+<pubDate>2024-10-21T17:57:50Z</pubDate>
+</item>
+<item>
+<title>Elucidating the design space of language models for image generation</title>
+<link>http://arxiv.org/abs/2410.16257v1</link>
+<guid>http://arxiv.org/abs/2410.16257v1</guid>
+<content:encoded><![CDATA[
+
+The success of autoregressive (AR) language models in text generation has
+inspired the computer vision community to adopt Large Language Models (LLMs)
+for image generation. However, considering the essential differences between
+text and image modalities, the design space of language models for image
+generation remains underexplored. We observe that image tokens exhibit greater
+randomness compared to text tokens, which presents challenges when training
+with token prediction. Nevertheless, AR models demonstrate their potential by
+effectively learning patterns even from a seemingly suboptimal optimization
+problem. Our analysis also reveals that while all models successfully grasp the
+importance of local information in image generation, smaller models struggle to
+capture the global context. In contrast, larger models showcase improved
+capabilities in this area, helping to explain the performance gains achieved
+when scaling up model size. We further elucidate the design space of language
+models for vision generation, including tokenizer choice, model choice, model
+scalability, vocabulary design, and sampling strategy through extensive
+comparative experiments. Our work is the first to analyze the optimization
+behavior of language models in vision generation, and we believe it can inspire
+more effective designs when applying LMs to other domains. Finally, our
+elucidated language model for image generation, termed as ELM, achieves
+state-of-the-art performance on the ImageNet 256*256 benchmark. The code is
+available at https://github.com/Pepperlll/LMforImageGeneration.git.
+]]></content:encoded>
+<pubDate>2024-10-21T17:57:04Z</pubDate>
+<pubDate>2024-10-21T17:57:04Z</pubDate>
+</item>
 
 <item>
 <title>BiGR: Harnessing Binary Latent Codes for Image Generation and Improved
