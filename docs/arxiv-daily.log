@@ -11935,3 +11935,10 @@ Filter: [The microscale organization of directed hypergraphs](http://arxiv.org/a
 Append: [Elucidating the design space of language models for image generation](http://arxiv.org/abs/2410.16257v1)
 append_entries: 4
 Finish: 2024-10-22 12:19:24.263363
+------------------------------------------------------
+Started: 2024-10-23 00:47:54.666082
+Existing_entries: 322
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Feed error: 400
+append_entries: 0
+error when rendering xml, skip docs/arxiv-daily
