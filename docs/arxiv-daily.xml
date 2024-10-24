@@ -4,6 +4,132 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Prioritized Generative Replay</title>
+<link>http://arxiv.org/abs/2410.18082v1</link>
+<guid>http://arxiv.org/abs/2410.18082v1</guid>
+<content:encoded><![CDATA[
+<div> 在线强化学习，经验回放，优先级，生成模型，样本效率
+<br>
+这篇论文介绍了一种基于生成模型的在线强化学习经验存储方法，利用生成模型对过去的经验进行密集化，同时通过“相关性函数”引导新生成的经验向对学习更有帮助的部分推进。作者采用条件扩散模型和好奇心或价值为基础的简单相关性函数来实现这一方法，证明了这种方法在基于状态和像素的领域都能提高性能和样本效率。他们还揭示了这些改进的机制，展示了引导如何促进生成的转换的多样性并减少过拟合。此外，作者还展示了他们的方法如何训练具有更高更新-to-数据比率的策略，为在线强化学习代理开辟了更好的扩展途径。
+<br><br>
+总结: 在线强化学习经验存储方法的新途径，使用生成模型密集化经验，通过相关性函数引导新生成的经验，提高了性能和样本效率。 <div>
+Sample-efficient online reinforcement learning often uses replay buffers to
+store experience for reuse when updating the value function. However, uniform
+replay is inefficient, since certain classes of transitions can be more
+relevant to learning. While prioritization of more useful samples is helpful,
+this strategy can also lead to overfitting, as useful samples are likely to be
+more rare. In this work, we instead propose a prioritized, parametric version
+of an agent's memory, using generative models to capture online experience.
+This paradigm enables (1) densification of past experience, with new
+generations that benefit from the generative model's generalization capacity
+and (2) guidance via a family of "relevance functions" that push these
+generations towards more useful parts of an agent's acquired history. We show
+this recipe can be instantiated using conditional diffusion models and simple
+relevance functions such as curiosity- or value-based metrics. Our approach
+consistently improves performance and sample efficiency in both state- and
+pixel-based domains. We expose the mechanisms underlying these gains, showing
+how guidance promotes diversity in our generated transitions and reduces
+overfitting. We also showcase how our approach can train policies with even
+higher update-to-data ratios than before, opening up avenues to better scale
+online RL agents.
+]]></content:encoded>
+<pubDate>2024-10-23T17:59:52Z</pubDate>
+<pubDate>2024-10-23T17:59:52Z</pubDate>
+</item>
+<item>
+<title>UnCLe: Unsupervised Continual Learning of Depth Completion</title>
+<link>http://arxiv.org/abs/2410.18074v1</link>
+<guid>http://arxiv.org/abs/2410.18074v1</guid>
+<content:encoded><![CDATA[
+<div> UnCLe, benchmark, unsupervised continual learning, depth completion, catastrophic forgetting
+<br>
+UnCLe是一个针对多模态深度估计任务的无监督持续学习的标准基准。它旨在评估深度完成模型在连续数据流的实际情况下的表现。现有方法通常在静态数据集上进行训练，但是当适应新的非静态分布时，它们会“灾难性地遗忘”先前学到的信息。UnCLe通过使深度完成模型适应包含不同场景、不同领域和不同视觉和范围传感器捕获的数据集序列来模拟这些非静态分布。我们采用持续学习范例中的代表性方法，并将它们转化为支持无监督深度完成的持续学习。我们对室内和室外的深度完成模型进行基准测试，并通过标准的定量指标调查灾难性遗忘的程度。此外，我们引入了模型反演质量作为遗忘的额外衡量标准。我们发现无监督深度完成的持续学习是一个未解决的问题，并邀请研究人员利用UnCLe作为开发平台。 
+<br><br>总结: UnCLe是一个针对无监督持续学习深度完成任务的标准基准，旨在评估模型在连续数据流中的表现。它模拟了非静态分布，采用持续学习方法，并引入新的衡量指标。 <div>
+We propose UnCLe, a standardized benchmark for Unsupervised Continual
+Learning of a multimodal depth estimation task: Depth completion aims to infer
+a dense depth map from a pair of synchronized RGB image and sparse depth map.
+We benchmark depth completion models under the practical scenario of
+unsupervised learning over continuous streams of data. Existing methods are
+typically trained on a static, or stationary, dataset. However, when adapting
+to novel non-stationary distributions, they "catastrophically forget"
+previously learned information. UnCLe simulates these non-stationary
+distributions by adapting depth completion models to sequences of datasets
+containing diverse scenes captured from distinct domains using different visual
+and range sensors. We adopt representative methods from continual learning
+paradigms and translate them to enable unsupervised continual learning of depth
+completion. We benchmark these models for indoor and outdoor and investigate
+the degree of catastrophic forgetting through standard quantitative metrics.
+Furthermore, we introduce model inversion quality as an additional measure of
+forgetting. We find that unsupervised continual learning of depth completion is
+an open problem, and we invite researchers to leverage UnCLe as a development
+platform.
+]]></content:encoded>
+<pubDate>2024-10-23T17:56:33Z</pubDate>
+<pubDate>2024-10-23T17:56:33Z</pubDate>
+</item>
+<item>
+<title>WorldSimBench: Towards Video Generation Models as World Simulators</title>
+<link>http://arxiv.org/abs/2410.18072v1</link>
+<guid>http://arxiv.org/abs/2410.18072v1</guid>
+<content:encoded><![CDATA[
+
+Recent advancements in predictive models have demonstrated exceptional
+capabilities in predicting the future state of objects and scenes. However, the
+lack of categorization based on inherent characteristics continues to hinder
+the progress of predictive model development. Additionally, existing benchmarks
+are unable to effectively evaluate higher-capability, highly embodied
+predictive models from an embodied perspective. In this work, we classify the
+functionalities of predictive models into a hierarchy and take the first step
+in evaluating World Simulators by proposing a dual evaluation framework called
+WorldSimBench. WorldSimBench includes Explicit Perceptual Evaluation and
+Implicit Manipulative Evaluation, encompassing human preference assessments
+from the visual perspective and action-level evaluations in embodied tasks,
+covering three representative embodied scenarios: Open-Ended Embodied
+Environment, Autonomous, Driving, and Robot Manipulation. In the Explicit
+Perceptual Evaluation, we introduce the HF-Embodied Dataset, a video assessment
+dataset based on fine-grained human feedback, which we use to train a Human
+Preference Evaluator that aligns with human perception and explicitly assesses
+the visual fidelity of World Simulators. In the Implicit Manipulative
+Evaluation, we assess the video-action consistency of World Simulators by
+evaluating whether the generated situation-aware video can be accurately
+translated into the correct control signals in dynamic environments. Our
+comprehensive evaluation offers key insights that can drive further innovation
+in video generation models, positioning World Simulators as a pivotal
+advancement toward embodied artificial intelligence.
+]]></content:encoded>
+<pubDate>2024-10-23T17:56:11Z</pubDate>
+<pubDate>2024-10-23T17:56:11Z</pubDate>
+</item>
+<item>
+<title>TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing
+  Prompts</title>
+<link>http://arxiv.org/abs/2410.18071v1</link>
+<guid>http://arxiv.org/abs/2410.18071v1</guid>
+<content:encoded><![CDATA[
+
+Recently, multimodal large language models (MLLMs) have received much
+attention for their impressive capabilities. The evaluation of MLLMs is
+becoming critical to analyzing attributes of MLLMs and providing valuable
+insights. However, current benchmarks overlook the problem of prompt
+sensitivity - minor prompt variations may lead to significant performance
+fluctuations. Thus, inappropriate prompts may obscure the models' capabilities,
+underestimating the models' performance. Moreover, different models have
+different preferences for different prompts, and thus, using the same prompt
+for all models will cause evaluation bias. This paper analyzes this deficiency
+in existing benchmarks and further introduces a new evaluation framework named
+TP-Eval, which introduces a prompt customization method to reduce evaluation
+biases and tap models' potential. TP-Eval will rewrite the original prompts to
+different customized prompts for different models. In particular, we propose
+some well-designed modules for prompt customization tailored to the scenario of
+MLLM evaluation. Extensive experiments demonstrate the effectiveness of our
+approach to uncovering models' capabilities, and TP-Eval should benefit the
+community in developing more comprehensive and convincing MLLM evaluation
+benchmarks.
+]]></content:encoded>
+<pubDate>2024-10-23T17:54:43Z</pubDate>
+<pubDate>2024-10-23T17:54:43Z</pubDate>
+</item>
 
 <item>
 <title>Altogether: Image Captioning via Re-aligning Alt-text</title>
