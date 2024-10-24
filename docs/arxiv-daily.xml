@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Altogether: Image Captioning via Re-aligning Alt-text</title>
 <link>http://arxiv.org/abs/2410.17251v1</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 关键词: 合成数据, 图像标题, Alt-text, 训练数据, 人工标注
 总结: 
-合成数据方法用于改善图像标题质量，弥补现有方法的不足。该方法通过编辑和重新对齐现有的Alt-text，进行人工标注，生成训练数据并训练图像标题生成模型。研究结果表明，这种方法可以生成更丰富的图像标题，同时改善文本到图像生成和零样本图像分类任务的表现。这一方法突破了以往对图像标题生成的传统做法，并具有较高的实用性和可行性。<br><br> <div>
+合成数据方法用于改善图像标题质量，弥补现有方法的不足。该方法通过编辑和重新对齐现有的Alt-text，进行人工标注，生成训练数据并训练图像标题生成模型。研究结果表明，这种方法可以生成更丰富的图像标题，同时改善文本到图像生成和零样本图像分类任务的表现。这一方法突破了以往对图像标题生成的传统做法，并具有较高的实用性和可行性。<br /><br /> <div>
 This paper focuses on creating synthetic data to improve the quality of image
 captions. Existing works typically have two shortcomings. First, they caption
 images from scratch, ignoring existing alt-text metadata, and second, lack
@@ -28,7 +29,6 @@ results show our Altogether approach leads to richer image captions that also
 improve text-to-image generation and zero-shot image classification tasks.
 ]]></content:encoded>
 <pubDate>2024-10-22T17:59:57Z</pubDate>
-<pubDate>2024-10-22T17:59:57Z</pubDate>
 </item>
 <item>
 <title>Frontiers in Intelligent Colonoscopy</title>
@@ -37,7 +37,7 @@ improve text-to-image generation and zero-shot image classification tasks.
 <content:encoded><![CDATA[
 <div> 关键词: Colonoscopy, Multimodal, Scene perception, Vision-language understanding, Intelligent techniques
 
-总结:<br><br>本研究探讨了智能结肠镜技术及其对多模式医疗应用的潜在影响。首先通过对结肠镜场景感知的四项任务进行评估，包括分类、检测、分割和视觉语言理解，以了解当前的数据中心和模型中心情况。评估结果揭示了多模式结肠镜研究仍然有待进一步探索的挑战。为了迎接多模式时代的到来，我们建立了三个基础倡议：一个大规模的多模式指导调整数据集 ColonINST，一个专门针对结肠镜设计的多模式语言模型ColonGPT，以及一个多模式基准。为了促进对这一快速发展领域的持续监测，我们提供了一个用于最新更新的公共网站：https://github.com/ai4colonoscopy/IntelliScope。 <div>
+总结:<br /><br />本研究探讨了智能结肠镜技术及其对多模式医疗应用的潜在影响。首先通过对结肠镜场景感知的四项任务进行评估，包括分类、检测、分割和视觉语言理解，以了解当前的数据中心和模型中心情况。评估结果揭示了多模式结肠镜研究仍然有待进一步探索的挑战。为了迎接多模式时代的到来，我们建立了三个基础倡议：一个大规模的多模式指导调整数据集 ColonINST，一个专门针对结肠镜设计的多模式语言模型ColonGPT，以及一个多模式基准。为了促进对这一快速发展领域的持续监测，我们提供了一个用于最新更新的公共网站：https://github.com/ai4colonoscopy/IntelliScope。 <div>
 Colonoscopy is currently one of the most sensitive screening methods for
 colorectal cancer. This study investigates the frontiers of intelligent
 colonoscopy techniques and their prospective implications for multimodal
@@ -54,9 +54,7 @@ rapidly evolving field, we provide a public website for the latest updates:
 https://github.com/ai4colonoscopy/IntelliScope.
 ]]></content:encoded>
 <pubDate>2024-10-22T17:57:12Z</pubDate>
-<pubDate>2024-10-22T17:57:12Z</pubDate>
 </item>
-
 <item>
 <title>xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video
   Even in VLMs</title>

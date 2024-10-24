@@ -11967,3 +11967,22 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Frontiers in Intelligent Colonoscopy](http://arxiv.org/abs/2410.17241v1)
 append_entries: 2
 Finish: 2024-10-23 12:19:17.803932
+------------------------------------------------------
+Started: 2024-10-24 00:48:16.074131
+Existing_entries: 324
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](http://arxiv.org/abs/2410.17249v1)
+Filter: [JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding
+  Benchmark for Culture-aware Evaluation](http://arxiv.org/abs/2410.17250v1)
+Filter: [HyperspectralViTs: Fast and Accurate methane detection on-board
+  satellites](http://arxiv.org/abs/2410.17248v1)
+Filter: [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid
+  Visual Redundancy Reduction](http://arxiv.org/abs/2410.17247v1)
+Filter: [Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile
+  Skins](http://arxiv.org/abs/2410.17246v1)
+Filter: [Towards Reliable Evaluation of Behavior Steering Interventions in LLMs](http://arxiv.org/abs/2410.17245v1)
+Filter: [Breaking the Memory Barrier: Near Infinite Batch Size Scaling for
+  Contrastive Loss](http://arxiv.org/abs/2410.17243v1)
+Filter: [LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias](http://arxiv.org/abs/2410.17242v1)
+append_entries: 0
+Finish: 2024-10-24 00:48:17.133947
