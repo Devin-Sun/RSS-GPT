@@ -12009,3 +12009,17 @@ Append: [TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing
   Prompts](http://arxiv.org/abs/2410.18071v1)
 append_entries: 4
 Finish: 2024-10-24 12:19:03.821851
+------------------------------------------------------
+Started: 2024-10-25 00:49:02.320853
+Existing_entries: 328
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes](http://arxiv.org/abs/2410.18084v1)
+Filter: [FIPER: Generalizable Factorized Fields for Joint Image Compression and
+  Super-Resolution](http://arxiv.org/abs/2410.18083v1)
+Filter: [FreeVS: Generative View Synthesis on Free Driving Trajectory](http://arxiv.org/abs/2410.18079v1)
+Filter: [ALTA: Compiler-Based Analysis of Transformers](http://arxiv.org/abs/2410.18077v1)
+Filter: [Leveraging Skills from Unlabeled Prior Data for Efficient Online
+  Exploration](http://arxiv.org/abs/2410.18076v1)
+Filter: [ProFL: Performative Robust Optimal Federated Learning](http://arxiv.org/abs/2410.18075v1)
+append_entries: 0
+Finish: 2024-10-25 00:49:05.784720
