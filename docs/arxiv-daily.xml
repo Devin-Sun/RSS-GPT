@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>CAMEL-Bench: A Comprehensive Arabic LMM Benchmark</title>
 <link>http://arxiv.org/abs/2410.18976v1</link>
 <guid>http://arxiv.org/abs/2410.18976v1</guid>
 <content:encoded><![CDATA[
-<div> LMMs, Arabic language, CAMEL-Bench, evaluation, model assessment <br>
-本研究开发了一个全面的阿拉伯语LMM评估基准(CAMEL-Bench)，包括8个不同领域和38个子域，涵盖了多种视觉推理和理解任务。CAMEL-Bench包括约29,036个问题，由母语为阿拉伯语的人员进行质量验证，以确保模型评估的可靠性。对闭源和开源的LMM进行评估分析，发现即使是闭源的GPT-4o也只能达到整体分数的62%。我们的评估基准和脚本都是开源的。总结：<br>
+<div> LMMs, Arabic language, CAMEL-Bench, evaluation, model assessment <br />
+本研究开发了一个全面的阿拉伯语LMM评估基准(CAMEL-Bench)，包括8个不同领域和38个子域，涵盖了多种视觉推理和理解任务。CAMEL-Bench包括约29,036个问题，由母语为阿拉伯语的人员进行质量验证，以确保模型评估的可靠性。对闭源和开源的LMM进行评估分析，发现即使是闭源的GPT-4o也只能达到整体分数的62%。我们的评估基准和脚本都是开源的。总结：<br />
 1. 开发了阿拉伯语LMM评估基准CAMEL-Bench；
 2. CAMEL-Bench包括8个领域和38个子域，涵盖广泛的场景；
 3. 验证了约29,036个问题的质量；
@@ -36,7 +37,6 @@ among the best open-source models, with even the closed-source GPT-4o achieving
 an overall score of 62%. Our benchmark and evaluation scripts are open-sourced.
 ]]></content:encoded>
 <pubDate>2024-10-24T17:59:38Z</pubDate>
-<pubDate>2024-10-24T17:59:38Z</pubDate>
 </item>
 <item>
 <title>3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D
@@ -46,7 +46,7 @@ an overall score of 62%. Our benchmark and evaluation scripts are open-sourced.
 <content:encoded><![CDATA[
 <div> 3D-Adapter, 3D geometry awareness, image diffusion models, 3D generation, pretrained base model
 
-总结:<br><br>这篇文章介绍了3D-Adapter，一个能够将3D几何意识融入预训练图像扩散模型的插件模块。作者提出了3D反馈增强的概念，通过这一理念，3D-Adapter能够解码中间的多视图特征成一致的3D表示，然后重新编码渲染的RGBD视图，通过特征相加来增强预训练基础模型。作者研究了两个3D-Adapter的变体：一个快速的前馈版本和一个多功能的无需训练的版本。实验结果表明，3D-Adapter不仅大大提高了文本到多视图模型的几何质量，还使得使用文本到图像Stable Diffusion模型能够实现高质量的3D生成。此外，作者还展示了3D-Adapter广泛的应用潜力，包括在文本到3D、图像到3D、文本到纹理和文本到头像任务中获得了高质量的结果。 <div>
+总结:<br /><br />这篇文章介绍了3D-Adapter，一个能够将3D几何意识融入预训练图像扩散模型的插件模块。作者提出了3D反馈增强的概念，通过这一理念，3D-Adapter能够解码中间的多视图特征成一致的3D表示，然后重新编码渲染的RGBD视图，通过特征相加来增强预训练基础模型。作者研究了两个3D-Adapter的变体：一个快速的前馈版本和一个多功能的无需训练的版本。实验结果表明，3D-Adapter不仅大大提高了文本到多视图模型的几何质量，还使得使用文本到图像Stable Diffusion模型能够实现高质量的3D生成。此外，作者还展示了3D-Adapter广泛的应用潜力，包括在文本到3D、图像到3D、文本到纹理和文本到头像任务中获得了高质量的结果。 <div>
 Multi-view image diffusion models have significantly advanced open-domain 3D
 object generation. However, most existing models rely on 2D network
 architectures that lack inherent 3D biases, resulting in compromised geometric
@@ -66,7 +66,6 @@ broad application potential of 3D-Adapter by presenting high quality results in
 text-to-3D, image-to-3D, text-to-texture, and text-to-avatar tasks.
 ]]></content:encoded>
 <pubDate>2024-10-24T17:59:30Z</pubDate>
-<pubDate>2024-10-24T17:59:30Z</pubDate>
 </item>
 <item>
 <title>Deep Insights into Cognitive Decline: A Survey of Leveraging
@@ -74,7 +73,6 @@ text-to-3D, image-to-3D, text-to-texture, and text-to-avatar tasks.
 <link>http://arxiv.org/abs/2410.18972v1</link>
 <guid>http://arxiv.org/abs/2410.18972v1</guid>
 <content:encoded><![CDATA[
-
 Cognitive decline is a natural part of aging, often resulting in reduced
 cognitive abilities. In some cases, however, this decline is more pronounced,
 typically due to disorders such as Alzheimer's disease. Early detection of
@@ -97,9 +95,7 @@ a multimodal model consistently enhances performance across nearly all
 scenarios.
 ]]></content:encoded>
 <pubDate>2024-10-24T17:59:21Z</pubDate>
-<pubDate>2024-10-24T17:59:21Z</pubDate>
 </item>
-
 <item>
 <title>Prioritized Generative Replay</title>
 <link>http://arxiv.org/abs/2410.18082v1</link>
