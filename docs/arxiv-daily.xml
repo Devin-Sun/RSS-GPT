@@ -4,6 +4,101 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>CAMEL-Bench: A Comprehensive Arabic LMM Benchmark</title>
+<link>http://arxiv.org/abs/2410.18976v1</link>
+<guid>http://arxiv.org/abs/2410.18976v1</guid>
+<content:encoded><![CDATA[
+<div> LMMs, Arabic language, CAMEL-Bench, evaluation, model assessment <br>
+本研究开发了一个全面的阿拉伯语LMM评估基准(CAMEL-Bench)，包括8个不同领域和38个子域，涵盖了多种视觉推理和理解任务。CAMEL-Bench包括约29,036个问题，由母语为阿拉伯语的人员进行质量验证，以确保模型评估的可靠性。对闭源和开源的LMM进行评估分析，发现即使是闭源的GPT-4o也只能达到整体分数的62%。我们的评估基准和脚本都是开源的。总结：<br>
+1. 开发了阿拉伯语LMM评估基准CAMEL-Bench；
+2. CAMEL-Bench包括8个领域和38个子域，涵盖广泛的场景；
+3. 验证了约29,036个问题的质量；
+4. 对闭源和开源的LMM进行了评估分析；
+5. 发现模型需要显著改进。 <div>
+Recent years have witnessed a significant interest in developing large
+multimodal models (LMMs) capable of performing various visual reasoning and
+understanding tasks. This has led to the introduction of multiple LMM
+benchmarks to evaluate LMMs on different tasks. However, most existing LMM
+evaluation benchmarks are predominantly English-centric. In this work, we
+develop a comprehensive LMM evaluation benchmark for the Arabic language to
+represent a large population of over 400 million speakers. The proposed
+benchmark, named CAMEL-Bench, comprises eight diverse domains and 38
+sub-domains including, multi-image understanding, complex visual perception,
+handwritten document understanding, video understanding, medical imaging, plant
+diseases, and remote sensing-based land use understanding to evaluate broad
+scenario generalizability. Our CAMEL-Bench comprises around 29,036 questions
+that are filtered from a larger pool of samples, where the quality is manually
+verified by native speakers to ensure reliable model assessment. We conduct
+evaluations of both closed-source, including GPT-4 series, and open-source
+LMMs. Our analysis reveals the need for substantial improvement, especially
+among the best open-source models, with even the closed-source GPT-4o achieving
+an overall score of 62%. Our benchmark and evaluation scripts are open-sourced.
+]]></content:encoded>
+<pubDate>2024-10-24T17:59:38Z</pubDate>
+<pubDate>2024-10-24T17:59:38Z</pubDate>
+</item>
+<item>
+<title>3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D
+  Generation</title>
+<link>http://arxiv.org/abs/2410.18974v1</link>
+<guid>http://arxiv.org/abs/2410.18974v1</guid>
+<content:encoded><![CDATA[
+<div> 3D-Adapter, 3D geometry awareness, image diffusion models, 3D generation, pretrained base model
+
+总结:<br><br>这篇文章介绍了3D-Adapter，一个能够将3D几何意识融入预训练图像扩散模型的插件模块。作者提出了3D反馈增强的概念，通过这一理念，3D-Adapter能够解码中间的多视图特征成一致的3D表示，然后重新编码渲染的RGBD视图，通过特征相加来增强预训练基础模型。作者研究了两个3D-Adapter的变体：一个快速的前馈版本和一个多功能的无需训练的版本。实验结果表明，3D-Adapter不仅大大提高了文本到多视图模型的几何质量，还使得使用文本到图像Stable Diffusion模型能够实现高质量的3D生成。此外，作者还展示了3D-Adapter广泛的应用潜力，包括在文本到3D、图像到3D、文本到纹理和文本到头像任务中获得了高质量的结果。 <div>
+Multi-view image diffusion models have significantly advanced open-domain 3D
+object generation. However, most existing models rely on 2D network
+architectures that lack inherent 3D biases, resulting in compromised geometric
+consistency. To address this challenge, we introduce 3D-Adapter, a plug-in
+module designed to infuse 3D geometry awareness into pretrained image diffusion
+models. Central to our approach is the idea of 3D feedback augmentation: for
+each denoising step in the sampling loop, 3D-Adapter decodes intermediate
+multi-view features into a coherent 3D representation, then re-encodes the
+rendered RGBD views to augment the pretrained base model through feature
+addition. We study two variants of 3D-Adapter: a fast feed-forward version
+based on Gaussian splatting and a versatile training-free version utilizing
+neural fields and meshes. Our extensive experiments demonstrate that 3D-Adapter
+not only greatly enhances the geometry quality of text-to-multi-view models
+such as Instant3D and Zero123++, but also enables high-quality 3D generation
+using the plain text-to-image Stable Diffusion. Furthermore, we showcase the
+broad application potential of 3D-Adapter by presenting high quality results in
+text-to-3D, image-to-3D, text-to-texture, and text-to-avatar tasks.
+]]></content:encoded>
+<pubDate>2024-10-24T17:59:30Z</pubDate>
+<pubDate>2024-10-24T17:59:30Z</pubDate>
+</item>
+<item>
+<title>Deep Insights into Cognitive Decline: A Survey of Leveraging
+  Non-Intrusive Modalities with Deep Learning Techniques</title>
+<link>http://arxiv.org/abs/2410.18972v1</link>
+<guid>http://arxiv.org/abs/2410.18972v1</guid>
+<content:encoded><![CDATA[
+
+Cognitive decline is a natural part of aging, often resulting in reduced
+cognitive abilities. In some cases, however, this decline is more pronounced,
+typically due to disorders such as Alzheimer's disease. Early detection of
+anomalous cognitive decline is crucial, as it can facilitate timely
+professional intervention. While medical data can help in this detection, it
+often involves invasive procedures. An alternative approach is to employ
+non-intrusive techniques such as speech or handwriting analysis, which do not
+necessarily affect daily activities. This survey reviews the most relevant
+methodologies that use deep learning techniques to automate the cognitive
+decline estimation task, including audio, text, and visual processing. We
+discuss the key features and advantages of each modality and methodology,
+including state-of-the-art approaches like Transformer architecture and
+foundation models. In addition, we present works that integrate different
+modalities to develop multimodal models. We also highlight the most significant
+datasets and the quantitative results from studies using these resources. From
+this review, several conclusions emerge. In most cases, the textual modality
+achieves the best results and is the most relevant for detecting cognitive
+decline. Moreover, combining various approaches from individual modalities into
+a multimodal model consistently enhances performance across nearly all
+scenarios.
+]]></content:encoded>
+<pubDate>2024-10-24T17:59:21Z</pubDate>
+<pubDate>2024-10-24T17:59:21Z</pubDate>
+</item>
 
 <item>
 <title>Prioritized Generative Replay</title>
