@@ -12107,3 +12107,24 @@ Filter: [ConceptDrift: Uncovering Biases through the Lens of Foundational Models
 Filter: [Self-Improving Autonomous Underwater Manipulation](http://arxiv.org/abs/2410.18969v1)
 append_entries: 0
 Finish: 2024-10-28 00:51:28.959538
+------------------------------------------------------
+Started: 2024-10-28 12:19:47.688674
+Existing_entries: 331
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Model merging with SVD to tie the Knots](http://arxiv.org/abs/2410.19735v1)
+Filter: [The Potential and Value of AI Chatbot in Personalized Cognitive Training](http://arxiv.org/abs/2410.19733v1)
+Filter: [Rethinking Visual Dependency in Long-Context Reasoning for Large
+  Vision-Language Models](http://arxiv.org/abs/2410.19732v1)
+Filter: [Counting Ability of Large Language Models and Impact of Tokenization](http://arxiv.org/abs/2410.19730v1)
+Filter: [cymyc -- Calabi-Yau Metrics, Yukawas, and Curvature](http://arxiv.org/abs/2410.19728v1)
+Token length: 1218
+Summarized using GPT-3.5-turbo-1106
+Append: [FISHNET: Financial Intelligence from Sub-querying, Harmonizing,
+  Neural-Conditioning, Expert Swarms, and Task Planning](http://arxiv.org/abs/2410.19727v1)
+Filter: [On the Benefits of Active Data Collection in Operator Learning](http://arxiv.org/abs/2410.19725v1)
+Filter: [Sparse Decomposition of Graph Neural Networks](http://arxiv.org/abs/2410.19723v1)
+Filter: [Temporal Convolution-based Hybrid Model Approach with Representation
+  Learning for Real-Time Acoustic Anomaly Detection](http://arxiv.org/abs/2410.19722v1)
+Filter: [Validity in Network-Agnostic Byzantine Agreement](http://arxiv.org/abs/2410.19721v1)
+append_entries: 1
+Finish: 2024-10-28 12:19:51.581112
