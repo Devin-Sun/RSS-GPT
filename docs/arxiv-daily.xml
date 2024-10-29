@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FISHNET: Financial Intelligence from Sub-querying, Harmonizing,
   Neural-Conditioning, Expert Swarms, and Task Planning</title>
@@ -13,7 +14,7 @@
 <div> 关键词: 金融智能、大数据、LLM、FISHNET、机构架构
 
 总结:
-金融智能的生成通常依赖于传统的知识图谱构建或数据库工程方法。最近出现了经过精细调整的金融领域特定的大型语言模型（LLMs）。然而，存在推理成本高、幻觉和同时分析高维金融数据的复杂性等限制。因此，研发了FISHNET（Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert swarming, and Task planning）系统，该系统是一个代理机构架构，可以为98000多个金融监管文件执行高度复杂的分析任务。FISHNET在金融洞察能力方面表现出色（5.0% Routing下61.8%成功率，45.6% RAG R-Precision）。通过严格的剔除实验证明了FISHNET的成功、每个代理的重要性以及组装所有代理的优化性能。这种模块化的架构可以用于多种用例，实现了对金融任务至关重要的可伸缩性、灵活性和数据完整性。<br><br> <div>
+金融智能的生成通常依赖于传统的知识图谱构建或数据库工程方法。最近出现了经过精细调整的金融领域特定的大型语言模型（LLMs）。然而，存在推理成本高、幻觉和同时分析高维金融数据的复杂性等限制。因此，研发了FISHNET（Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert swarming, and Task planning）系统，该系统是一个代理机构架构，可以为98000多个金融监管文件执行高度复杂的分析任务。FISHNET在金融洞察能力方面表现出色（5.0% Routing下61.8%成功率，45.6% RAG R-Precision）。通过严格的剔除实验证明了FISHNET的成功、每个代理的重要性以及组装所有代理的优化性能。这种模块化的架构可以用于多种用例，实现了对金融任务至关重要的可伸缩性、灵活性和数据完整性。<br /><br /> <div>
 Financial intelligence generation from vast data sources has typically relied
 on traditional methods of knowledge-graph construction or database engineering.
 Recently, fine-tuned financial domain-specific Large Language Models (LLMs),
@@ -32,9 +33,7 @@ leveraged for a myriad of use-cases, enabling scalability, flexibility, and
 data integrity that are critical for financial tasks.
 ]]></content:encoded>
 <pubDate>2024-10-25T17:53:47Z</pubDate>
-<pubDate>2024-10-25T17:53:47Z</pubDate>
 </item>
-
 <item>
 <title>CAMEL-Bench: A Comprehensive Arabic LMM Benchmark</title>
 <link>http://arxiv.org/abs/2410.18976v1</link>
