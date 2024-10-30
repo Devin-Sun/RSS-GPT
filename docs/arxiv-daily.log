@@ -12166,3 +12166,24 @@ Filter: [Online Weighted Paging with Unknown Weights](http://arxiv.org/abs/2410.
 Filter: [Modular Duality in Deep Learning](http://arxiv.org/abs/2410.21265v1)
 append_entries: 0
 Finish: 2024-10-29 12:19:30.453487
+------------------------------------------------------
+Started: 2024-10-30 00:49:24.325344
+Existing_entries: 332
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Enhancing Action Recognition by Leveraging the Hierarchical Structure of
+  Actions and Textual Context](http://arxiv.org/abs/2410.21275v1)
+Filter: [High-level hybridization of heuristics and metaheuristics to solve
+  symmetric TSP: a comparative study](http://arxiv.org/abs/2410.21274v1)
+Filter: [On Inductive Biases That Enable Generalization of Diffusion Transformers](http://arxiv.org/abs/2410.21273v1)
+Filter: [Arithmetic Without Algorithms: Language Models Solve Math With a Bag of
+  Heuristics](http://arxiv.org/abs/2410.21272v1)
+Filter: [EoRA: Training-free Compensation for Compressed LLM with Eigenspace
+  Low-Rank Approximation](http://arxiv.org/abs/2410.21271v1)
+Filter: [Strategic Electric Distribution Network Sensing via Spectral Bandits](http://arxiv.org/abs/2410.21270v1)
+Filter: [OmniSep: Unified Omni-Modality Sound Separation with Query-Mixup](http://arxiv.org/abs/2410.21269v1)
+Filter: [Optimizing Puncturing Patterns of 5G NR LDPC Codes for Few-Iteration
+  Decoding](http://arxiv.org/abs/2410.21267v1)
+Filter: [Online Weighted Paging with Unknown Weights](http://arxiv.org/abs/2410.21266v1)
+Filter: [Modular Duality in Deep Learning](http://arxiv.org/abs/2410.21265v1)
+append_entries: 0
+Finish: 2024-10-30 00:49:25.114601
