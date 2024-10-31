@@ -4,6 +4,78 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>RelationBooth: Towards Relation-Aware Customized Object Generation</title>
+<link>http://arxiv.org/abs/2410.23280v1</link>
+<guid>http://arxiv.org/abs/2410.23280v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 用户提供的图像提示, 文本到图像生成模型, 关系感知定制图像生成, RelationBooth, 数据集和训练
+
+总结:<br><br>这篇文章介绍了关系感知定制图像生成的重要性，指出现有模型常常忽视生成图像中定制对象之间的关系。为了填补这一空白，文章提出了一个名为RelationBooth的框架，以一套精心策划的数据集用于训练，包括关系特定的图像、包含身份信息的独立对象图像和文本提示。文章介绍了两个关键模块，分别用于解决生成准确和自然的关系以及避免对象重叠引起的混淆。经过广泛的基准测试，RelationBooth在生成精确的关系的同时保持了一系列对象和关系的身份，表现优越。源代码和训练模型将向公众开放。 <div>
+Customized image generation is crucial for delivering personalized content
+based on user-provided image prompts, aligning large-scale text-to-image
+diffusion models with individual needs. However, existing models often overlook
+the relationships between customized objects in generated images. Instead, this
+work addresses that gap by focusing on relation-aware customized image
+generation, which aims to preserve the identities from image prompts while
+maintaining the predicate relations described in text prompts. Specifically, we
+introduce RelationBooth, a framework that disentangles identity and relation
+learning through a well-curated dataset. Our training data consists of
+relation-specific images, independent object images containing identity
+information, and text prompts to guide relation generation. Then, we propose
+two key modules to tackle the two main challenges: generating accurate and
+natural relations, especially when significant pose adjustments are required,
+and avoiding object confusion in cases of overlap. First, we introduce a
+keypoint matching loss that effectively guides the model in adjusting object
+poses closely tied to their relationships. Second, we incorporate local
+features from the image prompts to better distinguish between objects,
+preventing confusion in overlapping cases. Extensive results on three
+benchmarks demonstrate the superiority of RelationBooth in generating precise
+relations while preserving object identities across a diverse set of objects
+and relations. The source code and trained models will be made available to the
+public.
+]]></content:encoded>
+<pubDate>2024-10-30T17:57:21Z</pubDate>
+<pubDate>2024-10-30T17:57:21Z</pubDate>
+</item>
+<item>
+<title>SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video
+  Generation</title>
+<link>http://arxiv.org/abs/2410.23277v1</link>
+<guid>http://arxiv.org/abs/2410.23277v1</guid>
+<content:encoded><![CDATA[
+<div> 慢学习、快学习、视频生成模型、双速学习系统、长视频生成
+
+慢快学习技术结合了世界动态的慢学习和新体验的快速记忆存储，提出了SlowFast-VGen，该方法包含了用于慢速学习世界动态的条件视频扩散模型以及基于时间LoRA模块的推理时间快速学习策略。同时引入了慢快学习循环算法，无缝地将快速学习循环集成到慢速学习循环中，有助于上下文感知技能学习。作者还收集了200k个视频的大规模数据集，用于慢学习近似世界模型。实验表明，SlowFast-VGen在各种指标上优于基线模型，在动作驱动视频生成方面取得了良好表现，并且提高了长期规划任务的性能。 <br><br>总结: SlowFast-VGen是一种双速学习系统，结合了慢学习和快学习，用于动作驱动的长视频生成。它利用条件视频扩散模型和时间LoRA模块进行慢学习和快学习，同时引入慢快学习循环算法，通过大规模数据集进行慢学习，实现了在视频生成和长期规划任务中的优越性能表现。 <div>
+Human beings are endowed with a complementary learning system, which bridges
+the slow learning of general world dynamics with fast storage of episodic
+memory from a new experience. Previous video generation models, however,
+primarily focus on slow learning by pre-training on vast amounts of data,
+overlooking the fast learning phase crucial for episodic memory storage. This
+oversight leads to inconsistencies across temporally distant frames when
+generating longer videos, as these frames fall beyond the model's context
+window. To this end, we introduce SlowFast-VGen, a novel dual-speed learning
+system for action-driven long video generation. Our approach incorporates a
+masked conditional video diffusion model for the slow learning of world
+dynamics, alongside an inference-time fast learning strategy based on a
+temporal LoRA module. Specifically, the fast learning process updates its
+temporal LoRA parameters based on local inputs and outputs, thereby efficiently
+storing episodic memory in its parameters. We further propose a slow-fast
+learning loop algorithm that seamlessly integrates the inner fast learning loop
+into the outer slow learning loop, enabling the recall of prior multi-episode
+experiences for context-aware skill learning. To facilitate the slow learning
+of an approximate world model, we collect a large-scale dataset of 200k videos
+with language action annotations, covering a wide range of scenarios. Extensive
+experiments show that SlowFast-VGen outperforms baselines across various
+metrics for action-driven video generation, achieving an FVD score of 514
+compared to 782, and maintaining consistency in longer videos, with an average
+of 0.37 scene cuts versus 0.89. The slow-fast learning loop algorithm
+significantly enhances performances on long-horizon planning tasks as well.
+Project Website: https://slowfast-vgen.github.io
+]]></content:encoded>
+<pubDate>2024-10-30T17:55:52Z</pubDate>
+<pubDate>2024-10-30T17:55:52Z</pubDate>
+</item>
 
 <item>
 <title>FISHNET: Financial Intelligence from Sub-querying, Harmonizing,

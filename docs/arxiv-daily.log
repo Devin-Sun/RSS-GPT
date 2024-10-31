@@ -12231,3 +12231,30 @@ Filter: [Natural Language Inference Improves Compositionality in Vision-Language
   Models](http://arxiv.org/abs/2410.22315v1)
 append_entries: 0
 Finish: 2024-10-31 00:49:52.090222
+------------------------------------------------------
+Started: 2024-10-31 12:18:57.498059
+Existing_entries: 332
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Bridging the Human to Robot Dexterity Gap through Object-Oriented
+  Rewards](http://arxiv.org/abs/2410.23289v1)
+Filter: [Computing the bridge length: the key ingredient in a continuous isometry
+  classification of periodic point sets](http://arxiv.org/abs/2410.23288v1)
+Filter: [ReferEverything: Towards Segmenting Everything We Can Speak of in Videos](http://arxiv.org/abs/2410.23287v1)
+Filter: [Provable acceleration for diffusion models under minimal assumptions](http://arxiv.org/abs/2410.23285v1)
+Filter: [DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful
+  Multi-Robot Collaboration](http://arxiv.org/abs/2410.23283v1)
+Token length: 1589
+Summarized using GPT-3.5-turbo-1106
+Append: [RelationBooth: Towards Relation-Aware Customized Object Generation](http://arxiv.org/abs/2410.23280v1)
+Filter: [A Neural Transformer Framework for Simultaneous Tasks of Segmentation,
+  Classification, and Caller Identification of Marmoset Vocalization](http://arxiv.org/abs/2410.23279v1)
+Filter: [OpenSatMap: A Fine-grained High-resolution Satellite Dataset for
+  Large-scale Map Construction](http://arxiv.org/abs/2410.23278v1)
+Token length: 1863
+Summarized using GPT-3.5-turbo-1106
+Append: [SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video
+  Generation](http://arxiv.org/abs/2410.23277v1)
+Filter: [Conditional Forecasting of Margin Calls using Dynamic Graph Neural
+  Networks](http://arxiv.org/abs/2410.23275v1)
+append_entries: 2
+Finish: 2024-10-31 12:19:05.534562
