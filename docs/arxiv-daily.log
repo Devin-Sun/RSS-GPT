@@ -12258,3 +12258,23 @@ Filter: [Conditional Forecasting of Margin Calls using Dynamic Graph Neural
   Networks](http://arxiv.org/abs/2410.23275v1)
 append_entries: 2
 Finish: 2024-10-31 12:19:05.534562
+------------------------------------------------------
+Started: 2024-11-01 00:53:37.529503
+Existing_entries: 334
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Bridging the Human to Robot Dexterity Gap through Object-Oriented
+  Rewards](http://arxiv.org/abs/2410.23289v1)
+Filter: [Computing the bridge length: the key ingredient in a continuous isometry
+  classification of periodic point sets](http://arxiv.org/abs/2410.23288v1)
+Filter: [ReferEverything: Towards Segmenting Everything We Can Speak of in Videos](http://arxiv.org/abs/2410.23287v1)
+Filter: [Provable acceleration for diffusion models under minimal assumptions](http://arxiv.org/abs/2410.23285v1)
+Filter: [DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful
+  Multi-Robot Collaboration](http://arxiv.org/abs/2410.23283v1)
+Filter: [A Neural Transformer Framework for Simultaneous Tasks of Segmentation,
+  Classification, and Caller Identification of Marmoset Vocalization](http://arxiv.org/abs/2410.23279v1)
+Filter: [OpenSatMap: A Fine-grained High-resolution Satellite Dataset for
+  Large-scale Map Construction](http://arxiv.org/abs/2410.23278v1)
+Filter: [Conditional Forecasting of Margin Calls using Dynamic Graph Neural
+  Networks](http://arxiv.org/abs/2410.23275v1)
+append_entries: 0
+Finish: 2024-11-01 00:53:38.255103
