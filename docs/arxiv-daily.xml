@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Teaching Embodied Reinforcement Learning Agents: Informativeness and
+  Diversity of Language Use</title>
+<link>http://arxiv.org/abs/2410.24218v1</link>
+<guid>http://arxiv.org/abs/2410.24218v1</guid>
+<content:encoded><![CDATA[
+<div> reinforcement learning, embodied agents, language input, task learning, diverse and informative language feedback
+<br><br>
+本文研究了不同类型的语言输入对于加强强化学习（RL）具有身体的代理的作用。具体地，作者考察了语言信息的不同水平（即对过去行为的反馈和对未来指导）以及多样性（即语言表达的变化）对代理学习和推理的影响。基于四个强化学习基准的实证结果表明，受过多样和丰富语言反馈训练的代理可以实现增强的泛化能力，并快速适应新任务。这些发现突显了语言在教导具有身体的代理在开放世界中学习新任务中的关键作用。
+<br><br>总结: 本文研究了不同类型的语言输入如何影响具有身体的代理的学习和推理，结果表明多样和丰富的语言反馈可以增强代理的泛化能力并快速适应新任务。 <div>
+In real-world scenarios, it is desirable for embodied agents to have the
+ability to leverage human language to gain explicit or implicit knowledge for
+learning tasks. Despite recent progress, most previous approaches adopt simple
+low-level instructions as language inputs, which may not reflect natural human
+communication. It's not clear how to incorporate rich language use to
+facilitate task learning. To address this question, this paper studies
+different types of language inputs in facilitating reinforcement learning (RL)
+embodied agents. More specifically, we examine how different levels of language
+informativeness (i.e., feedback on past behaviors and future guidance) and
+diversity (i.e., variation of language expressions) impact agent learning and
+inference. Our empirical results based on four RL benchmarks demonstrate that
+agents trained with diverse and informative language feedback can achieve
+enhanced generalization and fast adaptation to new tasks. These findings
+highlight the pivotal role of language use in teaching embodied agents new
+tasks in an open world. Project website:
+https://github.com/sled-group/Teachable_RL
+]]></content:encoded>
+<pubDate>2024-10-31T17:59:52Z</pubDate>
+<pubDate>2024-10-31T17:59:52Z</pubDate>
+</item>
 
 <item>
 <title>RelationBooth: Towards Relation-Aware Customized Object Generation</title>
