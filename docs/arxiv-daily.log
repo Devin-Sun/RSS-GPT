@@ -12318,3 +12318,21 @@ Filter: [ARQ: A Mixed-Precision Quantization Framework for Accurate and
 Filter: [Learning Video Representations without Natural Videos](http://arxiv.org/abs/2410.24213v1)
 append_entries: 0
 Finish: 2024-11-02 00:47:40.371267
+------------------------------------------------------
+Started: 2024-11-02 12:17:31.554319
+Existing_entries: 335
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Tensegrity Robot Proprioceptive State Estimation with Geometric
+  Constraints](http://arxiv.org/abs/2410.24226v1)
+Filter: [Robust Gaussian Processes via Relevance Pursuit](http://arxiv.org/abs/2410.24222v1)
+Filter: [URAvatar: Universal Relightable Gaussian Codec Avatars](http://arxiv.org/abs/2410.24223v1)
+Filter: [EgoMimic: Scaling Imitation Learning via Egocentric Video](http://arxiv.org/abs/2410.24221v1)
+Filter: [Enhancing Motion in Text-to-Video Generation with Decomposed Encoding
+  and Conditioning](http://arxiv.org/abs/2410.24219v1)
+Filter: [Bridging Geometric States via Geometric Diffusion Bridge](http://arxiv.org/abs/2410.24220v1)
+Filter: [CaAdam: Improving Adam optimizer using connection aware methods](http://arxiv.org/abs/2410.24216v1)
+Filter: [ARQ: A Mixed-Precision Quantization Framework for Accurate and
+  Certifiably Robust DNNs](http://arxiv.org/abs/2410.24214v1)
+Filter: [Learning Video Representations without Natural Videos](http://arxiv.org/abs/2410.24213v1)
+append_entries: 0
+Finish: 2024-11-02 12:17:32.671598
