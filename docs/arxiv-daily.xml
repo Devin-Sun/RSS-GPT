@@ -4,6 +4,119 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Adaptive Caching for Faster Video Generation with Diffusion Transformers</title>
+<link>http://arxiv.org/abs/2411.02397v1</link>
+<guid>http://arxiv.org/abs/2411.02397v1</guid>
+<content:encoded><![CDATA[
+<div> 加速视频Diffusion Transformers(视频DiTs)、Adaptive Caching(AdaCache)、Motion Regularization(MoReg)、推理速度、视频生成质量
+<br><br>
+该论文提出了一种无需训练的方法来加速视频DiTs，即Adaptive Caching(AdaCache)，其动机是“并非所有视频都一样”，意味着有些视频需要较少的去噪步骤才能达到合理的质量。基于此，他们不仅通过扩散过程缓存计算，还设计了一个针对每个视频生成定制的缓存调度，最大化质量和延迟的折衷。他们还引入了Motion Regularization (MoReg)方案，以利用视频信息，基本上根据运动内容来控制计算分配。总的来说，他们的贡献使得多个视频DiT基线能够在不牺牲生成质量的情况下显著提高推理速度（例如，在Open-Sora 720p - 2s视频生成上高达4.7倍）。<br><br>总结: <div>
+Generating temporally-consistent high-fidelity videos can be computationally
+expensive, especially over longer temporal spans. More-recent Diffusion
+Transformers (DiTs) -- despite making significant headway in this context --
+have only heightened such challenges as they rely on larger models and heavier
+attention mechanisms, resulting in slower inference speeds. In this paper, we
+introduce a training-free method to accelerate video DiTs, termed Adaptive
+Caching (AdaCache), which is motivated by the fact that "not all videos are
+created equal": meaning, some videos require fewer denoising steps to attain a
+reasonable quality than others. Building on this, we not only cache
+computations through the diffusion process, but also devise a caching schedule
+tailored to each video generation, maximizing the quality-latency trade-off. We
+further introduce a Motion Regularization (MoReg) scheme to utilize video
+information within AdaCache, essentially controlling the compute allocation
+based on motion content. Altogether, our plug-and-play contributions grant
+significant inference speedups (e.g. up to 4.7x on Open-Sora 720p - 2s video
+generation) without sacrificing the generation quality, across multiple video
+DiT baselines.
+]]></content:encoded>
+<pubDate>2024-11-04T18:59:44Z</pubDate>
+<pubDate>2024-11-04T18:59:44Z</pubDate>
+</item>
+<item>
+<title>Training-free Regional Prompting for Diffusion Transformers</title>
+<link>http://arxiv.org/abs/2411.02395v1</link>
+<guid>http://arxiv.org/abs/2411.02395v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Diffusion models, text-to-image generation, FLUX.1, regional prompting, DiT architecture
+
+总结:
+Diffusion模型在文本到图像的生成中表现出了出色的能力，结合大型语言模型（如T5、Llama）可以提高其语义理解能力。然而，现有模型在处理长且复杂的文本提示时仍存在不足，尤其是当文本提示包含多种对象及其相关空间关系时。虽然已经提出了许多针对UNet-based模型的区域提示方法，但基于最近的Diffusion Transformer（DiT）架构（如SD3和FLUX.1）仍缺乏相关实现。因此，本报告提出了基于FLUX.1的区域提示实现，利用注意力操纵，使DiT在无需训练的情况下具备了精细的组合式文本到图像生成能力。具体代码可在https://github.com/antonioo-c/Regional-Prompting-FLUX 上找到。 <div>
+Diffusion models have demonstrated excellent capabilities in text-to-image
+generation. Their semantic understanding (i.e., prompt following) ability has
+also been greatly improved with large language models (e.g., T5, Llama).
+However, existing models cannot perfectly handle long and complex text prompts,
+especially when the text prompts contain various objects with numerous
+attributes and interrelated spatial relationships. While many regional
+prompting methods have been proposed for UNet-based models (SD1.5, SDXL), but
+there are still no implementations based on the recent Diffusion Transformer
+(DiT) architecture, such as SD3 and FLUX.1.In this report, we propose and
+implement regional prompting for FLUX.1 based on attention manipulation, which
+enables DiT with fined-grained compositional text-to-image generation
+capability in a training-free manner. Code is available at
+https://github.com/antonioo-c/Regional-Prompting-FLUX.
+]]></content:encoded>
+<pubDate>2024-11-04T18:59:05Z</pubDate>
+<pubDate>2024-11-04T18:59:05Z</pubDate>
+</item>
+<item>
+<title>Attacking Vision-Language Computer Agents via Pop-ups</title>
+<link>http://arxiv.org/abs/2411.02391v1</link>
+<guid>http://arxiv.org/abs/2411.02391v1</guid>
+<content:encoded><![CDATA[
+
+Autonomous agents powered by large vision and language models (VLM) have
+demonstrated significant potential in completing daily computer tasks, such as
+browsing the web to book travel and operating desktop software, which requires
+agents to understand these interfaces. Despite such visual inputs becoming more
+integrated into agentic applications, what types of risks and attacks exist
+around them still remain unclear. In this work, we demonstrate that VLM agents
+can be easily attacked by a set of carefully designed adversarial pop-ups,
+which human users would typically recognize and ignore. This distraction leads
+agents to click these pop-ups instead of performing the tasks as usual.
+Integrating these pop-ups into existing agent testing environments like OSWorld
+and VisualWebArena leads to an attack success rate (the frequency of the agent
+clicking the pop-ups) of 86% on average and decreases the task success rate by
+47%. Basic defense techniques such as asking the agent to ignore pop-ups or
+including an advertisement notice, are ineffective against the attack.
+]]></content:encoded>
+<pubDate>2024-11-04T18:56:42Z</pubDate>
+<pubDate>2024-11-04T18:56:42Z</pubDate>
+</item>
+<item>
+<title>How Far is Video Generation from World Model: A Physical Law Perspective</title>
+<link>http://arxiv.org/abs/2411.02385v1</link>
+<guid>http://arxiv.org/abs/2411.02385v1</guid>
+<content:encoded><![CDATA[
+
+OpenAI's Sora highlights the potential of video generation for developing
+world models that adhere to fundamental physical laws. However, the ability of
+video generation models to discover such laws purely from visual data without
+human priors can be questioned. A world model learning the true law should give
+predictions robust to nuances and correctly extrapolate on unseen scenarios. In
+this work, we evaluate across three key scenarios: in-distribution,
+out-of-distribution, and combinatorial generalization. We developed a 2D
+simulation testbed for object movement and collisions to generate videos
+deterministically governed by one or more classical mechanics laws. This
+provides an unlimited supply of data for large-scale experimentation and
+enables quantitative evaluation of whether the generated videos adhere to
+physical laws. We trained diffusion-based video generation models to predict
+object movements based on initial frames. Our scaling experiments show perfect
+generalization within the distribution, measurable scaling behavior for
+combinatorial generalization, but failure in out-of-distribution scenarios.
+Further experiments reveal two key insights about the generalization mechanisms
+of these models: (1) the models fail to abstract general physical rules and
+instead exhibit "case-based" generalization behavior, i.e., mimicking the
+closest training example; (2) when generalizing to new cases, models are
+observed to prioritize different factors when referencing training data: color
+> size > velocity > shape. Our study suggests that scaling alone is
+insufficient for video generation models to uncover fundamental physical laws,
+despite its role in Sora's broader success. See our project page at
+https://phyworld.github.io
+]]></content:encoded>
+<pubDate>2024-11-04T18:53:05Z</pubDate>
+<pubDate>2024-11-04T18:53:05Z</pubDate>
+</item>
 
 <item>
 <title>Teaching Embodied Reinforcement Learning Agents: Informativeness and

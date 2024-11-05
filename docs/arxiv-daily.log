@@ -12426,3 +12426,27 @@ Filter: [ARQ: A Mixed-Precision Quantization Framework for Accurate and
 Filter: [Learning Video Representations without Natural Videos](http://arxiv.org/abs/2410.24213v1)
 append_entries: 0
 Finish: 2024-11-05 00:47:18.547407
+------------------------------------------------------
+Started: 2024-11-05 12:18:42.022538
+Existing_entries: 335
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin
+  Script Languages](http://arxiv.org/abs/2411.02398v1)
+Token length: 1234
+Summarized using GPT-3.5-turbo-1106
+Append: [Adaptive Caching for Faster Video Generation with Diffusion Transformers](http://arxiv.org/abs/2411.02397v1)
+Filter: [AutoVFX: Physically Realistic Video Editing from Natural Language
+  Instructions](http://arxiv.org/abs/2411.02394v1)
+Token length: 939
+Summarized using GPT-3.5-turbo-1106
+Append: [Training-free Regional Prompting for Diffusion Transformers](http://arxiv.org/abs/2411.02395v1)
+Filter: [Adaptive Length Image Tokenization via Recurrent Allocation](http://arxiv.org/abs/2411.02393v1)
+Filter: [One-Way Functions and Polynomial Time Dimension](http://arxiv.org/abs/2411.02392v1)
+Append: [Attacking Vision-Language Computer Agents via Pop-ups](http://arxiv.org/abs/2411.02391v1)
+Filter: [The Relationship Between Smartphone Usage and Sleep Quality Amongst
+  University Students](http://arxiv.org/abs/2411.02388v1)
+Filter: [Reachability in One-Dimensional Pushdown Vector Addition Systems is
+  Decidable](http://arxiv.org/abs/2411.02386v1)
+Append: [How Far is Video Generation from World Model: A Physical Law Perspective](http://arxiv.org/abs/2411.02385v1)
+append_entries: 4
+Finish: 2024-11-05 12:18:49.819698
