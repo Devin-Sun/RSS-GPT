@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Adaptive Caching for Faster Video Generation with Diffusion Transformers</title>
 <link>http://arxiv.org/abs/2411.02397v1</link>
 <guid>http://arxiv.org/abs/2411.02397v1</guid>
 <content:encoded><![CDATA[
 <div> 加速视频Diffusion Transformers(视频DiTs)、Adaptive Caching(AdaCache)、Motion Regularization(MoReg)、推理速度、视频生成质量
-<br><br>
-该论文提出了一种无需训练的方法来加速视频DiTs，即Adaptive Caching(AdaCache)，其动机是“并非所有视频都一样”，意味着有些视频需要较少的去噪步骤才能达到合理的质量。基于此，他们不仅通过扩散过程缓存计算，还设计了一个针对每个视频生成定制的缓存调度，最大化质量和延迟的折衷。他们还引入了Motion Regularization (MoReg)方案，以利用视频信息，基本上根据运动内容来控制计算分配。总的来说，他们的贡献使得多个视频DiT基线能够在不牺牲生成质量的情况下显著提高推理速度（例如，在Open-Sora 720p - 2s视频生成上高达4.7倍）。<br><br>总结: <div>
+<br /><br />
+该论文提出了一种无需训练的方法来加速视频DiTs，即Adaptive Caching(AdaCache)，其动机是“并非所有视频都一样”，意味着有些视频需要较少的去噪步骤才能达到合理的质量。基于此，他们不仅通过扩散过程缓存计算，还设计了一个针对每个视频生成定制的缓存调度，最大化质量和延迟的折衷。他们还引入了Motion Regularization (MoReg)方案，以利用视频信息，基本上根据运动内容来控制计算分配。总的来说，他们的贡献使得多个视频DiT基线能够在不牺牲生成质量的情况下显著提高推理速度（例如，在Open-Sora 720p - 2s视频生成上高达4.7倍）。<br /><br />总结: <div>
 Generating temporally-consistent high-fidelity videos can be computationally
 expensive, especially over longer temporal spans. More-recent Diffusion
 Transformers (DiTs) -- despite making significant headway in this context --
@@ -30,7 +31,6 @@ significant inference speedups (e.g. up to 4.7x on Open-Sora 720p - 2s video
 generation) without sacrificing the generation quality, across multiple video
 DiT baselines.
 ]]></content:encoded>
-<pubDate>2024-11-04T18:59:44Z</pubDate>
 <pubDate>2024-11-04T18:59:44Z</pubDate>
 </item>
 <item>
@@ -57,14 +57,12 @@ capability in a training-free manner. Code is available at
 https://github.com/antonioo-c/Regional-Prompting-FLUX.
 ]]></content:encoded>
 <pubDate>2024-11-04T18:59:05Z</pubDate>
-<pubDate>2024-11-04T18:59:05Z</pubDate>
 </item>
 <item>
 <title>Attacking Vision-Language Computer Agents via Pop-ups</title>
 <link>http://arxiv.org/abs/2411.02391v1</link>
 <guid>http://arxiv.org/abs/2411.02391v1</guid>
 <content:encoded><![CDATA[
-
 Autonomous agents powered by large vision and language models (VLM) have
 demonstrated significant potential in completing daily computer tasks, such as
 browsing the web to book travel and operating desktop software, which requires
@@ -81,14 +79,12 @@ clicking the pop-ups) of 86% on average and decreases the task success rate by
 including an advertisement notice, are ineffective against the attack.
 ]]></content:encoded>
 <pubDate>2024-11-04T18:56:42Z</pubDate>
-<pubDate>2024-11-04T18:56:42Z</pubDate>
 </item>
 <item>
 <title>How Far is Video Generation from World Model: A Physical Law Perspective</title>
 <link>http://arxiv.org/abs/2411.02385v1</link>
 <guid>http://arxiv.org/abs/2411.02385v1</guid>
 <content:encoded><![CDATA[
-
 OpenAI's Sora highlights the potential of video generation for developing
 world models that adhere to fundamental physical laws. However, the ability of
 video generation models to discover such laws purely from visual data without
@@ -115,9 +111,7 @@ despite its role in Sora's broader success. See our project page at
 https://phyworld.github.io
 ]]></content:encoded>
 <pubDate>2024-11-04T18:53:05Z</pubDate>
-<pubDate>2024-11-04T18:53:05Z</pubDate>
 </item>
-
 <item>
 <title>Teaching Embodied Reinforcement Learning Agents: Informativeness and
   Diversity of Language Use</title>

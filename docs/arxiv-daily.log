@@ -12450,3 +12450,19 @@ Filter: [Reachability in One-Dimensional Pushdown Vector Addition Systems is
 Append: [How Far is Video Generation from World Model: A Physical Law Perspective](http://arxiv.org/abs/2411.02385v1)
 append_entries: 4
 Finish: 2024-11-05 12:18:49.819698
+------------------------------------------------------
+Started: 2024-11-06 00:47:29.910574
+Existing_entries: 339
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin
+  Script Languages](http://arxiv.org/abs/2411.02398v1)
+Filter: [AutoVFX: Physically Realistic Video Editing from Natural Language
+  Instructions](http://arxiv.org/abs/2411.02394v1)
+Filter: [Adaptive Length Image Tokenization via Recurrent Allocation](http://arxiv.org/abs/2411.02393v1)
+Filter: [One-Way Functions and Polynomial Time Dimension](http://arxiv.org/abs/2411.02392v1)
+Filter: [The Relationship Between Smartphone Usage and Sleep Quality Amongst
+  University Students](http://arxiv.org/abs/2411.02388v1)
+Filter: [Reachability in One-Dimensional Pushdown Vector Addition Systems is
+  Decidable](http://arxiv.org/abs/2411.02386v1)
+append_entries: 0
+Finish: 2024-11-06 00:47:30.803074
