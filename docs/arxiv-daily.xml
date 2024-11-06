@@ -4,6 +4,45 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MME-Finance: A Multimodal Finance Benchmark for Expert-level
+  Understanding and Reasoning</title>
+<link>http://arxiv.org/abs/2411.03314v1</link>
+<guid>http://arxiv.org/abs/2411.03314v1</guid>
+<content:encoded><![CDATA[
+<div> 金融领域, 多模态模型, MME-Finance, 评估系统, 实验结果<br>
+<br>
+多模态模型在金融领域表现出独特性，通用基准无法有效评估其性能，因此需要专门的金融领域的多模态基准。本文提出了MME-Finance，一个具有金融特色和专业性质的视觉问答基准，包括构建反映用户实际需求的图表，根据金融领域问题偏好进行提问，以及由金融行业经验超过10年的专家标注问题。此外，还开发了一个自定义的金融评估系统，并针对19种主流多模态语言模型进行了广泛的实验评估，结果显示通用基准上表现良好的模型在MME-Finance上表现不佳，特别是在与金融相关的类别中。最后，提出了中文版MME-Finance，以便比较在中文环境下多模态语言模型的性能。 <br><br>总结: <br>金融领域的多模态模型需要专门的基准评估；MME-Finance是一个针对金融领域的多模态视觉问答基准；针对19种主流多模态语言模型进行了广泛实验评估；通用基准上表现良好的模型在金融领域基准上表现不佳；提出了中文版MME-Finance用于中文环境下的评估。 <div>
+In recent years, multimodal benchmarks for general domains have guided the
+rapid development of multimodal models on general tasks. However, the financial
+field has its peculiarities. It features unique graphical images (e.g.,
+candlestick charts, technical indicator charts) and possesses a wealth of
+specialized financial knowledge (e.g., futures, turnover rate). Therefore,
+benchmarks from general fields often fail to measure the performance of
+multimodal models in the financial domain, and thus cannot effectively guide
+the rapid development of large financial models. To promote the development of
+large financial multimodal models, we propose MME-Finance, an bilingual
+open-ended and practical usage-oriented Visual Question Answering (VQA)
+benchmark. The characteristics of our benchmark are finance and expertise,
+which include constructing charts that reflect the actual usage needs of users
+(e.g., computer screenshots and mobile photography), creating questions
+according to the preferences in financial domain inquiries, and annotating
+questions by experts with 10+ years of experience in the financial industry.
+Additionally, we have developed a custom-designed financial evaluation system
+in which visual information is first introduced in the multi-modal evaluation
+process. Extensive experimental evaluations of 19 mainstream MLLMs are
+conducted to test their perception, reasoning, and cognition capabilities. The
+results indicate that models performing well on general benchmarks cannot do
+well on MME-Finance; for instance, the top-performing open-source and
+closed-source models obtain 65.69 (Qwen2VL-72B) and 63.18 (GPT-4o),
+respectively. Their performance is particularly poor in categories most
+relevant to finance, such as candlestick charts and technical indicator charts.
+In addition, we propose a Chinese version, which helps compare performance of
+MLLMs under a Chinese context.
+]]></content:encoded>
+<pubDate>2024-11-05T18:59:51Z</pubDate>
+<pubDate>2024-11-05T18:59:51Z</pubDate>
+</item>
 
 <item>
 <title>Adaptive Caching for Faster Video Generation with Diffusion Transformers</title>
