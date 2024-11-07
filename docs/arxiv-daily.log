@@ -12486,3 +12486,19 @@ Filter: [Examining Human-AI Collaboration for Co-Writing Constructive Comments
   Online](http://arxiv.org/abs/2411.03295v1)
 append_entries: 1
 Finish: 2024-11-06 12:19:02.759960
+------------------------------------------------------
+Started: 2024-11-07 00:47:30.200058
+Existing_entries: 340
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Classification Done Right for Vision-Language Pre-Training](http://arxiv.org/abs/2411.03313v1)
+Filter: [Inference Optimal VLMs Need Only One Visual Token but Larger Models](http://arxiv.org/abs/2411.03312v1)
+Filter: [LLMs for Domain Generation Algorithm Detection](http://arxiv.org/abs/2411.03307v1)
+Filter: [Quantum One-Time Protection of any Randomized Algorithm](http://arxiv.org/abs/2411.03305v1)
+Filter: [Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor](http://arxiv.org/abs/2411.03303v1)
+Filter: [VERITAS: A Unified Approach to Reliability Evaluation](http://arxiv.org/abs/2411.03300v1)
+Filter: [Concurrent Composition for Continual Mechanisms](http://arxiv.org/abs/2411.03299v1)
+Filter: [Quantum Communication Advantage in TFNP](http://arxiv.org/abs/2411.03296v1)
+Filter: [Examining Human-AI Collaboration for Co-Writing Constructive Comments
+  Online](http://arxiv.org/abs/2411.03295v1)
+append_entries: 0
+Finish: 2024-11-07 00:47:30.894087
