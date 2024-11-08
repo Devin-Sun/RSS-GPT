@@ -12546,3 +12546,30 @@ Filter: [A Comparative Study of Deep Reinforcement Learning for Crop Production
   Management](http://arxiv.org/abs/2411.04106v1)
 append_entries: 0
 Finish: 2024-11-08 00:47:13.250008
+------------------------------------------------------
+Started: 2024-11-08 12:18:44.722749
+Existing_entries: 340
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion
+  Models](http://arxiv.org/abs/2411.05007v1)
+Filter: [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene
+  Editing](http://arxiv.org/abs/2411.05006v1)
+Filter: [Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion
+  Models](http://arxiv.org/abs/2411.05005v1)
+Filter: [ReCapture: Generative Video Camera Controls for User-Provided Videos
+  using Masked Video Fine-Tuning](http://arxiv.org/abs/2411.05003v1)
+Filter: [Analyzing The Language of Visual Tokens](http://arxiv.org/abs/2411.05001v1)
+Token length: 1383
+Summarized using GPT-3.5-turbo-1106
+Append: [DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile
+  Manipulation](http://arxiv.org/abs/2411.04999v1)
+Filter: [Needle Threading: Can LLMs Follow Threads through Near-Million-Scale
+  Haystacks?](http://arxiv.org/abs/2411.05000v1)
+Token length: 1762
+Summarized using GPT-3.5-turbo-1106
+Append: [LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation](http://arxiv.org/abs/2411.04997v1)
+Append: [HourVideo: 1-Hour Video-Language Understanding](http://arxiv.org/abs/2411.04998v1)
+Append: [Mixture-of-Transformers: A Sparse and Scalable Architecture for
+  Multi-Modal Foundation Models](http://arxiv.org/abs/2411.04996v1)
+append_entries: 4
+Finish: 2024-11-08 12:18:50.439886
