@@ -12658,3 +12658,23 @@ Filter: [Needle Threading: Can LLMs Follow Threads through Near-Million-Scale
   Haystacks?](http://arxiv.org/abs/2411.05000v1)
 append_entries: 0
 Finish: 2024-11-11 00:49:32.894809
+------------------------------------------------------
+Started: 2024-11-11 12:19:10.820250
+Existing_entries: 344
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Recycled Attention: Efficient inference for long-context language models](http://arxiv.org/abs/2411.05787v1)
+Filter: [Safe Reinforcement Learning of Robot Trajectories in the Presence of
+  Moving Obstacles](http://arxiv.org/abs/2411.05784v1)
+Filter: [ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles](http://arxiv.org/abs/2411.05783v1)
+Filter: [Gender Inequalities in Content Collaborations: Asymmetric Creator
+  Synergy and Symmetric Audience Biases](http://arxiv.org/abs/2411.05782v1)
+Filter: [Using Language Models to Disambiguate Lexical Choices in Translation](http://arxiv.org/abs/2411.05781v1)
+Filter: [GazeSearch: Radiology Findings Search Benchmark](http://arxiv.org/abs/2411.05780v1)
+Filter: [Curriculum Learning for Few-Shot Domain Adaptation in CT-based Airway
+  Tree Segmentation](http://arxiv.org/abs/2411.05779v1)
+Filter: [LLMs as Method Actors: A Model for Prompt Engineering and Architecture](http://arxiv.org/abs/2411.05778v1)
+Filter: [Quantitative Assessment of Intersectional Empathetic Bias and
+  Understanding](http://arxiv.org/abs/2411.05777v1)
+Filter: [Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?](http://arxiv.org/abs/2411.05775v1)
+append_entries: 0
+Finish: 2024-11-11 12:19:11.692683
