@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Tooling or Not Tooling? The Impact of Tools on Language Agents for
+  Chemistry Problem Solving</title>
+<link>http://arxiv.org/abs/2411.07228v1</link>
+<guid>http://arxiv.org/abs/2411.07228v1</guid>
+<content:encoded><![CDATA[
+<div> ChemAgent, LLM-based agents, tools, specialized chemistry tasks, general chemistry questions
+<br><br>
+本文讨论了基于大型语言模型（LLM）的化学问题解决方法，介绍了几种带有工具增强的LLM代理，如ChemCrow和Coscientist。然而，它们的评估范围狭窄，无法全面了解工具在不同化学任务中的效果。为了弥补这一缺口，我们开发了ChemAgent，这是一个在ChemCrow基础上改进的化学代理，并对其在专业化学任务和一般化学问题上的性能进行了全面评估。令人惊讶的是，ChemAgent并不总是能够在没有工具的情况下一直胜过基础的LLMs。我们的错误分析得出，对于合成预测等专业化学任务，我们应该使用专门的工具来增强代理；然而，对于像考试中的一般化学问题这样的问题，代理的正确运用化学知识的能力更为重要，并不总是需要工具来增强。 
+<br><br>总结: 本文讨论了LLM代理在化学问题解决中的应用，介绍了ChemAgent的开发与评估结果，并就专业化学任务和一般化学问题的应用进行了讨论。 <div>
+To enhance large language models (LLMs) for chemistry problem solving,
+several LLM-based agents augmented with tools have been proposed, such as
+ChemCrow and Coscientist. However, their evaluations are narrow in scope,
+leaving a large gap in understanding the benefits of tools across diverse
+chemistry tasks. To bridge this gap, we develop ChemAgent, an enhanced
+chemistry agent over ChemCrow, and conduct a comprehensive evaluation of its
+performance on both specialized chemistry tasks and general chemistry
+questions. Surprisingly, ChemAgent does not consistently outperform its base
+LLMs without tools. Our error analysis with a chemistry expert suggests that:
+For specialized chemistry tasks, such as synthesis prediction, we should
+augment agents with specialized tools; however, for general chemistry questions
+like those in exams, agents' ability to reason correctly with chemistry
+knowledge matters more, and tool augmentation does not always help.
+]]></content:encoded>
+<pubDate>2024-11-11T18:46:37Z</pubDate>
+<pubDate>2024-11-11T18:46:37Z</pubDate>
+</item>
 
 <item>
 <title>DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile

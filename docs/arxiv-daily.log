@@ -12685,3 +12685,26 @@ Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=su
 Filter: [Recycled Attention: Efficient inference for long-context language models](http://arxiv.org/abs/2411.05787v1)
 append_entries: 0
 Finish: 2024-11-12 00:46:47.693059
+------------------------------------------------------
+Started: 2024-11-12 12:19:19.721520
+Existing_entries: 344
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [UTMath: Math Evaluation with Unit Test via Reasoning-to-Coding Thoughts](http://arxiv.org/abs/2411.07240v1)
+Filter: [OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model](http://arxiv.org/abs/2411.07238v1)
+Filter: [DeepONet as a Multi-Operator Extrapolation Model: Distributed
+  Pretraining with Physics-Informed Fine-Tuning](http://arxiv.org/abs/2411.07239v1)
+Filter: [Contextualized Evaluations: Taking the Guesswork Out of Language Model
+  Evaluations](http://arxiv.org/abs/2411.07237v1)
+Filter: [Circulating Currents in Electric Machines: Positive Impact of The End
+  Windings Length on Losses](http://arxiv.org/abs/2411.07235v1)
+Filter: [Score-based generative diffusion with "active" correlated noise sources](http://arxiv.org/abs/2411.07233v1)
+Filter: [Add-it: Training-Free Object Insertion in Images With Pretrained
+  Diffusion Models](http://arxiv.org/abs/2411.07232v1)
+Filter: [Watermark Anything with Localized Messages](http://arxiv.org/abs/2411.07231v1)
+Filter: [Learning from Limited and Imperfect Data](http://arxiv.org/abs/2411.07229v1)
+Token length: 958
+Summarized using GPT-3.5-turbo-1106
+Append: [Tooling or Not Tooling? The Impact of Tools on Language Agents for
+  Chemistry Problem Solving](http://arxiv.org/abs/2411.07228v1)
+append_entries: 1
+Finish: 2024-11-12 12:19:27.313229
