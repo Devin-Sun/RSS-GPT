@@ -4,6 +4,91 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D
+  Generation</title>
+<link>http://arxiv.org/abs/2411.08033v1</link>
+<guid>http://arxiv.org/abs/2411.08033v1</guid>
+<content:encoded><![CDATA[
+<div> Point Cloud-structured Latent space, Variational Autoencoder (VAE), RGB-D, 3D generation, disentanglement<br>
+<br>
+该论文介绍了一种新颖的3D生成框架，通过交互式的点云结构化潜空间，解决了现有方法在输入格式、潜空间设计和输出表示方面的挑战。该框架使用多视角姿态的RGB-D-N(ormal)渲染作为输入，采用独特的潜空间设计，保留了3D形状信息，并结合级联潜空间扩散模型，提高了形状-纹理解耦能力。该方法支持多模态条件下的3D生成，允许使用点云、标题和单/多视角图像作为输入。值得注意的是，新提出的潜空间自然地实现了几何-纹理解耦，从而实现了3D感知编辑。实验结果表明，该方法在多个数据集上的表现优于现有方法，无论是文本条件还是图像条件下的3D生成。<br><br>总结: 该论文介绍了一种新颖的3D生成框架，通过交互式的点云结构化潜空间，解决了现有方法在输入格式、潜空间设计和输出表示方面的挑战。该方法支持多模态条件下的3D生成，允许使用点云、标题和单/多视角图像作为输入。新提出的潜空间实现了几何-纹理解耦，从而实现了3D感知编辑。实验结果表明，该方法在多个数据集上的表现优于现有方法，无论是文本条件还是图像条件下的3D生成。 <div>
+While 3D content generation has advanced significantly, existing methods
+still face challenges with input formats, latent space design, and output
+representations. This paper introduces a novel 3D generation framework that
+addresses these challenges, offering scalable, high-quality 3D generation with
+an interactive Point Cloud-structured Latent space. Our framework employs a
+Variational Autoencoder (VAE) with multi-view posed RGB-D(epth)-N(ormal)
+renderings as input, using a unique latent space design that preserves 3D shape
+information, and incorporates a cascaded latent diffusion model for improved
+shape-texture disentanglement. The proposed method, GaussianAnything, supports
+multi-modal conditional 3D generation, allowing for point cloud, caption, and
+single/multi-view image inputs. Notably, the newly proposed latent space
+naturally enables geometry-texture disentanglement, thus allowing 3D-aware
+editing. Experimental results demonstrate the effectiveness of our approach on
+multiple datasets, outperforming existing methods in both text- and
+image-conditioned 3D generation.
+]]></content:encoded>
+<pubDate>2024-11-12T18:59:32Z</pubDate>
+<pubDate>2024-11-12T18:59:32Z</pubDate>
+</item>
+<item>
+<title>LLMPhy: Complex Physical Reasoning Using Large Language Models and World
+  Models</title>
+<link>http://arxiv.org/abs/2411.08027v1</link>
+<guid>http://arxiv.org/abs/2411.08027v1</guid>
+<content:encoded><![CDATA[
+<div> 物理推理、机器学习、大型语言模型、TraySim数据集、LLMPhy框架
+<br>
+物理推理在机器人代理在真实世界中操作时是一项重要的技能。然而，解决这类推理问题通常涉及对复杂的多体相互作用在多种物理力的影响下进行假设和反思，因此学习所有这样的相互作用对于包括大型语言模型在内的最先进的机器学习框架来说是一项重要挑战。为了研究这个问题，研究人员提出了一个新的物理推理任务和数据集，称为TraySim。他们提出了LLMPhy，一个零-shot黑盒优化框架，通过利用LLM的物理知识和程序综合能力，并将这些能力与现代物理引擎中构建的世界模型相结合，来解决这一复杂的物理推理任务。通过在TraySim数据集上的实验证明，LLMPhy的组合可以实现最先进的零-shot物理推理性能，同时对标准黑盒优化方法表现出更好的收敛性和更好的物理参数估计能力。
+<br><br>总结: <br>物理推理是机器人在真实世界中操作时所必需的重要技能。研究人员提出了新的物理推理任务和数据集TraySim，并介绍了LLMPhy框架，该框架利用了大型语言模型的物理知识和程序综合能力，与现代物理引擎相结合，实现了先进的零-shot物理推理性能。 <div>
+Physical reasoning is an important skill needed for robotic agents when
+operating in the real world. However, solving such reasoning problems often
+involves hypothesizing and reflecting over complex multi-body interactions
+under the effect of a multitude of physical forces and thus learning all such
+interactions poses a significant hurdle for state-of-the-art machine learning
+frameworks, including large language models (LLMs). To study this problem, we
+propose a new physical reasoning task and a dataset, dubbed TraySim. Our task
+involves predicting the dynamics of several objects on a tray that is given an
+external impact -- the domino effect of the ensued object interactions and
+their dynamics thus offering a challenging yet controlled setup, with the goal
+of reasoning being to infer the stability of the objects after the impact. To
+solve this complex physical reasoning task, we present LLMPhy, a zero-shot
+black-box optimization framework that leverages the physics knowledge and
+program synthesis abilities of LLMs, and synergizes these abilities with the
+world models built into modern physics engines. Specifically, LLMPhy uses an
+LLM to generate code to iteratively estimate the physical hyperparameters of
+the system (friction, damping, layout, etc.) via an implicit
+analysis-by-synthesis approach using a (non-differentiable) simulator in the
+loop and uses the inferred parameters to imagine the dynamics of the scene
+towards solving the reasoning task. To show the effectiveness of LLMPhy, we
+present experiments on our TraySim dataset to predict the steady-state poses of
+the objects. Our results show that the combination of the LLM and the physics
+engine leads to state-of-the-art zero-shot physical reasoning performance,
+while demonstrating superior convergence against standard black-box
+optimization methods and better estimation of the physical parameters.
+]]></content:encoded>
+<pubDate>2024-11-12T18:56:58Z</pubDate>
+<pubDate>2024-11-12T18:56:58Z</pubDate>
+</item>
+<item>
+<title>Incentive Design with Spillovers</title>
+<link>http://arxiv.org/abs/2411.08026v1</link>
+<guid>http://arxiv.org/abs/2411.08026v1</guid>
+<content:encoded><![CDATA[
+
+A principal uses payments conditioned on stochastic outcomes of a team
+project to elicit costly effort from the team members. We develop a multi-agent
+generalization of a classic first-order approach to contract optimization by
+leveraging methods from network games. The main results characterize the
+optimal allocation of incentive pay across agents and outcomes. Incentive
+optimality requires equalizing, across agents, a product of (i) individual
+productivity (ii) organizational centrality and (iii) responsiveness to
+monetary incentives.
+]]></content:encoded>
+<pubDate>2024-11-12T18:56:31Z</pubDate>
+<pubDate>2024-11-12T18:56:31Z</pubDate>
+</item>
 
 <item>
 <title>Tooling or Not Tooling? The Impact of Tools on Language Agents for
