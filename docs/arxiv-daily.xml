@@ -4,6 +4,30 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MagicQuill: An Intelligent Interactive Image Editing System</title>
+<link>http://arxiv.org/abs/2411.09703v1</link>
+<guid>http://arxiv.org/abs/2411.09703v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 图像编辑, MagicQuill, 多模态大语言模型, 扩散先验, 高质量编辑
+总结:
+图像编辑是一个复杂的任务，需要高效和精准的处理技术。MagicQuill是一个集成的图像编辑系统，可以快速实现创意构想。该系统具有简化而功能强大的界面，可以最小化输入来进行编辑操作（如插入元素、擦除对象、改变颜色）。这些交互由多模态大语言模型 (MLLM) 监控，实时预测编辑意图，无需明确的提示输入。最后，系统应用了强大的扩散先验，通过精确控制的两分支插件模块进行增强，处理编辑请求。实验结果表明，MagicQuill在实现高质量图像编辑方面非常有效。请访问https://magic-quill.github.io 来尝试我们的系统。 <br><br>总结: <div>
+Image editing involves a variety of complex tasks and requires efficient and
+precise manipulation techniques. In this paper, we present MagicQuill, an
+integrated image editing system that enables swift actualization of creative
+ideas. Our system features a streamlined yet functionally robust interface,
+allowing for the articulation of editing operations (e.g., inserting elements,
+erasing objects, altering color) with minimal input. These interactions are
+monitored by a multimodal large language model (MLLM) to anticipate editing
+intentions in real time, bypassing the need for explicit prompt entry. Finally,
+we apply a powerful diffusion prior, enhanced by a carefully learned two-branch
+plug-in module, to process editing requests with precise control. Experimental
+results demonstrate the effectiveness of MagicQuill in achieving high-quality
+image edits. Please visit https://magic-quill.github.io to try out our system.
+]]></content:encoded>
+<pubDate>2024-11-14T18:59:57Z</pubDate>
+<pubDate>2024-11-14T18:59:57Z</pubDate>
+</item>
 
 <item>
 <title>GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D
