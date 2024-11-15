@@ -12789,3 +12789,22 @@ Filter: [LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](http://arxiv.or
 Filter: [Interaction Testing in Variation Analysis](http://arxiv.org/abs/2411.08861v1)
 append_entries: 0
 Finish: 2024-11-14 12:19:25.449625
+------------------------------------------------------
+Started: 2024-11-15 00:51:52.108056
+Existing_entries: 348
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization](http://arxiv.org/abs/2411.08879v1)
+Filter: [A Short Note on Evaluating RepNet for Temporal Repetition Counting in
+  Videos](http://arxiv.org/abs/2411.08878v1)
+Filter: [Causal Explanations for Image Classifiers](http://arxiv.org/abs/2411.08875v1)
+Filter: [A Decidable Case of Query Determinacy: Project-Select Views](http://arxiv.org/abs/2411.08874v1)
+Filter: [Large Wireless Model (LWM): A Foundation Model for Wireless Channels](http://arxiv.org/abs/2411.08872v1)
+Filter: [The Limited Impact of Medical Adaptation of Large Language and
+  Vision-Language Models](http://arxiv.org/abs/2411.08870v1)
+Filter: [CamemBERT 2.0: A Smarter French Language Model Aged to Perfection](http://arxiv.org/abs/2411.08868v1)
+Filter: [Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier
+  Profiles](http://arxiv.org/abs/2411.08867v1)
+Filter: [LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](http://arxiv.org/abs/2411.08862v1)
+Filter: [Interaction Testing in Variation Analysis](http://arxiv.org/abs/2411.08861v1)
+append_entries: 0
+Finish: 2024-11-15 00:51:52.617679
