@@ -12849,3 +12849,22 @@ Filter: [Towards a Classification of Open-Source ML Models and Datasets for
 Filter: [NeuralDEM -- Real-time Simulation of Industrial Particulate Flows](http://arxiv.org/abs/2411.09678v1)
 append_entries: 0
 Finish: 2024-11-16 00:50:46.910506
+------------------------------------------------------
+Started: 2024-11-16 12:17:56.322530
+Existing_entries: 349
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On the Surprising Effectiveness of Attention Transfer for Vision
+  Transformers](http://arxiv.org/abs/2411.09702v1)
+Filter: [A Bayesian Optimization Approach to Machine Translation Reranking](http://arxiv.org/abs/2411.09694v1)
+Filter: [CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop
+  Plants](http://arxiv.org/abs/2411.09693v1)
+Filter: [Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment
+  in Multi-Modal Models](http://arxiv.org/abs/2411.09691v1)
+Filter: [LLM Hallucination Reasoning with Zero-shot Knowledge Test](http://arxiv.org/abs/2411.09689v1)
+Filter: [Squeezed Attention: Accelerating Long Context Length LLM Inference](http://arxiv.org/abs/2411.09688v1)
+Filter: [Conditional regression for the Nonlinear Single-Variable Model](http://arxiv.org/abs/2411.09686v1)
+Filter: [Towards a Classification of Open-Source ML Models and Datasets for
+  Software Engineering](http://arxiv.org/abs/2411.09683v1)
+Filter: [NeuralDEM -- Real-time Simulation of Industrial Particulate Flows](http://arxiv.org/abs/2411.09678v1)
+append_entries: 0
+Finish: 2024-11-16 12:17:57.777023
