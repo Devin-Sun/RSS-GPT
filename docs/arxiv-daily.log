@@ -12925,3 +12925,29 @@ Filter: [Towards a Classification of Open-Source ML Models and Datasets for
 Filter: [NeuralDEM -- Real-time Simulation of Industrial Particulate Flows](http://arxiv.org/abs/2411.09678v1)
 append_entries: 0
 Finish: 2024-11-18 00:53:21.060113
+------------------------------------------------------
+Started: 2024-11-18 12:20:40.563470
+Existing_entries: 349
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [VeriGraph: Scene Graphs for Execution Verifiable Robot Planning](http://arxiv.org/abs/2411.10446v1)
+Filter: [Balancing Passenger Transport and Power Distribution: A Distributed
+  Dispatch Policy for Shared Autonomous Electric Vehicles](http://arxiv.org/abs/2411.10444v1)
+Token length: 1226
+Summarized using GPT-3.5-turbo-1106
+Append: [Enhancing the Reasoning Ability of Multimodal Large Language Models via
+  Mixed Preference Optimization](http://arxiv.org/abs/2411.10442v1)
+Token length: 1396
+Summarized using GPT-3.5-turbo-1106
+Append: [LLaVA-o1: Let Vision Language Models Reason Step-by-Step](http://arxiv.org/abs/2411.10440v1)
+Filter: [MARS: Unleashing the Power of Variance Reduction for Training Large
+  Models](http://arxiv.org/abs/2411.10438v1)
+Append: [Mitigating Hallucination in Multimodal Large Language Model via
+  Hallucination-targeted Direct Preference Optimization](http://arxiv.org/abs/2411.10436v1)
+Filter: [The Spatial Complexity of Optical Computing and How to Reduce It](http://arxiv.org/abs/2411.10435v1)
+Append: [Fair Division via the Cake-Cutting Share](http://arxiv.org/abs/2411.10434v1)
+Append: [M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality
+  Image Generation](http://arxiv.org/abs/2411.10433v1)
+Filter: [Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model
+  for WECC Composite Load Model in Power Systems](http://arxiv.org/abs/2411.10431v1)
+append_entries: 5
+Finish: 2024-11-18 12:20:47.409456
