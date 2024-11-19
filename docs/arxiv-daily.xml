@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Enhancing the Reasoning Ability of Multimodal Large Language Models via
   Mixed Preference Optimization</title>
@@ -11,7 +12,7 @@
 <guid>http://arxiv.org/abs/2411.10442v1</guid>
 <content:encoded><![CDATA[
 <div> 多模态语言模型、性能优化、数据构建管线、模型集成、改进性能
-<br><br>总结:
+<br /><br />总结:
 本研究引入了偏好优化（PO）流程，以增强多模态大型语言模型（MLLMs）的多模态推理能力。在数据方面，他们设计了自动化偏好数据构建管线，创建了高质量的大规模多模态推理偏好数据集MMPR。在模型方面，他们探索将偏好优化与MLLMs集成，开发了一种简单而有效的方法，称为混合偏好优化（MPO），提高了多模态推理性能。他们的方法在多个基准测试中表现出了改进的性能，特别是在多模态推理任务中。值得注意的是，他们的模型InternVL2-8B-MPO在MathVista上取得了67.0的准确率，在性能上超过了InternVL2-8B的8.7个点，并且与规模更大的InternVL2-76B相当。他们希望这项研究能激发MLLMs的进一步发展。他们将代码、数据和模型公开发布。 <div>
 Existing open-source multimodal large language models (MLLMs) generally
 follow a training process involving pre-training and supervised fine-tuning.
@@ -32,7 +33,6 @@ further advancements in MLLMs. Code, data, and model shall be publicly
 released.
 ]]></content:encoded>
 <pubDate>2024-11-15T18:59:27Z</pubDate>
-<pubDate>2024-11-15T18:59:27Z</pubDate>
 </item>
 <item>
 <title>LLaVA-o1: Let Vision Language Models Reason Step-by-Step</title>
@@ -41,7 +41,7 @@ released.
 <content:encoded><![CDATA[
 <div> 自动多阶段推理、LLaVA-o1、结构化推理、数据集、推理时间缩放
 
-LLaVA-o1是一种新型的视觉语言模型，旨在进行自主的多阶段推理。与思维链提示不同，LLaVA-o1独立进行摘要、视觉解释、逻辑推理和结论生成的连续阶段。这种结构化方法使LLaVA-o1在推理密集型任务中取得了显著的改进，同时，LLaVA-o1-100k数据集将来自各种视觉问答来源的样本整合，并提供了结构化推理注释。此外，作者提出了一种推理时间级别的波束搜索方法，实现了有效的推理时间缩放。令人瞩目的是，仅使用100k训练样本和简单而有效的推理时间缩放方法，LLaVA-o1不仅在各种多模态推理基准上比其基础模型提高了8.9%，而且还超越了较大甚至是闭源模型的性能，如Gemini-1.5-pro、GPT-4o-mini 和Llama-3.2-90B-Vision-Instruct。 <br><br>总结: 这篇文章介绍了LLaVA-o1，一个具有结构化推理能力的新型视觉语言模型。通过多阶段推理和推理时间缩放，LLaVA-o1取得了不错的性能表现，在多模态推理任务上优于其他模型。 <div>
+LLaVA-o1是一种新型的视觉语言模型，旨在进行自主的多阶段推理。与思维链提示不同，LLaVA-o1独立进行摘要、视觉解释、逻辑推理和结论生成的连续阶段。这种结构化方法使LLaVA-o1在推理密集型任务中取得了显著的改进，同时，LLaVA-o1-100k数据集将来自各种视觉问答来源的样本整合，并提供了结构化推理注释。此外，作者提出了一种推理时间级别的波束搜索方法，实现了有效的推理时间缩放。令人瞩目的是，仅使用100k训练样本和简单而有效的推理时间缩放方法，LLaVA-o1不仅在各种多模态推理基准上比其基础模型提高了8.9%，而且还超越了较大甚至是闭源模型的性能，如Gemini-1.5-pro、GPT-4o-mini 和Llama-3.2-90B-Vision-Instruct。 <br /><br />总结: 这篇文章介绍了LLaVA-o1，一个具有结构化推理能力的新型视觉语言模型。通过多阶段推理和推理时间缩放，LLaVA-o1取得了不错的性能表现，在多模态推理任务上优于其他模型。 <div>
 Large language models have demonstrated substantial advancements in reasoning
 capabilities, particularly through inference-time scaling, as illustrated by
 models such as OpenAI's o1. However, current Vision-Language Models (VLMs)
@@ -63,7 +63,6 @@ and even closed-source models, such as Gemini-1.5-pro, GPT-4o-mini, and
 Llama-3.2-90B-Vision-Instruct.
 ]]></content:encoded>
 <pubDate>2024-11-15T18:58:31Z</pubDate>
-<pubDate>2024-11-15T18:58:31Z</pubDate>
 </item>
 <item>
 <title>Mitigating Hallucination in Multimodal Large Language Model via
@@ -71,7 +70,6 @@ Llama-3.2-90B-Vision-Instruct.
 <link>http://arxiv.org/abs/2411.10436v1</link>
 <guid>http://arxiv.org/abs/2411.10436v1</guid>
 <content:encoded><![CDATA[
-
 Multimodal Large Language Models (MLLMs) are known to hallucinate, which
 limits their practical applications. Recent works have attempted to apply
 Direct Preference Optimization (DPO) to enhance the performance of MLLMs, but
@@ -89,14 +87,12 @@ Ablation studies and in-depth analyses further confirm the effectiveness of our
 method and suggest the potential for further improvements through scaling up.
 ]]></content:encoded>
 <pubDate>2024-11-15T18:56:01Z</pubDate>
-<pubDate>2024-11-15T18:56:01Z</pubDate>
 </item>
 <item>
 <title>Fair Division via the Cake-Cutting Share</title>
 <link>http://arxiv.org/abs/2411.10434v1</link>
 <guid>http://arxiv.org/abs/2411.10434v1</guid>
 <content:encoded><![CDATA[
-
 In this paper, we consider the classic fair division problem of allocating
 $m$ divisible items to $n$ agents with linear valuations over the items. We
 define novel notions of fair shares from the perspective of individual agents
@@ -115,7 +111,6 @@ empirical results showing that our definitions lead to more reasonable shares
 than the standard fair share notion of proportionality.
 ]]></content:encoded>
 <pubDate>2024-11-15T18:55:01Z</pubDate>
-<pubDate>2024-11-15T18:55:01Z</pubDate>
 </item>
 <item>
 <title>M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality
@@ -123,7 +118,6 @@ than the standard fair share notion of proportionality.
 <link>http://arxiv.org/abs/2411.10433v1</link>
 <guid>http://arxiv.org/abs/2411.10433v1</guid>
 <content:encoded><![CDATA[
-
 There exists recent work in computer vision, named VAR, that proposes a new
 autoregressive paradigm for image generation. Diverging from the vanilla
 next-token prediction, VAR structurally reformulates the image generation into
@@ -148,9 +142,7 @@ models LDM/DiT by 1.82/0.49, respectively. Code is avaiable at
 \url{https://github.com/OliverRensu/MVAR}.
 ]]></content:encoded>
 <pubDate>2024-11-15T18:54:42Z</pubDate>
-<pubDate>2024-11-15T18:54:42Z</pubDate>
 </item>
-
 <item>
 <title>MagicQuill: An Intelligent Interactive Image Editing System</title>
 <link>http://arxiv.org/abs/2411.09703v1</link>
