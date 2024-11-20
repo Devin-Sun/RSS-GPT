@@ -4,6 +4,26 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Reinforcement Learning, Collusion, and the Folk Theorem</title>
+<link>http://arxiv.org/abs/2411.12725v1</link>
+<guid>http://arxiv.org/abs/2411.12725v1</guid>
+<content:encoded><![CDATA[
+<div> 监督学习,博弈论,学习动态,算法勾结,重复博弈
+
+这篇文章研究了学习代理在博弈中重复相互作用时产生的行为。研究包括了梯度下降、复制动力学和对数障碍动力学等多种学习动态。除了已经较为了解的潜在博弈和零和博弈外，还考虑了有限召回的一般重复博弈设定，针对不同形式的监控。研究获得了类似民间定理的结果，并对可以通过这些动力学获得的收益向量进行了描述，发现了算法勾结出现的各种可能性。 <br><br>总结: 监督学习、博弈论、学习动态、算法勾结、重复博弈。 <div>
+We explore the behaviour emerging from learning agents repeatedly interacting
+strategically for a wide range of learning dynamics that includes projected
+gradient, replicator and log-barrier dynamics. Going beyond the
+better-understood classes of potential games and zero-sum games, we consider
+the setting of a general repeated game with finite recall, for different forms
+of monitoring. We obtain a Folk Theorem-like result and characterise the set of
+payoff vectors that can be obtained by these dynamics, discovering a wide range
+of possibilities for the emergence of algorithmic collusion.
+]]></content:encoded>
+<pubDate>2024-11-19T18:45:55Z</pubDate>
+<pubDate>2024-11-19T18:45:55Z</pubDate>
+</item>
 
 <item>
 <title>Generative World Explorer</title>

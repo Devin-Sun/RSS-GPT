@@ -13006,3 +13006,23 @@ Filter: [Equivariant spatio-hemispherical networks for diffusion MRI
   deconvolution](http://arxiv.org/abs/2411.11819v1)
 append_entries: 0
 Finish: 2024-11-20 00:51:12.481625
+------------------------------------------------------
+Started: 2024-11-20 12:19:46.013862
+Existing_entries: 355
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [WIA-SZZ: Work Item Aware SZZ](http://arxiv.org/abs/2411.12740v1)
+Filter: [ACING: Actor-Critic for Instruction Learning in Black-Box Large Language
+  Models](http://arxiv.org/abs/2411.12736v1)
+Filter: [The More the Merrier: On Evolving Five-valued Spectra Boolean Functions](http://arxiv.org/abs/2411.12735v1)
+Filter: [Soft Robotic Dynamic In-Hand Pen Spinning](http://arxiv.org/abs/2411.12734v1)
+Filter: [Benchmarking Positional Encodings for GNNs and Graph Transformers](http://arxiv.org/abs/2411.12732v1)
+Filter: [Testing classical properties from quantum data](http://arxiv.org/abs/2411.12730v1)
+Filter: [Information Theory of Meaningful Communication](http://arxiv.org/abs/2411.12728v1)
+Filter: [LazyDINO: Fast, scalable, and efficiently amortized Bayesian inversion
+  via structure-exploiting and surrogate-driven measure transport](http://arxiv.org/abs/2411.12726v1)
+Token length: 594
+Summarized using GPT-3.5-turbo-1106
+Append: [Reinforcement Learning, Collusion, and the Folk Theorem](http://arxiv.org/abs/2411.12725v1)
+Filter: [Heuristic-Free Multi-Teacher Learning](http://arxiv.org/abs/2411.12724v1)
+append_entries: 1
+Finish: 2024-11-20 12:19:49.153185
