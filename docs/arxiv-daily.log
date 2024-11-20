@@ -12987,3 +12987,22 @@ Filter: [Equivariant spatio-hemispherical networks for diffusion MRI
   deconvolution](http://arxiv.org/abs/2411.11819v1)
 append_entries: 1
 Finish: 2024-11-19 12:20:14.208758
+------------------------------------------------------
+Started: 2024-11-20 00:51:11.462573
+Existing_entries: 355
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [UniHands: Unifying Various Wild-Collected Keypoints for Personalized
+  Hand Reconstruction](http://arxiv.org/abs/2411.11845v1)
+Filter: [Bi-Mamba: Towards Accurate 1-Bit State Space Models](http://arxiv.org/abs/2411.11843v1)
+Filter: [RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator](http://arxiv.org/abs/2411.11839v1)
+Filter: [Pairwise Markov Chains for Volatility Forecasting](http://arxiv.org/abs/2411.11838v1)
+Filter: [Describe Now: User-Driven Audio Description for Blind and Low Vision
+  Individuals](http://arxiv.org/abs/2411.11835v1)
+Filter: [Differentiable GPU-Parallelized Task and Motion Planning](http://arxiv.org/abs/2411.11833v1)
+Filter: [Tackling prediction tasks in relational databases with LLMs](http://arxiv.org/abs/2411.11829v1)
+Filter: [LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial
+  Forgery Detection](http://arxiv.org/abs/2411.11826v1)
+Filter: [Equivariant spatio-hemispherical networks for diffusion MRI
+  deconvolution](http://arxiv.org/abs/2411.11819v1)
+append_entries: 0
+Finish: 2024-11-20 00:51:12.481625

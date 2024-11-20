@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Generative World Explorer</title>
 <link>http://arxiv.org/abs/2411.11844v1</link>
 <guid>http://arxiv.org/abs/2411.11844v1</guid>
 <content:encoded><![CDATA[
-<div> 探索、计划、部分观察、生成式环境模拟、决策<br>
-<br>
-本文介绍了一项名为Generative World Explorer (Genex)的框架，该框架允许代理通过内在的世界探索获取想象中的观察，并通过这些观察更新信念，从而做出更明智的决策。为了训练Genex，作者们创建了一个名为Genex-DB的合成城市场景数据集。实验结果表明，Genex能够在大规模虚拟物理世界的长期探索过程中生成高质量、一致的观察，并且通过这些观察更新的信念可以帮助现有的决策模型做出更好的计划。<br><br>总结: 本文介绍了一个能够实现部分观察计划的新框架Genex，通过内在的世界探索生成观察，并更新信念辅助决策。实验结果证明了Genex的有效性。 <div>
+<div> 探索、计划、部分观察、生成式环境模拟、决策<br />
+<br />
+本文介绍了一项名为Generative World Explorer (Genex)的框架，该框架允许代理通过内在的世界探索获取想象中的观察，并通过这些观察更新信念，从而做出更明智的决策。为了训练Genex，作者们创建了一个名为Genex-DB的合成城市场景数据集。实验结果表明，Genex能够在大规模虚拟物理世界的长期探索过程中生成高质量、一致的观察，并且通过这些观察更新的信念可以帮助现有的决策模型做出更好的计划。<br /><br />总结: 本文介绍了一个能够实现部分观察计划的新框架Genex，通过内在的世界探索生成观察，并更新信念辅助决策。实验结果证明了Genex的有效性。 <div>
 Planning with partial observation is a central challenge in embodied AI. A
 majority of prior works have tackled this challenge by developing agents that
 physically explore their environment to update their beliefs about the world
@@ -32,9 +33,7 @@ observations can inform an existing decision-making model (e.g., an LLM agent)
 to make better plans.
 ]]></content:encoded>
 <pubDate>2024-11-18T18:59:31Z</pubDate>
-<pubDate>2024-11-18T18:59:31Z</pubDate>
 </item>
-
 <item>
 <title>Enhancing the Reasoning Ability of Multimodal Large Language Models via
   Mixed Preference Optimization</title>
