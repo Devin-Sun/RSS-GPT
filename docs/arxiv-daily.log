@@ -13043,3 +13043,27 @@ Filter: [LazyDINO: Fast, scalable, and efficiently amortized Bayesian inversion
 Filter: [Heuristic-Free Multi-Teacher Learning](http://arxiv.org/abs/2411.12724v1)
 append_entries: 0
 Finish: 2024-11-21 00:51:15.209989
+------------------------------------------------------
+Started: 2024-11-21 12:20:24.134928
+Existing_entries: 356
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AI-generated Image Detection: Passive or Watermark?](http://arxiv.org/abs/2411.13553v1)
+Token length: 1305
+Summarized using GPT-3.5-turbo-1106
+Append: [REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using
+  Extremely Compressed Motion Latents](http://arxiv.org/abs/2411.13552v1)
+Filter: [Find Any Part in 3D](http://arxiv.org/abs/2411.13550v1)
+Filter: [Generating 3D-Consistent Videos from Unposed Internet Photos](http://arxiv.org/abs/2411.13549v1)
+Filter: [HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for
+  One-Step Diffusion-Based Image Super-Resolution](http://arxiv.org/abs/2411.13548v1)
+Filter: [SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs](http://arxiv.org/abs/2411.13547v1)
+Filter: [Promoting User Data Autonomy During the Dissolution of a Monopolistic
+  Firm](http://arxiv.org/abs/2411.13546v1)
+Filter: [Pushing the Limits of Sparsity: A Bag of Tricks for Extreme Pruning](http://arxiv.org/abs/2411.13545v1)
+Filter: [DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light
+  Condition in Underground Mines](http://arxiv.org/abs/2411.13544v1)
+Token length: 1504
+Summarized using GPT-3.5-turbo-1106
+Append: [BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v1)
+append_entries: 2
+Finish: 2024-11-21 12:20:32.619711
