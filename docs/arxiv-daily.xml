@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using
   Extremely Compressed Motion Latents</title>
 <link>http://arxiv.org/abs/2411.13552v1</link>
 <guid>http://arxiv.org/abs/2411.13552v1</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 商业视频生成模型, 视频编码, VAE, 运动潜在特征, 视频生成<br>
-<br>
-商业视频生成模型表现出逼真、高保真的结果，但仍受到访问限制。一个关键的障碍是昂贵的训练和推断成本。本文认为，视频中包含的冗余信息远远多于图像，因此可以基于内容图像，用极少的运动潜在特征对视频进行编码。为实现这一目标，我们设计了一种图像条件的VAE，将视频编码为一个极度压缩的运动潜在空间。这种"Reducio"魔法使得潜在空间的维度比普通的2D VAE降低了64倍，同时不损失质量。在这种紧凑的表示上训练扩散模型轻松实现生成1K分辨率的视频。然后，我们采用了一个两阶段视频生成范例，依次执行文本到图像和图像到视频。大量实验证明，我们的Reducio-DiT在评估中表现出色，尽管使用的GPU资源有限。更重要的是，我们的方法显著提高了视频LDMs在训练和推断中的效率。我们总共花费了大约3.2K小时来训练Reducio-DiT，并在单个A100 GPU上在15.5秒内生成了一个16帧1024*1024的视频剪辑。代码已发布在https://github.com/microsoft/Reducio-VAE。 <br><br>总结: 商业视频生成模型面临昂贵的训练和推断成本，本文提出了使用图像条件的VAE对视频进行极度压缩的运动潜在特征编码，大幅提高了视频LDMs的效率。 <div>
+<div> 关键词: 商业视频生成模型, 视频编码, VAE, 运动潜在特征, 视频生成<br />
+<br />
+商业视频生成模型表现出逼真、高保真的结果，但仍受到访问限制。一个关键的障碍是昂贵的训练和推断成本。本文认为，视频中包含的冗余信息远远多于图像，因此可以基于内容图像，用极少的运动潜在特征对视频进行编码。为实现这一目标，我们设计了一种图像条件的VAE，将视频编码为一个极度压缩的运动潜在空间。这种"Reducio"魔法使得潜在空间的维度比普通的2D VAE降低了64倍，同时不损失质量。在这种紧凑的表示上训练扩散模型轻松实现生成1K分辨率的视频。然后，我们采用了一个两阶段视频生成范例，依次执行文本到图像和图像到视频。大量实验证明，我们的Reducio-DiT在评估中表现出色，尽管使用的GPU资源有限。更重要的是，我们的方法显著提高了视频LDMs在训练和推断中的效率。我们总共花费了大约3.2K小时来训练Reducio-DiT，并在单个A100 GPU上在15.5秒内生成了一个16帧1024*1024的视频剪辑。代码已发布在https://github.com/microsoft/Reducio-VAE。 <br /><br />总结: 商业视频生成模型面临昂贵的训练和推断成本，本文提出了使用图像条件的VAE对视频进行极度压缩的运动潜在特征编码，大幅提高了视频LDMs的效率。 <div>
 Commercial video generation models have exhibited realistic, high-fidelity
 results but are still restricted to limited access. One crucial obstacle for
 large-scale applications is the expensive training and inference cost. In this
@@ -33,7 +34,6 @@ clip within 15.5 seconds on a single A100 GPU. Code released at
 https://github.com/microsoft/Reducio-VAE .
 ]]></content:encoded>
 <pubDate>2024-11-20T18:59:52Z</pubDate>
-<pubDate>2024-11-20T18:59:52Z</pubDate>
 </item>
 <item>
 <title>BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games</title>
@@ -41,13 +41,13 @@ https://github.com/microsoft/Reducio-VAE .
 <guid>http://arxiv.org/abs/2411.13543v1</guid>
 <content:encoded><![CDATA[
 <div> 语言模型，视觉语言模型，挑战游戏，评估方法，BALROG
-<br><br>
+<br /><br />
 1. 本文介绍了语言模型和视觉语言模型在处理复杂动态环境中的困难。
 2. 介绍了BALROG，一个旨在通过一系列具有挑战性的游戏评估语言模型和视觉语言模型的能力的基准。
 3. BALROG包括多种难度不同的强化学习环境，旨在评估模型在各种任务上的表现。
 4. 文中指出了当前模型在简单游戏中取得部分成功，但在更具挑战性的任务中遇到了严重的困难。
 5. 特别强调了模型在基于视觉环境的决策制定方面的严重缺陷。
-<br><br>总结:
+<br /><br />总结:
 本文介绍了语言模型和视觉语言模型在处理复杂动态环境中的困难，并介绍了BALROG基准。该基准通过一系列具有挑战性的游戏评估模型的能力，包括各种难度的强化学习环境。研究发现当前模型在简单游戏中取得部分成功，但在更具挑战性的任务中遇到了严重的困难，尤其是在基于视觉环境的决策制定方面。 <div>
 Large Language Models (LLMs) and Vision Language Models (VLMs) possess
 extensive knowledge and exhibit promising reasoning abilities; however, they
@@ -71,9 +71,7 @@ provided. We release BALROG as an open and user-friendly benchmark to
 facilitate future research and development in the agentic community.
 ]]></content:encoded>
 <pubDate>2024-11-20T18:54:32Z</pubDate>
-<pubDate>2024-11-20T18:54:32Z</pubDate>
 </item>
-
 <item>
 <title>Reinforcement Learning, Collusion, and the Folk Theorem</title>
 <link>http://arxiv.org/abs/2411.12725v1</link>

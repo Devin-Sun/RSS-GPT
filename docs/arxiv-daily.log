@@ -13067,3 +13067,20 @@ Summarized using GPT-3.5-turbo-1106
 Append: [BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](http://arxiv.org/abs/2411.13543v1)
 append_entries: 2
 Finish: 2024-11-21 12:20:32.619711
+------------------------------------------------------
+Started: 2024-11-22 00:52:00.426442
+Existing_entries: 358
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AI-generated Image Detection: Passive or Watermark?](http://arxiv.org/abs/2411.13553v1)
+Filter: [Find Any Part in 3D](http://arxiv.org/abs/2411.13550v1)
+Filter: [Generating 3D-Consistent Videos from Unposed Internet Photos](http://arxiv.org/abs/2411.13549v1)
+Filter: [HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for
+  One-Step Diffusion-Based Image Super-Resolution](http://arxiv.org/abs/2411.13548v1)
+Filter: [SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs](http://arxiv.org/abs/2411.13547v1)
+Filter: [Promoting User Data Autonomy During the Dissolution of a Monopolistic
+  Firm](http://arxiv.org/abs/2411.13546v1)
+Filter: [Pushing the Limits of Sparsity: A Bag of Tricks for Extreme Pruning](http://arxiv.org/abs/2411.13545v1)
+Filter: [DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light
+  Condition in Underground Mines](http://arxiv.org/abs/2411.13544v1)
+append_entries: 0
+Finish: 2024-11-22 00:52:01.047062
