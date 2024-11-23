@@ -13112,3 +13112,21 @@ Existing_entries: 359
 Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
 append_entries: 0
 Finish: 2024-11-23 00:50:39.869868
+------------------------------------------------------
+Started: 2024-11-23 12:17:38.862328
+Existing_entries: 359
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On Optimal Testing of Linearity](http://arxiv.org/abs/2411.14431v1)
+Filter: [Stable Flow: Vital Layers for Training-Free Image Editing](http://arxiv.org/abs/2411.14430v1)
+Filter: [Revisiting the Integration of Convolution and Attention for Vision
+  Backbone](http://arxiv.org/abs/2411.14429v1)
+Filter: [Transformer-based Heuristic for Advanced Air Mobility Planning](http://arxiv.org/abs/2411.14427v1)
+Filter: [Whack-a-Chip: The Futility of Hardware-Centric Export Controls](http://arxiv.org/abs/2411.14425v1)
+Filter: [Learning Fair Robustness via Domain Mixup](http://arxiv.org/abs/2411.14424v1)
+Filter: [Unleashing the Potential of Multi-modal Foundation Models and Video
+  Diffusion for 4D Dynamic Physical Scene Simulation](http://arxiv.org/abs/2411.14423v1)
+Filter: [From RNNs to Foundation Models: An Empirical Study on Commercial
+  Building Energy Consumption](http://arxiv.org/abs/2411.14421v1)
+Filter: [Aggregating Funnels for Faster Fetch&Add and Queues](http://arxiv.org/abs/2411.14420v1)
+append_entries: 0
+Finish: 2024-11-23 12:17:39.364784
