@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large
   Language Models</title>
@@ -12,7 +13,7 @@
 <content:encoded><![CDATA[
 <div> 生成数据, 训练管道, 多模态大型语言模型, 长链推理, 视觉推理
 
-Insight-V通过设计一个两步流水线来生成足够长且多样化的推理路径，并采用多粒度评估方法来确保数据质量，以扩展对复杂多模态任务的理解能力。其次，设计了一个多代理系统，包括一个专门执行长链推理的推理代理和一个训练来评判和总结推理结果的摘要代理。最后，结合迭代式DPO算法来增强推理代理的生成稳定性和质量。 Insight-V在挑战性的需要视觉推理的多模态基准测试中取得了显著的性能提升，同时也能轻松在以感知为重点的多模态任务中保持或提高性能。 <br><br>总结: <br>Insight-V通过产生长链推理数据和优化训练管道来增强多模态大型语言模型的推理能力，取得了显著的性能提升。 <div>
+Insight-V通过设计一个两步流水线来生成足够长且多样化的推理路径，并采用多粒度评估方法来确保数据质量，以扩展对复杂多模态任务的理解能力。其次，设计了一个多代理系统，包括一个专门执行长链推理的推理代理和一个训练来评判和总结推理结果的摘要代理。最后，结合迭代式DPO算法来增强推理代理的生成稳定性和质量。 Insight-V在挑战性的需要视觉推理的多模态基准测试中取得了显著的性能提升，同时也能轻松在以感知为重点的多模态任务中保持或提高性能。 <br /><br />总结: <br />Insight-V通过产生长链推理数据和优化训练管道来增强多模态大型语言模型的推理能力，取得了显著的性能提升。 <div>
 Large Language Models (LLMs) demonstrate enhanced capabilities and
 reliability by reasoning more, evolving from Chain-of-Thought prompting to
 product-level solutions like OpenAI o1. Despite various efforts to improve LLM
@@ -37,9 +38,7 @@ our multi-agent system, Insight-V can also easily maintain or improve
 performance on perception-focused multi-modal tasks.
 ]]></content:encoded>
 <pubDate>2024-11-21T18:59:55Z</pubDate>
-<pubDate>2024-11-21T18:59:55Z</pubDate>
 </item>
-
 <item>
 <title>REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using
   Extremely Compressed Motion Latents</title>

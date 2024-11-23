@@ -13106,3 +13106,9 @@ Filter: [From RNNs to Foundation Models: An Empirical Study on Commercial
 Filter: [Aggregating Funnels for Faster Fetch&Add and Queues](http://arxiv.org/abs/2411.14420v1)
 append_entries: 1
 Finish: 2024-11-22 12:19:54.349299
+------------------------------------------------------
+Started: 2024-11-23 00:50:38.731814
+Existing_entries: 359
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+append_entries: 0
+Finish: 2024-11-23 00:50:39.869868
