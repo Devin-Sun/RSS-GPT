@@ -4,6 +4,65 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing
+  Robots</title>
+<link>http://arxiv.org/abs/2411.15130v1</link>
+<guid>http://arxiv.org/abs/2411.15130v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 飞行机器人, 学习控制, 多模式飞行, RL 框架, 稳定性分析
+总结:
+本文介绍了一种基于学习的控制方法，用于实现鸟类飞行机器人的多模式飞行和灵活轨迹跟踪。通过模型无关的强化学习框架，可以实现高自由度的鸟类飞行机器人的灵活飞行和轨迹跟踪。对闭环系统进行了稳定性分析，并通过仿真结果展示了RL控制器成功学习复杂的翅膀轨迹模式、实现稳定飞行、自发切换飞行模式以及在不同空气动力条件下跟踪不同轨迹的能力。 <div>
+Bird-sized flapping-wing robots offer significant potential for agile flight
+in complex environments, but achieving agile and robust trajectory tracking
+remains a challenge due to the complex aerodynamics and highly nonlinear
+dynamics inherent in flapping-wing flight. In this work, a learning-based
+control approach is introduced to unlock the versatility and adaptiveness of
+flapping-wing flight. We propose a model-free reinforcement learning (RL)-based
+framework for a high degree-of-freedom (DoF) bird-inspired flapping-wing robot
+that allows for multimodal flight and agile trajectory tracking. Stability
+analysis was performed on the closed-loop system comprising of the
+flapping-wing system and the RL policy. Additionally, simulation results
+demonstrate that the RL-based controller can successfully learn complex wing
+trajectory patterns, achieve stable flight, switch between flight modes
+spontaneously, and track different trajectories under various aerodynamic
+conditions.
+]]></content:encoded>
+<pubDate>2024-11-22T18:55:37Z</pubDate>
+<pubDate>2024-11-22T18:55:37Z</pubDate>
+</item>
+<item>
+<title>PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision</title>
+<link>http://arxiv.org/abs/2411.15127v1</link>
+<guid>http://arxiv.org/abs/2411.15127v1</guid>
+<content:encoded><![CDATA[
+<div> 关键词: IMU, 预训练, PRIMUS, 自监督学习, 多模态学习
+总结:
+本文针对使用惯性测量单元（IMU）进行人体运动监测的问题进行了研究。作者提出了一种名为PRIMUS的新方法，用于对IMU进行预训练。研究发现，通过结合自监督学习、多模态监督学习和最近邻监督学习，PRIMUS可以显著提高IMU数据在特定任务中的表现。在公开测试数据中，使用PRIMUS方法，即使每类样本少于500个标记样本，也可以将下游性能提高多达15％，相比之下，目前最先进的多模态训练方法表现。为了造福广大研究人员，作者将在文章发布后在github.com/nokia-bell-labs公开分享他们的代码和预训练的IMU编码器。 <div>
+Sensing human motions through Inertial Measurement Units (IMUs) embedded in
+personal devices has enabled significant applications in health and wellness.
+While labeled IMU data is scarce, we can collect unlabeled or weakly labeled
+IMU data to model human motions. For video or text modalities, the "pretrain
+and adapt" approach utilizes large volumes of unlabeled or weakly labeled data
+for pretraining, building a strong feature extractor, followed by adaptation to
+specific tasks using limited labeled data. This approach has not been widely
+adopted in the IMU domain for two reasons: (1) pretraining methods are poorly
+understood in the context of IMU, and (2) open-source pretrained models that
+generalize across datasets are rarely publicly available. In this paper, we aim
+to address the first issue by proposing PRIMUS, a method for PRetraining IMU
+encoderS. We conduct a systematic and unified evaluation of various
+self-supervised and multimodal learning pretraining objectives. Our findings
+indicate that using PRIMUS, which combines self-supervision, multimodal
+supervision, and nearest-neighbor supervision, can significantly enhance
+downstream performance. With fewer than 500 labeled samples per class, PRIMUS
+effectively enhances downstream performance by up to 15% in held-out test data,
+compared to the state-of-the-art multimodal training method. To benefit the
+broader community, our code and pre-trained IMU encoders will be made publicly
+available at github.com/nokia-bell-labs upon publication.
+]]></content:encoded>
+<pubDate>2024-11-22T18:46:30Z</pubDate>
+<pubDate>2024-11-22T18:46:30Z</pubDate>
+</item>
 
 <item>
 <title>Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large
