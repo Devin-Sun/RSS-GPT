@@ -4,6 +4,7 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing
   Robots</title>
@@ -28,7 +29,6 @@ trajectory patterns, achieve stable flight, switch between flight modes
 spontaneously, and track different trajectories under various aerodynamic
 conditions.
 ]]></content:encoded>
-<pubDate>2024-11-22T18:55:37Z</pubDate>
 <pubDate>2024-11-22T18:55:37Z</pubDate>
 </item>
 <item>
@@ -61,9 +61,7 @@ broader community, our code and pre-trained IMU encoders will be made publicly
 available at github.com/nokia-bell-labs upon publication.
 ]]></content:encoded>
 <pubDate>2024-11-22T18:46:30Z</pubDate>
-<pubDate>2024-11-22T18:46:30Z</pubDate>
 </item>
-
 <item>
 <title>Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large
   Language Models</title>

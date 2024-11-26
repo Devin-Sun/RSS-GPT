@@ -13206,3 +13206,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision](http://arxiv.org/abs/2411.15127v1)
 append_entries: 2
 Finish: 2024-11-25 12:20:53.650393
+------------------------------------------------------
+Started: 2024-11-26 00:52:01.725925
+Existing_entries: 361
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous
+  Driving](http://arxiv.org/abs/2411.15139v1)
+Filter: [Material Anything: Generating Materials for Any 3D Object via Diffusion](http://arxiv.org/abs/2411.15138v1)
+Filter: [Reasonable Bounds for Combinatorial Lines of Length Three](http://arxiv.org/abs/2411.15137v1)
+Filter: [On Approximability of Satisfiable $k$-CSPs: VII](http://arxiv.org/abs/2411.15136v1)
+Filter: [On Approximability of Satisfiable $k$-CSPs: VI](http://arxiv.org/abs/2411.15133v1)
+Filter: [WildLMa: Long Horizon Loco-Manipulation in the Wild](http://arxiv.org/abs/2411.15131v1)
+Filter: [Measuring Bullshit in the Language Games played by ChatGPT](http://arxiv.org/abs/2411.15129v1)
+Filter: [Health AI Developer Foundations](http://arxiv.org/abs/2411.15128v1)
+append_entries: 0
+Finish: 2024-11-26 00:52:02.656610
