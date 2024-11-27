@@ -4,14 +4,15 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Factorized Visual Tokenization and Generation</title>
 <link>http://arxiv.org/abs/2411.16681v1</link>
 <guid>http://arxiv.org/abs/2411.16681v1</guid>
 <content:encoded><![CDATA[
-<div> VQ-based tokenizers, image generation, Factorized Quantization, disentanglement regularization, FQGAN<br>
-<br>
-VQ-based tokenizers在图像生成中起着重要作用，但由于词汇表大小的限制，存在挑战。该研究提出了Factorized Quantization (FQ)的方法，将大的词汇表分解为多个独立的子词汇表，以提高查找复杂度。同时，引入了离散化正则化，减少了冗余信息，促进子词汇表之间的多样性。在训练过程中结合了表示学习，利用预训练的视觉模型，如CLIP和DINO，丰富了学习表示中的语义信息。实验证明，FQGAN模型大大提高了视觉tokenizer的重构质量，达到了最先进的性能。这种tokenizer还可以有效地应用于自回归图像生成。 <br><br>总结: <br>提出了Factorized Quantization (FQ)新方法，将大的词汇表分解为多个独立的子词汇表，引入离散化正则化，结合表示学习，实验证明FQGAN模型大大提高了视觉tokenizer的性能。 <div>
+<div> VQ-based tokenizers, image generation, Factorized Quantization, disentanglement regularization, FQGAN<br />
+<br />
+VQ-based tokenizers在图像生成中起着重要作用，但由于词汇表大小的限制，存在挑战。该研究提出了Factorized Quantization (FQ)的方法，将大的词汇表分解为多个独立的子词汇表，以提高查找复杂度。同时，引入了离散化正则化，减少了冗余信息，促进子词汇表之间的多样性。在训练过程中结合了表示学习，利用预训练的视觉模型，如CLIP和DINO，丰富了学习表示中的语义信息。实验证明，FQGAN模型大大提高了视觉tokenizer的重构质量，达到了最先进的性能。这种tokenizer还可以有效地应用于自回归图像生成。 <br /><br />总结: <br />提出了Factorized Quantization (FQ)新方法，将大的词汇表分解为多个独立的子词汇表，引入离散化正则化，结合表示学习，实验证明FQGAN模型大大提高了视觉tokenizer的性能。 <div>
 Visual tokenizers are fundamental to image generation. They convert visual
 data into discrete tokens, enabling transformer-based models to excel at image
 generation. Despite their success, VQ-based tokenizers like VQGAN face
@@ -35,9 +36,7 @@ demonstrate that this tokenizer can be effectively adapted into auto-regressive
 image generation. https://showlab.github.io/FQGAN
 ]]></content:encoded>
 <pubDate>2024-11-25T18:59:53Z</pubDate>
-<pubDate>2024-11-25T18:59:53Z</pubDate>
 </item>
-
 <item>
 <title>Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing
   Robots</title>

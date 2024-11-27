@@ -13243,3 +13243,22 @@ Filter: [Gaussian Process Priors for Boundary Value Problems of Linear Partial
   Differential Equations](http://arxiv.org/abs/2411.16663v1)
 append_entries: 1
 Finish: 2024-11-26 12:20:52.063747
+------------------------------------------------------
+Started: 2024-11-27 00:52:43.657353
+Existing_entries: 362
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Generative Omnimatte: Learning to Decompose Video into Layers](http://arxiv.org/abs/2411.16683v1)
+Filter: [Quark: Real-time, High-resolution, and General Neural View Synthesis](http://arxiv.org/abs/2411.16680v1)
+Filter: [Do Large Language Models Perform Latent Multi-Hop Reasoning without
+  Exploiting Shortcuts?](http://arxiv.org/abs/2411.16679v1)
+Filter: [Discrete Quantum Walks with Marked Vertices and Their Average Vertex
+  Mixing Matrices](http://arxiv.org/abs/2411.16676v1)
+Filter: [Diffusion Features for Zero-Shot 6DoF Object Pose Estimation](http://arxiv.org/abs/2411.16668v1)
+Filter: [OPMOS: Ordered Parallel Multi-Objective Shortest-Path](http://arxiv.org/abs/2411.16667v1)
+Filter: [CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP
+  Feature Importance](http://arxiv.org/abs/2411.16666v1)
+Filter: [Edge Weight Prediction For Category-Agnostic Pose Estimation](http://arxiv.org/abs/2411.16665v1)
+Filter: [Gaussian Process Priors for Boundary Value Problems of Linear Partial
+  Differential Equations](http://arxiv.org/abs/2411.16663v1)
+append_entries: 0
+Finish: 2024-11-27 00:52:44.405925
