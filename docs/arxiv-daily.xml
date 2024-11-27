@@ -4,6 +4,97 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Video-Guided Foley Sound Generation with Multimodal Controls</title>
+<link>http://arxiv.org/abs/2411.17698v1</link>
+<guid>http://arxiv.org/abs/2411.17698v1</guid>
+<content:encoded><![CDATA[
+<div> 视频，声音，生成模型，MultiFoley，多模态<br>
+总结：<br>
+这篇文章介绍了MultiFoley，这是一个设计用来进行视频引导声音生成的模型。它支持通过文本、音频和视频进行多模态条件设定。用户可以使用文本提示和无声视频来创建干净的声音，也可以进行更奇特的声音创作。MultiFoley还允许用户从音效库或局部视频中选择参考音频来进行条件设定。该模型的一个关键创新之处在于其同时在互联网视频数据集和专业音效记录上进行训练，实现了高质量、全带宽（48kHz）的音频生成。通过自动评估和人类研究，我们证明了MultiFoley能够成功地在不同条件输入下生成同步的高质量声音，并且优于现有方法。 <div>
+Generating sound effects for videos often requires creating artistic sound
+effects that diverge significantly from real-life sources and flexible control
+in the sound design. To address this problem, we introduce MultiFoley, a model
+designed for video-guided sound generation that supports multimodal
+conditioning through text, audio, and video. Given a silent video and a text
+prompt, MultiFoley allows users to create clean sounds (e.g., skateboard wheels
+spinning without wind noise) or more whimsical sounds (e.g., making a lion's
+roar sound like a cat's meow). MultiFoley also allows users to choose reference
+audio from sound effects (SFX) libraries or partial videos for conditioning. A
+key novelty of our model lies in its joint training on both internet video
+datasets with low-quality audio and professional SFX recordings, enabling
+high-quality, full-bandwidth (48kHz) audio generation. Through automated
+evaluations and human studies, we demonstrate that MultiFoley successfully
+generates synchronized high-quality sounds across varied conditional inputs and
+outperforms existing methods. Please see our project page for video results:
+https://ificl.github.io/MultiFoley/
+]]></content:encoded>
+<pubDate>2024-11-26T18:59:58Z</pubDate>
+<pubDate>2024-11-26T18:59:58Z</pubDate>
+</item>
+<item>
+<title>StableAnimator: High-Quality Identity-Preserving Human Image Animation</title>
+<link>http://arxiv.org/abs/2411.17697v1</link>
+<guid>http://arxiv.org/abs/2411.17697v1</guid>
+<content:encoded><![CDATA[
+<div> 视频动画；身份一致性；StableAnimator；图像嵌入；面部质量改进
+
+总结:
+StableAnimator是第一个端到端的视频扩散框架，旨在保持身份一致性。该框架使用参考图像和一系列姿势来合成高质量的视频，无需任何后期处理。它通过使用图像和面部嵌入并结合全局内容感知的面部编码器来开始处理，然后引入一种新颖的分布感知的身份适配器，可以避免时间层次造成的干扰，同时通过对齐来保持身份一致性。在推断过程中，提出一种基于Hamilton-Jacobi-Bellman（HJB）方程的优化技术，进一步增强面部质量。实验证明，StableAnimator在多个基准测试上在质量和数量上都非常有效。<br><br> <div>
+Current diffusion models for human image animation struggle to ensure
+identity (ID) consistency. This paper presents StableAnimator, the first
+end-to-end ID-preserving video diffusion framework, which synthesizes
+high-quality videos without any post-processing, conditioned on a reference
+image and a sequence of poses. Building upon a video diffusion model,
+StableAnimator contains carefully designed modules for both training and
+inference striving for identity consistency. In particular, StableAnimator
+begins by computing image and face embeddings with off-the-shelf extractors,
+respectively and face embeddings are further refined by interacting with image
+embeddings using a global content-aware Face Encoder. Then, StableAnimator
+introduces a novel distribution-aware ID Adapter that prevents interference
+caused by temporal layers while preserving ID via alignment. During inference,
+we propose a novel Hamilton-Jacobi-Bellman (HJB) equation-based optimization to
+further enhance the face quality. We demonstrate that solving the HJB equation
+can be integrated into the diffusion denoising process, and the resulting
+solution constrains the denoising path and thus benefits ID preservation.
+Experiments on multiple benchmarks show the effectiveness of StableAnimator
+both qualitatively and quantitatively.
+]]></content:encoded>
+<pubDate>2024-11-26T18:59:22Z</pubDate>
+<pubDate>2024-11-26T18:59:22Z</pubDate>
+</item>
+<item>
+<title>Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis</title>
+<link>http://arxiv.org/abs/2411.17690v1</link>
+<guid>http://arxiv.org/abs/2411.17690v1</guid>
+<content:encoded><![CDATA[
+
+In this paper, we propose a new task -- generating speech from videos of
+people and their transcripts (VTTS) -- to motivate new techniques for
+multimodal speech generation. This task generalizes the task of generating
+speech from cropped lip videos, and is also more complicated than the task of
+generating generic audio clips (e.g., dog barking) from videos and text.
+Multilingual versions of the task could lead to new techniques for
+cross-lingual dubbing. We also present a decoder-only multimodal model for this
+task, which we call Visatronic. This model embeds vision, text and speech
+directly into the common subspace of a transformer model and uses an
+autoregressive loss to learn a generative model of discretized mel-spectrograms
+conditioned on speaker videos and transcripts of their speech. By embedding all
+modalities into a common subspace, Visatronic can achieve improved results over
+models that use only text or video as input. Further, it presents a much
+simpler approach for multimodal speech generation compared to prevailing
+approaches which rely on lip-detectors and complicated architectures to fuse
+modalities while producing better results. Since the model is flexible enough
+to accommodate different ways of ordering inputs as a sequence, we carefully
+explore different strategies to better understand the best way to propagate
+information to the generative steps. To facilitate further research on VTTS, we
+will release (i) our code, (ii) clean transcriptions for the large-scale
+VoxCeleb2 dataset, and (iii) a standardized evaluation protocol for VTTS
+incorporating both objective and subjective metrics.
+]]></content:encoded>
+<pubDate>2024-11-26T18:57:29Z</pubDate>
+<pubDate>2024-11-26T18:57:29Z</pubDate>
+</item>
 
 <item>
 <title>Factorized Visual Tokenization and Generation</title>

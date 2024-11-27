@@ -13262,3 +13262,27 @@ Filter: [Gaussian Process Priors for Boundary Value Problems of Linear Partial
   Differential Equations](http://arxiv.org/abs/2411.16663v1)
 append_entries: 0
 Finish: 2024-11-27 00:52:44.405925
+------------------------------------------------------
+Started: 2024-11-27 12:20:45.199672
+Existing_entries: 362
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Token length: 1183
+Summarized using GPT-3.5-turbo-1106
+Append: [Video-Guided Foley Sound Generation with Multimodal Controls](http://arxiv.org/abs/2411.17698v1)
+Token length: 1314
+Summarized using GPT-3.5-turbo-1106
+Append: [StableAnimator: High-Quality Identity-Preserving Human Image Animation](http://arxiv.org/abs/2411.17697v1)
+Filter: [ScribbleLight: Single Image Indoor Relighting with Scribbles](http://arxiv.org/abs/2411.17696v1)
+Filter: [Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats](http://arxiv.org/abs/2411.17693v1)
+Filter: [Quantifying information stored in synaptic connections rather than in
+  firing patterns of neural networks](http://arxiv.org/abs/2411.17692v1)
+Filter: [Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for
+  Quantized LLMs with 100T Training Tokens](http://arxiv.org/abs/2411.17691v1)
+Append: [Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis](http://arxiv.org/abs/2411.17690v1)
+Filter: [GenDeg: Diffusion-Based Degradation Synthesis for Generalizable
+  All-in-One Image Restoration](http://arxiv.org/abs/2411.17687v1)
+Filter: [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for
+  Training-Free Acceleration](http://arxiv.org/abs/2411.17686v1)
+Filter: [Attamba: Attending To Multi-Token States](http://arxiv.org/abs/2411.17685v1)
+append_entries: 3
+Finish: 2024-11-27 12:20:59.791737
