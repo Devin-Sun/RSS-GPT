@@ -4,13 +4,14 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Video-Guided Foley Sound Generation with Multimodal Controls</title>
 <link>http://arxiv.org/abs/2411.17698v1</link>
 <guid>http://arxiv.org/abs/2411.17698v1</guid>
 <content:encoded><![CDATA[
-<div> 视频，声音，生成模型，MultiFoley，多模态<br>
-总结：<br>
+<div> 视频，声音，生成模型，MultiFoley，多模态<br />
+总结：<br />
 这篇文章介绍了MultiFoley，这是一个设计用来进行视频引导声音生成的模型。它支持通过文本、音频和视频进行多模态条件设定。用户可以使用文本提示和无声视频来创建干净的声音，也可以进行更奇特的声音创作。MultiFoley还允许用户从音效库或局部视频中选择参考音频来进行条件设定。该模型的一个关键创新之处在于其同时在互联网视频数据集和专业音效记录上进行训练，实现了高质量、全带宽（48kHz）的音频生成。通过自动评估和人类研究，我们证明了MultiFoley能够成功地在不同条件输入下生成同步的高质量声音，并且优于现有方法。 <div>
 Generating sound effects for videos often requires creating artistic sound
 effects that diverge significantly from real-life sources and flexible control
@@ -30,7 +31,6 @@ outperforms existing methods. Please see our project page for video results:
 https://ificl.github.io/MultiFoley/
 ]]></content:encoded>
 <pubDate>2024-11-26T18:59:58Z</pubDate>
-<pubDate>2024-11-26T18:59:58Z</pubDate>
 </item>
 <item>
 <title>StableAnimator: High-Quality Identity-Preserving Human Image Animation</title>
@@ -40,7 +40,7 @@ https://ificl.github.io/MultiFoley/
 <div> 视频动画；身份一致性；StableAnimator；图像嵌入；面部质量改进
 
 总结:
-StableAnimator是第一个端到端的视频扩散框架，旨在保持身份一致性。该框架使用参考图像和一系列姿势来合成高质量的视频，无需任何后期处理。它通过使用图像和面部嵌入并结合全局内容感知的面部编码器来开始处理，然后引入一种新颖的分布感知的身份适配器，可以避免时间层次造成的干扰，同时通过对齐来保持身份一致性。在推断过程中，提出一种基于Hamilton-Jacobi-Bellman（HJB）方程的优化技术，进一步增强面部质量。实验证明，StableAnimator在多个基准测试上在质量和数量上都非常有效。<br><br> <div>
+StableAnimator是第一个端到端的视频扩散框架，旨在保持身份一致性。该框架使用参考图像和一系列姿势来合成高质量的视频，无需任何后期处理。它通过使用图像和面部嵌入并结合全局内容感知的面部编码器来开始处理，然后引入一种新颖的分布感知的身份适配器，可以避免时间层次造成的干扰，同时通过对齐来保持身份一致性。在推断过程中，提出一种基于Hamilton-Jacobi-Bellman（HJB）方程的优化技术，进一步增强面部质量。实验证明，StableAnimator在多个基准测试上在质量和数量上都非常有效。<br /><br /> <div>
 Current diffusion models for human image animation struggle to ensure
 identity (ID) consistency. This paper presents StableAnimator, the first
 end-to-end ID-preserving video diffusion framework, which synthesizes
@@ -61,14 +61,12 @@ Experiments on multiple benchmarks show the effectiveness of StableAnimator
 both qualitatively and quantitatively.
 ]]></content:encoded>
 <pubDate>2024-11-26T18:59:22Z</pubDate>
-<pubDate>2024-11-26T18:59:22Z</pubDate>
 </item>
 <item>
 <title>Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis</title>
 <link>http://arxiv.org/abs/2411.17690v1</link>
 <guid>http://arxiv.org/abs/2411.17690v1</guid>
 <content:encoded><![CDATA[
-
 In this paper, we propose a new task -- generating speech from videos of
 people and their transcripts (VTTS) -- to motivate new techniques for
 multimodal speech generation. This task generalizes the task of generating
@@ -93,9 +91,7 @@ VoxCeleb2 dataset, and (iii) a standardized evaluation protocol for VTTS
 incorporating both objective and subjective metrics.
 ]]></content:encoded>
 <pubDate>2024-11-26T18:57:29Z</pubDate>
-<pubDate>2024-11-26T18:57:29Z</pubDate>
 </item>
-
 <item>
 <title>Factorized Visual Tokenization and Generation</title>
 <link>http://arxiv.org/abs/2411.16681v1</link>
