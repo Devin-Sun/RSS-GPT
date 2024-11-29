@@ -4,15 +4,16 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Cross-modal Information Flow in Multimodal Large Language Models</title>
 <link>http://arxiv.org/abs/2411.18620v1</link>
 <guid>http://arxiv.org/abs/2411.18620v1</guid>
 <content:encoded><![CDATA[
 <div> 模态语言模型、视觉问题回答、信息流、多模态信息定位、中文总结
-<br>
+<br />
 本研究针对多模态大型语言模型中语言和视觉信息交互的工作机制进行了探讨，以视觉问题回答为例进行了实验。实验发现在模型的不同层次存在着视觉和语言信息整合的两个明显阶段。首先，在较低层次，模型将整个图像的更一般的视觉特征转化为（语言）问题标记的表示。其次，在中间层，模型再次将与问题相关的特定对象的视觉信息转移到问题的各个标记位置。最终，在较高层次，多模态表示被传播到输入序列的最后一个位置进行最终预测。总体而言，本研究为我们提供了对多模态语言模型中图像和语言处理的空间和功能层面的全新视角，从而有助于未来对多模态信息定位和编辑的研究。 
-<br><br>总结: 模型在不同层次存在着视觉和语言信息整合的两个明显阶段，首先将整个图像的更一般的视觉特征转化为（语言）问题标记的表示，其次再次将与问题相关的特定对象的视觉信息转移到问题的各个标记位置，最终多模态表示被传播到输入序列的最后一个位置进行最终预测。 <div>
+<br /><br />总结: 模型在不同层次存在着视觉和语言信息整合的两个明显阶段，首先将整个图像的更一般的视觉特征转化为（语言）问题标记的表示，其次再次将与问题相关的特定对象的视觉信息转移到问题的各个标记位置，最终多模态表示被传播到输入序列的最后一个位置进行最终预测。 <div>
 The recent advancements in auto-regressive multimodal large language models
 (MLLMs) have demonstrated promising progress for vision-language tasks. While
 there exists a variety of studies investigating the processing of linguistic
@@ -38,7 +39,6 @@ facilitating future research into multimodal information localization and
 editing.
 ]]></content:encoded>
 <pubDate>2024-11-27T18:59:26Z</pubDate>
-<pubDate>2024-11-27T18:59:26Z</pubDate>
 </item>
 <item>
 <title>Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse
@@ -47,7 +47,7 @@ editing.
 <guid>http://arxiv.org/abs/2411.18615v1</guid>
 <content:encoded><![CDATA[
 <div> 多任务学习, 梯度冲突, 稀疏训练, 模型参数, 性能提升
-<br><br>
+<br /><br />
 本文探讨了多任务学习中梯度冲突的问题，并提出了一种稀疏训练（ST）的方法来减轻这种冲突。研究表明，稀疏训练可以有效地减少冲突梯度，并提高性能。此外，稀疏训练还可以与梯度操纵技术相结合，进一步提高效果。通过对模型参数进行部分更新，稀疏训练可以在多任务学习中取得良好的效果，解决了梯度冲突问题，提高了模型性能。总结: 多任务学习中存在梯度冲突问题，通过稀疏训练可以有效减轻梯度冲突，并提高模型性能。 <div>
 Advancing towards generalist agents necessitates the concurrent processing of
 multiple tasks using a unified model, thereby underscoring the growing
@@ -67,9 +67,7 @@ leads to superior performance. Furthermore, ST can be easily integrated with
 gradient manipulation techniques, thus enhancing their effectiveness.
 ]]></content:encoded>
 <pubDate>2024-11-27T18:58:22Z</pubDate>
-<pubDate>2024-11-27T18:58:22Z</pubDate>
 </item>
-
 <item>
 <title>Video-Guided Foley Sound Generation with Multimodal Controls</title>
 <link>http://arxiv.org/abs/2411.17698v1</link>
