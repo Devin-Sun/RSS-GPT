@@ -13382,3 +13382,21 @@ Filter: [Optimal root recovery for uniform attachment trees and $d$-regular
 Filter: [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](http://arxiv.org/abs/2411.18613v1)
 append_entries: 0
 Finish: 2024-11-30 00:51:17.321483
+------------------------------------------------------
+Started: 2024-11-30 12:18:06.802725
+Existing_entries: 367
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Textured Gaussians for Enhanced 3D Scene Appearance Modeling](http://arxiv.org/abs/2411.18625v1)
+Filter: [GeneMAN: Generalizable Single-Image 3D Human Reconstruction from
+  Multi-Source Human Data](http://arxiv.org/abs/2411.18624v1)
+Filter: [Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for
+  Robust 3D Robotic Manipulation](http://arxiv.org/abs/2411.18623v1)
+Filter: [Leveraging Semi-Supervised Learning to Enhance Data Mining for Image
+  Classification under Limited Labeled Data](http://arxiv.org/abs/2411.18622v1)
+Filter: [Online versus Offline Adversaries in Property Testing](http://arxiv.org/abs/2411.18617v1)
+Filter: [Diffusion Self-Distillation for Zero-Shot Customized Image Generation](http://arxiv.org/abs/2411.18616v1)
+Filter: [Optimal root recovery for uniform attachment trees and $d$-regular
+  growing trees](http://arxiv.org/abs/2411.18614v1)
+Filter: [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](http://arxiv.org/abs/2411.18613v1)
+append_entries: 0
+Finish: 2024-11-30 12:18:07.865688
