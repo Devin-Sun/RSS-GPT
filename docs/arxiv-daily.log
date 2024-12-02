@@ -13436,3 +13436,16 @@ Filter: [Optimal root recovery for uniform attachment trees and $d$-regular
 Filter: [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](http://arxiv.org/abs/2411.18613v1)
 append_entries: 0
 Finish: 2024-12-01 12:18:40.396979
+------------------------------------------------------
+Started: 2024-12-02 00:55:00.844750
+Existing_entries: 367
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Textured Gaussians for Enhanced 3D Scene Appearance Modeling](http://arxiv.org/abs/2411.18625v1)
+Filter: [GeneMAN: Generalizable Single-Image 3D Human Reconstruction from
+  Multi-Source Human Data](http://arxiv.org/abs/2411.18624v1)
+Filter: [Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for
+  Robust 3D Robotic Manipulation](http://arxiv.org/abs/2411.18623v1)
+Filter: [Leveraging Semi-Supervised Learning to Enhance Data Mining for Image
+  Classification under Limited Labeled Data](http://arxiv.org/abs/2411.18622v1)
+append_entries: 0
+Finish: 2024-12-02 00:55:01.748015
