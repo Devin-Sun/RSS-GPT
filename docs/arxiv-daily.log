@@ -13495,3 +13495,23 @@ Filter: [Scalable Out-of-distribution Robustness in the Presence of Unobserved
   Confounders](http://arxiv.org/abs/2411.19923v1)
 append_entries: 0
 Finish: 2024-12-03 00:54:01.837657
+------------------------------------------------------
+Started: 2024-12-03 12:20:25.483588
+Existing_entries: 369
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [T2Vid: Translating Long Text into Multi-Image is the Catalyst for
+  Video-LLMs](http://arxiv.org/abs/2411.19951v2)
+Filter: [AlphaTablets: A Generic Plane Representation for 3D Planar
+  Reconstruction from Monocular Videos](http://arxiv.org/abs/2411.19950v1)
+Filter: [DELT: A Simple Diversity-driven EarlyLate Training for Dataset
+  Distillation](http://arxiv.org/abs/2411.19946v1)
+Filter: [Critical Tokens Matter: Token-Level Contrastive Estimation Enhances
+  LLM's Reasoning Capability](http://arxiv.org/abs/2411.19943v2)
+Filter: [Free-form Generation Enhances Challenging Clothed Human Modeling](http://arxiv.org/abs/2411.19942v1)
+Filter: [Perception Test 2024: Challenge Summary and a Novel Hour-Long VideoQA
+  Benchmark](http://arxiv.org/abs/2411.19941v1)
+Filter: [Sparse Pseudospectral Shattering](http://arxiv.org/abs/2411.19926v1)
+Filter: [Scalable Out-of-distribution Robustness in the Presence of Unobserved
+  Confounders](http://arxiv.org/abs/2411.19923v1)
+append_entries: 0
+Finish: 2024-12-03 12:20:26.315313
