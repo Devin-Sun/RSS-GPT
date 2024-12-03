@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>VLSBench: Unveiling Visual Leakage in Multimodal Safety</title>
 <link>http://arxiv.org/abs/2411.19939v1</link>
 <guid>http://arxiv.org/abs/2411.19939v1</guid>
 <content:encoded><![CDATA[
-
 Safety concerns of Multimodal large language models (MLLMs) have gradually
 become an important problem in various applications. Surprisingly, previous
 works indicate a counter-intuitive phenomenon that using textual unlearning to
@@ -31,14 +31,12 @@ for multimodal safety scenarios without VSIL. Please see our code and data at:
 http://hxhcreate.github.io/VLSBench
 ]]></content:encoded>
 <pubDate>2024-11-29T18:56:37Z</pubDate>
-<pubDate>2024-11-29T18:56:37Z</pubDate>
 </item>
 <item>
 <title>On Domain-Specific Post-Training for Multimodal Large Language Models</title>
 <link>http://arxiv.org/abs/2411.19930v1</link>
 <guid>http://arxiv.org/abs/2411.19930v1</guid>
 <content:encoded><![CDATA[
-
 Recent years have witnessed the rapid development of general multimodal large
 language models (MLLMs). However, adapting general MLLMs to specific domains,
 such as scientific fields and industrial applications, remains less explored.
@@ -59,9 +57,7 @@ performance on various domain-specific tasks. To support further research in
 MLLM domain adaptation, we will open-source our implementations.
 ]]></content:encoded>
 <pubDate>2024-11-29T18:42:28Z</pubDate>
-<pubDate>2024-11-29T18:42:28Z</pubDate>
 </item>
-
 <item>
 <title>Cross-modal Information Flow in Multimodal Large Language Models</title>
 <link>http://arxiv.org/abs/2411.18620v1</link>
