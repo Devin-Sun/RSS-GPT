@@ -4,6 +4,60 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Motion Prompting: Controlling Video Generation with Motion Trajectories</title>
+<link>http://arxiv.org/abs/2412.02700v1</link>
+<guid>http://arxiv.org/abs/2412.02700v1</guid>
+<content:encoded><![CDATA[
+
+Motion control is crucial for generating expressive and compelling video
+content; however, most existing video generation models rely mainly on text
+prompts for control, which struggle to capture the nuances of dynamic actions
+and temporal compositions. To this end, we train a video generation model
+conditioned on spatio-temporally sparse or dense motion trajectories. In
+contrast to prior motion conditioning work, this flexible representation can
+encode any number of trajectories, object-specific or global scene motion, and
+temporally sparse motion; due to its flexibility we refer to this conditioning
+as motion prompts. While users may directly specify sparse trajectories, we
+also show how to translate high-level user requests into detailed, semi-dense
+motion prompts, a process we term motion prompt expansion. We demonstrate the
+versatility of our approach through various applications, including camera and
+object motion control, "interacting" with an image, motion transfer, and image
+editing. Our results showcase emergent behaviors, such as realistic physics,
+suggesting the potential of motion prompts for probing video models and
+interacting with future generative world models. Finally, we evaluate
+quantitatively, conduct a human study, and demonstrate strong performance.
+Video results are available on our webpage: https://motion-prompting.github.io/
+]]></content:encoded>
+<pubDate>2024-12-03T18:59:56Z</pubDate>
+<pubDate>2024-12-03T18:59:56Z</pubDate>
+</item>
+<item>
+<title>FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand
+  Image Generation</title>
+<link>http://arxiv.org/abs/2412.02690v1</link>
+<guid>http://arxiv.org/abs/2412.02690v1</guid>
+<content:encoded><![CDATA[
+
+Despite remarkable progress in image generation models, generating realistic
+hands remains a persistent challenge due to their complex articulation, varying
+viewpoints, and frequent occlusions. We present FoundHand, a large-scale
+domain-specific diffusion model for synthesizing single and dual hand images.
+To train our model, we introduce FoundHand-10M, a large-scale hand dataset with
+2D keypoints and segmentation mask annotations. Our insight is to use 2D hand
+keypoints as a universal representation that encodes both hand articulation and
+camera viewpoint. FoundHand learns from image pairs to capture physically
+plausible hand articulations, natively enables precise control through 2D
+keypoints, and supports appearance control. Our model exhibits core
+capabilities that include the ability to repose hands, transfer hand
+appearance, and even synthesize novel views. This leads to zero-shot
+capabilities for fixing malformed hands in previously generated images, or
+synthesizing hand video sequences. We present extensive experiments and
+evaluations that demonstrate state-of-the-art performance of our method.
+]]></content:encoded>
+<pubDate>2024-12-03T18:58:19Z</pubDate>
+<pubDate>2024-12-03T18:58:19Z</pubDate>
+</item>
 
 <item>
 <title>VLSBench: Unveiling Visual Leakage in Multimodal Safety</title>

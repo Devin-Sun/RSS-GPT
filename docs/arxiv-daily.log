@@ -13535,3 +13535,29 @@ Filter: [Scalable Out-of-distribution Robustness in the Presence of Unobserved
   Confounders](http://arxiv.org/abs/2411.19923v1)
 append_entries: 0
 Finish: 2024-12-04 00:54:00.373039
+------------------------------------------------------
+Started: 2024-12-04 12:20:32.197006
+Existing_entries: 369
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Motion Prompting: Controlling Video Generation with Motion Trajectories](http://arxiv.org/abs/2412.02700v1)
+Filter: [UniGraspTransformer: Simplified Policy Distillation for Scalable
+  Dexterous Robotic Grasping](http://arxiv.org/abs/2412.02699v1)
+Filter: [Scaling BERT Models for Turkish Automatic Punctuation and Capitalization
+  Correction](http://arxiv.org/abs/2412.02698v1)
+Filter: [An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning
+  Techniques](http://arxiv.org/abs/2412.02695v1)
+Filter: [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)
+Filter: [Taming Scalable Visual Tokenizer for Autoregressive Image Generation](http://arxiv.org/abs/2412.02692v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand
+  Image Generation](http://arxiv.org/abs/2412.02690v1)
+Filter: [Preliminary Investigation into Data Scaling Laws for Imitation
+  Learning-Based End-to-End Autonomous Driving](http://arxiv.org/abs/2412.02689v1)
+Filter: [SNOOPI: Supercharged One-step Diffusion Distillation with Proper
+  Guidance](http://arxiv.org/abs/2412.02687v1)
+Filter: [T-REG: Preference Optimization with Token-Level Reward Regularization](http://arxiv.org/abs/2412.02685v1)
+append_entries: 2
+Finish: 2024-12-04 12:20:33.461135
