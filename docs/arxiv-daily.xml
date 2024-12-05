@@ -4,6 +4,145 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Navigation World Models</title>
+<link>http://arxiv.org/abs/2412.03572v1</link>
+<guid>http://arxiv.org/abs/2412.03572v1</guid>
+<content:encoded><![CDATA[
+
+Navigation is a fundamental skill of agents with visual-motor capabilities.
+We introduce a Navigation World Model (NWM), a controllable video generation
+model that predicts future visual observations based on past observations and
+navigation actions. To capture complex environment dynamics, NWM employs a
+Conditional Diffusion Transformer (CDiT), trained on a diverse collection of
+egocentric videos of both human and robotic agents, and scaled up to 1 billion
+parameters. In familiar environments, NWM can plan navigation trajectories by
+simulating them and evaluating whether they achieve the desired goal. Unlike
+supervised navigation policies with fixed behavior, NWM can dynamically
+incorporate constraints during planning. Experiments demonstrate its
+effectiveness in planning trajectories from scratch or by ranking trajectories
+sampled from an external policy. Furthermore, NWM leverages its learned visual
+priors to imagine trajectories in unfamiliar environments from a single input
+image, making it a flexible and powerful tool for next-generation navigation
+systems.
+]]></content:encoded>
+<pubDate>2024-12-04T18:59:45Z</pubDate>
+<pubDate>2024-12-04T18:59:45Z</pubDate>
+</item>
+<item>
+<title>Streaming Detection of Queried Event Start</title>
+<link>http://arxiv.org/abs/2412.03567v1</link>
+<guid>http://arxiv.org/abs/2412.03567v1</guid>
+<content:encoded><![CDATA[
+
+Robotics, autonomous driving, augmented reality, and many embodied computer
+vision applications must quickly react to user-defined events unfolding in real
+time. We address this setting by proposing a novel task for multimodal video
+understanding-Streaming Detection of Queried Event Start (SDQES). The goal of
+SDQES is to identify the beginning of a complex event as described by a natural
+language query, with high accuracy and low latency. We introduce a new
+benchmark based on the Ego4D dataset, as well as new task-specific metrics to
+study streaming multimodal detection of diverse events in an egocentric video
+setting. Inspired by parameter-efficient fine-tuning methods in NLP and for
+video tasks, we propose adapter-based baselines that enable image-to-video
+transfer learning, allowing for efficient online video modeling. We evaluate
+three vision-language backbones and three adapter architectures on both
+short-clip and untrimmed video settings.
+]]></content:encoded>
+<pubDate>2024-12-04T18:58:27Z</pubDate>
+<pubDate>2024-12-04T18:58:27Z</pubDate>
+</item>
+<item>
+<title>Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual
+  Prompt Instruction Tuning</title>
+<link>http://arxiv.org/abs/2412.03565v1</link>
+<guid>http://arxiv.org/abs/2412.03565v1</guid>
+<content:encoded><![CDATA[
+
+Large Multimodal Models (LMMs) have made significant breakthroughs with the
+advancement of instruction tuning. However, while existing models can
+understand images and videos at a holistic level, they still struggle with
+instance-level understanding that requires a more nuanced comprehension and
+alignment. Instance-level understanding is crucial, as it focuses on the
+specific elements that we are most interested in. Excitingly, existing works
+find that the state-of-the-art LMMs exhibit strong instance understanding
+capabilities when provided with explicit visual cues. Motivated by this, we
+introduce an automated annotation pipeline assisted by GPT-4o to extract
+instance-level information from images and videos through explicit visual
+prompting for instance guidance. Building upon this pipeline, we proposed
+Inst-IT, a solution to enhance LMMs in Instance understanding via explicit
+visual prompt Instruction Tuning. Inst-IT consists of a benchmark to diagnose
+multimodal instance-level understanding, a large-scale instruction-tuning
+dataset, and a continuous instruction-tuning training paradigm to effectively
+enhance spatial-temporal instance understanding capabilities of existing LMMs.
+Experimental results show that, with the boost of Inst-IT, our models not only
+achieve outstanding performance on Inst-IT Bench but also demonstrate
+significant improvements across various generic image and video understanding
+benchmarks. This highlights that our dataset not only boosts instance-level
+understanding but also strengthens the overall capabilities of generic image
+and video comprehension.
+]]></content:encoded>
+<pubDate>2024-12-04T18:58:10Z</pubDate>
+<pubDate>2024-12-04T18:58:10Z</pubDate>
+</item>
+<item>
+<title>From Individual to Society: A Survey on Social Simulation Driven by
+  Large Language Model-based Agents</title>
+<link>http://arxiv.org/abs/2412.03563v1</link>
+<guid>http://arxiv.org/abs/2412.03563v1</guid>
+<content:encoded><![CDATA[
+
+Traditional sociological research often relies on human participation, which,
+though effective, is expensive, challenging to scale, and with ethical
+concerns. Recent advancements in large language models (LLMs) highlight their
+potential to simulate human behavior, enabling the replication of individual
+responses and facilitating studies on many interdisciplinary studies. In this
+paper, we conduct a comprehensive survey of this field, illustrating the recent
+progress in simulation driven by LLM-empowered agents. We categorize the
+simulations into three types: (1) Individual Simulation, which mimics specific
+individuals or demographic groups; (2) Scenario Simulation, where multiple
+agents collaborate to achieve goals within specific contexts; and (3) Society
+Simulation, which models interactions within agent societies to reflect the
+complexity and variety of real-world dynamics. These simulations follow a
+progression, ranging from detailed individual modeling to large-scale societal
+phenomena. We provide a detailed discussion of each simulation type, including
+the architecture or key components of the simulation, the classification of
+objectives or scenarios and the evaluation method. Afterward, we summarize
+commonly used datasets and benchmarks. Finally, we discuss the trends across
+these three types of simulation. A repository for the related sources is at
+{\url{https://github.com/FudanDISC/SocialAgent}}.
+]]></content:encoded>
+<pubDate>2024-12-04T18:56:37Z</pubDate>
+<pubDate>2024-12-04T18:56:37Z</pubDate>
+</item>
+<item>
+<title>FLAIR: VLM with Fine-grained Language-informed Image Representations</title>
+<link>http://arxiv.org/abs/2412.03561v1</link>
+<guid>http://arxiv.org/abs/2412.03561v1</guid>
+<content:encoded><![CDATA[
+
+CLIP has shown impressive results in aligning images and texts at scale.
+However, its ability to capture detailed visual features remains limited
+because CLIP matches images and texts at a global level. To address this issue,
+we propose FLAIR, Fine-grained Language-informed Image Representations, an
+approach that utilizes long and detailed image descriptions to learn localized
+image embeddings. By sampling diverse sub-captions that describe fine-grained
+details about an image, we train our vision-language model to produce not only
+global embeddings but also text-specific image representations. Our model
+introduces text-conditioned attention pooling on top of local image tokens to
+produce fine-grained image representations that excel at retrieving detailed
+image content. We achieve state-of-the-art performance on both, existing
+multimodal retrieval benchmarks, as well as, our newly introduced fine-grained
+retrieval task which evaluates vision-language models' ability to retrieve
+partial image content. Furthermore, our experiments demonstrate the
+effectiveness of FLAIR trained on 30M image-text pairs in capturing
+fine-grained visual information, including zero-shot semantic segmentation,
+outperforming models trained on billions of pairs. Code is available at
+https://github.com/ExplainableML/flair .
+]]></content:encoded>
+<pubDate>2024-12-04T18:56:04Z</pubDate>
+<pubDate>2024-12-04T18:56:04Z</pubDate>
+</item>
 
 <item>
 <title>Motion Prompting: Controlling Video Generation with Motion Trajectories</title>
