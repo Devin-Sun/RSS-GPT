@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Motion Prompting: Controlling Video Generation with Motion Trajectories</title>
 <link>http://arxiv.org/abs/2412.02700v1</link>
 <guid>http://arxiv.org/abs/2412.02700v1</guid>
 <content:encoded><![CDATA[
-
 Motion control is crucial for generating expressive and compelling video
 content; however, most existing video generation models rely mainly on text
 prompts for control, which struggle to capture the nuances of dynamic actions
@@ -30,7 +30,6 @@ quantitatively, conduct a human study, and demonstrate strong performance.
 Video results are available on our webpage: https://motion-prompting.github.io/
 ]]></content:encoded>
 <pubDate>2024-12-03T18:59:56Z</pubDate>
-<pubDate>2024-12-03T18:59:56Z</pubDate>
 </item>
 <item>
 <title>FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand
@@ -38,7 +37,6 @@ Video results are available on our webpage: https://motion-prompting.github.io/
 <link>http://arxiv.org/abs/2412.02690v1</link>
 <guid>http://arxiv.org/abs/2412.02690v1</guid>
 <content:encoded><![CDATA[
-
 Despite remarkable progress in image generation models, generating realistic
 hands remains a persistent challenge due to their complex articulation, varying
 viewpoints, and frequent occlusions. We present FoundHand, a large-scale
@@ -56,9 +54,7 @@ synthesizing hand video sequences. We present extensive experiments and
 evaluations that demonstrate state-of-the-art performance of our method.
 ]]></content:encoded>
 <pubDate>2024-12-03T18:58:19Z</pubDate>
-<pubDate>2024-12-03T18:58:19Z</pubDate>
 </item>
-
 <item>
 <title>VLSBench: Unveiling Visual Leakage in Multimodal Safety</title>
 <link>http://arxiv.org/abs/2411.19939v1</link>

@@ -13561,3 +13561,22 @@ Filter: [SNOOPI: Supercharged One-step Diffusion Distillation with Proper
 Filter: [T-REG: Preference Optimization with Token-Level Reward Regularization](http://arxiv.org/abs/2412.02685v1)
 append_entries: 2
 Finish: 2024-12-04 12:20:33.461135
+------------------------------------------------------
+Started: 2024-12-05 00:53:42.041673
+Existing_entries: 371
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [UniGraspTransformer: Simplified Policy Distillation for Scalable
+  Dexterous Robotic Grasping](http://arxiv.org/abs/2412.02699v1)
+Filter: [Scaling BERT Models for Turkish Automatic Punctuation and Capitalization
+  Correction](http://arxiv.org/abs/2412.02698v1)
+Filter: [An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning
+  Techniques](http://arxiv.org/abs/2412.02695v1)
+Filter: [Diffusion-based Visual Anagram as Multi-task Learning](http://arxiv.org/abs/2412.02693v1)
+Filter: [Taming Scalable Visual Tokenizer for Autoregressive Image Generation](http://arxiv.org/abs/2412.02692v1)
+Filter: [Preliminary Investigation into Data Scaling Laws for Imitation
+  Learning-Based End-to-End Autonomous Driving](http://arxiv.org/abs/2412.02689v1)
+Filter: [SNOOPI: Supercharged One-step Diffusion Distillation with Proper
+  Guidance](http://arxiv.org/abs/2412.02687v1)
+Filter: [T-REG: Preference Optimization with Token-Level Reward Regularization](http://arxiv.org/abs/2412.02685v1)
+append_entries: 0
+Finish: 2024-12-05 00:53:43.064730
