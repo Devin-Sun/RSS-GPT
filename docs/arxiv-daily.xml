@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Navigation World Models</title>
 <link>http://arxiv.org/abs/2412.03572v1</link>
 <guid>http://arxiv.org/abs/2412.03572v1</guid>
 <content:encoded><![CDATA[
-
 Navigation is a fundamental skill of agents with visual-motor capabilities.
 We introduce a Navigation World Model (NWM), a controllable video generation
 model that predicts future visual observations based on past observations and
@@ -27,14 +27,12 @@ image, making it a flexible and powerful tool for next-generation navigation
 systems.
 ]]></content:encoded>
 <pubDate>2024-12-04T18:59:45Z</pubDate>
-<pubDate>2024-12-04T18:59:45Z</pubDate>
 </item>
 <item>
 <title>Streaming Detection of Queried Event Start</title>
 <link>http://arxiv.org/abs/2412.03567v1</link>
 <guid>http://arxiv.org/abs/2412.03567v1</guid>
 <content:encoded><![CDATA[
-
 Robotics, autonomous driving, augmented reality, and many embodied computer
 vision applications must quickly react to user-defined events unfolding in real
 time. We address this setting by proposing a novel task for multimodal video
@@ -50,7 +48,6 @@ three vision-language backbones and three adapter architectures on both
 short-clip and untrimmed video settings.
 ]]></content:encoded>
 <pubDate>2024-12-04T18:58:27Z</pubDate>
-<pubDate>2024-12-04T18:58:27Z</pubDate>
 </item>
 <item>
 <title>Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual
@@ -58,7 +55,6 @@ short-clip and untrimmed video settings.
 <link>http://arxiv.org/abs/2412.03565v1</link>
 <guid>http://arxiv.org/abs/2412.03565v1</guid>
 <content:encoded><![CDATA[
-
 Large Multimodal Models (LMMs) have made significant breakthroughs with the
 advancement of instruction tuning. However, while existing models can
 understand images and videos at a holistic level, they still struggle with
@@ -83,7 +79,6 @@ understanding but also strengthens the overall capabilities of generic image
 and video comprehension.
 ]]></content:encoded>
 <pubDate>2024-12-04T18:58:10Z</pubDate>
-<pubDate>2024-12-04T18:58:10Z</pubDate>
 </item>
 <item>
 <title>From Individual to Society: A Survey on Social Simulation Driven by
@@ -91,7 +86,6 @@ and video comprehension.
 <link>http://arxiv.org/abs/2412.03563v1</link>
 <guid>http://arxiv.org/abs/2412.03563v1</guid>
 <content:encoded><![CDATA[
-
 Traditional sociological research often relies on human participation, which,
 though effective, is expensive, challenging to scale, and with ethical
 concerns. Recent advancements in large language models (LLMs) highlight their
@@ -113,14 +107,12 @@ these three types of simulation. A repository for the related sources is at
 {\url{https://github.com/FudanDISC/SocialAgent}}.
 ]]></content:encoded>
 <pubDate>2024-12-04T18:56:37Z</pubDate>
-<pubDate>2024-12-04T18:56:37Z</pubDate>
 </item>
 <item>
 <title>FLAIR: VLM with Fine-grained Language-informed Image Representations</title>
 <link>http://arxiv.org/abs/2412.03561v1</link>
 <guid>http://arxiv.org/abs/2412.03561v1</guid>
 <content:encoded><![CDATA[
-
 CLIP has shown impressive results in aligning images and texts at scale.
 However, its ability to capture detailed visual features remains limited
 because CLIP matches images and texts at a global level. To address this issue,
@@ -141,9 +133,7 @@ outperforming models trained on billions of pairs. Code is available at
 https://github.com/ExplainableML/flair .
 ]]></content:encoded>
 <pubDate>2024-12-04T18:56:04Z</pubDate>
-<pubDate>2024-12-04T18:56:04Z</pubDate>
 </item>
-
 <item>
 <title>Motion Prompting: Controlling Video Generation with Motion Trajectories</title>
 <link>http://arxiv.org/abs/2412.02700v1</link>
