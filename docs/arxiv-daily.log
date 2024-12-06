@@ -13621,3 +13621,27 @@ Filter: [Characterizing the Distinguishability of Product Distributions through
   Multicalibration](http://arxiv.org/abs/2412.03562v1)
 append_entries: 0
 Finish: 2024-12-06 00:53:20.022318
+------------------------------------------------------
+Started: 2024-12-06 12:20:24.667974
+Existing_entries: 376
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either
+  Stereo or Mono Fail](http://arxiv.org/abs/2412.04472v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PaintScene4D: Consistent 4D Scene Generation from Text Prompts](http://arxiv.org/abs/2412.04471v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Turbo3D: Ultra-fast Text-to-3D Generation](http://arxiv.org/abs/2412.04470v1)
+Filter: [NVILA: Efficient Frontier Visual Language Models](http://arxiv.org/abs/2412.04468v1)
+Filter: [QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming
+  Free-viewpoint Videos](http://arxiv.org/abs/2412.04469v1)
+Filter: [VisionZip: Longer is Better but Not Necessary in Vision Language Models](http://arxiv.org/abs/2412.04467v1)
+Filter: [User-item fairness tradeoffs in recommendations](http://arxiv.org/abs/2412.04466v1)
+Filter: [UnZipLoRA: Separating Content and Style from a Single Image](http://arxiv.org/abs/2412.04465v1)
+Filter: [DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose
+  Reconstruction](http://arxiv.org/abs/2412.04464v1)
+Filter: [MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual
+  Dynamic Videos](http://arxiv.org/abs/2412.04463v1)
+append_entries: 2
+Finish: 2024-12-06 12:20:25.314484
