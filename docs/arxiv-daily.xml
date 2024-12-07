@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>PaintScene4D: Consistent 4D Scene Generation from Text Prompts</title>
 <link>http://arxiv.org/abs/2412.04471v1</link>
 <guid>http://arxiv.org/abs/2412.04471v1</guid>
 <content:encoded><![CDATA[
-
 Recent advances in diffusion models have revolutionized 2D and 3D content
 creation, yet generating photorealistic dynamic 4D scenes remains a significant
 challenge. Existing dynamic 4D generation methods typically rely on distilling
@@ -32,14 +32,12 @@ can be viewed from arbitrary trajectories. The code will be made publicly
 available. Our project page is at https://paintscene4d.github.io/
 ]]></content:encoded>
 <pubDate>2024-12-05T18:59:57Z</pubDate>
-<pubDate>2024-12-05T18:59:57Z</pubDate>
 </item>
 <item>
 <title>Turbo3D: Ultra-fast Text-to-3D Generation</title>
 <link>http://arxiv.org/abs/2412.04470v1</link>
 <guid>http://arxiv.org/abs/2412.04470v1</guid>
 <content:encoded><![CDATA[
-
 We present Turbo3D, an ultra-fast text-to-3D system capable of generating
 high-quality Gaussian splatting assets in under one second. Turbo3D employs a
 rapid 4-step, 4-view diffusion generator and an efficient feed-forward Gaussian
@@ -53,9 +51,7 @@ efficiency. Our method demonstrates superior 3D generation results compared to
 previous baselines, while operating in a fraction of their runtime.
 ]]></content:encoded>
 <pubDate>2024-12-05T18:59:56Z</pubDate>
-<pubDate>2024-12-05T18:59:56Z</pubDate>
 </item>
-
 <item>
 <title>Navigation World Models</title>
 <link>http://arxiv.org/abs/2412.03572v1</link>
