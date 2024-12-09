@@ -13725,3 +13725,27 @@ Filter: [MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual
   Dynamic Videos](http://arxiv.org/abs/2412.04463v1)
 append_entries: 0
 Finish: 2024-12-09 00:55:27.712406
+------------------------------------------------------
+Started: 2024-12-09 12:21:43.978253
+Existing_entries: 378
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stag-1: Towards Realistic 4D Driving Simulation with Video Generation
+  Model](http://arxiv.org/abs/2412.05280v1)
+Filter: [Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](http://arxiv.org/abs/2412.05279v1)
+Filter: [Birth and Death of a Rose](http://arxiv.org/abs/2412.05278v1)
+Filter: [Sparse autoencoders reveal selective remapping of visual concepts during
+  adaptation](http://arxiv.org/abs/2412.05276v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Text to Blind Motion](http://arxiv.org/abs/2412.05277v1)
+Filter: [MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models](http://arxiv.org/abs/2412.05275v1)
+Filter: [SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images](http://arxiv.org/abs/2412.05274v1)
+Append: [Expanding Performance Boundaries of Open-Source Multimodal Models with
+  Model, Data, and Test-Time Scaling](http://arxiv.org/abs/2412.05271v1)
+Filter: [APOLLO: SGD-like Memory, AdamW-level Performance](http://arxiv.org/abs/2412.05270v1)
+Filter: [Chimera: Accurate retrosynthesis prediction by ensembling models with
+  diverse inductive biases](http://arxiv.org/abs/2412.05269v1)
+append_entries: 3
+Finish: 2024-12-09 12:21:44.799135
