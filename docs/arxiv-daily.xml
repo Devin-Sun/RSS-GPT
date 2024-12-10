@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Stag-1: Towards Realistic 4D Driving Simulation with Video Generation
   Model</title>
 <link>http://arxiv.org/abs/2412.05280v1</link>
 <guid>http://arxiv.org/abs/2412.05280v1</guid>
 <content:encoded><![CDATA[
-
 4D driving simulation is essential for developing realistic autonomous
 driving simulators. Despite advancements in existing methods for generating
 driving scenes, significant challenges remain in view transformation and
@@ -34,14 +34,12 @@ coherence, and accuracy, and contributes to the ongoing advancements in
 realistic autonomous driving simulation. Code: https://github.com/wzzheng/Stag.
 ]]></content:encoded>
 <pubDate>2024-12-06T18:59:56Z</pubDate>
-<pubDate>2024-12-06T18:59:56Z</pubDate>
 </item>
 <item>
 <title>Text to Blind Motion</title>
 <link>http://arxiv.org/abs/2412.05277v1</link>
 <guid>http://arxiv.org/abs/2412.05277v1</guid>
 <content:encoded><![CDATA[
-
 People who are blind perceive the world differently than those who are
 sighted, which can result in distinct motion characteristics. For instance,
 when crossing at an intersection, blind individuals may have different patterns
@@ -64,7 +62,6 @@ over diverse human movements in their environments, our text-and-motion
 benchmark is available at https://blindways.github.io.
 ]]></content:encoded>
 <pubDate>2024-12-06T18:59:51Z</pubDate>
-<pubDate>2024-12-06T18:59:51Z</pubDate>
 </item>
 <item>
 <title>Expanding Performance Boundaries of Open-Source Multimodal Models with
@@ -72,7 +69,6 @@ benchmark is available at https://blindways.github.io.
 <link>http://arxiv.org/abs/2412.05271v1</link>
 <guid>http://arxiv.org/abs/2412.05271v1</guid>
 <content:encoded><![CDATA[
-
 We introduce InternVL 2.5, an advanced multimodal large language model (MLLM)
 series that builds upon InternVL 2.0, maintaining its core model architecture
 while introducing significant enhancements in training and testing strategies
@@ -93,9 +89,7 @@ multimodal AI systems. HuggingFace demo see
 https://huggingface.co/spaces/OpenGVLab/InternVL
 ]]></content:encoded>
 <pubDate>2024-12-06T18:57:08Z</pubDate>
-<pubDate>2024-12-06T18:57:08Z</pubDate>
 </item>
-
 <item>
 <title>PaintScene4D: Consistent 4D Scene Generation from Text Prompts</title>
 <link>http://arxiv.org/abs/2412.04471v1</link>
