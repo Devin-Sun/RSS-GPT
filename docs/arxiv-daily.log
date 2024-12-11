@@ -13801,3 +13801,29 @@ Filter: [CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive
   Prediction](http://arxiv.org/abs/2412.06782v1)
 append_entries: 0
 Finish: 2024-12-11 00:53:45.070524
+------------------------------------------------------
+Started: 2024-12-11 12:20:57.913155
+Existing_entries: 382
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed
+  GFlowNets](http://arxiv.org/abs/2412.07775v1)
+Filter: [Video Motion Transfer with Diffusion Transformers](http://arxiv.org/abs/2412.07776v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UniReal: Universal Image Generation and Editing via Learning Real-world
+  Dynamics](http://arxiv.org/abs/2412.07774v1)
+Filter: [From Slow Bidirectional to Fast Causal Video Generators](http://arxiv.org/abs/2412.07772v1)
+Filter: [Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body
+  Control](http://arxiv.org/abs/2412.07773v1)
+Filter: [PETALface: Parameter Efficient Transfer Learning for Low-resolution Face
+  Recognition](http://arxiv.org/abs/2412.07771v1)
+Filter: [From an Image to a Scene: Learning to Imagine the World from a Million
+  360 Videos](http://arxiv.org/abs/2412.07770v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities](http://arxiv.org/abs/2412.07769v1)
+Filter: [Test-time Correction with Human Feedback: An Online 3D Detection System
+  via Visual Prompting](http://arxiv.org/abs/2412.07768v1)
+Filter: [Learning Visual Generative Priors without Text](http://arxiv.org/abs/2412.07767v1)
+append_entries: 2
+Finish: 2024-12-11 12:20:58.620430
