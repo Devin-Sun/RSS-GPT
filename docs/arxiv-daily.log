@@ -13788,3 +13788,16 @@ Filter: [Enhancing Robotic System Robustness via Lyapunov Exponent-Based
   Optimization](http://arxiv.org/abs/2412.06776v1)
 append_entries: 1
 Finish: 2024-12-10 12:21:05.005499
+------------------------------------------------------
+Started: 2024-12-11 00:53:44.341821
+Existing_entries: 382
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v1)
+Filter: [Retrieving Semantics from the Deep: an RAG Solution for Gesture
+  Synthesis](http://arxiv.org/abs/2412.06786v1)
+Filter: [P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of
+  Robot Policies](http://arxiv.org/abs/2412.06784v1)
+Filter: [CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive
+  Prediction](http://arxiv.org/abs/2412.06782v1)
+append_entries: 0
+Finish: 2024-12-11 00:53:45.070524
