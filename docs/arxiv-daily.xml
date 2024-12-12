@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>UniReal: Universal Image Generation and Editing via Learning Real-world
   Dynamics</title>
 <link>http://arxiv.org/abs/2412.07774v1</link>
 <guid>http://arxiv.org/abs/2412.07774v1</guid>
 <content:encoded><![CDATA[
-
 We introduce UniReal, a unified framework designed to address various image
 generation and editing tasks. Existing solutions often vary by tasks, yet share
 fundamental principles: preserving consistency between inputs and outputs while
@@ -26,14 +26,12 @@ capability in handling shadows, reflections, pose variation, and object
 interaction, while also exhibiting emergent capability for novel applications.
 ]]></content:encoded>
 <pubDate>2024-12-10T18:59:55Z</pubDate>
-<pubDate>2024-12-10T18:59:55Z</pubDate>
 </item>
 <item>
 <title>BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities</title>
 <link>http://arxiv.org/abs/2412.07769v1</link>
 <guid>http://arxiv.org/abs/2412.07769v1</guid>
 <content:encoded><![CDATA[
-
 This paper introduces BiMediX2, a bilingual (Arabic-English) Bio-Medical
 EXpert Large Multimodal Model (LMM) with a unified architecture that integrates
 text and visual modalities, enabling advanced image understanding and medical
@@ -55,9 +53,7 @@ Summarization tasks. The project page including source code and the trained
 model, is available at https://github.com/mbzuai-oryx/BiMediX2.
 ]]></content:encoded>
 <pubDate>2024-12-10T18:59:35Z</pubDate>
-<pubDate>2024-12-10T18:59:35Z</pubDate>
 </item>
-
 <item>
 <title>Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation</title>
 <link>http://arxiv.org/abs/2412.06785v1</link>
