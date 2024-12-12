@@ -13846,3 +13846,26 @@ Filter: [Test-time Correction with Human Feedback: An Online 3D Detection System
 Filter: [Learning Visual Generative Priors without Text](http://arxiv.org/abs/2412.07767v1)
 append_entries: 0
 Finish: 2024-12-12 00:53:24.714905
+------------------------------------------------------
+Started: 2024-12-12 12:21:00.291260
+Existing_entries: 384
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SegFace: Face Segmentation of Long-Tail Classes](http://arxiv.org/abs/2412.08647v1)
+Filter: [StreamChat: Chatting with Streaming Video](http://arxiv.org/abs/2412.08646v1)
+Filter: [ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven
+  Generation](http://arxiv.org/abs/2412.08645v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GPD-1: Generative Pre-training for Driving](http://arxiv.org/abs/2412.08643v1)
+Filter: [Bilevel Learning for Dual-Quadruped Collaborative Transportation under
+  Kinematic and Anisotropic Velocity Constraints](http://arxiv.org/abs/2412.08644v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Generative Semantic Communication: Architectures, Technologies, and
+  Applications](http://arxiv.org/abs/2412.08642v1)
+Filter: [3D Mesh Editing using Masked LRMs](http://arxiv.org/abs/2412.08641v1)
+Filter: [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation](http://arxiv.org/abs/2412.08640v1)
+Append: [Fast Prompt Alignment for Text-to-Image Generation](http://arxiv.org/abs/2412.08639v1)
+Filter: [DMin: Scalable Training Data Influence Estimation for Diffusion Models](http://arxiv.org/abs/2412.08637v1)
+append_entries: 3
+Finish: 2024-12-12 12:21:01.098816

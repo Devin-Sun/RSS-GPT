@@ -4,6 +4,98 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>GPD-1: Generative Pre-training for Driving</title>
+<link>http://arxiv.org/abs/2412.08643v1</link>
+<guid>http://arxiv.org/abs/2412.08643v1</guid>
+<content:encoded><![CDATA[
+
+Modeling the evolutions of driving scenarios is important for the evaluation
+and decision-making of autonomous driving systems. Most existing methods focus
+on one aspect of scene evolution such as map generation, motion prediction, and
+trajectory planning. In this paper, we propose a unified Generative
+Pre-training for Driving (GPD-1) model to accomplish all these tasks altogether
+without additional fine-tuning. We represent each scene with ego, agent, and
+map tokens and formulate autonomous driving as a unified token generation
+problem. We adopt the autoregressive transformer architecture and use a
+scene-level attention mask to enable intra-scene bi-directional interactions.
+For the ego and agent tokens, we propose a hierarchical positional tokenizer to
+effectively encode both 2D positions and headings. For the map tokens, we train
+a map vector-quantized autoencoder to efficiently compress ego-centric semantic
+maps into discrete tokens. We pre-train our GPD-1 on the large-scale nuPlan
+dataset and conduct extensive experiments to evaluate its effectiveness. With
+different prompts, our GPD-1 successfully generalizes to various tasks without
+finetuning, including scene generation, traffic simulation, closed-loop
+simulation, map prediction, and motion planning. Code:
+https://github.com/wzzheng/GPD.
+]]></content:encoded>
+<pubDate>2024-12-11T18:59:51Z</pubDate>
+<pubDate>2024-12-11T18:59:51Z</pubDate>
+</item>
+<item>
+<title>Generative Semantic Communication: Architectures, Technologies, and
+  Applications</title>
+<link>http://arxiv.org/abs/2412.08642v1</link>
+<guid>http://arxiv.org/abs/2412.08642v1</guid>
+<content:encoded><![CDATA[
+
+This paper delves into the applications of generative artificial intelligence
+(GAI) in semantic communication (SemCom) and presents a thorough study. Three
+popular SemCom systems enabled by classical GAI models are first introduced,
+including variational autoencoders, generative adversarial networks, and
+diffusion models. For each system, the fundamental concept of the GAI model,
+the corresponding SemCom architecture, and the associated literature review of
+recent efforts are elucidated. Then, a novel generative SemCom system is
+proposed by incorporating the cutting-edge GAI technology-large language models
+(LLMs). This system features two LLM-based AI agents at both the transmitter
+and receiver, serving as "brains" to enable powerful information understanding
+and content regeneration capabilities, respectively. This innovative design
+allows the receiver to directly generate the desired content, instead of
+recovering the bit stream, based on the coded semantic information conveyed by
+the transmitter. Therefore, it shifts the communication mindset from
+"information recovery" to "information regeneration" and thus ushers in a new
+era of generative SemCom. A case study on point-to-point video retrieval is
+presented to demonstrate the superiority of the proposed generative SemCom
+system, showcasing a 99.98% reduction in communication overhead and a 53%
+improvement in retrieval accuracy compared to the traditional communication
+system. Furthermore, four typical application scenarios for generative SemCom
+are delineated, followed by a discussion of three open issues warranting future
+investigation. In a nutshell, this paper provides a holistic set of guidelines
+for applying GAI in SemCom, paving the way for the efficient implementation of
+generative SemCom in future wireless networks.
+]]></content:encoded>
+<pubDate>2024-12-11T18:59:50Z</pubDate>
+<pubDate>2024-12-11T18:59:50Z</pubDate>
+</item>
+<item>
+<title>Fast Prompt Alignment for Text-to-Image Generation</title>
+<link>http://arxiv.org/abs/2412.08639v1</link>
+<guid>http://arxiv.org/abs/2412.08639v1</guid>
+<content:encoded><![CDATA[
+
+Text-to-image generation has advanced rapidly, yet aligning complex textual
+prompts with generated visuals remains challenging, especially with intricate
+object relationships and fine-grained details. This paper introduces Fast
+Prompt Alignment (FPA), a prompt optimization framework that leverages a
+one-pass approach, enhancing text-to-image alignment efficiency without the
+iterative overhead typical of current methods like OPT2I. FPA uses large
+language models (LLMs) for single-iteration prompt paraphrasing, followed by
+fine-tuning or in-context learning with optimized prompts to enable real-time
+inference, reducing computational demands while preserving alignment fidelity.
+Extensive evaluations on the COCO Captions and PartiPrompts datasets
+demonstrate that FPA achieves competitive text-image alignment scores at a
+fraction of the processing time, as validated through both automated metrics
+(TIFA, VQA) and human evaluation. A human study with expert annotators further
+reveals a strong correlation between human alignment judgments and automated
+scores, underscoring the robustness of FPA's improvements. The proposed method
+showcases a scalable, efficient alternative to iterative prompt optimization,
+enabling broader applicability in real-time, high-demand settings. The codebase
+is provided to facilitate further research:
+https://github.com/tiktok/fast_prompt_alignment
+]]></content:encoded>
+<pubDate>2024-12-11T18:58:41Z</pubDate>
+<pubDate>2024-12-11T18:58:41Z</pubDate>
+</item>
 
 <item>
 <title>UniReal: Universal Image Generation and Editing via Learning Real-world
