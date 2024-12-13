@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>GPD-1: Generative Pre-training for Driving</title>
 <link>http://arxiv.org/abs/2412.08643v1</link>
 <guid>http://arxiv.org/abs/2412.08643v1</guid>
 <content:encoded><![CDATA[
-
 Modeling the evolutions of driving scenarios is important for the evaluation
 and decision-making of autonomous driving systems. Most existing methods focus
 on one aspect of scene evolution such as map generation, motion prediction, and
@@ -30,7 +30,6 @@ simulation, map prediction, and motion planning. Code:
 https://github.com/wzzheng/GPD.
 ]]></content:encoded>
 <pubDate>2024-12-11T18:59:51Z</pubDate>
-<pubDate>2024-12-11T18:59:51Z</pubDate>
 </item>
 <item>
 <title>Generative Semantic Communication: Architectures, Technologies, and
@@ -38,7 +37,6 @@ https://github.com/wzzheng/GPD.
 <link>http://arxiv.org/abs/2412.08642v1</link>
 <guid>http://arxiv.org/abs/2412.08642v1</guid>
 <content:encoded><![CDATA[
-
 This paper delves into the applications of generative artificial intelligence
 (GAI) in semantic communication (SemCom) and presents a thorough study. Three
 popular SemCom systems enabled by classical GAI models are first introduced,
@@ -65,14 +63,12 @@ for applying GAI in SemCom, paving the way for the efficient implementation of
 generative SemCom in future wireless networks.
 ]]></content:encoded>
 <pubDate>2024-12-11T18:59:50Z</pubDate>
-<pubDate>2024-12-11T18:59:50Z</pubDate>
 </item>
 <item>
 <title>Fast Prompt Alignment for Text-to-Image Generation</title>
 <link>http://arxiv.org/abs/2412.08639v1</link>
 <guid>http://arxiv.org/abs/2412.08639v1</guid>
 <content:encoded><![CDATA[
-
 Text-to-image generation has advanced rapidly, yet aligning complex textual
 prompts with generated visuals remains challenging, especially with intricate
 object relationships and fine-grained details. This paper introduces Fast
@@ -94,9 +90,7 @@ is provided to facilitate further research:
 https://github.com/tiktok/fast_prompt_alignment
 ]]></content:encoded>
 <pubDate>2024-12-11T18:58:41Z</pubDate>
-<pubDate>2024-12-11T18:58:41Z</pubDate>
 </item>
-
 <item>
 <title>UniReal: Universal Image Generation and Editing via Learning Real-world
   Dynamics</title>
