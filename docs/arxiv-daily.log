@@ -13884,3 +13884,27 @@ Filter: [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation
 Filter: [DMin: Scalable Training Data Influence Estimation for Diffusion Models](http://arxiv.org/abs/2412.08637v1)
 append_entries: 0
 Finish: 2024-12-13 00:54:28.331856
+------------------------------------------------------
+Started: 2024-12-13 12:20:25.345968
+Existing_entries: 387
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors](http://arxiv.org/abs/2412.09625v1)
+Filter: [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free
+  Scale Fusion](http://arxiv.org/abs/2412.09626v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Doe-1: Closed-Loop Autonomous Driving with Large World Model](http://arxiv.org/abs/2412.09627v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GenEx: Generating an Explorable World](http://arxiv.org/abs/2412.09624v1)
+Append: [OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video
+  Generation](http://arxiv.org/abs/2412.09623v1)
+Append: [LoRACLR: Contrastive Adaptation for Customization of Diffusion Models](http://arxiv.org/abs/2412.09622v1)
+Filter: [Learning Camera Movement Control from Real-World Drone Videos](http://arxiv.org/abs/2412.09620v1)
+Filter: [Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos](http://arxiv.org/abs/2412.09621v1)
+Filter: [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices
+  with Efficient Architectures and Training](http://arxiv.org/abs/2412.09619v1)
+Append: [EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via
+  Multimodal LLM](http://arxiv.org/abs/2412.09618v1)
+append_entries: 5
+Finish: 2024-12-13 12:20:25.971644
