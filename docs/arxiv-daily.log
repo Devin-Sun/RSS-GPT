@@ -13908,3 +13908,16 @@ Append: [EasyRef: Omni-Generalized Group Image Reference for Diffusion Models vi
   Multimodal LLM](http://arxiv.org/abs/2412.09618v1)
 append_entries: 5
 Finish: 2024-12-13 12:20:25.971644
+------------------------------------------------------
+Started: 2024-12-14 00:52:08.163740
+Existing_entries: 392
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors](http://arxiv.org/abs/2412.09625v1)
+Filter: [FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free
+  Scale Fusion](http://arxiv.org/abs/2412.09626v1)
+Filter: [Learning Camera Movement Control from Real-World Drone Videos](http://arxiv.org/abs/2412.09620v1)
+Filter: [Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos](http://arxiv.org/abs/2412.09621v1)
+Filter: [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices
+  with Efficient Architectures and Training](http://arxiv.org/abs/2412.09619v1)
+append_entries: 0
+Finish: 2024-12-14 00:52:09.314983

@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Doe-1: Closed-Loop Autonomous Driving with Large World Model</title>
 <link>http://arxiv.org/abs/2412.09627v1</link>
 <guid>http://arxiv.org/abs/2412.09627v1</guid>
 <content:encoded><![CDATA[
-
 End-to-end autonomous driving has received increasing attention due to its
 potential to learn from large amounts of data. However, most existing methods
 are still open-loop and suffer from weak scalability, lack of high-order
@@ -29,14 +29,12 @@ action-conditioned video generation, and motion planning. Code:
 https://github.com/wzzheng/Doe.
 ]]></content:encoded>
 <pubDate>2024-12-12T18:59:59Z</pubDate>
-<pubDate>2024-12-12T18:59:59Z</pubDate>
 </item>
 <item>
 <title>GenEx: Generating an Explorable World</title>
 <link>http://arxiv.org/abs/2412.09624v1</link>
 <guid>http://arxiv.org/abs/2412.09624v1</guid>
 <content:encoded><![CDATA[
-
 Understanding, navigating, and exploring the 3D physical real world has long
 been a central challenge in the development of artificial intelligence. In this
 work, we take a step toward this goal by introducing GenEx, a system capable of
@@ -60,7 +58,6 @@ advancing embodied AI in imaginative spaces and brings potential for extending
 these capabilities to real-world exploration.
 ]]></content:encoded>
 <pubDate>2024-12-12T18:59:57Z</pubDate>
-<pubDate>2024-12-12T18:59:57Z</pubDate>
 </item>
 <item>
 <title>OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video
@@ -68,7 +65,6 @@ these capabilities to real-world exploration.
 <link>http://arxiv.org/abs/2412.09623v1</link>
 <guid>http://arxiv.org/abs/2412.09623v1</guid>
 <content:encoded><![CDATA[
-
 As virtual reality gains popularity, the demand for controllable creation of
 immersive and dynamic omnidirectional videos (ODVs) is increasing. While
 previous text-to-ODV generation methods achieve impressive results, they
@@ -92,14 +88,12 @@ generation. The project page is available at
 https://lwq20020127.github.io/OmniDrag.
 ]]></content:encoded>
 <pubDate>2024-12-12T18:59:56Z</pubDate>
-<pubDate>2024-12-12T18:59:56Z</pubDate>
 </item>
 <item>
 <title>LoRACLR: Contrastive Adaptation for Customization of Diffusion Models</title>
 <link>http://arxiv.org/abs/2412.09622v1</link>
 <guid>http://arxiv.org/abs/2412.09622v1</guid>
 <content:encoded><![CDATA[
-
 Recent advances in text-to-image customization have enabled high-fidelity,
 context-rich generation of personalized images, allowing specific concepts to
 appear in a variety of scenarios. However, current methods struggle with
@@ -116,7 +110,6 @@ highlight the effectiveness of LoRACLR in accurately merging multiple concepts,
 advancing the capabilities of personalized image generation.
 ]]></content:encoded>
 <pubDate>2024-12-12T18:59:55Z</pubDate>
-<pubDate>2024-12-12T18:59:55Z</pubDate>
 </item>
 <item>
 <title>EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via
@@ -124,7 +117,6 @@ advancing the capabilities of personalized image generation.
 <link>http://arxiv.org/abs/2412.09618v1</link>
 <guid>http://arxiv.org/abs/2412.09618v1</guid>
 <content:encoded><![CDATA[
-
 Significant achievements in personalization of diffusion models have been
 witnessed. Conventional tuning-free methods mostly encode multiple reference
 images by averaging their image embeddings as the injection condition, but such
@@ -150,9 +142,7 @@ methods like LoRA, achieving superior aesthetic quality and robust zero-shot
 generalization across diverse domains.
 ]]></content:encoded>
 <pubDate>2024-12-12T18:59:48Z</pubDate>
-<pubDate>2024-12-12T18:59:48Z</pubDate>
 </item>
-
 <item>
 <title>GPD-1: Generative Pre-training for Driving</title>
 <link>http://arxiv.org/abs/2412.08643v1</link>
