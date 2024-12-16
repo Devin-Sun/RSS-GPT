@@ -13973,3 +13973,25 @@ Filter: [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices
   with Efficient Architectures and Training](http://arxiv.org/abs/2412.09619v1)
 append_entries: 0
 Finish: 2024-12-16 00:55:48.279668
+------------------------------------------------------
+Started: 2024-12-16 12:21:34.467050
+Existing_entries: 392
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GaussianWorld: Gaussian World Model for Streaming 3D Occupancy
+  Prediction](http://arxiv.org/abs/2412.10373v1)
+Filter: [UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for
+  Diverse Medical Imaging Modalities](http://arxiv.org/abs/2412.10372v1)
+Filter: [GaussianAD: Gaussian-Centric End-to-End Autonomous Driving](http://arxiv.org/abs/2412.10371v1)
+Filter: [Computational Explorations of Total Variation Distance](http://arxiv.org/abs/2412.10370v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Grounded Typology of Word Classes](http://arxiv.org/abs/2412.10369v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OP-LoRA: The Blessing of Dimensionality](http://arxiv.org/abs/2412.10362v1)
+Filter: [Apollo: An Exploration of Video Understanding in Large Multimodal Models](http://arxiv.org/abs/2412.10360v1)
+Filter: [The Correlated Gaussian Sparse Histogram Mechanism](http://arxiv.org/abs/2412.10357v1)
+Filter: [A Library for Learning Neural Operators](http://arxiv.org/abs/2412.10354v1)
+Filter: [Robust image classification with multi-modal large language models](http://arxiv.org/abs/2412.10353v1)
+append_entries: 2
+Finish: 2024-12-16 12:21:35.213539
