@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>A Grounded Typology of Word Classes</title>
 <link>http://arxiv.org/abs/2412.10369v1</link>
 <guid>http://arxiv.org/abs/2412.10369v1</guid>
 <content:encoded><![CDATA[
-
 We propose a grounded approach to meaning in language typology. We treat data
 from perceptual modalities, such as images, as a language-agnostic
 representation of meaning. Hence, we can quantify the function--form
@@ -28,14 +28,12 @@ results suggest that the grounded typology approach can provide quantitative
 evidence about semantic function in language.
 ]]></content:encoded>
 <pubDate>2024-12-13T18:58:48Z</pubDate>
-<pubDate>2024-12-13T18:58:48Z</pubDate>
 </item>
 <item>
 <title>OP-LoRA: The Blessing of Dimensionality</title>
 <link>http://arxiv.org/abs/2412.10362v1</link>
 <guid>http://arxiv.org/abs/2412.10362v1</guid>
 <content:encoded><![CDATA[
-
 Low-rank adapters enable fine-tuning of large models with only a small number
 of parameters, thus reducing storage costs and minimizing the risk of
 catastrophic forgetting. However, they often pose optimization challenges, with
@@ -55,9 +53,7 @@ vision-language tasks and especially notable increases in image generation,
 with CMMD scores improving by up to 15 points.
 ]]></content:encoded>
 <pubDate>2024-12-13T18:55:19Z</pubDate>
-<pubDate>2024-12-13T18:55:19Z</pubDate>
 </item>
-
 <item>
 <title>Doe-1: Closed-Loop Autonomous Driving with Large World Model</title>
 <link>http://arxiv.org/abs/2412.09627v1</link>
