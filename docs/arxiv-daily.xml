@@ -4,6 +4,32 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Causal Diffusion Transformers for Generative Modeling</title>
+<link>http://arxiv.org/abs/2412.12095v1</link>
+<guid>http://arxiv.org/abs/2412.12095v1</guid>
+<content:encoded><![CDATA[
+
+We introduce Causal Diffusion as the autoregressive (AR) counterpart of
+Diffusion models. It is a next-token(s) forecasting framework that is friendly
+to both discrete and continuous modalities and compatible with existing
+next-token prediction models like LLaMA and GPT. While recent works attempt to
+combine diffusion with AR models, we show that introducing sequential
+factorization to a diffusion model can substantially improve its performance
+and enables a smooth transition between AR and diffusion generation modes.
+Hence, we propose CausalFusion - a decoder-only transformer that
+dual-factorizes data across sequential tokens and diffusion noise levels,
+leading to state-of-the-art results on the ImageNet generation benchmark while
+also enjoying the AR advantage of generating an arbitrary number of tokens for
+in-context reasoning. We further demonstrate CausalFusion's multimodal
+capabilities through a joint image generation and captioning model, and
+showcase CausalFusion's ability for zero-shot in-context image manipulations.
+We hope that this work could provide the community with a fresh perspective on
+training multimodal models over discrete and continuous data.
+]]></content:encoded>
+<pubDate>2024-12-16T18:59:29Z</pubDate>
+<pubDate>2024-12-16T18:59:29Z</pubDate>
+</item>
 
 <item>
 <title>A Grounded Typology of Word Classes</title>

@@ -14011,3 +14011,19 @@ Filter: [A Library for Learning Neural Operators](http://arxiv.org/abs/2412.1035
 Filter: [Robust image classification with multi-modal large language models](http://arxiv.org/abs/2412.10353v1)
 append_entries: 0
 Finish: 2024-12-17 00:53:47.746556
+------------------------------------------------------
+Started: 2024-12-17 12:20:53.699653
+Existing_entries: 394
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MaxInfoRL: Boosting exploration in reinforcement learning through
+  information gain maximization](http://arxiv.org/abs/2412.12098v1)
+Filter: [PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting](http://arxiv.org/abs/2412.12096v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Causal Diffusion Transformers for Generative Modeling](http://arxiv.org/abs/2412.12095v1)
+Filter: [SepLLM: Accelerate Large Language Models by Compressing One Segment into
+  One Separator](http://arxiv.org/abs/2412.12094v1)
+Filter: [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View
+  Diffusion Models](http://arxiv.org/abs/2412.12093v1)
+append_entries: 1
+Finish: 2024-12-17 12:20:54.495339
