@@ -5,11 +5,34 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Instruction-based Image Manipulation by Watching How Things Move</title>
+<link>http://arxiv.org/abs/2412.12087v1</link>
+<guid>http://arxiv.org/abs/2412.12087v1</guid>
+<content:encoded><![CDATA[
+
+This paper introduces a novel dataset construction pipeline that samples
+pairs of frames from videos and uses multimodal large language models (MLLMs)
+to generate editing instructions for training instruction-based image
+manipulation models. Video frames inherently preserve the identity of subjects
+and scenes, ensuring consistent content preservation during editing.
+Additionally, video data captures diverse, natural dynamics-such as non-rigid
+subject motion and complex camera movements-that are difficult to model
+otherwise, making it an ideal source for scalable dataset construction. Using
+this approach, we create a new dataset to train InstructMove, a model capable
+of instruction-based complex manipulations that are difficult to achieve with
+synthetically generated datasets. Our model demonstrates state-of-the-art
+performance in tasks such as adjusting subject poses, rearranging elements, and
+altering camera perspectives.
+]]></content:encoded>
+<pubDate>2024-12-16T18:56:17Z</pubDate>
+<pubDate>2024-12-16T18:56:17Z</pubDate>
+</item>
+
+<item>
 <title>Causal Diffusion Transformers for Generative Modeling</title>
 <link>http://arxiv.org/abs/2412.12095v1</link>
 <guid>http://arxiv.org/abs/2412.12095v1</guid>
 <content:encoded><![CDATA[
-
 We introduce Causal Diffusion as the autoregressive (AR) counterpart of
 Diffusion models. It is a next-token(s) forecasting framework that is friendly
 to both discrete and continuous modalities and compatible with existing
@@ -28,9 +51,7 @@ We hope that this work could provide the community with a fresh perspective on
 training multimodal models over discrete and continuous data.
 ]]></content:encoded>
 <pubDate>2024-12-16T18:59:29Z</pubDate>
-<pubDate>2024-12-16T18:59:29Z</pubDate>
 </item>
-
 <item>
 <title>A Grounded Typology of Word Classes</title>
 <link>http://arxiv.org/abs/2412.10369v1</link>

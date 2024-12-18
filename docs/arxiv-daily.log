@@ -14027,3 +14027,26 @@ Filter: [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-Vie
   Diffusion Models](http://arxiv.org/abs/2412.12093v1)
 append_entries: 1
 Finish: 2024-12-17 12:20:54.495339
+------------------------------------------------------
+Started: 2024-12-18 00:51:43.002091
+Existing_entries: 395
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MaxInfoRL: Boosting exploration in reinforcement learning through
+  information gain maximization](http://arxiv.org/abs/2412.12098v1)
+Filter: [PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting](http://arxiv.org/abs/2412.12096v1)
+Filter: [SepLLM: Accelerate Large Language Models by Compressing One Segment into
+  One Separator](http://arxiv.org/abs/2412.12094v1)
+Filter: [CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View
+  Diffusion Models](http://arxiv.org/abs/2412.12093v1)
+Filter: [No More Tuning: Prioritized Multi-Task Learning with Lagrangian
+  Differential Multiplier Methods](http://arxiv.org/abs/2412.12092v1)
+Filter: [Wonderland: Navigating 3D Scenes from a Single Image](http://arxiv.org/abs/2412.12091v1)
+Filter: [Stabilizing Reinforcement Learning in Differentiable Multiphysics
+  Simulation](http://arxiv.org/abs/2412.12089v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Instruction-based Image Manipulation by Watching How Things Move](http://arxiv.org/abs/2412.12087v1)
+Filter: [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and
+  Illuminations](http://arxiv.org/abs/2412.12083v1)
+append_entries: 1
+Finish: 2024-12-18 00:51:44.519266
