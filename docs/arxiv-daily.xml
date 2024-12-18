@@ -5,11 +5,101 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
+  Model Internet Agents</title>
+<link>http://arxiv.org/abs/2412.13194v1</link>
+<guid>http://arxiv.org/abs/2412.13194v1</guid>
+<content:encoded><![CDATA[
+
+The vision of a broadly capable and goal-directed agent, such as an
+Internet-browsing agent in the digital world and a household humanoid in the
+physical world, has rapidly advanced, thanks to the generalization capability
+of foundation models. Such a generalist agent needs to have a large and diverse
+skill repertoire, such as finding directions between two travel locations and
+buying specific items from the Internet. If each skill needs to be specified
+manually through a fixed set of human-annotated instructions, the agent's skill
+repertoire will necessarily be limited due to the quantity and diversity of
+human-annotated instructions. In this work, we address this challenge by
+proposing Proposer-Agent-Evaluator, an effective learning system that enables
+foundation model agents to autonomously discover and practice skills in the
+wild. At the heart of PAE is a context-aware task proposer that autonomously
+proposes tasks for the agent to practice with context information of the
+environment such as user demos or even just the name of the website itself for
+Internet-browsing agents. Then, the agent policy attempts those tasks with
+thoughts and actual grounded operations in the real world with resulting
+trajectories evaluated by an autonomous VLM-based success evaluator. The
+success evaluation serves as the reward signal for the agent to refine its
+policies through RL. We validate PAE on challenging vision-based web
+navigation, using both real-world and self-hosted websites from WebVoyager and
+WebArena.To the best of our knowledge, this work represents the first effective
+learning system to apply autonomous task proposal with RL for agents that
+generalizes real-world human-annotated benchmarks with SOTA performances. Our
+open-source checkpoints and code can be found in https://yanqval.github.io/PAE/
+]]></content:encoded>
+<pubDate>2024-12-17T18:59:50Z</pubDate>
+<pubDate>2024-12-17T18:59:50Z</pubDate>
+</item>
+<item>
+<title>GaussTR: Foundation Model-Aligned Gaussian Transformer for
+  Self-Supervised 3D Spatial Understanding</title>
+<link>http://arxiv.org/abs/2412.13193v1</link>
+<guid>http://arxiv.org/abs/2412.13193v1</guid>
+<content:encoded><![CDATA[
+
+3D Semantic Occupancy Prediction is fundamental for spatial understanding as
+it provides a comprehensive semantic cognition of surrounding environments.
+However, prevalent approaches primarily rely on extensive labeled data and
+computationally intensive voxel-based modeling, restricting the scalability and
+generalizability of 3D representation learning. In this paper, we introduce
+GaussTR, a novel Gaussian Transformer that leverages alignment with foundation
+models to advance self-supervised 3D spatial understanding. GaussTR adopts a
+Transformer architecture to predict sparse sets of 3D Gaussians that represent
+scenes in a feed-forward manner. Through aligning rendered Gaussian features
+with diverse knowledge from pre-trained foundation models, GaussTR facilitates
+the learning of versatile 3D representations and enables open-vocabulary
+occupancy prediction without explicit annotations. Empirical evaluations on the
+Occ3D-nuScenes dataset showcase GaussTR's state-of-the-art zero-shot
+performance, achieving 11.70 mIoU while reducing training duration by
+approximately 50%. These experimental results highlight the significant
+potential of GaussTR for scalable and holistic 3D spatial understanding, with
+promising implications for autonomous driving and embodied agents. Code is
+available at https://github.com/hustvl/GaussTR.
+]]></content:encoded>
+<pubDate>2024-12-17T18:59:46Z</pubDate>
+<pubDate>2024-12-17T18:59:46Z</pubDate>
+</item>
+<item>
+<title>MotionBridge: Dynamic Video Inbetweening with Flexible Controls</title>
+<link>http://arxiv.org/abs/2412.13190v1</link>
+<guid>http://arxiv.org/abs/2412.13190v1</guid>
+<content:encoded><![CDATA[
+
+By generating plausible and smooth transitions between two image frames,
+video inbetweening is an essential tool for video editing and long video
+synthesis. Traditional works lack the capability to generate complex large
+motions. While recent video generation techniques are powerful in creating
+high-quality results, they often lack fine control over the details of
+intermediate frames, which can lead to results that do not align with the
+creative mind. We introduce MotionBridge, a unified video inbetweening
+framework that allows flexible controls, including trajectory strokes,
+keyframes, masks, guide pixels, and text. However, learning such multi-modal
+controls in a unified framework is a challenging task. We thus design two
+generators to extract the control signal faithfully and encode feature through
+dual-branch embedders to resolve ambiguities. We further introduce a curriculum
+training strategy to smoothly learn various controls. Extensive qualitative and
+quantitative experiments have demonstrated that such multi-modal controls
+enable a more dynamic, customizable, and contextually accurate visual
+narrative.
+]]></content:encoded>
+<pubDate>2024-12-17T18:59:33Z</pubDate>
+<pubDate>2024-12-17T18:59:33Z</pubDate>
+</item>
+
+<item>
 <title>Instruction-based Image Manipulation by Watching How Things Move</title>
 <link>http://arxiv.org/abs/2412.12087v1</link>
 <guid>http://arxiv.org/abs/2412.12087v1</guid>
 <content:encoded><![CDATA[
-
 This paper introduces a novel dataset construction pipeline that samples
 pairs of frames from videos and uses multimodal large language models (MLLMs)
 to generate editing instructions for training instruction-based image
@@ -25,9 +115,7 @@ performance in tasks such as adjusting subject poses, rearranging elements, and
 altering camera perspectives.
 ]]></content:encoded>
 <pubDate>2024-12-16T18:56:17Z</pubDate>
-<pubDate>2024-12-16T18:56:17Z</pubDate>
 </item>
-
 <item>
 <title>Causal Diffusion Transformers for Generative Modeling</title>
 <link>http://arxiv.org/abs/2412.12095v1</link>

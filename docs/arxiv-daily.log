@@ -14050,3 +14050,21 @@ Filter: [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and
   Illuminations](http://arxiv.org/abs/2412.12083v1)
 append_entries: 1
 Finish: 2024-12-18 00:51:44.519266
+------------------------------------------------------
+Started: 2024-12-18 12:20:06.890337
+Existing_entries: 396
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ExBody2: Advanced Expressive Humanoid Whole-Body Control](http://arxiv.org/abs/2412.13196v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
+  Model Internet Agents](http://arxiv.org/abs/2412.13194v1)
+Filter: [CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion
+  Models](http://arxiv.org/abs/2412.13195v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GaussTR: Foundation Model-Aligned Gaussian Transformer for
+  Self-Supervised 3D Spatial Understanding](http://arxiv.org/abs/2412.13193v1)
+Append: [MotionBridge: Dynamic Video Inbetweening with Flexible Controls](http://arxiv.org/abs/2412.13190v1)
+append_entries: 3
+Finish: 2024-12-18 12:20:07.759536
