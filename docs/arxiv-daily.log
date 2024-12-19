@@ -14086,3 +14086,27 @@ Filter: [Real-time Free-view Human Rendering from Sparse-view RGB Videos using
   Double Unprojected Textures](http://arxiv.org/abs/2412.13183v1)
 append_entries: 0
 Finish: 2024-12-19 00:52:11.949623
+------------------------------------------------------
+Started: 2024-12-19 12:20:06.750539
+Existing_entries: 399
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AniDoc: Animation Creation Made Easier](http://arxiv.org/abs/2412.14173v1)
+Filter: [Learning from Massive Human Videos for Universal Humanoid Pose Control](http://arxiv.org/abs/2412.14172v1)
+Filter: [Thinking in Space: How Multimodal Large Language Models See, Remember,
+  and Recall Spaces](http://arxiv.org/abs/2412.14171v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autoregressive Video Generation without Vector Quantization](http://arxiv.org/abs/2412.14169v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [E-CAR: Efficient Continuous Autoregressive Image Generation via
+  Multistage Modeling](http://arxiv.org/abs/2412.14170v1)
+Append: [FashionComposer: Compositional Fashion Image Generation](http://arxiv.org/abs/2412.14168v1)
+Append: [VideoDPO: Omni-Preference Alignment for Video Diffusion Generation](http://arxiv.org/abs/2412.14167v1)
+Filter: [MegaSynth: Scaling Up 3D Scene Reconstruction with Synthesized Data](http://arxiv.org/abs/2412.14166v1)
+Filter: [MetaMorph: Multimodal Understanding and Generation via Instruction
+  Tuning](http://arxiv.org/abs/2412.14164v1)
+Append: [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World
+  Tasks](http://arxiv.org/abs/2412.14161v1)
+append_entries: 5
+Finish: 2024-12-19 12:20:07.401946

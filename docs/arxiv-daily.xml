@@ -4,6 +4,153 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Autoregressive Video Generation without Vector Quantization</title>
+<link>http://arxiv.org/abs/2412.14169v1</link>
+<guid>http://arxiv.org/abs/2412.14169v1</guid>
+<content:encoded><![CDATA[
+
+This paper presents a novel approach that enables autoregressive video
+generation with high efficiency. We propose to reformulate the video generation
+problem as a non-quantized autoregressive modeling of temporal frame-by-frame
+prediction and spatial set-by-set prediction. Unlike raster-scan prediction in
+prior autoregressive models or joint distribution modeling of fixed-length
+tokens in diffusion models, our approach maintains the causal property of
+GPT-style models for flexible in-context capabilities, while leveraging
+bidirectional modeling within individual frames for efficiency. With the
+proposed approach, we train a novel video autoregressive model without vector
+quantization, termed NOVA. Our results demonstrate that NOVA surpasses prior
+autoregressive video models in data efficiency, inference speed, visual
+fidelity, and video fluency, even with a much smaller model capacity, i.e.,
+0.6B parameters. NOVA also outperforms state-of-the-art image diffusion models
+in text-to-image generation tasks, with a significantly lower training cost.
+Additionally, NOVA generalizes well across extended video durations and enables
+diverse zero-shot applications in one unified model. Code and models are
+publicly available at https://github.com/baaivision/NOVA.
+]]></content:encoded>
+<pubDate>2024-12-18T18:59:53Z</pubDate>
+<pubDate>2024-12-18T18:59:53Z</pubDate>
+</item>
+<item>
+<title>E-CAR: Efficient Continuous Autoregressive Image Generation via
+  Multistage Modeling</title>
+<link>http://arxiv.org/abs/2412.14170v1</link>
+<guid>http://arxiv.org/abs/2412.14170v1</guid>
+<content:encoded><![CDATA[
+
+Recent advances in autoregressive (AR) models with continuous tokens for
+image generation show promising results by eliminating the need for discrete
+tokenization. However, these models face efficiency challenges due to their
+sequential token generation nature and reliance on computationally intensive
+diffusion-based sampling. We present ECAR (Efficient Continuous Auto-Regressive
+Image Generation via Multistage Modeling), an approach that addresses these
+limitations through two intertwined innovations: (1) a stage-wise continuous
+token generation strategy that reduces computational complexity and provides
+progressively refined token maps as hierarchical conditions, and (2) a
+multistage flow-based distribution modeling method that transforms only
+partial-denoised distributions at each stage comparing to complete denoising in
+normal diffusion models. Holistically, ECAR operates by generating tokens at
+increasing resolutions while simultaneously denoising the image at each stage.
+This design not only reduces token-to-image transformation cost by a factor of
+the stage number but also enables parallel processing at the token level. Our
+approach not only enhances computational efficiency but also aligns naturally
+with image generation principles by operating in continuous token space and
+following a hierarchical generation process from coarse to fine details.
+Experimental results demonstrate that ECAR achieves comparable image quality to
+DiT Peebles & Xie [2023] while requiring 10$\times$ FLOPs reduction and
+5$\times$ speedup to generate a 256$\times$256 image.
+]]></content:encoded>
+<pubDate>2024-12-18T18:59:53Z</pubDate>
+<pubDate>2024-12-18T18:59:53Z</pubDate>
+</item>
+<item>
+<title>FashionComposer: Compositional Fashion Image Generation</title>
+<link>http://arxiv.org/abs/2412.14168v1</link>
+<guid>http://arxiv.org/abs/2412.14168v1</guid>
+<content:encoded><![CDATA[
+
+We present FashionComposer for compositional fashion image generation. Unlike
+previous methods, FashionComposer is highly flexible. It takes multi-modal
+input (i.e., text prompt, parametric human model, garment image, and face
+image) and supports personalizing the appearance, pose, and figure of the human
+and assigning multiple garments in one pass. To achieve this, we first develop
+a universal framework capable of handling diverse input modalities. We
+construct scaled training data to enhance the model's robust compositional
+capabilities. To accommodate multiple reference images (garments and faces)
+seamlessly, we organize these references in a single image as an "asset
+library" and employ a reference UNet to extract appearance features. To inject
+the appearance features into the correct pixels in the generated result, we
+propose subject-binding attention. It binds the appearance features from
+different "assets" with the corresponding text features. In this way, the model
+could understand each asset according to their semantics, supporting arbitrary
+numbers and types of reference images. As a comprehensive solution,
+FashionComposer also supports many other applications like human album
+generation, diverse virtual try-on tasks, etc.
+]]></content:encoded>
+<pubDate>2024-12-18T18:59:50Z</pubDate>
+<pubDate>2024-12-18T18:59:50Z</pubDate>
+</item>
+<item>
+<title>VideoDPO: Omni-Preference Alignment for Video Diffusion Generation</title>
+<link>http://arxiv.org/abs/2412.14167v1</link>
+<guid>http://arxiv.org/abs/2412.14167v1</guid>
+<content:encoded><![CDATA[
+
+Recent progress in generative diffusion models has greatly advanced
+text-to-video generation. While text-to-video models trained on large-scale,
+diverse datasets can produce varied outputs, these generations often deviate
+from user preferences, highlighting the need for preference alignment on
+pre-trained models. Although Direct Preference Optimization (DPO) has
+demonstrated significant improvements in language and image generation, we
+pioneer its adaptation to video diffusion models and propose a VideoDPO
+pipeline by making several key adjustments. Unlike previous image alignment
+methods that focus solely on either (i) visual quality or (ii) semantic
+alignment between text and videos, we comprehensively consider both dimensions
+and construct a preference score accordingly, which we term the OmniScore. We
+design a pipeline to automatically collect preference pair data based on the
+proposed OmniScore and discover that re-weighting these pairs based on the
+score significantly impacts overall preference alignment. Our experiments
+demonstrate substantial improvements in both visual quality and semantic
+alignment, ensuring that no preference aspect is neglected. Code and data will
+be shared at https://videodpo.github.io/.
+]]></content:encoded>
+<pubDate>2024-12-18T18:59:49Z</pubDate>
+<pubDate>2024-12-18T18:59:49Z</pubDate>
+</item>
+<item>
+<title>TheAgentCompany: Benchmarking LLM Agents on Consequential Real World
+  Tasks</title>
+<link>http://arxiv.org/abs/2412.14161v1</link>
+<guid>http://arxiv.org/abs/2412.14161v1</guid>
+<content:encoded><![CDATA[
+
+We interact with computers on an everyday basis, be it in everyday life or
+work, and many aspects of work can be done entirely with access to a computer
+and the Internet. At the same time, thanks to improvements in large language
+models (LLMs), there has also been a rapid development in AI agents that
+interact with and affect change in their surrounding environments. But how
+performant are AI agents at helping to accelerate or even autonomously perform
+work-related tasks? The answer to this question has important implications for
+both industry looking to adopt AI into their workflows, and for economic policy
+to understand the effects that adoption of AI may have on the labor market. To
+measure the progress of these LLM agents' performance on performing real-world
+professional tasks, in this paper, we introduce TheAgentCompany, an extensible
+benchmark for evaluating AI agents that interact with the world in similar ways
+to those of a digital worker: by browsing the Web, writing code, running
+programs, and communicating with other coworkers. We build a self-contained
+environment with internal web sites and data that mimics a small software
+company environment, and create a variety of tasks that may be performed by
+workers in such a company. We test baseline agents powered by both closed
+API-based and open-weights language models (LMs), and find that with the most
+competitive agent, 24% of the tasks can be completed autonomously. This paints
+a nuanced picture on task automation with LM agents -- in a setting simulating
+a real workplace, a good portion of simpler tasks could be solved autonomously,
+but more difficult long-horizon tasks are still beyond the reach of current
+systems.
+]]></content:encoded>
+<pubDate>2024-12-18T18:55:40Z</pubDate>
+<pubDate>2024-12-18T18:55:40Z</pubDate>
+</item>
 
 <item>
 <title>Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
