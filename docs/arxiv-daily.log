@@ -14068,3 +14068,21 @@ Append: [GaussTR: Foundation Model-Aligned Gaussian Transformer for
 Append: [MotionBridge: Dynamic Video Inbetweening with Flexible Controls](http://arxiv.org/abs/2412.13190v1)
 append_entries: 3
 Finish: 2024-12-18 12:20:07.759536
+------------------------------------------------------
+Started: 2024-12-19 00:52:11.237711
+Existing_entries: 399
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ExBody2: Advanced Expressive Humanoid Whole-Body Control](http://arxiv.org/abs/2412.13196v1)
+Filter: [CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion
+  Models](http://arxiv.org/abs/2412.13195v1)
+Filter: [StreetCrafter: Street View Synthesis with Controllable Video Diffusion
+  Models](http://arxiv.org/abs/2412.13188v1)
+Filter: [HandsOnVLM: Vision-Language Models for Hand-Object Interaction
+  Prediction](http://arxiv.org/abs/2412.13187v1)
+Filter: [Move-in-2D: 2D-Conditioned Human Motion Generation](http://arxiv.org/abs/2412.13185v1)
+Filter: [Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement
+  Learning](http://arxiv.org/abs/2412.13184v1)
+Filter: [Real-time Free-view Human Rendering from Sparse-view RGB Videos using
+  Double Unprojected Textures](http://arxiv.org/abs/2412.13183v1)
+append_entries: 0
+Finish: 2024-12-19 00:52:11.949623

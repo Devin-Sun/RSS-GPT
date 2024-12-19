@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
   Model Internet Agents</title>
 <link>http://arxiv.org/abs/2412.13194v1</link>
 <guid>http://arxiv.org/abs/2412.13194v1</guid>
 <content:encoded><![CDATA[
-
 The vision of a broadly capable and goal-directed agent, such as an
 Internet-browsing agent in the digital world and a household humanoid in the
 physical world, has rapidly advanced, thanks to the generalization capability
@@ -37,7 +37,6 @@ generalizes real-world human-annotated benchmarks with SOTA performances. Our
 open-source checkpoints and code can be found in https://yanqval.github.io/PAE/
 ]]></content:encoded>
 <pubDate>2024-12-17T18:59:50Z</pubDate>
-<pubDate>2024-12-17T18:59:50Z</pubDate>
 </item>
 <item>
 <title>GaussTR: Foundation Model-Aligned Gaussian Transformer for
@@ -45,7 +44,6 @@ open-source checkpoints and code can be found in https://yanqval.github.io/PAE/
 <link>http://arxiv.org/abs/2412.13193v1</link>
 <guid>http://arxiv.org/abs/2412.13193v1</guid>
 <content:encoded><![CDATA[
-
 3D Semantic Occupancy Prediction is fundamental for spatial understanding as
 it provides a comprehensive semantic cognition of surrounding environments.
 However, prevalent approaches primarily rely on extensive labeled data and
@@ -66,14 +64,12 @@ promising implications for autonomous driving and embodied agents. Code is
 available at https://github.com/hustvl/GaussTR.
 ]]></content:encoded>
 <pubDate>2024-12-17T18:59:46Z</pubDate>
-<pubDate>2024-12-17T18:59:46Z</pubDate>
 </item>
 <item>
 <title>MotionBridge: Dynamic Video Inbetweening with Flexible Controls</title>
 <link>http://arxiv.org/abs/2412.13190v1</link>
 <guid>http://arxiv.org/abs/2412.13190v1</guid>
 <content:encoded><![CDATA[
-
 By generating plausible and smooth transitions between two image frames,
 video inbetweening is an essential tool for video editing and long video
 synthesis. Traditional works lack the capability to generate complex large
@@ -92,9 +88,7 @@ enable a more dynamic, customizable, and contextually accurate visual
 narrative.
 ]]></content:encoded>
 <pubDate>2024-12-17T18:59:33Z</pubDate>
-<pubDate>2024-12-17T18:59:33Z</pubDate>
 </item>
-
 <item>
 <title>Instruction-based Image Manipulation by Watching How Things Move</title>
 <link>http://arxiv.org/abs/2412.12087v1</link>
