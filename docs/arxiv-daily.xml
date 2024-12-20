@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Autoregressive Video Generation without Vector Quantization</title>
 <link>http://arxiv.org/abs/2412.14169v1</link>
 <guid>http://arxiv.org/abs/2412.14169v1</guid>
 <content:encoded><![CDATA[
-
 This paper presents a novel approach that enables autoregressive video
 generation with high efficiency. We propose to reformulate the video generation
 problem as a non-quantized autoregressive modeling of temporal frame-by-frame
@@ -29,7 +29,6 @@ diverse zero-shot applications in one unified model. Code and models are
 publicly available at https://github.com/baaivision/NOVA.
 ]]></content:encoded>
 <pubDate>2024-12-18T18:59:53Z</pubDate>
-<pubDate>2024-12-18T18:59:53Z</pubDate>
 </item>
 <item>
 <title>E-CAR: Efficient Continuous Autoregressive Image Generation via
@@ -37,7 +36,6 @@ publicly available at https://github.com/baaivision/NOVA.
 <link>http://arxiv.org/abs/2412.14170v1</link>
 <guid>http://arxiv.org/abs/2412.14170v1</guid>
 <content:encoded><![CDATA[
-
 Recent advances in autoregressive (AR) models with continuous tokens for
 image generation show promising results by eliminating the need for discrete
 tokenization. However, these models face efficiency challenges due to their
@@ -61,14 +59,12 @@ DiT Peebles & Xie [2023] while requiring 10$\times$ FLOPs reduction and
 5$\times$ speedup to generate a 256$\times$256 image.
 ]]></content:encoded>
 <pubDate>2024-12-18T18:59:53Z</pubDate>
-<pubDate>2024-12-18T18:59:53Z</pubDate>
 </item>
 <item>
 <title>FashionComposer: Compositional Fashion Image Generation</title>
 <link>http://arxiv.org/abs/2412.14168v1</link>
 <guid>http://arxiv.org/abs/2412.14168v1</guid>
 <content:encoded><![CDATA[
-
 We present FashionComposer for compositional fashion image generation. Unlike
 previous methods, FashionComposer is highly flexible. It takes multi-modal
 input (i.e., text prompt, parametric human model, garment image, and face
@@ -88,14 +84,12 @@ FashionComposer also supports many other applications like human album
 generation, diverse virtual try-on tasks, etc.
 ]]></content:encoded>
 <pubDate>2024-12-18T18:59:50Z</pubDate>
-<pubDate>2024-12-18T18:59:50Z</pubDate>
 </item>
 <item>
 <title>VideoDPO: Omni-Preference Alignment for Video Diffusion Generation</title>
 <link>http://arxiv.org/abs/2412.14167v1</link>
 <guid>http://arxiv.org/abs/2412.14167v1</guid>
 <content:encoded><![CDATA[
-
 Recent progress in generative diffusion models has greatly advanced
 text-to-video generation. While text-to-video models trained on large-scale,
 diverse datasets can produce varied outputs, these generations often deviate
@@ -115,7 +109,6 @@ alignment, ensuring that no preference aspect is neglected. Code and data will
 be shared at https://videodpo.github.io/.
 ]]></content:encoded>
 <pubDate>2024-12-18T18:59:49Z</pubDate>
-<pubDate>2024-12-18T18:59:49Z</pubDate>
 </item>
 <item>
 <title>TheAgentCompany: Benchmarking LLM Agents on Consequential Real World
@@ -123,7 +116,6 @@ be shared at https://videodpo.github.io/.
 <link>http://arxiv.org/abs/2412.14161v1</link>
 <guid>http://arxiv.org/abs/2412.14161v1</guid>
 <content:encoded><![CDATA[
-
 We interact with computers on an everyday basis, be it in everyday life or
 work, and many aspects of work can be done entirely with access to a computer
 and the Internet. At the same time, thanks to improvements in large language
@@ -149,9 +141,7 @@ but more difficult long-horizon tasks are still beyond the reach of current
 systems.
 ]]></content:encoded>
 <pubDate>2024-12-18T18:55:40Z</pubDate>
-<pubDate>2024-12-18T18:55:40Z</pubDate>
 </item>
-
 <item>
 <title>Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation
   Model Internet Agents</title>
