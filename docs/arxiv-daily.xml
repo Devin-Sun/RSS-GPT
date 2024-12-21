@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Flowing from Words to Pixels: A Framework for Cross-Modality Evolution</title>
 <link>http://arxiv.org/abs/2412.15213v1</link>
 <guid>http://arxiv.org/abs/2412.15213v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion models, and their generalization, flow matching, have had a
 remarkable impact on the field of media generation. Here, the conventional
 approach is to learn the complex mapping from a simple source distribution of
@@ -36,9 +36,7 @@ estimation, and image super-resolution. We hope this paper contributes to
 accelerating progress in cross-modal media generation.
 ]]></content:encoded>
 <pubDate>2024-12-19T18:59:56Z</pubDate>
-<pubDate>2024-12-19T18:59:56Z</pubDate>
 </item>
-
 <item>
 <title>Autoregressive Video Generation without Vector Quantization</title>
 <link>http://arxiv.org/abs/2412.14169v1</link>
