@@ -14234,3 +14234,28 @@ Filter: [AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models
   for Autonomous Driving](http://arxiv.org/abs/2412.15206v1)
 append_entries: 0
 Finish: 2024-12-23 00:50:52.387075
+------------------------------------------------------
+Started: 2024-12-23 12:19:19.805189
+Existing_entries: 405
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [HoVLE: Unleashing the Power of Monolithic Vision-Language Models with
+  Holistic Vision-Language Embedding](http://arxiv.org/abs/2412.16158v1)
+Filter: [Stochastic Analysis of Entanglement-assisted Quantum Communication
+  Channels](http://arxiv.org/abs/2412.16157v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Personalized Representation from Personalized Generation](http://arxiv.org/abs/2412.16156v1)
+Filter: [Can Generative Video Models Help Pose Estimation?](http://arxiv.org/abs/2412.16155v1)
+Filter: [MotiF: Making Text Count in Image Animation with Motion Focal Loss](http://arxiv.org/abs/2412.16153v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A vector logic for extensional formal semantics](http://arxiv.org/abs/2412.16152v1)
+Filter: [Shape Shifters: Does Body Shape Change the Perception of Small-Scale
+  Crowd Motions?](http://arxiv.org/abs/2412.16151v1)
+Filter: [Frequency Is What You Need: Word-frequency Masking Benefits
+  Vision-Language Model Pre-training](http://arxiv.org/abs/2412.16148v1)
+Filter: [SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage
+  Estimation in the Wild](http://arxiv.org/abs/2412.16147v1)
+Filter: [Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks](http://arxiv.org/abs/2412.16146v1)
+append_entries: 2
+Finish: 2024-12-23 12:19:21.046882
