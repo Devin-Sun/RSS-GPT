@@ -4,6 +4,69 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>ChatGarment: Garment Estimation, Generation and Editing via Large
+  Language Models</title>
+<link>http://arxiv.org/abs/2412.17811v1</link>
+<guid>http://arxiv.org/abs/2412.17811v1</guid>
+<content:encoded><![CDATA[
+
+We introduce ChatGarment, a novel approach that leverages large
+vision-language models (VLMs) to automate the estimation, generation, and
+editing of 3D garments from images or text descriptions. Unlike previous
+methods that struggle in real-world scenarios or lack interactive editing
+capabilities, ChatGarment can estimate sewing patterns from in-the-wild images
+or sketches, generate them from text descriptions, and edit garments based on
+user instructions, all within an interactive dialogue. These sewing patterns
+can then be draped into 3D garments, which are easily animatable and
+simulatable. This is achieved by finetuning a VLM to directly generate a JSON
+file that includes both textual descriptions of garment types and styles, as
+well as continuous numerical attributes. This JSON file is then used to create
+sewing patterns through a programming parametric model. To support this, we
+refine the existing programming model, GarmentCode, by expanding its garment
+type coverage and simplifying its structure for efficient VLM fine-tuning.
+Additionally, we construct a large-scale dataset of image-to-sewing-pattern and
+text-to-sewing-pattern pairs through an automated data pipeline. Extensive
+evaluations demonstrate ChatGarment's ability to accurately reconstruct,
+generate, and edit garments from multimodal inputs, highlighting its potential
+to revolutionize workflows in fashion and gaming applications. Code and data
+will be available at https://chatgarment.github.io/.
+]]></content:encoded>
+<pubDate>2024-12-23T18:59:28Z</pubDate>
+<pubDate>2024-12-23T18:59:28Z</pubDate>
+</item>
+<item>
+<title>Large Motion Video Autoencoding with Cross-modal Video VAE</title>
+<link>http://arxiv.org/abs/2412.17805v1</link>
+<guid>http://arxiv.org/abs/2412.17805v1</guid>
+<content:encoded><![CDATA[
+
+Learning a robust video Variational Autoencoder (VAE) is essential for
+reducing video redundancy and facilitating efficient video generation. Directly
+applying image VAEs to individual frames in isolation can result in temporal
+inconsistencies and suboptimal compression rates due to a lack of temporal
+compression. Existing Video VAEs have begun to address temporal compression;
+however, they often suffer from inadequate reconstruction performance. In this
+paper, we present a novel and powerful video autoencoder capable of
+high-fidelity video encoding. First, we observe that entangling spatial and
+temporal compression by merely extending the image VAE to a 3D VAE can
+introduce motion blur and detail distortion artifacts. Thus, we propose
+temporal-aware spatial compression to better encode and decode the spatial
+information. Additionally, we integrate a lightweight motion compression model
+for further temporal compression. Second, we propose to leverage the textual
+information inherent in text-to-video datasets and incorporate text guidance
+into our model. This significantly enhances reconstruction quality,
+particularly in terms of detail preservation and temporal stability. Third, we
+further improve the versatility of our model through joint training on both
+images and videos, which not only enhances reconstruction quality but also
+enables the model to perform both image and video autoencoding. Extensive
+evaluations against strong recent baselines demonstrate the superior
+performance of our method. The project website can be found
+at~\href{https://yzxing87.github.io/vae/}{https://yzxing87.github.io/vae/}.
+]]></content:encoded>
+<pubDate>2024-12-23T18:58:24Z</pubDate>
+<pubDate>2024-12-23T18:58:24Z</pubDate>
+</item>
 
 <item>
 <title>Personalized Representation from Personalized Generation</title>
