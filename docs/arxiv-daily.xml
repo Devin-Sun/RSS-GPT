@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Personalized Representation from Personalized Generation</title>
 <link>http://arxiv.org/abs/2412.16156v1</link>
 <guid>http://arxiv.org/abs/2412.16156v1</guid>
 <content:encoded><![CDATA[
-
 Modern vision models excel at general purpose downstream tasks. It is
 unclear, however, how they may be used for personalized vision tasks, which are
 both fine-grained and data-scarce. Recent works have successfully applied
@@ -28,14 +28,12 @@ recognition to segmentation, and analyze characteristics of image generation
 approaches that are key to this gain.
 ]]></content:encoded>
 <pubDate>2024-12-20T18:59:03Z</pubDate>
-<pubDate>2024-12-20T18:59:03Z</pubDate>
 </item>
 <item>
 <title>A vector logic for extensional formal semantics</title>
 <link>http://arxiv.org/abs/2412.16152v1</link>
 <guid>http://arxiv.org/abs/2412.16152v1</guid>
 <content:encoded><![CDATA[
-
 This paper proves a homomorphism between extensional formal semantics and
 distributional vector space semantics, demonstrating structural compatibility.
 Formal semantics models meaning as reference, using logical structures to map
@@ -52,9 +50,7 @@ aligning `meaning as reference' (Frege, Tarski) with `meaning as use'
 (Wittgenstein, Firth).
 ]]></content:encoded>
 <pubDate>2024-12-20T18:54:48Z</pubDate>
-<pubDate>2024-12-20T18:54:48Z</pubDate>
 </item>
-
 <item>
 <title>Flowing from Words to Pixels: A Framework for Cross-Modality Evolution</title>
 <link>http://arxiv.org/abs/2412.15213v1</link>
