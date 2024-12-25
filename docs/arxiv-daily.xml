@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>ChatGarment: Garment Estimation, Generation and Editing via Large
   Language Models</title>
 <link>http://arxiv.org/abs/2412.17811v1</link>
 <guid>http://arxiv.org/abs/2412.17811v1</guid>
 <content:encoded><![CDATA[
-
 We introduce ChatGarment, a novel approach that leverages large
 vision-language models (VLMs) to automate the estimation, generation, and
 editing of 3D garments from images or text descriptions. Unlike previous
@@ -33,14 +33,12 @@ to revolutionize workflows in fashion and gaming applications. Code and data
 will be available at https://chatgarment.github.io/.
 ]]></content:encoded>
 <pubDate>2024-12-23T18:59:28Z</pubDate>
-<pubDate>2024-12-23T18:59:28Z</pubDate>
 </item>
 <item>
 <title>Large Motion Video Autoencoding with Cross-modal Video VAE</title>
 <link>http://arxiv.org/abs/2412.17805v1</link>
 <guid>http://arxiv.org/abs/2412.17805v1</guid>
 <content:encoded><![CDATA[
-
 Learning a robust video Variational Autoencoder (VAE) is essential for
 reducing video redundancy and facilitating efficient video generation. Directly
 applying image VAEs to individual frames in isolation can result in temporal
@@ -65,9 +63,7 @@ performance of our method. The project website can be found
 at~\href{https://yzxing87.github.io/vae/}{https://yzxing87.github.io/vae/}.
 ]]></content:encoded>
 <pubDate>2024-12-23T18:58:24Z</pubDate>
-<pubDate>2024-12-23T18:58:24Z</pubDate>
 </item>
-
 <item>
 <title>Personalized Representation from Personalized Generation</title>
 <link>http://arxiv.org/abs/2412.16156v1</link>

@@ -14303,3 +14303,21 @@ Filter: [Comprehensive Multi-Modal Prototypes are Simple and Effective
   Classifiers for Vast-Vocabulary Object Detection](http://arxiv.org/abs/2412.17800v1)
 append_entries: 2
 Finish: 2024-12-24 12:19:05.914253
+------------------------------------------------------
+Started: 2024-12-25 00:47:48.028486
+Existing_entries: 409
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [FaceLift: Single Image to 3D Head with View Generation and GS-LRM](http://arxiv.org/abs/2412.17812v1)
+Filter: [Token Statistics Transformer: Linear-Time Attention via Variational Rate
+  Reduction](http://arxiv.org/abs/2412.17810v1)
+Filter: [Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders](http://arxiv.org/abs/2412.17808v1)
+Filter: [Cross-View Referring Multi-Object Tracking](http://arxiv.org/abs/2412.17807v1)
+Filter: [Reconstructing People, Places, and Cameras](http://arxiv.org/abs/2412.17806v1)
+Filter: [GauSim: Registering Elastic Objects into Digital World by Gaussian
+  Simulator](http://arxiv.org/abs/2412.17804v1)
+Filter: [Examining Imbalance Effects on Performance and Demographic Fairness of
+  Clinical Language Models](http://arxiv.org/abs/2412.17803v1)
+Filter: [Comprehensive Multi-Modal Prototypes are Simple and Effective
+  Classifiers for Vast-Vocabulary Object Detection](http://arxiv.org/abs/2412.17800v1)
+append_entries: 0
+Finish: 2024-12-25 00:47:48.869016
