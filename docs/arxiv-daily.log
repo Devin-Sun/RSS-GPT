@@ -14321,3 +14321,31 @@ Filter: [Comprehensive Multi-Modal Prototypes are Simple and Effective
   Classifiers for Vast-Vocabulary Object Detection](http://arxiv.org/abs/2412.17800v1)
 append_entries: 0
 Finish: 2024-12-25 00:47:48.869016
+------------------------------------------------------
+Started: 2024-12-25 12:18:23.677348
+Existing_entries: 409
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Video-Panda: Parameter-efficient Alignment for Encoder-free
+  Video-Language Models](http://arxiv.org/abs/2412.18609v1)
+Filter: [PartGen: Part-level 3D Generation and Reconstruction with Multi-View
+  Diffusion Models](http://arxiv.org/abs/2412.18608v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DrivingGPT: Unifying Driving World Modeling and Planning with
+  Multi-modal Autoregressive Transformers](http://arxiv.org/abs/2412.18607v1)
+Filter: [Orient Anything: Learning Robust Object Orientation Estimation from
+  Rendering 3D Models](http://arxiv.org/abs/2412.18605v1)
+Filter: [Explaining in Diffusion: Explaining a Classifier Through Hierarchical
+  Semantics with Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.18604v1)
+Filter: [Long-Form Speech Generation with Spoken Language Models](http://arxiv.org/abs/2412.18603v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decentralized Intelligence in GameFi: Embodied AI Agents and the
+  Convergence of DeFi and Virtual Ecosystems](http://arxiv.org/abs/2412.18601v1)
+Append: [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](http://arxiv.org/abs/2412.18600v1)
+Filter: [Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining
+  Rates with Ruin Theory](http://arxiv.org/abs/2412.18599v1)
+Append: [DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion
+  Transformer for Tuning-Free Multi-Prompt Longer Video Generation](http://arxiv.org/abs/2412.18597v1)
+append_entries: 4
+Finish: 2024-12-25 12:18:24.352126

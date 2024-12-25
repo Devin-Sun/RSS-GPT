@@ -4,6 +4,124 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>DrivingGPT: Unifying Driving World Modeling and Planning with
+  Multi-modal Autoregressive Transformers</title>
+<link>http://arxiv.org/abs/2412.18607v1</link>
+<guid>http://arxiv.org/abs/2412.18607v1</guid>
+<content:encoded><![CDATA[
+
+World model-based searching and planning are widely recognized as a promising
+path toward human-level physical intelligence. However, current driving world
+models primarily rely on video diffusion models, which specialize in visual
+generation but lack the flexibility to incorporate other modalities like
+action. In contrast, autoregressive transformers have demonstrated exceptional
+capability in modeling multimodal data. Our work aims to unify both driving
+model simulation and trajectory planning into a single sequence modeling
+problem. We introduce a multimodal driving language based on interleaved image
+and action tokens, and develop DrivingGPT to learn joint world modeling and
+planning through standard next-token prediction. Our DrivingGPT demonstrates
+strong performance in both action-conditioned video generation and end-to-end
+planning, outperforming strong baselines on large-scale nuPlan and NAVSIM
+benchmarks.
+]]></content:encoded>
+<pubDate>2024-12-24T18:59:37Z</pubDate>
+<pubDate>2024-12-24T18:59:37Z</pubDate>
+</item>
+<item>
+<title>Decentralized Intelligence in GameFi: Embodied AI Agents and the
+  Convergence of DeFi and Virtual Ecosystems</title>
+<link>http://arxiv.org/abs/2412.18601v1</link>
+<guid>http://arxiv.org/abs/2412.18601v1</guid>
+<content:encoded><![CDATA[
+
+In the rapidly evolving landscape of GameFi, a fusion of gaming and
+decentralized finance (DeFi), there exists a critical need to enhance player
+engagement and economic interaction within gaming ecosystems. Our GameFi
+ecosystem aims to fundamentally transform this landscape by integrating
+advanced embodied AI agents into GameFi platforms. These AI agents, developed
+using cutting-edge large language models (LLMs), such as GPT-4 and Claude AI,
+are capable of proactive, adaptive, and contextually rich interactions with
+players. By going beyond traditional scripted responses, these agents become
+integral participants in the game's narrative and economic systems, directly
+influencing player strategies and in-game economies. We address the limitations
+of current GameFi platforms, which often lack immersive AI interactions and
+mechanisms for community engagement or creator monetization. Through the deep
+integration of AI agents with blockchain technology, we establish a
+consensus-driven, decentralized GameFi ecosystem. This ecosystem empowers
+creators to monetize their contributions and fosters democratic collaboration
+among players and creators. Furthermore, by embedding DeFi mechanisms into the
+gaming experience, we enhance economic participation and provide new
+opportunities for financial interactions within the game. Our approach enhances
+player immersion and retention and advances the GameFi ecosystem by bridging
+traditional gaming with Web3 technologies. By integrating sophisticated AI and
+DeFi elements, we contribute to the development of more engaging, economically
+robust, and community-centric gaming environments. This project represents a
+significant advancement in the state-of-the-art in GameFi, offering insights
+and methodologies that can be applied throughout the gaming industry.
+]]></content:encoded>
+<pubDate>2024-12-24T18:56:00Z</pubDate>
+<pubDate>2024-12-24T18:56:00Z</pubDate>
+</item>
+<item>
+<title>ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation</title>
+<link>http://arxiv.org/abs/2412.18600v1</link>
+<guid>http://arxiv.org/abs/2412.18600v1</guid>
+<content:encoded><![CDATA[
+
+Human-scene interaction (HSI) generation is crucial for applications in
+embodied AI, virtual reality, and robotics. While existing methods can
+synthesize realistic human motions in 3D scenes and generate plausible
+human-object interactions, they heavily rely on datasets containing paired 3D
+scene and motion capture data, which are expensive and time-consuming to
+collect across diverse environments and interactions. We present ZeroHSI, a
+novel approach that enables zero-shot 4D human-scene interaction synthesis by
+integrating video generation and neural human rendering. Our key insight is to
+leverage the rich motion priors learned by state-of-the-art video generation
+models, which have been trained on vast amounts of natural human movements and
+interactions, and use differentiable rendering to reconstruct human-scene
+interactions. ZeroHSI can synthesize realistic human motions in both static
+scenes and environments with dynamic objects, without requiring any
+ground-truth motion data. We evaluate ZeroHSI on a curated dataset of different
+types of various indoor and outdoor scenes with different interaction prompts,
+demonstrating its ability to generate diverse and contextually appropriate
+human-scene interactions.
+]]></content:encoded>
+<pubDate>2024-12-24T18:55:38Z</pubDate>
+<pubDate>2024-12-24T18:55:38Z</pubDate>
+</item>
+<item>
+<title>DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion
+  Transformer for Tuning-Free Multi-Prompt Longer Video Generation</title>
+<link>http://arxiv.org/abs/2412.18597v1</link>
+<guid>http://arxiv.org/abs/2412.18597v1</guid>
+<content:encoded><![CDATA[
+
+Sora-like video generation models have achieved remarkable progress with a
+Multi-Modal Diffusion Transformer MM-DiT architecture. However, the current
+video generation models predominantly focus on single-prompt, struggling to
+generate coherent scenes with multiple sequential prompts that better reflect
+real-world dynamic scenarios. While some pioneering works have explored
+multi-prompt video generation, they face significant challenges including
+strict training data requirements, weak prompt following, and unnatural
+transitions. To address these problems, we propose DiTCtrl, a training-free
+multi-prompt video generation method under MM-DiT architectures for the first
+time. Our key idea is to take the multi-prompt video generation task as
+temporal video editing with smooth transitions. To achieve this goal, we first
+analyze MM-DiT's attention mechanism, finding that the 3D full attention
+behaves similarly to that of the cross/self-attention blocks in the UNet-like
+diffusion models, enabling mask-guided precise semantic control across
+different prompts with attention sharing for multi-prompt video generation.
+Based on our careful design, the video generated by DiTCtrl achieves smooth
+transitions and consistent object motion given multiple sequential prompts
+without additional training. Besides, we also present MPVBench, a new benchmark
+specially designed for multi-prompt video generation to evaluate the
+performance of multi-prompt generation. Extensive experiments demonstrate that
+our method achieves state-of-the-art performance without additional training.
+]]></content:encoded>
+<pubDate>2024-12-24T18:51:19Z</pubDate>
+<pubDate>2024-12-24T18:51:19Z</pubDate>
+</item>
 
 <item>
 <title>ChatGarment: Garment Estimation, Generation and Editing via Large
