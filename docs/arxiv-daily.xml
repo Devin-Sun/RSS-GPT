@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>DrivingGPT: Unifying Driving World Modeling and Planning with
   Multi-modal Autoregressive Transformers</title>
 <link>http://arxiv.org/abs/2412.18607v1</link>
 <guid>http://arxiv.org/abs/2412.18607v1</guid>
 <content:encoded><![CDATA[
-
 World model-based searching and planning are widely recognized as a promising
 path toward human-level physical intelligence. However, current driving world
 models primarily rely on video diffusion models, which specialize in visual
@@ -26,7 +26,6 @@ planning, outperforming strong baselines on large-scale nuPlan and NAVSIM
 benchmarks.
 ]]></content:encoded>
 <pubDate>2024-12-24T18:59:37Z</pubDate>
-<pubDate>2024-12-24T18:59:37Z</pubDate>
 </item>
 <item>
 <title>Decentralized Intelligence in GameFi: Embodied AI Agents and the
@@ -34,7 +33,6 @@ benchmarks.
 <link>http://arxiv.org/abs/2412.18601v1</link>
 <guid>http://arxiv.org/abs/2412.18601v1</guid>
 <content:encoded><![CDATA[
-
 In the rapidly evolving landscape of GameFi, a fusion of gaming and
 decentralized finance (DeFi), there exists a critical need to enhance player
 engagement and economic interaction within gaming ecosystems. Our GameFi
@@ -61,14 +59,12 @@ significant advancement in the state-of-the-art in GameFi, offering insights
 and methodologies that can be applied throughout the gaming industry.
 ]]></content:encoded>
 <pubDate>2024-12-24T18:56:00Z</pubDate>
-<pubDate>2024-12-24T18:56:00Z</pubDate>
 </item>
 <item>
 <title>ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation</title>
 <link>http://arxiv.org/abs/2412.18600v1</link>
 <guid>http://arxiv.org/abs/2412.18600v1</guid>
 <content:encoded><![CDATA[
-
 Human-scene interaction (HSI) generation is crucial for applications in
 embodied AI, virtual reality, and robotics. While existing methods can
 synthesize realistic human motions in 3D scenes and generate plausible
@@ -88,7 +84,6 @@ demonstrating its ability to generate diverse and contextually appropriate
 human-scene interactions.
 ]]></content:encoded>
 <pubDate>2024-12-24T18:55:38Z</pubDate>
-<pubDate>2024-12-24T18:55:38Z</pubDate>
 </item>
 <item>
 <title>DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion
@@ -96,7 +91,6 @@ human-scene interactions.
 <link>http://arxiv.org/abs/2412.18597v1</link>
 <guid>http://arxiv.org/abs/2412.18597v1</guid>
 <content:encoded><![CDATA[
-
 Sora-like video generation models have achieved remarkable progress with a
 Multi-Modal Diffusion Transformer MM-DiT architecture. However, the current
 video generation models predominantly focus on single-prompt, struggling to
@@ -120,9 +114,7 @@ performance of multi-prompt generation. Extensive experiments demonstrate that
 our method achieves state-of-the-art performance without additional training.
 ]]></content:encoded>
 <pubDate>2024-12-24T18:51:19Z</pubDate>
-<pubDate>2024-12-24T18:51:19Z</pubDate>
 </item>
-
 <item>
 <title>ChatGarment: Garment Estimation, Generation and Editing via Large
   Language Models</title>
