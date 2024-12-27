@@ -14383,3 +14383,20 @@ Filter: [Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining
   Rates with Ruin Theory](http://arxiv.org/abs/2412.18599v1)
 append_entries: 0
 Finish: 2024-12-26 12:18:55.430065
+------------------------------------------------------
+Started: 2024-12-27 00:48:47.413612
+Existing_entries: 413
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Video-Panda: Parameter-efficient Alignment for Encoder-free
+  Video-Language Models](http://arxiv.org/abs/2412.18609v1)
+Filter: [PartGen: Part-level 3D Generation and Reconstruction with Multi-View
+  Diffusion Models](http://arxiv.org/abs/2412.18608v1)
+Filter: [Orient Anything: Learning Robust Object Orientation Estimation from
+  Rendering 3D Models](http://arxiv.org/abs/2412.18605v1)
+Filter: [Explaining in Diffusion: Explaining a Classifier Through Hierarchical
+  Semantics with Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.18604v1)
+Filter: [Long-Form Speech Generation with Spoken Language Models](http://arxiv.org/abs/2412.18603v1)
+Filter: [Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining
+  Rates with Ruin Theory](http://arxiv.org/abs/2412.18599v1)
+append_entries: 0
+Finish: 2024-12-27 00:48:48.433109
