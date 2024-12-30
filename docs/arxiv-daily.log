@@ -14502,3 +14502,23 @@ Filter: [Double Spending Analysis of Nakamoto Consensus for Time-Varying Mining
   Rates with Ruin Theory](http://arxiv.org/abs/2412.18599v1)
 append_entries: 0
 Finish: 2024-12-30 00:51:10.991926
+------------------------------------------------------
+Started: 2024-12-30 12:19:03.322657
+Existing_entries: 413
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LASER: A new method for locally adaptive nonparametric regression](http://arxiv.org/abs/2412.19802v1)
+Filter: [MVTamperBench: Evaluating Robustness of Vision-Language Models](http://arxiv.org/abs/2412.19794v1)
+Filter: [InfAlign: Inference-aware language model alignment](http://arxiv.org/abs/2412.19792v1)
+Filter: [Local Characteristic Decomposition of Equilibrium Variables for
+  Hyperbolic Systems of Balance Laws](http://arxiv.org/abs/2412.19791v1)
+Filter: [Enhancing Whisper's Accuracy and Speed for Indian Languages through
+  Prompt-Tuning and Tokenization](http://arxiv.org/abs/2412.19785v1)
+Filter: [Can AI Help with Your Personal Finances?](http://arxiv.org/abs/2412.19784v1)
+Filter: [Machine Learning for Sentiment Analysis of Imported Food in Trinidad and
+  Tobago](http://arxiv.org/abs/2412.19781v1)
+Filter: [Tensor Network Estimation of Distribution Algorithms](http://arxiv.org/abs/2412.19780v1)
+Filter: [Symbolic Approximations to Ricci-flat Metrics Via Extrinsic Symmetries
+  of Calabi-Yau Hypersurfaces](http://arxiv.org/abs/2412.19778v1)
+Filter: [Improved image display by identifying the RGB family color space](http://arxiv.org/abs/2412.19775v1)
+append_entries: 0
+Finish: 2024-12-30 12:19:04.028015
