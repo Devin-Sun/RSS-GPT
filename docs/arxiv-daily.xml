@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion
+  Control</title>
+<link>http://arxiv.org/abs/2501.01427v1</link>
+<guid>http://arxiv.org/abs/2501.01427v1</guid>
+<content:encoded><![CDATA[
+
+Despite significant advancements in video generation, inserting a given
+object into videos remains a challenging task. The difficulty lies in
+preserving the appearance details of the reference object and accurately
+modeling coherent motions at the same time. In this paper, we propose
+VideoAnydoor, a zero-shot video object insertion framework with high-fidelity
+detail preservation and precise motion control. Starting from a text-to-video
+model, we utilize an ID extractor to inject the global identity and leverage a
+box sequence to control the overall motion. To preserve the detailed appearance
+and meanwhile support fine-grained motion control, we design a pixel warper. It
+takes the reference image with arbitrary key-points and the corresponding
+key-point trajectories as inputs. It warps the pixel details according to the
+trajectories and fuses the warped features with the diffusion U-Net, thus
+improving detail preservation and supporting users in manipulating the motion
+trajectories. In addition, we propose a training strategy involving both videos
+and static images with a reweight reconstruction loss to enhance insertion
+quality. VideoAnydoor demonstrates significant superiority over existing
+methods and naturally supports various downstream applications (e.g., talking
+head generation, video virtual try-on, multi-region editing) without
+task-specific fine-tuning.
+]]></content:encoded>
+<pubDate>2025-01-02T18:59:54Z</pubDate>
+<pubDate>2025-01-02T18:59:54Z</pubDate>
+</item>
+<item>
+<title>Object-level Visual Prompts for Compositional Image Generation</title>
+<link>http://arxiv.org/abs/2501.01424v1</link>
+<guid>http://arxiv.org/abs/2501.01424v1</guid>
+<content:encoded><![CDATA[
+
+We introduce a method for composing object-level visual prompts within a
+text-to-image diffusion model. Our approach addresses the task of generating
+semantically coherent compositions across diverse scenes and styles, similar to
+the versatility and expressiveness offered by text prompts. A key challenge in
+this task is to preserve the identity of the objects depicted in the input
+visual prompts, while also generating diverse compositions across different
+images. To address this challenge, we introduce a new KV-mixed cross-attention
+mechanism, in which keys and values are learned from distinct visual
+representations. The keys are derived from an encoder with a small bottleneck
+for layout control, whereas the values come from a larger bottleneck encoder
+that captures fine-grained appearance details. By mixing keys and values from
+these complementary sources, our model preserves the identity of the visual
+prompts while supporting flexible variations in object arrangement, pose, and
+composition. During inference, we further propose object-level compositional
+guidance to improve the method's identity preservation and layout correctness.
+Results show that our technique produces diverse scene compositions that
+preserve the unique characteristics of each visual prompt, expanding the
+creative potential of text-to-image generation.
+]]></content:encoded>
+<pubDate>2025-01-02T18:59:44Z</pubDate>
+<pubDate>2025-01-02T18:59:44Z</pubDate>
+</item>
 
 <item>
 <title>DrivingGPT: Unifying Driving World Modeling and Planning with
