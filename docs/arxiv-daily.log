@@ -14762,3 +14762,28 @@ Filter: [Hierarchical Alignment-enhanced Adaptive Grounding Network for
   Generalized Referring Expression Comprehension](http://arxiv.org/abs/2501.01416v1)
 append_entries: 0
 Finish: 2025-01-06 00:52:09.005394
+------------------------------------------------------
+Started: 2025-01-06 12:19:43.504569
+Existing_entries: 415
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction](http://arxiv.org/abs/2501.01957v1)
+Filter: [Metadata Conditioning Accelerates Language Model Pre-training](http://arxiv.org/abs/2501.01956v1)
+Filter: [MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of
+  Accelerators](http://arxiv.org/abs/2501.01951v1)
+Filter: [MADGEN -- Mass-Spec attends to De Novo Molecular generation](http://arxiv.org/abs/2501.01950v1)
+Filter: [VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo
+  Alignment](http://arxiv.org/abs/2501.01949v1)
+Filter: [Cold-Start Recommendation towards the Era of Large Language Models
+  (LLMs): A Comprehensive Survey and Roadmap](http://arxiv.org/abs/2501.01945v1)
+Filter: [Improving Transducer-Based Spoken Language Understanding with
+  Self-Conditioned CTC and Knowledge Transfer](http://arxiv.org/abs/2501.01936v1)
+Filter: [Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent
+  Hypersonic Flows on Arbitrary Grids](http://arxiv.org/abs/2501.01934v1)
+Filter: [Abstractive Text Summarization for Contemporary Sanskrit Prose: Issues
+  and Challenges](http://arxiv.org/abs/2501.01933v1)
+Filter: [Bridging Classification and Segmentation in Osteosarcoma Assessment via
+  Foundation and Discrete Diffusion Models](http://arxiv.org/abs/2501.01932v1)
+append_entries: 1
+Finish: 2025-01-06 12:19:45.007572

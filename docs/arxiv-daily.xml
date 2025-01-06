@@ -4,6 +4,31 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction</title>
+<link>http://arxiv.org/abs/2501.01957v1</link>
+<guid>http://arxiv.org/abs/2501.01957v1</guid>
+<content:encoded><![CDATA[
+
+Recent Multimodal Large Language Models (MLLMs) have typically focused on
+integrating visual and textual modalities, with less emphasis placed on the
+role of speech in enhancing interaction. However, speech plays a crucial role
+in multimodal dialogue systems, and implementing high-performance in both
+vision and speech tasks remains a significant challenge due to the fundamental
+modality differences. In this paper, we propose a carefully designed
+multi-stage training methodology that progressively trains LLM to understand
+both visual and speech information, ultimately enabling fluent vision and
+speech interaction. Our approach not only preserves strong vision-language
+capacity, but also enables efficient speech-to-speech dialogue capabilities
+without separate ASR and TTS modules, significantly accelerating multimodal
+end-to-end response speed. By comparing our method against state-of-the-art
+counterparts across benchmarks for image, video, and speech tasks, we
+demonstrate that our model is equipped with both strong visual and speech
+capabilities, making near real-time vision and speech interaction.
+]]></content:encoded>
+<pubDate>2025-01-03T18:59:52Z</pubDate>
+<pubDate>2025-01-03T18:59:52Z</pubDate>
+</item>
 
 <item>
 <title>VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion
