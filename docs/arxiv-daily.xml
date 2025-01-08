@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous
+  Driving</title>
+<link>http://arxiv.org/abs/2501.04005v1</link>
+<guid>http://arxiv.org/abs/2501.04005v1</guid>
+<content:encoded><![CDATA[
+
+Recent advancements in vision foundation models (VFMs) have revolutionized
+visual perception in 2D, yet their potential for 3D scene understanding,
+particularly in autonomous driving applications, remains underexplored. In this
+paper, we introduce LargeAD, a versatile and scalable framework designed for
+large-scale 3D pretraining across diverse real-world driving datasets. Our
+framework leverages VFMs to extract semantically rich superpixels from 2D
+images, which are aligned with LiDAR point clouds to generate high-quality
+contrastive samples. This alignment facilitates cross-modal representation
+learning, enhancing the semantic consistency between 2D and 3D data. We
+introduce several key innovations: i) VFM-driven superpixel generation for
+detailed semantic representation, ii) a VFM-assisted contrastive learning
+strategy to align multimodal features, iii) superpoint temporal consistency to
+maintain stable representations across time, and iv) multi-source data
+pretraining to generalize across various LiDAR configurations. Our approach
+delivers significant performance improvements over state-of-the-art methods in
+both linear probing and fine-tuning tasks for both LiDAR-based segmentation and
+object detection. Extensive experiments on eleven large-scale multi-modal
+datasets highlight our superior performance, demonstrating the adaptability,
+efficiency, and robustness in real-world autonomous driving scenarios.
+]]></content:encoded>
+<pubDate>2025-01-07T18:59:59Z</pubDate>
+<pubDate>2025-01-07T18:59:59Z</pubDate>
+</item>
 
 <item>
 <title>Automated Generation of Challenging Multiple-Choice Questions for Vision

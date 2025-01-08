@@ -14855,3 +14855,26 @@ Filter: [Dispider: Enabling Video LLMs with Active Real-Time Interaction via
   Disentangled Perception, Decision, and Reaction](http://arxiv.org/abs/2501.03218v1)
 append_entries: 0
 Finish: 2025-01-08 00:49:43.190942
+------------------------------------------------------
+Started: 2025-01-08 12:19:35.103535
+Existing_entries: 417
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous
+  Driving](http://arxiv.org/abs/2501.04005v1)
+Filter: [LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes](http://arxiv.org/abs/2501.04004v1)
+Filter: [Are VLMs Ready for Autonomous Driving? An Empirical Study from the
+  Reliability, Data, and Metric Perspectives](http://arxiv.org/abs/2501.04003v1)
+Filter: [Extraction Of Cumulative Blobs From Dynamic Gestures](http://arxiv.org/abs/2501.04002v1)
+Filter: [Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of
+  Images and Videos](http://arxiv.org/abs/2501.04001v1)
+Filter: [A Survey on Federated Learning in Human Sensing](http://arxiv.org/abs/2501.04000v1)
+Filter: [WAPTS: A Weighted Allocation Probability Adjusted Thompson Sampling
+  Algorithm for High-Dimensional and Sparse Experiment Settings](http://arxiv.org/abs/2501.03999v1)
+Filter: [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation
+  Performance](http://arxiv.org/abs/2501.03995v1)
+Filter: [TVD-MOOD schemes based on implicit-explicit time integration](http://arxiv.org/abs/2501.03994v1)
+Filter: [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](http://arxiv.org/abs/2501.03992v1)
+append_entries: 1
+Finish: 2025-01-08 12:19:35.712614
