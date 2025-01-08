@@ -14834,3 +14834,24 @@ Filter: [Dispider: Enabling Video LLMs with Active Real-Time Interaction via
   Disentangled Perception, Decision, and Reaction](http://arxiv.org/abs/2501.03218v1)
 append_entries: 1
 Finish: 2025-01-07 12:19:19.527625
+------------------------------------------------------
+Started: 2025-01-08 00:49:42.334806
+Existing_entries: 417
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Gaussian Masked Autoencoders](http://arxiv.org/abs/2501.03229v1)
+Filter: [LightGNN: Simple Graph Neural Network for Recommendation](http://arxiv.org/abs/2501.03228v1)
+Filter: [When Should Selfish Miners Double-Spend?](http://arxiv.org/abs/2501.03227v1)
+Filter: [BoostStep: Boosting mathematical capability of Large Language Models via
+  improved single-step reasoning](http://arxiv.org/abs/2501.03226v1)
+Filter: [Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac
+  MRI Segmentation](http://arxiv.org/abs/2501.03223v1)
+Filter: [Characterizing the Accuracy-Communication-Privacy Trade-off in
+  Distributed Stochastic Convex Optimization](http://arxiv.org/abs/2501.03222v1)
+Filter: [RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet
+  Transform Projection-based Network](http://arxiv.org/abs/2501.03221v1)
+Filter: [ProTracker: Probabilistic Integration for Robust and Accurate Point
+  Tracking](http://arxiv.org/abs/2501.03220v1)
+Filter: [Dispider: Enabling Video LLMs with Active Real-Time Interaction via
+  Disentangled Perception, Decision, and Reaction](http://arxiv.org/abs/2501.03218v1)
+append_entries: 0
+Finish: 2025-01-08 00:49:43.190942
