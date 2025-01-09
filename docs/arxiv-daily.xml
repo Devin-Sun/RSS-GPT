@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous
   Driving</title>
 <link>http://arxiv.org/abs/2501.04005v1</link>
 <guid>http://arxiv.org/abs/2501.04005v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements in vision foundation models (VFMs) have revolutionized
 visual perception in 2D, yet their potential for 3D scene understanding,
 particularly in autonomous driving applications, remains underexplored. In this
@@ -32,9 +32,7 @@ datasets highlight our superior performance, demonstrating the adaptability,
 efficiency, and robustness in real-world autonomous driving scenarios.
 ]]></content:encoded>
 <pubDate>2025-01-07T18:59:59Z</pubDate>
-<pubDate>2025-01-07T18:59:59Z</pubDate>
 </item>
-
 <item>
 <title>Automated Generation of Challenging Multiple-Choice Questions for Vision
   Language Model Evaluation</title>
