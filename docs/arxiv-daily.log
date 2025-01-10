@@ -14922,3 +14922,19 @@ Filter: [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single
   Images](http://arxiv.org/abs/2501.04689v1)
 append_entries: 3
 Finish: 2025-01-09 12:19:31.007217
+------------------------------------------------------
+Started: 2025-01-10 00:51:04.746702
+Existing_entries: 421
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria
+  Shaping Modern Artificial Neural Network Architectures](http://arxiv.org/abs/2501.04700v1)
+Filter: [Grokking at the Edge of Numerical Stability](http://arxiv.org/abs/2501.04697v1)
+Filter: [Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation](http://arxiv.org/abs/2501.04696v1)
+Filter: [Re-ranking the Context for Multimodal Retrieval Augmented Generation](http://arxiv.org/abs/2501.04695v1)
+Filter: [EpiCoder: Encompassing Diversity and Complexity in Code Generation](http://arxiv.org/abs/2501.04694v1)
+Filter: [Comparative Analysis of Quantum and Classical Support Vector Classifiers
+  for Software Bug Prediction: An Exploratory Study](http://arxiv.org/abs/2501.04690v1)
+Filter: [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single
+  Images](http://arxiv.org/abs/2501.04689v1)
+append_entries: 0
+Finish: 2025-01-10 00:51:09.530915
