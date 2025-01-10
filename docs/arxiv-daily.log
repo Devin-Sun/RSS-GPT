@@ -14938,3 +14938,29 @@ Filter: [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single
   Images](http://arxiv.org/abs/2501.04689v1)
 append_entries: 0
 Finish: 2025-01-10 00:51:09.530915
+------------------------------------------------------
+Started: 2025-01-10 12:19:24.023675
+Existing_entries: 421
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ReFocus: Visual Editing as a Chain of Thought for Structured Image
+  Understanding](http://arxiv.org/abs/2501.05452v1)
+Filter: [An Empirical Study of Autoregressive Pre-training from Videos](http://arxiv.org/abs/2501.05453v1)
+Filter: [Decentralized Diffusion Models](http://arxiv.org/abs/2501.05450v1)
+Filter: [Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease
+  Detection: A Comparative Analysis of CNN Architectures](http://arxiv.org/abs/2501.05449v1)
+Filter: [Relative Pose Estimation through Affine Corrections of Monocular Depth
+  Priors](http://arxiv.org/abs/2501.05446v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Consistent Flow Distillation for Text-to-3D Generation](http://arxiv.org/abs/2501.05445v1)
+Append: [Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal
+  ReAsoning Benchmark](http://arxiv.org/abs/2501.05444v1)
+Filter: [A survey of textual cyber abuse detection using cutting-edge language
+  models and large language models](http://arxiv.org/abs/2501.05443v1)
+Append: [Progressive Growing of Video Tokenizers for Highly Compressed Latent
+  Spaces](http://arxiv.org/abs/2501.05442v1)
+Filter: [The GAN is dead; long live the GAN! A Modern GAN Baseline](http://arxiv.org/abs/2501.05441v1)
+append_entries: 4
+Finish: 2025-01-10 12:19:25.317380
