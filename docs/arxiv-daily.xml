@@ -4,6 +4,99 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs</title>
+<link>http://arxiv.org/abs/2501.06186v1</link>
+<guid>http://arxiv.org/abs/2501.06186v1</guid>
+<content:encoded><![CDATA[
+
+Reasoning is a fundamental capability for solving complex multi-step
+problems, particularly in visual contexts where sequential step-wise
+understanding is essential. Existing approaches lack a comprehensive framework
+for evaluating visual reasoning and do not emphasize step-wise problem-solving.
+To this end, we propose a comprehensive framework for advancing step-by-step
+visual reasoning in large language models (LMMs) through three key
+contributions. First, we introduce a visual reasoning benchmark specifically
+designed to evaluate multi-step reasoning tasks. The benchmark presents a
+diverse set of challenges with eight different categories ranging from complex
+visual perception to scientific reasoning with over 4k reasoning steps in
+total, enabling robust evaluation of LLMs' abilities to perform accurate and
+interpretable visual reasoning across multiple steps. Second, we propose a
+novel metric that assesses visual reasoning quality at the granularity of
+individual steps, emphasizing both correctness and logical coherence. The
+proposed metric offers deeper insights into reasoning performance compared to
+traditional end-task accuracy metrics. Third, we present a new multimodal
+visual reasoning model, named LlamaV-o1, trained using a multi-step curriculum
+learning approach, where tasks are progressively organized to facilitate
+incremental skill acquisition and problem-solving. The proposed LlamaV-o1 is
+designed for multi-step reasoning and learns step-by-step through a structured
+training paradigm. Extensive experiments show that our LlamaV-o1 outperforms
+existing open-source models and performs favorably against close-source
+proprietary models. Compared to the recent Llava-CoT, our LlamaV-o1 achieves an
+average score of 67.3 with an absolute gain of 3.8\% across six benchmarks
+while being 5 times faster during inference scaling. Our benchmark, model, and
+code are publicly available.
+]]></content:encoded>
+<pubDate>2025-01-10T18:59:51Z</pubDate>
+<pubDate>2025-01-10T18:59:51Z</pubDate>
+</item>
+<item>
+<title>PEACE: Empowering Geologic Map Holistic Understanding with MLLMs</title>
+<link>http://arxiv.org/abs/2501.06184v1</link>
+<guid>http://arxiv.org/abs/2501.06184v1</guid>
+<content:encoded><![CDATA[
+
+Geologic map, as a fundamental diagram in geology science, provides critical
+insights into the structure and composition of Earth's subsurface and surface.
+These maps are indispensable in various fields, including disaster detection,
+resource exploration, and civil engineering. Despite their significance,
+current Multimodal Large Language Models (MLLMs) often fall short in geologic
+map understanding. This gap is primarily due to the challenging nature of
+cartographic generalization, which involves handling high-resolution map,
+managing multiple associated components, and requiring domain-specific
+knowledge. To quantify this gap, we construct GeoMap-Bench, the first-ever
+benchmark for evaluating MLLMs in geologic map understanding, which assesses
+the full-scale abilities in extracting, referring, grounding, reasoning, and
+analyzing. To bridge this gap, we introduce GeoMap-Agent, the inaugural agent
+designed for geologic map understanding, which features three modules:
+Hierarchical Information Extraction (HIE), Domain Knowledge Injection (DKI),
+and Prompt-enhanced Question Answering (PEQA). Inspired by the
+interdisciplinary collaboration among human scientists, an AI expert group acts
+as consultants, utilizing a diverse tool pool to comprehensively analyze
+questions. Through comprehensive experiments, GeoMap-Agent achieves an overall
+score of 0.811 on GeoMap-Bench, significantly outperforming 0.369 of GPT-4o.
+Our work, emPowering gEologic mAp holistiC undErstanding (PEACE) with MLLMs,
+paves the way for advanced AI applications in geology, enhancing the efficiency
+and accuracy of geological investigations.
+]]></content:encoded>
+<pubDate>2025-01-10T18:59:42Z</pubDate>
+<pubDate>2025-01-10T18:59:42Z</pubDate>
+</item>
+<item>
+<title>VideoAuteur: Towards Long Narrative Video Generation</title>
+<link>http://arxiv.org/abs/2501.06173v1</link>
+<guid>http://arxiv.org/abs/2501.06173v1</guid>
+<content:encoded><![CDATA[
+
+Recent video generation models have shown promising results in producing
+high-quality video clips lasting several seconds. However, these models face
+challenges in generating long sequences that convey clear and informative
+events, limiting their ability to support coherent narrations. In this paper,
+we present a large-scale cooking video dataset designed to advance long-form
+narrative generation in the cooking domain. We validate the quality of our
+proposed dataset in terms of visual fidelity and textual caption accuracy using
+state-of-the-art Vision-Language Models (VLMs) and video generation models,
+respectively. We further introduce a Long Narrative Video Director to enhance
+both visual and semantic coherence in generated videos and emphasize the role
+of aligning visual embeddings to achieve improved overall video quality. Our
+method demonstrates substantial improvements in generating visually detailed
+and semantically aligned keyframes, supported by finetuning techniques that
+integrate text and image embeddings within the video generation process.
+Project page: https://videoauteur.github.io/
+]]></content:encoded>
+<pubDate>2025-01-10T18:52:11Z</pubDate>
+<pubDate>2025-01-10T18:52:11Z</pubDate>
+</item>
 
 <item>
 <title>ReFocus: Visual Editing as a Chain of Thought for Structured Image

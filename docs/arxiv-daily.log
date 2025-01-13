@@ -15039,3 +15039,26 @@ Filter: [A survey of textual cyber abuse detection using cutting-edge language
 Filter: [The GAN is dead; long live the GAN! A Modern GAN Baseline](http://arxiv.org/abs/2501.05441v1)
 append_entries: 0
 Finish: 2025-01-13 00:52:47.303017
+------------------------------------------------------
+Started: 2025-01-13 12:20:28.356203
+Existing_entries: 425
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Multi-subject Open-set Personalization in Video Generation](http://arxiv.org/abs/2501.06187v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](http://arxiv.org/abs/2501.06186v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PEACE: Empowering Geologic Map Holistic Understanding with MLLMs](http://arxiv.org/abs/2501.06184v1)
+Filter: [Best Response Convergence for Zero-sum Stochastic Dynamic Games with
+  Partial and Asymmetric Information](http://arxiv.org/abs/2501.06181v1)
+Filter: [ScooterLab: A Programmable and Participatory Sensing Research Testbed
+  using Micromobility Vehicles](http://arxiv.org/abs/2501.06177v1)
+Filter: [GR-WiFi: A GNU Radio based WiFi Platform with Single-User and Multi-User
+  MIMO Capability](http://arxiv.org/abs/2501.06176v1)
+Filter: [Batched DGEMMs for scientific codes running on long vector architectures](http://arxiv.org/abs/2501.06175v1)
+Append: [VideoAuteur: Towards Long Narrative Video Generation](http://arxiv.org/abs/2501.06173v1)
+Filter: [Machine Learning Force-Field Approach for Itinerant Electron Magnets](http://arxiv.org/abs/2501.06171v1)
+Filter: [Meta-Learning for Physically-Constrained Neural System Identification](http://arxiv.org/abs/2501.06167v1)
+append_entries: 3
+Finish: 2025-01-13 12:20:29.583580
