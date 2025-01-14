@@ -15078,3 +15078,20 @@ Filter: [Machine Learning Force-Field Approach for Itinerant Electron Magnets](h
 Filter: [Meta-Learning for Physically-Constrained Neural System Identification](http://arxiv.org/abs/2501.06167v1)
 append_entries: 0
 Finish: 2025-01-14 00:46:22.503190
+------------------------------------------------------
+Started: 2025-01-14 12:18:29.710178
+Existing_entries: 428
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Dataset Distillation via Committee Voting](http://arxiv.org/abs/2501.07575v1)
+Filter: [UnCommon Objects in 3D](http://arxiv.org/abs/2501.07574v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WebWalker: Benchmarking LLMs in Web Traversal](http://arxiv.org/abs/2501.07572v1)
+Filter: [Digital Twin for Smart Societies: A Catalyst for Inclusive and
+  Accessible Healthcare](http://arxiv.org/abs/2501.07570v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in
+  Dense Crowds](http://arxiv.org/abs/2501.07566v1)
+append_entries: 2
+Finish: 2025-01-14 12:18:30.498586

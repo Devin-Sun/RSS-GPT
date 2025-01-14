@@ -4,6 +4,51 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>WebWalker: Benchmarking LLMs in Web Traversal</title>
+<link>http://arxiv.org/abs/2501.07572v1</link>
+<guid>http://arxiv.org/abs/2501.07572v1</guid>
+<content:encoded><![CDATA[
+
+Retrieval-augmented generation (RAG) demonstrates remarkable performance
+across tasks in open-domain question-answering. However, traditional search
+engines may retrieve shallow content, limiting the ability of LLMs to handle
+complex, multi-layered information. To address it, we introduce WebWalkerQA, a
+benchmark designed to assess the ability of LLMs to perform web traversal. It
+evaluates the capacity of LLMs to traverse a website's subpages to extract
+high-quality data systematically. We propose WebWalker, which is a multi-agent
+framework that mimics human-like web navigation through an explore-critic
+paradigm. Extensive experimental results show that WebWalkerQA is challenging
+and demonstrates the effectiveness of RAG combined with WebWalker, through the
+horizontal and vertical integration in real-world scenarios.
+]]></content:encoded>
+<pubDate>2025-01-13T18:58:07Z</pubDate>
+<pubDate>2025-01-13T18:58:07Z</pubDate>
+</item>
+<item>
+<title>SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in
+  Dense Crowds</title>
+<link>http://arxiv.org/abs/2501.07566v1</link>
+<guid>http://arxiv.org/abs/2501.07566v1</guid>
+<content:encoded><![CDATA[
+
+This paper introduces a safe swarm of drones capable of performing landings
+in crowded environments robustly by relying on Reinforcement Learning
+techniques combined with Safe Learning. The developed system allows us to teach
+the swarm of drones with different dynamics to land on moving landing pads in
+an environment while avoiding collisions with obstacles and between agents.
+  The safe barrier net algorithm was developed and evaluated using a swarm of
+Crazyflie 2.1 micro quadrotors, which were tested indoors with the Vicon motion
+capture system to ensure precise localization and control.
+  Experimental results show that our system achieves landing accuracy of 2.25
+cm with a mean time of 17 s and collision-free landings, underscoring its
+effectiveness and robustness in real-world scenarios. This work offers a
+promising foundation for applications in environments where safety and
+precision are paramount.
+]]></content:encoded>
+<pubDate>2025-01-13T18:54:02Z</pubDate>
+<pubDate>2025-01-13T18:54:02Z</pubDate>
+</item>
 
 <item>
 <title>LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs</title>
