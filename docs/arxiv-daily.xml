@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs</title>
 <link>http://arxiv.org/abs/2501.06186v1</link>
 <guid>http://arxiv.org/abs/2501.06186v1</guid>
 <content:encoded><![CDATA[
-
 Reasoning is a fundamental capability for solving complex multi-step
 problems, particularly in visual contexts where sequential step-wise
 understanding is essential. Existing approaches lack a comprehensive framework
@@ -38,14 +38,12 @@ while being 5 times faster during inference scaling. Our benchmark, model, and
 code are publicly available.
 ]]></content:encoded>
 <pubDate>2025-01-10T18:59:51Z</pubDate>
-<pubDate>2025-01-10T18:59:51Z</pubDate>
 </item>
 <item>
 <title>PEACE: Empowering Geologic Map Holistic Understanding with MLLMs</title>
 <link>http://arxiv.org/abs/2501.06184v1</link>
 <guid>http://arxiv.org/abs/2501.06184v1</guid>
 <content:encoded><![CDATA[
-
 Geologic map, as a fundamental diagram in geology science, provides critical
 insights into the structure and composition of Earth's subsurface and surface.
 These maps are indispensable in various fields, including disaster detection,
@@ -70,14 +68,12 @@ paves the way for advanced AI applications in geology, enhancing the efficiency
 and accuracy of geological investigations.
 ]]></content:encoded>
 <pubDate>2025-01-10T18:59:42Z</pubDate>
-<pubDate>2025-01-10T18:59:42Z</pubDate>
 </item>
 <item>
 <title>VideoAuteur: Towards Long Narrative Video Generation</title>
 <link>http://arxiv.org/abs/2501.06173v1</link>
 <guid>http://arxiv.org/abs/2501.06173v1</guid>
 <content:encoded><![CDATA[
-
 Recent video generation models have shown promising results in producing
 high-quality video clips lasting several seconds. However, these models face
 challenges in generating long sequences that convey clear and informative
@@ -95,9 +91,7 @@ integrate text and image embeddings within the video generation process.
 Project page: https://videoauteur.github.io/
 ]]></content:encoded>
 <pubDate>2025-01-10T18:52:11Z</pubDate>
-<pubDate>2025-01-10T18:52:11Z</pubDate>
 </item>
-
 <item>
 <title>ReFocus: Visual Editing as a Chain of Thought for Structured Image
   Understanding</title>
