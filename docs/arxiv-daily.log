@@ -15115,3 +15115,20 @@ Filter: [3D-grids are not transducible from planar graphs](http://arxiv.org/abs/
 Filter: [Decoding Musical Evolution Through Network Science](http://arxiv.org/abs/2501.07557v1)
 append_entries: 1
 Finish: 2025-01-15 00:48:12.844942
+------------------------------------------------------
+Started: 2025-01-15 12:18:41.973416
+Existing_entries: 431
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video
+  Diffusion Models](http://arxiv.org/abs/2501.08333v1)
+Filter: [MangaNinja: Line Art Colorization with Precise Reference Following](http://arxiv.org/abs/2501.08332v1)
+Filter: [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using
+  Real-Time Warped Noise](http://arxiv.org/abs/2501.08331v1)
+Filter: [Gradient Equilibrium in Online Learning: Theory and Applications](http://arxiv.org/abs/2501.08330v1)
+Filter: [Predicting 4D Hand Trajectory from Monocular Videos](http://arxiv.org/abs/2501.08329v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PokerBench: Training Large Language Models to become Professional Poker
+  Players](http://arxiv.org/abs/2501.08328v1)
+append_entries: 1
+Finish: 2025-01-15 12:18:42.703918
