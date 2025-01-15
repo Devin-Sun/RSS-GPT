@@ -5,11 +5,41 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Training-Free Motion-Guided Video Generation with Enhanced Temporal
+  Consistency Using Motion Consistency Loss</title>
+<link>http://arxiv.org/abs/2501.07563v1</link>
+<guid>http://arxiv.org/abs/2501.07563v1</guid>
+<content:encoded><![CDATA[
+
+In this paper, we address the challenge of generating temporally consistent
+videos with motion guidance. While many existing methods depend on additional
+control modules or inference-time fine-tuning, recent studies suggest that
+effective motion guidance is achievable without altering the model architecture
+or requiring extra training. Such approaches offer promising compatibility with
+various video generation foundation models. However, existing training-free
+methods often struggle to maintain consistent temporal coherence across frames
+or to follow guided motion accurately. In this work, we propose a simple yet
+effective solution that combines an initial-noise-based approach with a novel
+motion consistency loss, the latter being our key innovation. Specifically, we
+capture the inter-frame feature correlation patterns of intermediate features
+from a video diffusion model to represent the motion pattern of the reference
+video. We then design a motion consistency loss to maintain similar feature
+correlation patterns in the generated video, using the gradient of this loss in
+the latent space to guide the generation process for precise motion control.
+This approach improves temporal consistency across various motion control tasks
+while preserving the benefits of a training-free setup. Extensive experiments
+show that our method sets a new standard for efficient, temporally coherent
+video generation.
+]]></content:encoded>
+<pubDate>2025-01-13T18:53:08Z</pubDate>
+<pubDate>2025-01-13T18:53:08Z</pubDate>
+</item>
+
+<item>
 <title>WebWalker: Benchmarking LLMs in Web Traversal</title>
 <link>http://arxiv.org/abs/2501.07572v1</link>
 <guid>http://arxiv.org/abs/2501.07572v1</guid>
 <content:encoded><![CDATA[
-
 Retrieval-augmented generation (RAG) demonstrates remarkable performance
 across tasks in open-domain question-answering. However, traditional search
 engines may retrieve shallow content, limiting the ability of LLMs to handle
@@ -23,7 +53,6 @@ and demonstrates the effectiveness of RAG combined with WebWalker, through the
 horizontal and vertical integration in real-world scenarios.
 ]]></content:encoded>
 <pubDate>2025-01-13T18:58:07Z</pubDate>
-<pubDate>2025-01-13T18:58:07Z</pubDate>
 </item>
 <item>
 <title>SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in
@@ -31,7 +60,6 @@ horizontal and vertical integration in real-world scenarios.
 <link>http://arxiv.org/abs/2501.07566v1</link>
 <guid>http://arxiv.org/abs/2501.07566v1</guid>
 <content:encoded><![CDATA[
-
 This paper introduces a safe swarm of drones capable of performing landings
 in crowded environments robustly by relying on Reinforcement Learning
 techniques combined with Safe Learning. The developed system allows us to teach
@@ -47,9 +75,7 @@ promising foundation for applications in environments where safety and
 precision are paramount.
 ]]></content:encoded>
 <pubDate>2025-01-13T18:54:02Z</pubDate>
-<pubDate>2025-01-13T18:54:02Z</pubDate>
 </item>
-
 <item>
 <title>LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs</title>
 <link>http://arxiv.org/abs/2501.06186v1</link>

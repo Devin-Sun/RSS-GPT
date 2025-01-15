@@ -15095,3 +15095,23 @@ Append: [SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in
   Dense Crowds](http://arxiv.org/abs/2501.07566v1)
 append_entries: 2
 Finish: 2025-01-14 12:18:30.498586
+------------------------------------------------------
+Started: 2025-01-15 00:48:04.656892
+Existing_entries: 430
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Dataset Distillation via Committee Voting](http://arxiv.org/abs/2501.07575v1)
+Filter: [UnCommon Objects in 3D](http://arxiv.org/abs/2501.07574v1)
+Filter: [Digital Twin for Smart Societies: A Catalyst for Inclusive and
+  Accessible Healthcare](http://arxiv.org/abs/2501.07570v1)
+Filter: [E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack
+  Prediction](http://arxiv.org/abs/2501.07564v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Training-Free Motion-Guided Video Generation with Enhanced Temporal
+  Consistency Using Motion Consistency Loss](http://arxiv.org/abs/2501.07563v1)
+Filter: [Design and Analysis of a Concatenated Code for Intersymbol Interference
+  Wiretap Channels](http://arxiv.org/abs/2501.07561v1)
+Filter: [3D-grids are not transducible from planar graphs](http://arxiv.org/abs/2501.07558v1)
+Filter: [Decoding Musical Evolution Through Network Science](http://arxiv.org/abs/2501.07557v1)
+append_entries: 1
+Finish: 2025-01-15 00:48:12.844942
