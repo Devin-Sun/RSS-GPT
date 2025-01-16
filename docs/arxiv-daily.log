@@ -15132,3 +15132,26 @@ Append: [PokerBench: Training Large Language Models to become Professional Poker
   Players](http://arxiv.org/abs/2501.08328v1)
 append_entries: 1
 Finish: 2025-01-15 12:18:42.703918
+------------------------------------------------------
+Started: 2025-01-16 00:47:15.758688
+Existing_entries: 432
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video
+  Diffusion Models](http://arxiv.org/abs/2501.08333v1)
+Filter: [MangaNinja: Line Art Colorization with Precise Reference Following](http://arxiv.org/abs/2501.08332v1)
+Filter: [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using
+  Real-Time Warped Noise](http://arxiv.org/abs/2501.08331v1)
+Filter: [Gradient Equilibrium in Online Learning: Theory and Applications](http://arxiv.org/abs/2501.08330v1)
+Filter: [Predicting 4D Hand Trajectory from Monocular Videos](http://arxiv.org/abs/2501.08329v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Omni-RGPT: Unifying Image and Video Region-level Understanding via Token
+  Marks](http://arxiv.org/abs/2501.08326v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GameFactory: Creating New Games with Generative Interactive Videos](http://arxiv.org/abs/2501.08325v1)
+Append: [ADAM-1: AI and Bioinformatics for Alzheimer's Detection and
+  Microbiome-Clinical Data Integrations](http://arxiv.org/abs/2501.08324v1)
+Filter: [Exploring Robustness of Multilingual LLMs on Real-World Noisy Data](http://arxiv.org/abs/2501.08322v1)
+append_entries: 3
+Finish: 2025-01-16 00:47:16.881136
