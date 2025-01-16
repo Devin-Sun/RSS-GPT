@@ -5,12 +5,67 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Ouroboros-Diffusion: Exploring Consistent Content Generation in
+  Tuning-free Long Video Diffusion</title>
+<link>http://arxiv.org/abs/2501.09019v1</link>
+<guid>http://arxiv.org/abs/2501.09019v1</guid>
+<content:encoded><![CDATA[
+
+The first-in-first-out (FIFO) video diffusion, built on a pre-trained
+text-to-video model, has recently emerged as an effective approach for
+tuning-free long video generation. This technique maintains a queue of video
+frames with progressively increasing noise, continuously producing clean frames
+at the queue's head while Gaussian noise is enqueued at the tail. However,
+FIFO-Diffusion often struggles to keep long-range temporal consistency in the
+generated videos due to the lack of correspondence modeling across frames. In
+this paper, we propose Ouroboros-Diffusion, a novel video denoising framework
+designed to enhance structural and content (subject) consistency, enabling the
+generation of consistent videos of arbitrary length. Specifically, we introduce
+a new latent sampling technique at the queue tail to improve structural
+consistency, ensuring perceptually smooth transitions among frames. To enhance
+subject consistency, we devise a Subject-Aware Cross-Frame Attention (SACFA)
+mechanism, which aligns subjects across frames within short segments to achieve
+better visual coherence. Furthermore, we introduce self-recurrent guidance.
+This technique leverages information from all previous cleaner frames at the
+front of the queue to guide the denoising of noisier frames at the end,
+fostering rich and contextual global information interaction. Extensive
+experiments of long video generation on the VBench benchmark demonstrate the
+superiority of our Ouroboros-Diffusion, particularly in terms of subject
+consistency, motion smoothness, and temporal consistency.
+]]></content:encoded>
+<pubDate>2025-01-15T18:59:15Z</pubDate>
+<pubDate>2025-01-15T18:59:15Z</pubDate>
+</item>
+<item>
+<title>Multimodal LLMs Can Reason about Aesthetics in Zero-Shot</title>
+<link>http://arxiv.org/abs/2501.09012v1</link>
+<guid>http://arxiv.org/abs/2501.09012v1</guid>
+<content:encoded><![CDATA[
+
+We present the first study on how Multimodal LLMs' (MLLMs) reasoning ability
+shall be elicited to evaluate the aesthetics of artworks. To facilitate this
+investigation, we construct MM-StyleBench, a novel high-quality dataset for
+benchmarking artistic stylization. We then develop a principled method for
+human preference modeling and perform a systematic correlation analysis between
+MLLMs' responses and human preference. Our experiments reveal an inherent
+hallucination issue of MLLMs in art evaluation, associated with response
+subjectivity. ArtCoT is proposed, demonstrating that art-specific task
+decomposition and the use of concrete language boost MLLMs' reasoning ability
+for aesthetics. Our findings offer valuable insights into MLLMs for art and can
+benefit a wide range of downstream applications, such as style transfer and
+artistic image generation. Code available at
+https://github.com/songrise/MLLM4Art.
+]]></content:encoded>
+<pubDate>2025-01-15T18:56:22Z</pubDate>
+<pubDate>2025-01-15T18:56:22Z</pubDate>
+</item>
+
+<item>
 <title>Omni-RGPT: Unifying Image and Video Region-level Understanding via Token
   Marks</title>
 <link>http://arxiv.org/abs/2501.08326v1</link>
 <guid>http://arxiv.org/abs/2501.08326v1</guid>
 <content:encoded><![CDATA[
-
 We present Omni-RGPT, a multimodal large language model designed to
 facilitate region-level comprehension for both images and videos. To achieve
 consistent region representation across spatio-temporal dimensions, we
@@ -28,14 +83,12 @@ reasoning benchmarks while showing strong performance in captioning and
 referring expression comprehension tasks.
 ]]></content:encoded>
 <pubDate>2025-01-14T18:58:04Z</pubDate>
-<pubDate>2025-01-14T18:58:04Z</pubDate>
 </item>
 <item>
 <title>GameFactory: Creating New Games with Generative Interactive Videos</title>
 <link>http://arxiv.org/abs/2501.08325v1</link>
 <guid>http://arxiv.org/abs/2501.08325v1</guid>
 <content:encoded><![CDATA[
-
 Generative game engines have the potential to revolutionize game development
 by autonomously creating new content and reducing manual workload. However,
 existing video-based game generation methods fail to address the critical
@@ -58,7 +111,6 @@ generation. Our dataset and project page are publicly available at
 \url{https://vvictoryuki.github.io/gamefactory/}.
 ]]></content:encoded>
 <pubDate>2025-01-14T18:57:21Z</pubDate>
-<pubDate>2025-01-14T18:57:21Z</pubDate>
 </item>
 <item>
 <title>ADAM-1: AI and Bioinformatics for Alzheimer's Detection and
@@ -66,7 +118,6 @@ generation. Our dataset and project page are publicly available at
 <link>http://arxiv.org/abs/2501.08324v1</link>
 <guid>http://arxiv.org/abs/2501.08324v1</guid>
 <content:encoded><![CDATA[
-
 The Alzheimer's Disease Analysis Model Generation 1 (ADAM) is a multi-agent
 large language model (LLM) framework designed to integrate and analyze
 multi-modal data, including microbiome profiles, clinical datasets, and
@@ -83,9 +134,7 @@ broaden the scalability and applicability for Alzheimer's research and
 diagnostics.
 ]]></content:encoded>
 <pubDate>2025-01-14T18:56:33Z</pubDate>
-<pubDate>2025-01-14T18:56:33Z</pubDate>
 </item>
-
 <item>
 <title>PokerBench: Training Large Language Models to become Professional Poker
   Players</title>

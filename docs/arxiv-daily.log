@@ -15155,3 +15155,30 @@ Append: [ADAM-1: AI and Bioinformatics for Alzheimer's Detection and
 Filter: [Exploring Robustness of Multilingual LLMs on Real-World Noisy Data](http://arxiv.org/abs/2501.08322v1)
 append_entries: 3
 Finish: 2025-01-16 00:47:16.881136
+------------------------------------------------------
+Started: 2025-01-16 12:18:31.215921
+Existing_entries: 435
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Octopus: Scalable Low-Cost CXL Memory Pooling](http://arxiv.org/abs/2501.09020v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ouroboros-Diffusion: Exploring Consistent Content Generation in
+  Tuning-free Long Video Diffusion](http://arxiv.org/abs/2501.09019v1)
+Filter: [How Do Generative Models Draw a Software Engineer? A Case Study on
+  Stable Diffusion Bias](http://arxiv.org/abs/2501.09014v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Multimodal LLMs Can Reason about Aesthetics in Zero-Shot](http://arxiv.org/abs/2501.09012v1)
+Filter: [Towards Fast, Specialized Machine Learning Force Fields: Distilling
+  Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v1)
+Filter: [SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and
+  Segmentation Mask Generation](http://arxiv.org/abs/2501.09008v1)
+Filter: [AI-RAN: Transforming RAN with AI-driven Computing Infrastructure](http://arxiv.org/abs/2501.09007v1)
+Filter: [Improving Stability Estimates in Adversarial Explainable AI through
+  Alternate Search Methods](http://arxiv.org/abs/2501.09006v1)
+Filter: [Lightweight Security for Ambient-Powered Programmable Reflections with
+  Reconfigurable Intelligent Surfaces](http://arxiv.org/abs/2501.09005v1)
+Filter: [Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment
+  of LLM Guardrails](http://arxiv.org/abs/2501.09004v1)
+append_entries: 2
+Finish: 2025-01-16 12:18:31.898522
