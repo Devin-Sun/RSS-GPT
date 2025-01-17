@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Ouroboros-Diffusion: Exploring Consistent Content Generation in
   Tuning-free Long Video Diffusion</title>
 <link>http://arxiv.org/abs/2501.09019v1</link>
 <guid>http://arxiv.org/abs/2501.09019v1</guid>
 <content:encoded><![CDATA[
-
 The first-in-first-out (FIFO) video diffusion, built on a pre-trained
 text-to-video model, has recently emerged as an effective approach for
 tuning-free long video generation. This technique maintains a queue of video
@@ -34,14 +34,12 @@ superiority of our Ouroboros-Diffusion, particularly in terms of subject
 consistency, motion smoothness, and temporal consistency.
 ]]></content:encoded>
 <pubDate>2025-01-15T18:59:15Z</pubDate>
-<pubDate>2025-01-15T18:59:15Z</pubDate>
 </item>
 <item>
 <title>Multimodal LLMs Can Reason about Aesthetics in Zero-Shot</title>
 <link>http://arxiv.org/abs/2501.09012v1</link>
 <guid>http://arxiv.org/abs/2501.09012v1</guid>
 <content:encoded><![CDATA[
-
 We present the first study on how Multimodal LLMs' (MLLMs) reasoning ability
 shall be elicited to evaluate the aesthetics of artworks. To facilitate this
 investigation, we construct MM-StyleBench, a novel high-quality dataset for
@@ -57,9 +55,7 @@ artistic image generation. Code available at
 https://github.com/songrise/MLLM4Art.
 ]]></content:encoded>
 <pubDate>2025-01-15T18:56:22Z</pubDate>
-<pubDate>2025-01-15T18:56:22Z</pubDate>
 </item>
-
 <item>
 <title>Omni-RGPT: Unifying Image and Video Region-level Understanding via Token
   Marks</title>
