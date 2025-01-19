@@ -15263,3 +15263,24 @@ Filter: [Suggesting Code Edits in Interactive Machine Learning Notebooks Using
   Large Language Models](http://arxiv.org/abs/2501.09745v1)
 append_entries: 0
 Finish: 2025-01-18 12:16:26.354858
+------------------------------------------------------
+Started: 2025-01-19 00:51:53.227284
+Existing_entries: 438
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Distilling Multi-modal Large Language Models for Autonomous Driving](http://arxiv.org/abs/2501.09757v1)
+Filter: [SynthLight: Portrait Relighting with Diffusion Model by Learning to
+  Re-render Synthetic Faces](http://arxiv.org/abs/2501.09756v1)
+Filter: [Lost in Translation, Found in Context: Sign Language Translation with
+  Contextual Cues](http://arxiv.org/abs/2501.09754v1)
+Filter: [SRE-Conv: Symmetric Rotation Equivariant Convolution for Biomedical
+  Image Classification](http://arxiv.org/abs/2501.09753v1)
+Filter: [A vertical slice frontogenesis test case for compressible nonhydrostatic
+  dynamical cores of atmospheric models](http://arxiv.org/abs/2501.09752v1)
+Filter: [OmniThink: Expanding Knowledge Boundaries in Machine Writing through
+  Thinking](http://arxiv.org/abs/2501.09751v1)
+Filter: [Enhancing Lexicon-Based Text Embeddings with Large Language Models](http://arxiv.org/abs/2501.09749v1)
+Filter: [FAST: Efficient Action Tokenization for Vision-Language-Action Models](http://arxiv.org/abs/2501.09747v1)
+Filter: [Suggesting Code Edits in Interactive Machine Learning Notebooks Using
+  Large Language Models](http://arxiv.org/abs/2501.09745v1)
+append_entries: 0
+Finish: 2025-01-19 00:51:54.212949
