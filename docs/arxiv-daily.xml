@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FaceXBench: Evaluating Multimodal LLMs on Face Understanding</title>
 <link>http://arxiv.org/abs/2501.10360v1</link>
 <guid>http://arxiv.org/abs/2501.10360v1</guid>
 <content:encoded><![CDATA[
-
 Multimodal Large Language Models (MLLMs) demonstrate impressive
 problem-solving abilities across a wide range of tasks and domains. However,
 their capacity for face understanding has not been systematically studied. To
@@ -30,9 +30,7 @@ developing MLLMs equipped to perform sophisticated face understanding. Code:
 https://github.com/Kartik-3004/facexbench
 ]]></content:encoded>
 <pubDate>2025-01-17T18:59:55Z</pubDate>
-<pubDate>2025-01-17T18:59:55Z</pubDate>
 </item>
-
 <item>
 <title>Learnings from Scaling Visual Tokenizers for Reconstruction and
   Generation</title>
