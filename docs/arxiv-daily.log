@@ -15392,3 +15392,24 @@ Filter: [Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in
   Immersive Environments](http://arxiv.org/abs/2501.10338v1)
 append_entries: 0
 Finish: 2025-01-21 12:19:05.972287
+------------------------------------------------------
+Started: 2025-01-22 00:48:55.098911
+Existing_entries: 439
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Convergent Sixth-order Compact Finite Difference Method for
+  Variable-Coefficient Elliptic PDEs in Curved Domains](http://arxiv.org/abs/2501.10358v1)
+Filter: [Zero-Shot Monocular Scene Flow Estimation in the Wild](http://arxiv.org/abs/2501.10357v1)
+Filter: [DexForce: Extracting Force-informed Actions from Kinesthetic
+  Demonstrations for Dexterous Manipulation](http://arxiv.org/abs/2501.10356v1)
+Filter: [Credit Risk Identification in Supply Chains Using Generative Adversarial
+  Networks](http://arxiv.org/abs/2501.10348v1)
+Filter: [ColNet: Collaborative Optimization in Decentralized Federated Multi-task
+  Learning Systems](http://arxiv.org/abs/2501.10347v1)
+Filter: [FC-Datalog as a Framework for Efficient String Querying](http://arxiv.org/abs/2501.10344v1)
+Filter: [3rd Workshop on Maritime Computer Vision (MaCVi) 2025: Challenge Results](http://arxiv.org/abs/2501.10343v1)
+Filter: [Hybrid Deep Learning Model for epileptic seizure classification by using
+  1D-CNN with multi-head attention mechanism](http://arxiv.org/abs/2501.10342v1)
+Filter: [Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in
+  Immersive Environments](http://arxiv.org/abs/2501.10338v1)
+append_entries: 0
+Finish: 2025-01-22 00:48:57.662947
