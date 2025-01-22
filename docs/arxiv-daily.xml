@@ -4,6 +4,76 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>GPS as a Control Signal for Image Generation</title>
+<link>http://arxiv.org/abs/2501.12390v1</link>
+<guid>http://arxiv.org/abs/2501.12390v1</guid>
+<content:encoded><![CDATA[
+
+We show that the GPS tags contained in photo metadata provide a useful
+control signal for image generation. We train GPS-to-image models and use them
+for tasks that require a fine-grained understanding of how images vary within a
+city. In particular, we train a diffusion model to generate images conditioned
+on both GPS and text. The learned model generates images that capture the
+distinctive appearance of different neighborhoods, parks, and landmarks. We
+also extract 3D models from 2D GPS-to-image models through score distillation
+sampling, using GPS conditioning to constrain the appearance of the
+reconstruction from each viewpoint. Our evaluations suggest that our
+GPS-conditioned models successfully learn to generate images that vary based on
+location, and that GPS conditioning improves estimated 3D structure.
+]]></content:encoded>
+<pubDate>2025-01-21T18:59:46Z</pubDate>
+<pubDate>2025-01-21T18:59:46Z</pubDate>
+</item>
+<item>
+<title>Taming Teacher Forcing for Masked Autoregressive Video Generation</title>
+<link>http://arxiv.org/abs/2501.12389v1</link>
+<guid>http://arxiv.org/abs/2501.12389v1</guid>
+<content:encoded><![CDATA[
+
+We introduce MAGI, a hybrid video generation framework that combines masked
+modeling for intra-frame generation with causal modeling for next-frame
+generation. Our key innovation, Complete Teacher Forcing (CTF), conditions
+masked frames on complete observation frames rather than masked ones (namely
+Masked Teacher Forcing, MTF), enabling a smooth transition from token-level
+(patch-level) to frame-level autoregressive generation. CTF significantly
+outperforms MTF, achieving a +23% improvement in FVD scores on first-frame
+conditioned video prediction. To address issues like exposure bias, we employ
+targeted training strategies, setting a new benchmark in autoregressive video
+generation. Experiments show that MAGI can generate long, coherent video
+sequences exceeding 100 frames, even when trained on as few as 16 frames,
+highlighting its potential for scalable, high-quality video generation.
+]]></content:encoded>
+<pubDate>2025-01-21T18:59:31Z</pubDate>
+<pubDate>2025-01-21T18:59:31Z</pubDate>
+</item>
+<item>
+<title>InternVideo2.5: Empowering Video MLLMs with Long and Rich Context
+  Modeling</title>
+<link>http://arxiv.org/abs/2501.12386v1</link>
+<guid>http://arxiv.org/abs/2501.12386v1</guid>
+<content:encoded><![CDATA[
+
+This paper aims to improve the performance of video multimodal large language
+models (MLLM) via long and rich context (LRC) modeling. As a result, we develop
+a new version of InternVideo2.5 with a focus on enhancing the original MLLMs'
+ability to perceive fine-grained details and capture long-form temporal
+structure in videos. Specifically, our approach incorporates dense vision task
+annotations into MLLMs using direct preference optimization and develops
+compact spatiotemporal representations through adaptive hierarchical token
+compression. Experimental results demonstrate this unique design of LRC greatly
+improves the results of video MLLM in mainstream video understanding benchmarks
+(short & long), enabling the MLLM to memorize significantly longer video inputs
+(at least 6x longer than the original), and master specialized vision
+capabilities like object tracking and segmentation. Our work highlights the
+importance of multimodal context richness (length and fineness) in empowering
+MLLM's innate abilites (focus and memory), providing new insights for future
+research on video MLLM. Code and models are available at
+https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5
+]]></content:encoded>
+<pubDate>2025-01-21T18:59:00Z</pubDate>
+<pubDate>2025-01-21T18:59:00Z</pubDate>
+</item>
 
 <item>
 <title>FaceXBench: Evaluating Multimodal LLMs on Face Understanding</title>

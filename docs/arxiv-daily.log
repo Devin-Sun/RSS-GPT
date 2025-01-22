@@ -15413,3 +15413,25 @@ Filter: [Perception of Visual Variables on Virtual Wall-Sized Tiled Displays in
   Immersive Environments](http://arxiv.org/abs/2501.10338v1)
 append_entries: 0
 Finish: 2025-01-22 00:48:57.662947
+------------------------------------------------------
+Started: 2025-01-22 12:18:58.558252
+Existing_entries: 439
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Affordance-Aware Articulation Synthesis for Rigged Objects](http://arxiv.org/abs/2501.12393v1)
+Filter: [Learning segmentation from point trajectories](http://arxiv.org/abs/2501.12392v1)
+Filter: [Physics of Skill Learning](http://arxiv.org/abs/2501.12391v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GPS as a Control Signal for Image Generation](http://arxiv.org/abs/2501.12390v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taming Teacher Forcing for Masked Autoregressive Video Generation](http://arxiv.org/abs/2501.12389v1)
+Filter: [Continuous 3D Perception Model with Persistent State](http://arxiv.org/abs/2501.12387v1)
+Append: [InternVideo2.5: Empowering Video MLLMs with Long and Rich Context
+  Modeling](http://arxiv.org/abs/2501.12386v1)
+Filter: [Audio Texture Manipulation by Exemplar-Based Analogy](http://arxiv.org/abs/2501.12385v1)
+Filter: [CCESAR: Coastline Classification-Extraction From SAR Images Using
+  CNN-U-Net Combination](http://arxiv.org/abs/2501.12384v1)
+Filter: [DiffDoctor: Diagnosing Image Diffusion Models Before Treating](http://arxiv.org/abs/2501.12382v1)
+append_entries: 3
+Finish: 2025-01-22 12:18:59.266276
