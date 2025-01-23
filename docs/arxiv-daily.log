@@ -15449,3 +15449,26 @@ Filter: [CCESAR: Coastline Classification-Extraction From SAR Images Using
 Filter: [DiffDoctor: Diagnosing Image Diffusion Models Before Treating](http://arxiv.org/abs/2501.12382v1)
 append_entries: 0
 Finish: 2025-01-23 00:47:46.675721
+------------------------------------------------------
+Started: 2025-01-23 12:19:12.949710
+Existing_entries: 442
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Accelerate High-Quality Diffusion Models with Inner Loop Feedback](http://arxiv.org/abs/2501.13107v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video
+  Understanding](http://arxiv.org/abs/2501.13106v1)
+Filter: [On the Service Rate Region of Reed-Muller Codes](http://arxiv.org/abs/2501.13105v1)
+Filter: [Neural Radiance Fields for the Real World: A Survey](http://arxiv.org/abs/2501.13104v1)
+Filter: [A Rate-Distortion Framework for Summarization](http://arxiv.org/abs/2501.13100v1)
+Filter: [Which Sensor to Observe? Timely Tracking of a Joint Markov Source with
+  Model Predictive Control](http://arxiv.org/abs/2501.13099v1)
+Filter: [Robust Representation Consistency Model via Contrastive Denoising](http://arxiv.org/abs/2501.13094v1)
+Filter: [Guaranteed Recovery of Unambiguous Clusters](http://arxiv.org/abs/2501.13093v1)
+Filter: [An Analytical Study of the Min-Sum Approximation for Polar Codes](http://arxiv.org/abs/2501.13092v1)
+Append: [Orchid: Image Latent Diffusion for Joint Appearance and Geometry
+  Generation](http://arxiv.org/abs/2501.13087v1)
+append_entries: 3
+Finish: 2025-01-23 12:19:13.622100

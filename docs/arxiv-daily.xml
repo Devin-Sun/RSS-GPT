@@ -4,6 +4,102 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Accelerate High-Quality Diffusion Models with Inner Loop Feedback</title>
+<link>http://arxiv.org/abs/2501.13107v1</link>
+<guid>http://arxiv.org/abs/2501.13107v1</guid>
+<content:encoded><![CDATA[
+
+We propose Inner Loop Feedback (ILF), a novel approach to accelerate
+diffusion models' inference. ILF trains a lightweight module to predict future
+features in the denoising process by leveraging the outputs from a chosen
+diffusion backbone block at a given time step. This approach exploits two key
+intuitions; (1) the outputs of a given block at adjacent time steps are
+similar, and (2) performing partial computations for a step imposes a lower
+burden on the model than skipping the step entirely. Our method is highly
+flexible, since we find that the feedback module itself can simply be a block
+from the diffusion backbone, with all settings copied. Its influence on the
+diffusion forward can be tempered with a learnable scaling factor from zero
+initialization. We train this module using distillation losses; however, unlike
+some prior work where a full diffusion backbone serves as the student, our
+model freezes the backbone, training only the feedback module. While many
+efforts to optimize diffusion models focus on achieving acceptable image
+quality in extremely few steps (1-4 steps), our emphasis is on matching best
+case results (typically achieved in 20 steps) while significantly reducing
+runtime. ILF achieves this balance effectively, demonstrating strong
+performance for both class-to-image generation with diffusion transformer (DiT)
+and text-to-image generation with DiT-based PixArt-alpha and PixArt-sigma. The
+quality of ILF's 1.7x-1.8x speedups are confirmed by FID, CLIP score, CLIP
+Image Quality Assessment, ImageReward, and qualitative comparisons.
+]]></content:encoded>
+<pubDate>2025-01-22T18:59:58Z</pubDate>
+<pubDate>2025-01-22T18:59:58Z</pubDate>
+</item>
+<item>
+<title>VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video
+  Understanding</title>
+<link>http://arxiv.org/abs/2501.13106v1</link>
+<guid>http://arxiv.org/abs/2501.13106v1</guid>
+<content:encoded><![CDATA[
+
+In this paper, we propose VideoLLaMA3, a more advanced multimodal foundation
+model for image and video understanding. The core design philosophy of
+VideoLLaMA3 is vision-centric. The meaning of "vision-centric" is two-fold: the
+vision-centric training paradigm and vision-centric framework design. The key
+insight of our vision-centric training paradigm is that high-quality image-text
+data is crucial for both image and video understanding. Instead of preparing
+massive video-text datasets, we focus on constructing large-scale and
+high-quality image-text datasets. VideoLLaMA3 has four training stages: 1)
+vision-centric alignment stage, which warms up the vision encoder and
+projector; 2) vision-language pretraining stage, which jointly tunes the vision
+encoder, projector, and LLM with large-scale image-text data covering multiple
+types (including scene images, documents, charts) as well as text-only data. 3)
+multi-task fine-tuning stage, which incorporates image-text SFT data for
+downstream tasks and video-text data to establish a foundation for video
+understanding. 4) video-centric fine-tuning, which further improves the model's
+capability in video understanding. As for the framework design, to better
+capture fine-grained details in images, the pretrained vision encoder is
+adapted to encode images of varying sizes into vision tokens with corresponding
+numbers, rather than a fixed number of tokens. For video inputs, we reduce the
+number of vision tokens according to their similarity so that the
+representation of videos will be more precise and compact. Benefit from
+vision-centric designs, VideoLLaMA3 achieves compelling performances in both
+image and video understanding benchmarks.
+]]></content:encoded>
+<pubDate>2025-01-22T18:59:46Z</pubDate>
+<pubDate>2025-01-22T18:59:46Z</pubDate>
+</item>
+<item>
+<title>Orchid: Image Latent Diffusion for Joint Appearance and Geometry
+  Generation</title>
+<link>http://arxiv.org/abs/2501.13087v1</link>
+<guid>http://arxiv.org/abs/2501.13087v1</guid>
+<content:encoded><![CDATA[
+
+Diffusion models are state-of-the-art for image generation. Trained on large
+datasets, they capture expressive image priors that have been used for tasks
+like inpainting, depth, and (surface) normal prediction. However, these models
+are typically trained for one specific task, e.g., a separate model for each of
+color, depth, and normal prediction. Such models do not leverage the intrinsic
+correlation between appearance and geometry, often leading to inconsistent
+predictions.
+  In this paper, we propose using a novel image diffusion prior that jointly
+encodes appearance and geometry. We introduce a diffusion model Orchid,
+comprising a Variational Autoencoder (VAE) to encode color, depth, and surface
+normals to a latent space, and a Latent Diffusion Model (LDM) for generating
+these joint latents. Orchid directly generates photo-realistic color images,
+relative depth, and surface normals from user-provided text, and can be used to
+create image-aligned partial 3D scenes seamlessly. It can also perform
+image-conditioned tasks like joint monocular depth and normal prediction and is
+competitive in accuracy to state-of-the-art methods designed for those tasks
+alone. Lastly, our model learns a joint prior that can be used zero-shot as a
+regularizer for many inverse problems that entangle appearance and geometry.
+For example, we demonstrate its effectiveness in color-depth-normal inpainting,
+showcasing its applicability to problems in 3D generation from sparse views.
+]]></content:encoded>
+<pubDate>2025-01-22T18:46:47Z</pubDate>
+<pubDate>2025-01-22T18:46:47Z</pubDate>
+</item>
 
 <item>
 <title>GPS as a Control Signal for Image Generation</title>
