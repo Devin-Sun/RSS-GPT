@@ -15435,3 +15435,17 @@ Filter: [CCESAR: Coastline Classification-Extraction From SAR Images Using
 Filter: [DiffDoctor: Diagnosing Image Diffusion Models Before Treating](http://arxiv.org/abs/2501.12382v1)
 append_entries: 3
 Finish: 2025-01-22 12:18:59.266276
+------------------------------------------------------
+Started: 2025-01-23 00:47:43.657416
+Existing_entries: 442
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Affordance-Aware Articulation Synthesis for Rigged Objects](http://arxiv.org/abs/2501.12393v1)
+Filter: [Learning segmentation from point trajectories](http://arxiv.org/abs/2501.12392v1)
+Filter: [Physics of Skill Learning](http://arxiv.org/abs/2501.12391v1)
+Filter: [Continuous 3D Perception Model with Persistent State](http://arxiv.org/abs/2501.12387v1)
+Filter: [Audio Texture Manipulation by Exemplar-Based Analogy](http://arxiv.org/abs/2501.12385v1)
+Filter: [CCESAR: Coastline Classification-Extraction From SAR Images Using
+  CNN-U-Net Combination](http://arxiv.org/abs/2501.12384v1)
+Filter: [DiffDoctor: Diagnosing Image Diffusion Models Before Treating](http://arxiv.org/abs/2501.12382v1)
+append_entries: 0
+Finish: 2025-01-23 00:47:46.675721

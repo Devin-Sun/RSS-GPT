@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>GPS as a Control Signal for Image Generation</title>
 <link>http://arxiv.org/abs/2501.12390v1</link>
 <guid>http://arxiv.org/abs/2501.12390v1</guid>
 <content:encoded><![CDATA[
-
 We show that the GPS tags contained in photo metadata provide a useful
 control signal for image generation. We train GPS-to-image models and use them
 for tasks that require a fine-grained understanding of how images vary within a
@@ -23,14 +23,12 @@ GPS-conditioned models successfully learn to generate images that vary based on
 location, and that GPS conditioning improves estimated 3D structure.
 ]]></content:encoded>
 <pubDate>2025-01-21T18:59:46Z</pubDate>
-<pubDate>2025-01-21T18:59:46Z</pubDate>
 </item>
 <item>
 <title>Taming Teacher Forcing for Masked Autoregressive Video Generation</title>
 <link>http://arxiv.org/abs/2501.12389v1</link>
 <guid>http://arxiv.org/abs/2501.12389v1</guid>
 <content:encoded><![CDATA[
-
 We introduce MAGI, a hybrid video generation framework that combines masked
 modeling for intra-frame generation with causal modeling for next-frame
 generation. Our key innovation, Complete Teacher Forcing (CTF), conditions
@@ -45,7 +43,6 @@ sequences exceeding 100 frames, even when trained on as few as 16 frames,
 highlighting its potential for scalable, high-quality video generation.
 ]]></content:encoded>
 <pubDate>2025-01-21T18:59:31Z</pubDate>
-<pubDate>2025-01-21T18:59:31Z</pubDate>
 </item>
 <item>
 <title>InternVideo2.5: Empowering Video MLLMs with Long and Rich Context
@@ -53,7 +50,6 @@ highlighting its potential for scalable, high-quality video generation.
 <link>http://arxiv.org/abs/2501.12386v1</link>
 <guid>http://arxiv.org/abs/2501.12386v1</guid>
 <content:encoded><![CDATA[
-
 This paper aims to improve the performance of video multimodal large language
 models (MLLM) via long and rich context (LRC) modeling. As a result, we develop
 a new version of InternVideo2.5 with a focus on enhancing the original MLLMs'
@@ -72,9 +68,7 @@ research on video MLLM. Code and models are available at
 https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5
 ]]></content:encoded>
 <pubDate>2025-01-21T18:59:00Z</pubDate>
-<pubDate>2025-01-21T18:59:00Z</pubDate>
 </item>
-
 <item>
 <title>FaceXBench: Evaluating Multimodal LLMs on Face Understanding</title>
 <link>http://arxiv.org/abs/2501.10360v1</link>
