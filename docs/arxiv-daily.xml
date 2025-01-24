@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Accelerate High-Quality Diffusion Models with Inner Loop Feedback</title>
 <link>http://arxiv.org/abs/2501.13107v1</link>
 <guid>http://arxiv.org/abs/2501.13107v1</guid>
 <content:encoded><![CDATA[
-
 We propose Inner Loop Feedback (ILF), a novel approach to accelerate
 diffusion models' inference. ILF trains a lightweight module to predict future
 features in the denoising process by leveraging the outputs from a chosen
@@ -33,7 +33,6 @@ quality of ILF's 1.7x-1.8x speedups are confirmed by FID, CLIP score, CLIP
 Image Quality Assessment, ImageReward, and qualitative comparisons.
 ]]></content:encoded>
 <pubDate>2025-01-22T18:59:58Z</pubDate>
-<pubDate>2025-01-22T18:59:58Z</pubDate>
 </item>
 <item>
 <title>VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video
@@ -41,7 +40,6 @@ Image Quality Assessment, ImageReward, and qualitative comparisons.
 <link>http://arxiv.org/abs/2501.13106v1</link>
 <guid>http://arxiv.org/abs/2501.13106v1</guid>
 <content:encoded><![CDATA[
-
 In this paper, we propose VideoLLaMA3, a more advanced multimodal foundation
 model for image and video understanding. The core design philosophy of
 VideoLLaMA3 is vision-centric. The meaning of "vision-centric" is two-fold: the
@@ -67,7 +65,6 @@ vision-centric designs, VideoLLaMA3 achieves compelling performances in both
 image and video understanding benchmarks.
 ]]></content:encoded>
 <pubDate>2025-01-22T18:59:46Z</pubDate>
-<pubDate>2025-01-22T18:59:46Z</pubDate>
 </item>
 <item>
 <title>Orchid: Image Latent Diffusion for Joint Appearance and Geometry
@@ -75,7 +72,6 @@ image and video understanding benchmarks.
 <link>http://arxiv.org/abs/2501.13087v1</link>
 <guid>http://arxiv.org/abs/2501.13087v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion models are state-of-the-art for image generation. Trained on large
 datasets, they capture expressive image priors that have been used for tasks
 like inpainting, depth, and (surface) normal prediction. However, these models
@@ -98,9 +94,7 @@ For example, we demonstrate its effectiveness in color-depth-normal inpainting,
 showcasing its applicability to problems in 3D generation from sparse views.
 ]]></content:encoded>
 <pubDate>2025-01-22T18:46:47Z</pubDate>
-<pubDate>2025-01-22T18:46:47Z</pubDate>
 </item>
-
 <item>
 <title>GPS as a Control Signal for Image Generation</title>
 <link>http://arxiv.org/abs/2501.12390v1</link>

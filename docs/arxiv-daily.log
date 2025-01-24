@@ -15472,3 +15472,17 @@ Append: [Orchid: Image Latent Diffusion for Joint Appearance and Geometry
   Generation](http://arxiv.org/abs/2501.13087v1)
 append_entries: 3
 Finish: 2025-01-23 12:19:13.622100
+------------------------------------------------------
+Started: 2025-01-24 00:47:29.415706
+Existing_entries: 445
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [On the Service Rate Region of Reed-Muller Codes](http://arxiv.org/abs/2501.13105v1)
+Filter: [Neural Radiance Fields for the Real World: A Survey](http://arxiv.org/abs/2501.13104v1)
+Filter: [A Rate-Distortion Framework for Summarization](http://arxiv.org/abs/2501.13100v1)
+Filter: [Which Sensor to Observe? Timely Tracking of a Joint Markov Source with
+  Model Predictive Control](http://arxiv.org/abs/2501.13099v1)
+Filter: [Robust Representation Consistency Model via Contrastive Denoising](http://arxiv.org/abs/2501.13094v1)
+Filter: [Guaranteed Recovery of Unambiguous Clusters](http://arxiv.org/abs/2501.13093v1)
+Filter: [An Analytical Study of the Min-Sum Approximation for Polar Codes](http://arxiv.org/abs/2501.13092v1)
+append_entries: 0
+Finish: 2025-01-24 00:47:30.110712
