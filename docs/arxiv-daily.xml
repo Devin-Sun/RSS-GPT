@@ -4,6 +4,197 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Can We Generate Images with CoT? Let's Verify and Reinforce Image
+  Generation Step by Step</title>
+<link>http://arxiv.org/abs/2501.13926v1</link>
+<guid>http://arxiv.org/abs/2501.13926v1</guid>
+<content:encoded><![CDATA[
+
+Chain-of-Thought (CoT) reasoning has been extensively explored in large
+models to tackle complex understanding tasks. However, it still remains an open
+question whether such strategies can be applied to verifying and reinforcing
+image generation scenarios. In this paper, we provide the first comprehensive
+investigation of the potential of CoT reasoning to enhance autoregressive image
+generation. We focus on three techniques: scaling test-time computation for
+verification, aligning model preferences with Direct Preference Optimization
+(DPO), and integrating these techniques for complementary effects. Our results
+demonstrate that these approaches can be effectively adapted and combined to
+significantly improve image generation performance. Furthermore, given the
+pivotal role of reward models in our findings, we propose the Potential
+Assessment Reward Model (PARM) and PARM++, specialized for autoregressive image
+generation. PARM adaptively assesses each generation step through a potential
+assessment approach, merging the strengths of existing reward models, and
+PARM++ further introduces a reflection mechanism to self-correct the generated
+unsatisfactory image. Using our investigated reasoning strategies, we enhance a
+baseline model, Show-o, to achieve superior results, with a significant +24%
+improvement on the GenEval benchmark, surpassing Stable Diffusion 3 by +15%. We
+hope our study provides unique insights and paves a new path for integrating
+CoT reasoning with autoregressive image generation. Code and models are
+released at https://github.com/ZiyuGuo99/Image-Generation-CoT
+]]></content:encoded>
+<pubDate>2025-01-23T18:59:43Z</pubDate>
+<pubDate>2025-01-23T18:59:43Z</pubDate>
+</item>
+<item>
+<title>Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive
+  Entropy-aware Optimization</title>
+<link>http://arxiv.org/abs/2501.13924v1</link>
+<guid>http://arxiv.org/abs/2501.13924v1</guid>
+<content:encoded><![CDATA[
+
+Test-time adaptation (TTA) has demonstrated significant potential in
+addressing distribution shifts between training and testing data. Open-set
+test-time adaptation (OSTTA) aims to adapt a source pre-trained model online to
+an unlabeled target domain that contains unknown classes. This task becomes
+more challenging when multiple modalities are involved. Existing methods have
+primarily focused on unimodal OSTTA, often filtering out low-confidence samples
+without addressing the complexities of multimodal data. In this work, we
+present Adaptive Entropy-aware Optimization (AEO), a novel framework
+specifically designed to tackle Multimodal Open-set Test-time Adaptation
+(MM-OSTTA) for the first time. Our analysis shows that the entropy difference
+between known and unknown samples in the target domain strongly correlates with
+MM-OSTTA performance. To leverage this, we propose two key components:
+Unknown-aware Adaptive Entropy Optimization (UAE) and Adaptive Modality
+Prediction Discrepancy Optimization (AMP). These components enhance the ability
+of model to distinguish unknown class samples during online adaptation by
+amplifying the entropy difference between known and unknown samples. To
+thoroughly evaluate our proposed methods in the MM-OSTTA setting, we establish
+a new benchmark derived from existing datasets. This benchmark includes two
+downstream tasks and incorporates five modalities. Extensive experiments across
+various domain shift situations demonstrate the efficacy and versatility of the
+AEO framework. Additionally, we highlight the strong performance of AEO in
+long-term and continual MM-OSTTA settings, both of which are challenging and
+highly relevant to real-world applications. Our source code is available at
+https://github.com/donghao51/AEO.
+]]></content:encoded>
+<pubDate>2025-01-23T18:59:30Z</pubDate>
+<pubDate>2025-01-23T18:59:30Z</pubDate>
+</item>
+<item>
+<title>GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing</title>
+<link>http://arxiv.org/abs/2501.13925v1</link>
+<guid>http://arxiv.org/abs/2501.13925v1</guid>
+<content:encoded><![CDATA[
+
+Recent advances in large multimodal models (LMMs) have recognized
+fine-grained grounding as an imperative factor of visual understanding and
+dialogue. However, the benefits of such representation in LMMs are limited to
+the natural image domain, and these models perform poorly for remote sensing
+(RS). The distinct overhead viewpoint, scale variation, and presence of small
+objects in high-resolution RS imagery present a unique challenge in
+region-level comprehension. Moreover, the development of the grounding
+conversation capability of LMMs within RS is hindered by the lack of granular,
+RS domain-specific grounded data. Addressing these limitations, we propose
+GeoPixel - the first end-to-end high resolution RS-LMM that supports
+pixel-level grounding. This capability allows fine-grained visual perception by
+generating interleaved masks in conversation. GeoPixel supports up to 4K HD
+resolution in any aspect ratio, ideal for high-precision RS image analysis. To
+support the grounded conversation generation (GCG) in RS imagery, we curate a
+visually grounded dataset GeoPixelD through a semi-automated pipeline that
+utilizes set-of-marks prompting and spatial priors tailored for RS data to
+methodically control the data generation process. GeoPixel demonstrates
+superior performance in pixel-level comprehension, surpassing existing LMMs in
+both single-target and multi-target segmentation tasks. Our methodological
+ablation studies validate the effectiveness of each component in the overall
+architecture. Our code and data will be publicly released.
+]]></content:encoded>
+<pubDate>2025-01-23T18:59:30Z</pubDate>
+<pubDate>2025-01-23T18:59:30Z</pubDate>
+</item>
+<item>
+<title>IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art
+  Text-to-Image Models</title>
+<link>http://arxiv.org/abs/2501.13920v1</link>
+<guid>http://arxiv.org/abs/2501.13920v1</guid>
+<content:encoded><![CDATA[
+
+With the rapid development of diffusion models, text-to-image(T2I) models
+have made significant progress, showcasing impressive abilities in prompt
+following and image generation. Recently launched models such as FLUX.1 and
+Ideogram2.0, along with others like Dall-E3 and Stable Diffusion 3, have
+demonstrated exceptional performance across various complex tasks, raising
+questions about whether T2I models are moving towards general-purpose
+applicability. Beyond traditional image generation, these models exhibit
+capabilities across a range of fields, including controllable generation, image
+editing, video, audio, 3D, and motion generation, as well as computer vision
+tasks like semantic segmentation and depth estimation. However, current
+evaluation frameworks are insufficient to comprehensively assess these models'
+performance across expanding domains. To thoroughly evaluate these models, we
+developed the IMAGINE-E and tested six prominent models: FLUX.1, Ideogram2.0,
+Midjourney, Dall-E3, Stable Diffusion 3, and Jimeng. Our evaluation is divided
+into five key domains: structured output generation, realism, and physical
+consistency, specific domain generation, challenging scenario generation, and
+multi-style creation tasks. This comprehensive assessment highlights each
+model's strengths and limitations, particularly the outstanding performance of
+FLUX.1 and Ideogram2.0 in structured and specific domain tasks, underscoring
+the expanding applications and potential of T2I models as foundational AI
+tools. This study provides valuable insights into the current state and future
+trajectory of T2I models as they evolve towards general-purpose usability.
+Evaluation scripts will be released at https://github.com/jylei16/Imagine-e.
+]]></content:encoded>
+<pubDate>2025-01-23T18:58:33Z</pubDate>
+<pubDate>2025-01-23T18:58:33Z</pubDate>
+</item>
+<item>
+<title>Temporal Preference Optimization for Long-Form Video Understanding</title>
+<link>http://arxiv.org/abs/2501.13919v1</link>
+<guid>http://arxiv.org/abs/2501.13919v1</guid>
+<content:encoded><![CDATA[
+
+Despite significant advancements in video large multimodal models
+(video-LMMs), achieving effective temporal grounding in long-form videos
+remains a challenge for existing models. To address this limitation, we propose
+Temporal Preference Optimization (TPO), a novel post-training framework
+designed to enhance the temporal grounding capabilities of video-LMMs through
+preference learning. TPO adopts a self-training approach that enables models to
+differentiate between well-grounded and less accurate temporal responses by
+leveraging curated preference datasets at two granularities: localized temporal
+grounding, which focuses on specific video segments, and comprehensive temporal
+grounding, which captures extended temporal dependencies across entire video
+sequences. By optimizing on these preference datasets, TPO significantly
+enhances temporal understanding while reducing reliance on manually annotated
+data. Extensive experiments on three long-form video understanding
+benchmarks--LongVideoBench, MLVU, and Video-MME--demonstrate the effectiveness
+of TPO across two state-of-the-art video-LMMs. Notably, LLaVA-Video-TPO
+establishes itself as the leading 7B model on the Video-MME benchmark,
+underscoring the potential of TPO as a scalable and efficient solution for
+advancing temporal reasoning in long-form video understanding. Project page:
+https://ruili33.github.io/tpo_website.
+]]></content:encoded>
+<pubDate>2025-01-23T18:58:03Z</pubDate>
+<pubDate>2025-01-23T18:58:03Z</pubDate>
+</item>
+<item>
+<title>Improving Video Generation with Human Feedback</title>
+<link>http://arxiv.org/abs/2501.13918v1</link>
+<guid>http://arxiv.org/abs/2501.13918v1</guid>
+<content:encoded><![CDATA[
+
+Video generation has achieved significant advances through rectified flow
+techniques, but issues like unsmooth motion and misalignment between videos and
+prompts persist. In this work, we develop a systematic pipeline that harnesses
+human feedback to mitigate these problems and refine the video generation
+model. Specifically, we begin by constructing a large-scale human preference
+dataset focused on modern video generation models, incorporating pairwise
+annotations across multi-dimensions. We then introduce VideoReward, a
+multi-dimensional video reward model, and examine how annotations and various
+design choices impact its rewarding efficacy. From a unified reinforcement
+learning perspective aimed at maximizing reward with KL regularization, we
+introduce three alignment algorithms for flow-based models by extending those
+from diffusion models. These include two training-time strategies: direct
+preference optimization for flow (Flow-DPO) and reward weighted regression for
+flow (Flow-RWR), and an inference-time technique, Flow-NRG, which applies
+reward guidance directly to noisy videos. Experimental results indicate that
+VideoReward significantly outperforms existing reward models, and Flow-DPO
+demonstrates superior performance compared to both Flow-RWR and standard
+supervised fine-tuning methods. Additionally, Flow-NRG lets users assign custom
+weights to multiple objectives during inference, meeting personalized video
+quality needs. Project page: https://gongyeliu.github.io/videoalign.
+]]></content:encoded>
+<pubDate>2025-01-23T18:55:41Z</pubDate>
+<pubDate>2025-01-23T18:55:41Z</pubDate>
+</item>
 
 <item>
 <title>Accelerate High-Quality Diffusion Models with Inner Loop Feedback</title>
