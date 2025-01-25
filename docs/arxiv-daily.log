@@ -15512,3 +15512,16 @@ Append: [Temporal Preference Optimization for Long-Form Video Understanding](htt
 Append: [Improving Video Generation with Human Feedback](http://arxiv.org/abs/2501.13918v1)
 append_entries: 6
 Finish: 2025-01-24 12:18:35.115970
+------------------------------------------------------
+Started: 2025-01-25 00:44:46.419571
+Existing_entries: 451
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](http://arxiv.org/abs/2501.13928v1)
+Filter: [CRPO: Confidence-Reward Driven Preference Optimization for Machine
+  Translation](http://arxiv.org/abs/2501.13927v1)
+Filter: [Efficient Mitigation of Error Floors in Quantum Error Correction using
+  Non-Binary Low-Density Parity-Check Codes](http://arxiv.org/abs/2501.13923v1)
+Filter: [The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama
+  with Vision-Aware and Function-Calling Capabilities](http://arxiv.org/abs/2501.13921v1)
+append_entries: 0
+Finish: 2025-01-25 00:44:47.376641

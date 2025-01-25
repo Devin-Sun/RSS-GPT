@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Can We Generate Images with CoT? Let's Verify and Reinforce Image
   Generation Step by Step</title>
 <link>http://arxiv.org/abs/2501.13926v1</link>
 <guid>http://arxiv.org/abs/2501.13926v1</guid>
 <content:encoded><![CDATA[
-
 Chain-of-Thought (CoT) reasoning has been extensively explored in large
 models to tackle complex understanding tasks. However, it still remains an open
 question whether such strategies can be applied to verifying and reinforcing
@@ -34,7 +34,6 @@ CoT reasoning with autoregressive image generation. Code and models are
 released at https://github.com/ZiyuGuo99/Image-Generation-CoT
 ]]></content:encoded>
 <pubDate>2025-01-23T18:59:43Z</pubDate>
-<pubDate>2025-01-23T18:59:43Z</pubDate>
 </item>
 <item>
 <title>Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive
@@ -42,7 +41,6 @@ released at https://github.com/ZiyuGuo99/Image-Generation-CoT
 <link>http://arxiv.org/abs/2501.13924v1</link>
 <guid>http://arxiv.org/abs/2501.13924v1</guid>
 <content:encoded><![CDATA[
-
 Test-time adaptation (TTA) has demonstrated significant potential in
 addressing distribution shifts between training and testing data. Open-set
 test-time adaptation (OSTTA) aims to adapt a source pre-trained model online to
@@ -69,14 +67,12 @@ highly relevant to real-world applications. Our source code is available at
 https://github.com/donghao51/AEO.
 ]]></content:encoded>
 <pubDate>2025-01-23T18:59:30Z</pubDate>
-<pubDate>2025-01-23T18:59:30Z</pubDate>
 </item>
 <item>
 <title>GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing</title>
 <link>http://arxiv.org/abs/2501.13925v1</link>
 <guid>http://arxiv.org/abs/2501.13925v1</guid>
 <content:encoded><![CDATA[
-
 Recent advances in large multimodal models (LMMs) have recognized
 fine-grained grounding as an imperative factor of visual understanding and
 dialogue. However, the benefits of such representation in LMMs are limited to
@@ -100,7 +96,6 @@ ablation studies validate the effectiveness of each component in the overall
 architecture. Our code and data will be publicly released.
 ]]></content:encoded>
 <pubDate>2025-01-23T18:59:30Z</pubDate>
-<pubDate>2025-01-23T18:59:30Z</pubDate>
 </item>
 <item>
 <title>IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art
@@ -108,7 +103,6 @@ architecture. Our code and data will be publicly released.
 <link>http://arxiv.org/abs/2501.13920v1</link>
 <guid>http://arxiv.org/abs/2501.13920v1</guid>
 <content:encoded><![CDATA[
-
 With the rapid development of diffusion models, text-to-image(T2I) models
 have made significant progress, showcasing impressive abilities in prompt
 following and image generation. Recently launched models such as FLUX.1 and
@@ -134,14 +128,12 @@ trajectory of T2I models as they evolve towards general-purpose usability.
 Evaluation scripts will be released at https://github.com/jylei16/Imagine-e.
 ]]></content:encoded>
 <pubDate>2025-01-23T18:58:33Z</pubDate>
-<pubDate>2025-01-23T18:58:33Z</pubDate>
 </item>
 <item>
 <title>Temporal Preference Optimization for Long-Form Video Understanding</title>
 <link>http://arxiv.org/abs/2501.13919v1</link>
 <guid>http://arxiv.org/abs/2501.13919v1</guid>
 <content:encoded><![CDATA[
-
 Despite significant advancements in video large multimodal models
 (video-LMMs), achieving effective temporal grounding in long-form videos
 remains a challenge for existing models. To address this limitation, we propose
@@ -163,14 +155,12 @@ advancing temporal reasoning in long-form video understanding. Project page:
 https://ruili33.github.io/tpo_website.
 ]]></content:encoded>
 <pubDate>2025-01-23T18:58:03Z</pubDate>
-<pubDate>2025-01-23T18:58:03Z</pubDate>
 </item>
 <item>
 <title>Improving Video Generation with Human Feedback</title>
 <link>http://arxiv.org/abs/2501.13918v1</link>
 <guid>http://arxiv.org/abs/2501.13918v1</guid>
 <content:encoded><![CDATA[
-
 Video generation has achieved significant advances through rectified flow
 techniques, but issues like unsmooth motion and misalignment between videos and
 prompts persist. In this work, we develop a systematic pipeline that harnesses
@@ -193,9 +183,7 @@ weights to multiple objectives during inference, meeting personalized video
 quality needs. Project page: https://gongyeliu.github.io/videoalign.
 ]]></content:encoded>
 <pubDate>2025-01-23T18:55:41Z</pubDate>
-<pubDate>2025-01-23T18:55:41Z</pubDate>
 </item>
-
 <item>
 <title>Accelerate High-Quality Diffusion Models with Inner Loop Feedback</title>
 <link>http://arxiv.org/abs/2501.13107v1</link>
