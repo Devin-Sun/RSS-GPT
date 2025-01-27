@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Mitigating GenAI-powered Evidence Pollution for Out-of-Context
+  Multimodal Misinformation Detection</title>
+<link>http://arxiv.org/abs/2501.14728v1</link>
+<guid>http://arxiv.org/abs/2501.14728v1</guid>
+<content:encoded><![CDATA[
+
+While large generative artificial intelligence (GenAI) models have achieved
+significant success, they also raise growing concerns about online information
+security due to their potential misuse for generating deceptive content.
+Out-of-context (OOC) multimodal misinformation detection, which often retrieves
+Web evidence to identify the repurposing of images in false contexts, faces the
+issue of reasoning over GenAI-polluted evidence to derive accurate predictions.
+Existing works simulate GenAI-powered pollution at the claim level with
+stylistic rewriting to conceal linguistic cues, and ignore evidence-level
+pollution for such information-seeking applications. In this work, we
+investigate how polluted evidence affects the performance of existing OOC
+detectors, revealing a performance degradation of more than 9 percentage
+points. We propose two strategies, cross-modal evidence reranking and
+cross-modal claim-evidence reasoning, to address the challenges posed by
+polluted evidence. Extensive experiments on two benchmark datasets show that
+these strategies can effectively enhance the robustness of existing
+out-of-context detectors amidst polluted evidence.
+]]></content:encoded>
+<pubDate>2025-01-24T18:59:31Z</pubDate>
+<pubDate>2025-01-24T18:59:31Z</pubDate>
+</item>
 
 <item>
 <title>Can We Generate Images with CoT? Let's Verify and Reinforce Image
