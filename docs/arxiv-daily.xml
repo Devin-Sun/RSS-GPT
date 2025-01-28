@@ -4,6 +4,53 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>RelightVid: Temporal-Consistent Diffusion Model for Video Relighting</title>
+<link>http://arxiv.org/abs/2501.16330v1</link>
+<guid>http://arxiv.org/abs/2501.16330v1</guid>
+<content:encoded><![CDATA[
+
+Diffusion models have demonstrated remarkable success in image generation and
+editing, with recent advancements enabling albedo-preserving image relighting.
+However, applying these models to video relighting remains challenging due to
+the lack of paired video relighting datasets and the high demands for output
+fidelity and temporal consistency, further complicated by the inherent
+randomness of diffusion models. To address these challenges, we introduce
+RelightVid, a flexible framework for video relighting that can accept
+background video, text prompts, or environment maps as relighting conditions.
+Trained on in-the-wild videos with carefully designed illumination
+augmentations and rendered videos under extreme dynamic lighting, RelightVid
+achieves arbitrary video relighting with high temporal consistency without
+intrinsic decomposition while preserving the illumination priors of its image
+backbone.
+]]></content:encoded>
+<pubDate>2025-01-27T18:59:57Z</pubDate>
+<pubDate>2025-01-27T18:59:57Z</pubDate>
+</item>
+<item>
+<title>LUCY: Linguistic Understanding and Control Yielding Early Stage of Her</title>
+<link>http://arxiv.org/abs/2501.16327v1</link>
+<guid>http://arxiv.org/abs/2501.16327v1</guid>
+<content:encoded><![CDATA[
+
+The film Her features Samantha, a sophisticated AI audio agent who is capable
+of understanding both linguistic and paralinguistic information in human speech
+and delivering real-time responses that are natural, informative and sensitive
+to emotional subtleties. Moving one step toward more sophisticated audio agent
+from recent advancement in end-to-end (E2E) speech systems, we propose LUCY, a
+E2E speech model that (1) senses and responds to user's emotion, (2) deliver
+responses in a succinct and natural style, and (3) use external tool to answer
+real-time inquiries. Experiment results show that LUCY is better at emotion
+control than peer models, generating emotional responses based on linguistic
+emotional instructions and responding to paralinguistic emotional cues. Lucy is
+also able to generate responses in a more natural style, as judged by external
+language models, without sacrificing much performance on general question
+answering. Finally, LUCY can leverage function calls to answer questions that
+are out of its knowledge scope.
+]]></content:encoded>
+<pubDate>2025-01-27T18:59:51Z</pubDate>
+<pubDate>2025-01-27T18:59:51Z</pubDate>
+</item>
 
 <item>
 <title>Mitigating GenAI-powered Evidence Pollution for Out-of-Context
