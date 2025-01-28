@@ -15599,3 +15599,23 @@ Filter: [Towards Better Understanding Table Instruction Tuning: Decoupling the
   Effects from Data versus Models](http://arxiv.org/abs/2501.14717v1)
 append_entries: 1
 Finish: 2025-01-27 12:19:24.895489
+------------------------------------------------------
+Started: 2025-01-28 00:47:46.837733
+Existing_entries: 452
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene
+  Understanding and Generation](http://arxiv.org/abs/2501.14729v1)
+Filter: [Relightable Full-Body Gaussian Codec Avatars](http://arxiv.org/abs/2501.14726v1)
+Filter: [Fined-Grained Complexity of Ambiguity Problems on Automata and Directed
+  Graphs](http://arxiv.org/abs/2501.14725v1)
+Filter: [MLPs at the EOC: Concentration of the NTK](http://arxiv.org/abs/2501.14724v1)
+Filter: [CodeMonkeys: Scaling Test-Time Compute for Software Engineering](http://arxiv.org/abs/2501.14723v1)
+Filter: [Comparable Corpora: Opportunities for New Research Directions](http://arxiv.org/abs/2501.14721v1)
+Filter: [Communication-Based Distributed Control of Large-Scale District Heating
+  Networks](http://arxiv.org/abs/2501.14720v1)
+Filter: [Do LLMs Provide Consistent Answers to Health-Related Questions across
+  Languages?](http://arxiv.org/abs/2501.14719v1)
+Filter: [Towards Better Understanding Table Instruction Tuning: Decoupling the
+  Effects from Data versus Models](http://arxiv.org/abs/2501.14717v1)
+append_entries: 0
+Finish: 2025-01-28 00:47:48.367734

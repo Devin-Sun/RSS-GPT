@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Mitigating GenAI-powered Evidence Pollution for Out-of-Context
   Multimodal Misinformation Detection</title>
 <link>http://arxiv.org/abs/2501.14728v1</link>
 <guid>http://arxiv.org/abs/2501.14728v1</guid>
 <content:encoded><![CDATA[
-
 While large generative artificial intelligence (GenAI) models have achieved
 significant success, they also raise growing concerns about online information
 security due to their potential misuse for generating deceptive content.
@@ -29,9 +29,7 @@ these strategies can effectively enhance the robustness of existing
 out-of-context detectors amidst polluted evidence.
 ]]></content:encoded>
 <pubDate>2025-01-24T18:59:31Z</pubDate>
-<pubDate>2025-01-24T18:59:31Z</pubDate>
 </item>
-
 <item>
 <title>Can We Generate Images with CoT? Let's Verify and Reinforce Image
   Generation Step by Step</title>
