@@ -15665,3 +15665,31 @@ Filter: [Evaluating The Performance of Using Large Language Models to Automate
   Summarization of CT Simulation Orders in Radiation Oncology](http://arxiv.org/abs/2501.16309v1)
 append_entries: 0
 Finish: 2025-01-29 00:47:49.458425
+------------------------------------------------------
+Started: 2025-01-29 12:18:54.053972
+Existing_entries: 454
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CubeDiff: Repurposing Diffusion-Based Image Models for Panorama
+  Generation](http://arxiv.org/abs/2501.17162v1)
+Filter: [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model
+  Post-training](http://arxiv.org/abs/2501.17161v1)
+Filter: [A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from
+  Computed Tomography (CT) Scan Images](http://arxiv.org/abs/2501.17160v1)
+Filter: [IC-Portrait: In-Context Matching for View-Consistent Personalized
+  Portrait](http://arxiv.org/abs/2501.17159v1)
+Filter: [Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile
+  Compensation Using Deep Energy Model](http://arxiv.org/abs/2501.17152v1)
+Filter: [Scanning Trojaned Models Using Out-of-Distribution Samples](http://arxiv.org/abs/2501.17151v1)
+Filter: [Cultural Differences and Perverse Incentives in Science Create a Bad
+  Mix: Exploring Country-Level Publication Bias in Select ACM Conferences](http://arxiv.org/abs/2501.17150v1)
+Filter: [AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse
+  Autoencoders](http://arxiv.org/abs/2501.17148v1)
+Filter: [FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data](http://arxiv.org/abs/2501.17144v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Numerical Approximation of High-Dimensional Gibbs Distributions Using
+  the Functional Hierarchical Tensor](http://arxiv.org/abs/2501.17143v1)
+append_entries: 2
+Finish: 2025-01-29 12:18:54.642755
