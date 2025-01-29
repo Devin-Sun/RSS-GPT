@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>RelightVid: Temporal-Consistent Diffusion Model for Video Relighting</title>
 <link>http://arxiv.org/abs/2501.16330v1</link>
 <guid>http://arxiv.org/abs/2501.16330v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion models have demonstrated remarkable success in image generation and
 editing, with recent advancements enabling albedo-preserving image relighting.
 However, applying these models to video relighting remains challenging due to
@@ -25,14 +25,12 @@ intrinsic decomposition while preserving the illumination priors of its image
 backbone.
 ]]></content:encoded>
 <pubDate>2025-01-27T18:59:57Z</pubDate>
-<pubDate>2025-01-27T18:59:57Z</pubDate>
 </item>
 <item>
 <title>LUCY: Linguistic Understanding and Control Yielding Early Stage of Her</title>
 <link>http://arxiv.org/abs/2501.16327v1</link>
 <guid>http://arxiv.org/abs/2501.16327v1</guid>
 <content:encoded><![CDATA[
-
 The film Her features Samantha, a sophisticated AI audio agent who is capable
 of understanding both linguistic and paralinguistic information in human speech
 and delivering real-time responses that are natural, informative and sensitive
@@ -49,9 +47,7 @@ answering. Finally, LUCY can leverage function calls to answer questions that
 are out of its knowledge scope.
 ]]></content:encoded>
 <pubDate>2025-01-27T18:59:51Z</pubDate>
-<pubDate>2025-01-27T18:59:51Z</pubDate>
 </item>
-
 <item>
 <title>Mitigating GenAI-powered Evidence Pollution for Out-of-Context
   Multimodal Misinformation Detection</title>

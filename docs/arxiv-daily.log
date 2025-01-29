@@ -15645,3 +15645,23 @@ Filter: [Evaluating The Performance of Using Large Language Models to Automate
   Summarization of CT Simulation Orders in Radiation Oncology](http://arxiv.org/abs/2501.16309v1)
 append_entries: 2
 Finish: 2025-01-28 12:18:51.522777
+------------------------------------------------------
+Started: 2025-01-29 00:47:48.514578
+Existing_entries: 454
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for
+  Automatic Sleep Staging](http://arxiv.org/abs/2501.16329v1)
+Filter: [Movement- and Traffic-based User Identification in Commercial Virtual
+  Reality Applications: Threats and Opportunities](http://arxiv.org/abs/2501.16326v1)
+Filter: [Tailored Forecasting from Short Time Series via Meta-learning](http://arxiv.org/abs/2501.16325v1)
+Filter: [Implicit Bias in Matrix Factorization and its Explicit Realization in a
+  New Architecture](http://arxiv.org/abs/2501.16322v1)
+Filter: [Adaptive Iterative Compression for High-Resolution Files: an Approach
+  Focused on Preserving Visual Quality in Cinematic Workflows](http://arxiv.org/abs/2501.16319v1)
+Filter: [LinPrim: Linear Primitives for Differentiable Volumetric Rendering](http://arxiv.org/abs/2501.16312v1)
+Filter: [A Modular Program-Transformation Framework for Reducing Specifications
+  to Reachability](http://arxiv.org/abs/2501.16310v1)
+Filter: [Evaluating The Performance of Using Large Language Models to Automate
+  Summarization of CT Simulation Orders in Radiation Oncology](http://arxiv.org/abs/2501.16309v1)
+append_entries: 0
+Finish: 2025-01-29 00:47:49.458425
