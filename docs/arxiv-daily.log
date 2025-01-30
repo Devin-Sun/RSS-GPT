@@ -15693,3 +15693,18 @@ Append: [Numerical Approximation of High-Dimensional Gibbs Distributions Using
   the Functional Hierarchical Tensor](http://arxiv.org/abs/2501.17143v1)
 append_entries: 2
 Finish: 2025-01-29 12:18:54.642755
+------------------------------------------------------
+Started: 2025-01-30 00:46:25.655698
+Existing_entries: 456
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model
+  Post-training](http://arxiv.org/abs/2501.17161v1)
+Filter: [A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from
+  Computed Tomography (CT) Scan Images](http://arxiv.org/abs/2501.17160v1)
+Filter: [IC-Portrait: In-Context Matching for View-Consistent Personalized
+  Portrait](http://arxiv.org/abs/2501.17159v1)
+Filter: [Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile
+  Compensation Using Deep Energy Model](http://arxiv.org/abs/2501.17152v1)
+Filter: [Scanning Trojaned Models Using Out-of-Distribution Samples](http://arxiv.org/abs/2501.17151v1)
+append_entries: 0
+Finish: 2025-01-30 00:46:26.941614

@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>CubeDiff: Repurposing Diffusion-Based Image Models for Panorama
   Generation</title>
 <link>http://arxiv.org/abs/2501.17162v1</link>
 <guid>http://arxiv.org/abs/2501.17162v1</guid>
 <content:encoded><![CDATA[
-
 We introduce a novel method for generating 360{\deg} panoramas from text
 prompts or images. Our approach leverages recent advances in 3D generation by
 employing multi-view diffusion models to jointly synthesize the six faces of a
@@ -25,7 +25,6 @@ its training set, whilst achieving state-of-the-art results, both qualitatively
 and quantitatively. Project page: https://cubediff.github.io/
 ]]></content:encoded>
 <pubDate>2025-01-28T18:59:49Z</pubDate>
-<pubDate>2025-01-28T18:59:49Z</pubDate>
 </item>
 <item>
 <title>Numerical Approximation of High-Dimensional Gibbs Distributions Using
@@ -33,7 +32,6 @@ and quantitatively. Project page: https://cubediff.github.io/
 <link>http://arxiv.org/abs/2501.17143v1</link>
 <guid>http://arxiv.org/abs/2501.17143v1</guid>
 <content:encoded><![CDATA[
-
 The numerical representation of high-dimensional Gibbs distributions is
 challenging due to the curse of dimensionality manifesting through the
 intractable normalization constant calculations. This work addresses this
@@ -51,9 +49,7 @@ the approach proposed is successful at addressing the metastability issue under
 difficult numerical cases.
 ]]></content:encoded>
 <pubDate>2025-01-28T18:44:20Z</pubDate>
-<pubDate>2025-01-28T18:44:20Z</pubDate>
 </item>
-
 <item>
 <title>RelightVid: Temporal-Consistent Diffusion Model for Video Relighting</title>
 <link>http://arxiv.org/abs/2501.16330v1</link>
