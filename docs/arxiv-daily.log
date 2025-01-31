@@ -15725,3 +15725,29 @@ Filter: [UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR
   Control Strategy and Recursive Guidance System](http://arxiv.org/abs/2501.17851v1)
 append_entries: 0
 Finish: 2025-01-30 12:18:54.944114
+------------------------------------------------------
+Started: 2025-01-31 00:47:57.050278
+Existing_entries: 456
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Dialogue is Better Than Monologue: Instructing Medical LLMs via
+  Strategical Conversations](http://arxiv.org/abs/2501.17860v1)
+Filter: [rEGGression: an Interactive and Agnostic Tool for the Exploration of
+  Symbolic Regression Models](http://arxiv.org/abs/2501.17859v1)
+Filter: [Improving Your Model Ranking on Chatbot Arena by Vote Rigging](http://arxiv.org/abs/2501.17858v1)
+Filter: [GRACE: Generalizing Robot-Assisted Caregiving with User Functionality
+  Embeddings](http://arxiv.org/abs/2501.17855v1)
+Filter: [Enriched Immersed Finite Element and Isogeometric Analysis -- Algorithms
+  and Data Structures](http://arxiv.org/abs/2501.17853v1)
+Filter: [UGSim: Autonomous Buoyancy-Driven Underwater Glider Simulator with LQR
+  Control Strategy and Recursive Guidance System](http://arxiv.org/abs/2501.17851v1)
+Filter: [Improving Genetic Programming for Symbolic Regression with Equality
+  Graphs](http://arxiv.org/abs/2501.17848v1)
+Filter: [Private Information Retrieval on Multigraph-Based Replicated Storage](http://arxiv.org/abs/2501.17845v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Sparse to Dense: Toddler-inspired Reward Transition in
+  Goal-Oriented Reinforcement Learning](http://arxiv.org/abs/2501.17842v1)
+Filter: [acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI
+  Models on Edge Devices](http://arxiv.org/abs/2501.17841v1)
+append_entries: 1
+Finish: 2025-01-31 00:47:57.992127

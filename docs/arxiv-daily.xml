@@ -4,6 +4,33 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>From Sparse to Dense: Toddler-inspired Reward Transition in
+  Goal-Oriented Reinforcement Learning</title>
+<link>http://arxiv.org/abs/2501.17842v1</link>
+<guid>http://arxiv.org/abs/2501.17842v1</guid>
+<content:encoded><![CDATA[
+
+Reinforcement learning (RL) agents often face challenges in balancing
+exploration and exploitation, particularly in environments where sparse or
+dense rewards bias learning. Biological systems, such as human toddlers,
+naturally navigate this balance by transitioning from free exploration with
+sparse rewards to goal-directed behavior guided by increasingly dense rewards.
+Inspired by this natural progression, we investigate the Toddler-Inspired
+Reward Transition in goal-oriented RL tasks. Our study focuses on transitioning
+from sparse to potential-based dense (S2D) rewards while preserving optimal
+strategies. Through experiments on dynamic robotic arm manipulation and
+egocentric 3D navigation tasks, we demonstrate that effective S2D reward
+transitions significantly enhance learning performance and sample efficiency.
+Additionally, using a Cross-Density Visualizer, we show that S2D transitions
+smooth the policy loss landscape, resulting in wider minima that improve
+generalization in RL models. In addition, we reinterpret Tolman's maze
+experiments, underscoring the critical role of early free exploratory learning
+in the context of S2D rewards.
+]]></content:encoded>
+<pubDate>2025-01-29T18:46:35Z</pubDate>
+<pubDate>2025-01-29T18:46:35Z</pubDate>
+</item>
 
 <item>
 <title>CubeDiff: Repurposing Diffusion-Based Image Models for Panorama
