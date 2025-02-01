@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Diffusion Autoencoders are Scalable Image Tokenizers</title>
 <link>http://arxiv.org/abs/2501.18593v1</link>
 <guid>http://arxiv.org/abs/2501.18593v1</guid>
 <content:encoded><![CDATA[
-
 Tokenizing images into compact visual representations is a key step in
 learning efficient and high-quality image generative models. We present a
 simple diffusion tokenizer (DiTo) that learns compact visual representations
@@ -28,7 +28,6 @@ competitive or better quality than state-of-the-art in image reconstruction and
 downstream image generation tasks.
 ]]></content:encoded>
 <pubDate>2025-01-30T18:59:37Z</pubDate>
-<pubDate>2025-01-30T18:59:37Z</pubDate>
 </item>
 <item>
 <title>Advances in Multimodal Adaptation and Generalization: From Traditional
@@ -36,7 +35,6 @@ downstream image generation tasks.
 <link>http://arxiv.org/abs/2501.18592v1</link>
 <guid>http://arxiv.org/abs/2501.18592v1</guid>
 <content:encoded><![CDATA[
-
 In real-world scenarios, achieving domain adaptation and generalization poses
 significant challenges, as models must adapt to or generalize across unknown
 target distributions. Extending these capabilities to unseen multimodal
@@ -59,9 +57,7 @@ contains up-to-date literature at
 https://github.com/donghao51/Awesome-Multimodal-Adaptation.
 ]]></content:encoded>
 <pubDate>2025-01-30T18:59:36Z</pubDate>
-<pubDate>2025-01-30T18:59:36Z</pubDate>
 </item>
-
 <item>
 <title>From Sparse to Dense: Toddler-inspired Reward Transition in
   Goal-Oriented Reinforcement Learning</title>
