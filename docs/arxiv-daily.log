@@ -15834,3 +15834,22 @@ Filter: [Reducing Simulation Effort for RIS Optimization using an Efficient
   Far-Field Approximation](http://arxiv.org/abs/2501.18583v1)
 append_entries: 0
 Finish: 2025-02-02 00:51:10.104630
+------------------------------------------------------
+Started: 2025-02-02 12:16:03.149069
+Existing_entries: 459
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights](http://arxiv.org/abs/2501.18596v1)
+Filter: [ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive
+  Detail Transfer](http://arxiv.org/abs/2501.18595v1)
+Filter: [Foundational Models for 3D Point Clouds: A Survey and Outlook](http://arxiv.org/abs/2501.18594v1)
+Filter: [DiffusionRenderer: Neural Inverse and Forward Rendering with Video
+  Diffusion Models](http://arxiv.org/abs/2501.18590v1)
+Filter: [Inkspire: Supporting Design Exploration with Generative AI through
+  Analogical Sketching](http://arxiv.org/abs/2501.18588v1)
+Filter: [Entropy functionals and equilibrium states in mixed quantum-classical
+  dynamics](http://arxiv.org/abs/2501.18587v1)
+Filter: [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](http://arxiv.org/abs/2501.18585v1)
+Filter: [Reducing Simulation Effort for RIS Optimization using an Efficient
+  Far-Field Approximation](http://arxiv.org/abs/2501.18583v1)
+append_entries: 0
+Finish: 2025-02-02 12:16:03.792655
