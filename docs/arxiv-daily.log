@@ -15897,3 +15897,21 @@ Filter: [Cache Me If You Must: Adaptive Key-Value Quantization for Large Languag
   Models](http://arxiv.org/abs/2501.19392v1)
 append_entries: 2
 Finish: 2025-02-03 12:18:53.438356
+------------------------------------------------------
+Started: 2025-02-04 00:47:49.839582
+Existing_entries: 461
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Low-Rank Adapting Models for Sparse Autoencoders](http://arxiv.org/abs/2501.19406v1)
+Filter: [Human-Precision Medicine Interaction: Public Perceptions of Polygenic
+  Risk Score for Genetic Health Prediction](http://arxiv.org/abs/2501.19405v1)
+Filter: [Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach](http://arxiv.org/abs/2501.19403v1)
+Filter: [Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box
+  Approach For Piecewise Stationary Bandits](http://arxiv.org/abs/2501.19401v1)
+Filter: [Scalable-Softmax Is Superior for Attention](http://arxiv.org/abs/2501.19399v1)
+Filter: [Precision Harvesting in Cluttered Environments: Integrating End Effector
+  Design with Dual Camera Perception](http://arxiv.org/abs/2501.19395v1)
+Filter: [s1: Simple test-time scaling](http://arxiv.org/abs/2501.19393v1)
+Filter: [Cache Me If You Must: Adaptive Key-Value Quantization for Large Language
+  Models](http://arxiv.org/abs/2501.19392v1)
+append_entries: 0
+Finish: 2025-02-04 00:47:50.533427

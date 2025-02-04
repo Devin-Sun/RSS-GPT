@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Vintix: Action Model via In-Context Reinforcement Learning</title>
 <link>http://arxiv.org/abs/2501.19400v1</link>
 <guid>http://arxiv.org/abs/2501.19400v1</guid>
 <content:encoded><![CDATA[
-
 In-Context Reinforcement Learning (ICRL) represents a promising paradigm for
 developing generalist agents that learn at inference time through
 trial-and-error interactions, analogous to how large language models adapt
@@ -25,7 +25,6 @@ decision-making systems. Code to be released at
 https://github.com/dunnolab/vintix
 ]]></content:encoded>
 <pubDate>2025-01-31T18:57:08Z</pubDate>
-<pubDate>2025-01-31T18:57:08Z</pubDate>
 </item>
 <item>
 <title>Do LLMs Strategically Reveal, Conceal, and Infer Information? A
@@ -33,7 +32,6 @@ https://github.com/dunnolab/vintix
 <link>http://arxiv.org/abs/2501.19398v1</link>
 <guid>http://arxiv.org/abs/2501.19398v1</guid>
 <content:encoded><![CDATA[
-
 Large language model-based (LLM-based) agents have become common in settings
 that include non-cooperative parties. In such settings, agents' decision-making
 needs to conceal information from their adversaries, reveal information to
@@ -56,9 +54,7 @@ LLMs, including GPT-4, GPT-4o, Gemini 1.5, and Claude 3.5 Sonnet, in strategic
 interactions.
 ]]></content:encoded>
 <pubDate>2025-01-31T18:53:43Z</pubDate>
-<pubDate>2025-01-31T18:53:43Z</pubDate>
 </item>
-
 <item>
 <title>Diffusion Autoencoders are Scalable Image Tokenizers</title>
 <link>http://arxiv.org/abs/2501.18593v1</link>
