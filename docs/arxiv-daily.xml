@@ -4,6 +4,34 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search</title>
+<link>http://arxiv.org/abs/2502.02584v1</link>
+<guid>http://arxiv.org/abs/2502.02584v1</guid>
+<content:encoded><![CDATA[
+
+Language agents have become a promising solution to complex interactive
+tasks. One of the key ingredients to the success of language agents is the
+reward model on the trajectory of the agentic workflow, which provides valuable
+guidance during training or inference. However, due to the lack of annotations
+of intermediate interactions, most existing works use an outcome reward model
+to optimize policies across entire trajectories. This may lead to sub-optimal
+policies and hinder the overall performance. To address this, we propose QLASS
+(Q-guided Language Agent Stepwise Search), to automatically generate
+annotations by estimating Q-values in a stepwise manner for open language
+agents. By introducing a reasoning tree and performing process reward modeling,
+QLASS provides effective intermediate guidance for each step. With the stepwise
+guidance, we propose a Q-guided generation strategy to enable language agents
+to better adapt to long-term value, resulting in significant performance
+improvement during model inference on complex interactive agent tasks. Notably,
+even with almost half the annotated data, QLASS retains strong performance,
+demonstrating its efficiency in handling limited supervision. We also
+empirically demonstrate that QLASS can lead to more effective decision making
+through qualitative analysis. We will release our code and data.
+]]></content:encoded>
+<pubDate>2025-02-04T18:58:31Z</pubDate>
+<pubDate>2025-02-04T18:58:31Z</pubDate>
+</item>
 
 <item>
 <title>Vintix: Action Model via In-Context Reinforcement Learning</title>
