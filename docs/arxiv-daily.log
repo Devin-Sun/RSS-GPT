@@ -15973,3 +15973,22 @@ Filter: [Are Language Models Up to Sequential Optimization Problems? From
   Evaluation to a Hegelian-Inspired Enhancement](http://arxiv.org/abs/2502.02573v1)
 append_entries: 1
 Finish: 2025-02-05 12:19:10.895395
+------------------------------------------------------
+Started: 2025-02-06 00:48:59.022870
+Existing_entries: 462
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling](http://arxiv.org/abs/2502.02590v1)
+Filter: [COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for
+  Fine-Grained Understanding and Generation](http://arxiv.org/abs/2502.02589v1)
+Filter: [Calibrated Multi-Preference Optimization for Aligning Diffusion Models](http://arxiv.org/abs/2502.02588v1)
+Filter: [Spatio-temporal transformer to support automatic sign language
+  translation](http://arxiv.org/abs/2502.02587v1)
+Filter: [Open Materials Generation with Stochastic Interpolants](http://arxiv.org/abs/2502.02582v1)
+Filter: [Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded
+  Sparse Data Parallelism](http://arxiv.org/abs/2502.02581v1)
+Filter: [Innovating the software engineering class through multi-team development](http://arxiv.org/abs/2502.02578v1)
+Filter: [A comparison of translation performance between DeepL and Supertext](http://arxiv.org/abs/2502.02577v1)
+Filter: [Are Language Models Up to Sequential Optimization Problems? From
+  Evaluation to a Hegelian-Inspired Enhancement](http://arxiv.org/abs/2502.02573v1)
+append_entries: 0
+Finish: 2025-02-06 00:48:59.622546
