@@ -4,6 +4,64 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene
+  Graphs with Large-Language-Models (LLMs)</title>
+<link>http://arxiv.org/abs/2502.03450v1</link>
+<guid>http://arxiv.org/abs/2502.03450v1</guid>
+<content:encoded><![CDATA[
+
+Scene graphs have emerged as a structured and serializable environment
+representation for grounded spatial reasoning with Large Language Models
+(LLMs). In this work, we propose SG-RwR, a Schema-Guided Retrieve-while-Reason
+framework for reasoning and planning with scene graphs. Our approach employs
+two cooperative, code-writing LLM agents: a (1) Reasoner for task planning and
+information queries generation, and a (2) Retriever for extracting
+corresponding graph information following the queries. Two agents collaborate
+iteratively, enabling sequential reasoning and adaptive attention to graph
+information. Unlike prior works, both agents are prompted only with the scene
+graph schema rather than the full graph data, which reduces the hallucination
+by limiting input tokens, and drives the Reasoner to generate reasoning trace
+abstractly.Following the trace, the Retriever programmatically query the scene
+graph data based on the schema understanding, allowing dynamic and global
+attention on the graph that enhances alignment between reasoning and retrieval.
+Through experiments in multiple simulation environments, we show that our
+framework surpasses existing LLM-based approaches in numerical Q\&A and
+planning tasks, and can benefit from task-level few-shot examples, even in the
+absence of agent-level demonstrations. Project code will be released.
+]]></content:encoded>
+<pubDate>2025-02-05T18:50:38Z</pubDate>
+<pubDate>2025-02-05T18:50:38Z</pubDate>
+</item>
+<item>
+<title>Designing LLM-simulated Immersive Spaces to Enhance Autistic Children's
+  Social Affordances Understanding</title>
+<link>http://arxiv.org/abs/2502.03447v1</link>
+<guid>http://arxiv.org/abs/2502.03447v1</guid>
+<content:encoded><![CDATA[
+
+One of the key challenges faced by autistic children is understanding social
+affordances in complex environments, which further impacts their ability to
+respond appropriately to social signals.
+  In traffic scenarios, this impairment can even lead to safety concerns. In
+this paper, we introduce an LLM-simulated immersive projection environment
+designed to improve this ability in autistic children while ensuring their
+safety. We first propose 17 design considerations across four major categories,
+derived from a comprehensive review of previous research. Next, we developed a
+system called AIroad, which leverages LLMs to simulate drivers with varying
+social intents, expressed through explicit multimodal social signals. AIroad
+helps autistic children bridge the gap in recognizing the intentions behind
+behaviors and learning appropriate responses through various stimuli. A user
+study involving 14 participants demonstrated that this technology effectively
+engages autistic children and leads to significant improvements in their
+comprehension of social affordances in traffic scenarios. Additionally, parents
+reported high perceived usability of the system. These findings highlight the
+potential of combining LLM technology with immersive environments for the
+functional rehabilitation of autistic children in the future.
+]]></content:encoded>
+<pubDate>2025-02-05T18:45:38Z</pubDate>
+<pubDate>2025-02-05T18:45:38Z</pubDate>
+</item>
 
 <item>
 <title>QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search</title>

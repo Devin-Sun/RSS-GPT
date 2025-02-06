@@ -15992,3 +15992,30 @@ Filter: [Are Language Models Up to Sequential Optimization Problems? From
   Evaluation to a Hegelian-Inspired Enhancement](http://arxiv.org/abs/2502.02573v1)
 append_entries: 0
 Finish: 2025-02-06 00:48:59.622546
+------------------------------------------------------
+Started: 2025-02-06 12:19:26.744399
+Existing_entries: 462
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Seeing World Dynamics in a Nutshell](http://arxiv.org/abs/2502.03465v1)
+Filter: [Do Large Language Model Benchmarks Test Reliability?](http://arxiv.org/abs/2502.03461v1)
+Filter: [Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language
+  Model Training](http://arxiv.org/abs/2502.03460v1)
+Filter: [SKI Models: Skeleton Induced Vision-Language Embeddings for
+  Understanding Activities of Daily Living](http://arxiv.org/abs/2502.03459v1)
+Filter: [Kineto-Dynamical Planning and Accurate Execution of Minimum-Time
+  Maneuvers on Three-Dimensional Circuits](http://arxiv.org/abs/2502.03454v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene
+  Graphs with Large-Language-Models (LLMs)](http://arxiv.org/abs/2502.03450v1)
+Filter: [Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion
+  Prior and Differentiable Physics](http://arxiv.org/abs/2502.03449v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Designing LLM-simulated Immersive Spaces to Enhance Autistic Children's
+  Social Affordances Understanding](http://arxiv.org/abs/2502.03447v1)
+Filter: [Cheap and stable quadrature on polyhedral elements](http://arxiv.org/abs/2502.03446v1)
+Filter: [TensorQC: Towards Scalable Distributed Quantum Computing via Tensor
+  Networks](http://arxiv.org/abs/2502.03445v1)
+append_entries: 2
+Finish: 2025-02-06 12:19:27.717785
