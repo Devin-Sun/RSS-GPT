@@ -16038,3 +16038,26 @@ Filter: [TensorQC: Towards Scalable Distributed Quantum Computing via Tensor
   Networks](http://arxiv.org/abs/2502.03445v1)
 append_entries: 0
 Finish: 2025-02-07 00:48:57.247229
+------------------------------------------------------
+Started: 2025-02-07 12:18:36.719767
+Existing_entries: 464
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [SMART: Advancing Scalable Map Priors for Driving Topology Reasoning](http://arxiv.org/abs/2502.04329v1)
+Filter: [Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive
+  Modality Alignment](http://arxiv.org/abs/2502.04328v1)
+Filter: [Value-Based Deep RL Scales Predictably](http://arxiv.org/abs/2502.04327v1)
+Filter: [WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal
+  LLMs](http://arxiv.org/abs/2502.04326v1)
+Filter: [Can Grammarly and ChatGPT accelerate language change? AI-powered
+  technologies and their impact on the English language: wordiness vs.
+  conciseness](http://arxiv.org/abs/2502.04324v1)
+Filter: [The Uniformly Rotated Mondrian Kernel](http://arxiv.org/abs/2502.04323v1)
+Filter: [Variation of sentence length across time and genre](http://arxiv.org/abs/2502.04321v1)
+Filter: [Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple
+  Interactions](http://arxiv.org/abs/2502.04322v1)
+Filter: [ConceptAttention: Diffusion Transformers Learn Highly Interpretable
+  Features](http://arxiv.org/abs/2502.04320v1)
+Filter: [sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3D
+  Reconstruction from Sparse-Views](http://arxiv.org/abs/2502.04318v1)
+append_entries: 0
+Finish: 2025-02-07 12:18:37.869643
