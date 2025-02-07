@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene
   Graphs with Large-Language-Models (LLMs)</title>
 <link>http://arxiv.org/abs/2502.03450v1</link>
 <guid>http://arxiv.org/abs/2502.03450v1</guid>
 <content:encoded><![CDATA[
-
 Scene graphs have emerged as a structured and serializable environment
 representation for grounded spatial reasoning with Large Language Models
 (LLMs). In this work, we propose SG-RwR, a Schema-Guided Retrieve-while-Reason
@@ -26,11 +26,10 @@ abstractly.Following the trace, the Retriever programmatically query the scene
 graph data based on the schema understanding, allowing dynamic and global
 attention on the graph that enhances alignment between reasoning and retrieval.
 Through experiments in multiple simulation environments, we show that our
-framework surpasses existing LLM-based approaches in numerical Q\&A and
+framework surpasses existing LLM-based approaches in numerical Q\&amp;A and
 planning tasks, and can benefit from task-level few-shot examples, even in the
 absence of agent-level demonstrations. Project code will be released.
 ]]></content:encoded>
-<pubDate>2025-02-05T18:50:38Z</pubDate>
 <pubDate>2025-02-05T18:50:38Z</pubDate>
 </item>
 <item>
@@ -39,7 +38,6 @@ absence of agent-level demonstrations. Project code will be released.
 <link>http://arxiv.org/abs/2502.03447v1</link>
 <guid>http://arxiv.org/abs/2502.03447v1</guid>
 <content:encoded><![CDATA[
-
 One of the key challenges faced by autistic children is understanding social
 affordances in complex environments, which further impacts their ability to
 respond appropriately to social signals.
@@ -60,9 +58,7 @@ potential of combining LLM technology with immersive environments for the
 functional rehabilitation of autistic children in the future.
 ]]></content:encoded>
 <pubDate>2025-02-05T18:45:38Z</pubDate>
-<pubDate>2025-02-05T18:45:38Z</pubDate>
 </item>
-
 <item>
 <title>QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search</title>
 <link>http://arxiv.org/abs/2502.02584v1</link>
