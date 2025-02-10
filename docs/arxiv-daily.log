@@ -16176,3 +16176,29 @@ Filter: [sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3
   Reconstruction from Sparse-Views](http://arxiv.org/abs/2502.04318v1)
 append_entries: 0
 Finish: 2025-02-10 00:50:23.042265
+------------------------------------------------------
+Started: 2025-02-10 12:19:18.866632
+Existing_entries: 464
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution
+  Video Generation](http://arxiv.org/abs/2502.05179v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive
+  Multimodal Understanding and Generation](http://arxiv.org/abs/2502.05178v1)
+Append: [Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with
+  Leading Short-Context Accuray](http://arxiv.org/abs/2502.05177v1)
+Filter: [AuraFusion360: Augmented Unseen Region Alignment for Reference-based
+  360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)
+Filter: [Fillerbuster: Multi-View Scene Completion for Casual Captures](http://arxiv.org/abs/2502.05175v1)
+Append: [MELON: Indirect Prompt Injection Defense via Masked Re-execution and
+  Tool Comparison](http://arxiv.org/abs/2502.05174v1)
+Filter: [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v1)
+Filter: [Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient](http://arxiv.org/abs/2502.05172v1)
+Filter: [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth
+  Approach](http://arxiv.org/abs/2502.05171v1)
+Filter: [Flopping for FLOPs: Leveraging equivariance for computational efficiency](http://arxiv.org/abs/2502.05169v1)
+append_entries: 4
+Finish: 2025-02-10 12:19:19.664677

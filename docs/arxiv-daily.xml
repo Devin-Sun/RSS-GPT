@@ -4,6 +4,121 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution
+  Video Generation</title>
+<link>http://arxiv.org/abs/2502.05179v1</link>
+<guid>http://arxiv.org/abs/2502.05179v1</guid>
+<content:encoded><![CDATA[
+
+DiT diffusion models have achieved great success in text-to-video generation,
+leveraging their scalability in model capacity and data scale. High content and
+motion fidelity aligned with text prompts, however, often require large model
+parameters and a substantial number of function evaluations (NFEs). Realistic
+and visually appealing details are typically reflected in high resolution
+outputs, further amplifying computational demands especially for single stage
+DiT models. To address these challenges, we propose a novel two stage
+framework, FlashVideo, which strategically allocates model capacity and NFEs
+across stages to balance generation fidelity and quality. In the first stage,
+prompt fidelity is prioritized through a low resolution generation process
+utilizing large parameters and sufficient NFEs to enhance computational
+efficiency. The second stage establishes flow matching between low and high
+resolutions, effectively generating fine details with minimal NFEs.
+Quantitative and visual results demonstrate that FlashVideo achieves
+state-of-the-art high resolution video generation with superior computational
+efficiency. Additionally, the two-stage design enables users to preview the
+initial output before committing to full resolution generation, thereby
+significantly reducing computational costs and wait times as well as enhancing
+commercial viability .
+]]></content:encoded>
+<pubDate>2025-02-07T18:59:59Z</pubDate>
+<pubDate>2025-02-07T18:59:59Z</pubDate>
+</item>
+<item>
+<title>QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive
+  Multimodal Understanding and Generation</title>
+<link>http://arxiv.org/abs/2502.05178v1</link>
+<guid>http://arxiv.org/abs/2502.05178v1</guid>
+<content:encoded><![CDATA[
+
+We introduce Quantized Language-Image Pretraining (QLIP), a visual
+tokenization method that combines state-of-the-art reconstruction quality with
+state-of-the-art zero-shot image understanding. QLIP trains a
+binary-spherical-quantization-based autoencoder with reconstruction and
+language-image alignment objectives. We are the first to show that the two
+objectives do not need to be at odds. We balance the two loss terms dynamically
+during training and show that a two-stage training pipeline effectively mixes
+the large-batch requirements of image-language pre-training with the memory
+bottleneck imposed by the reconstruction objective. We validate the
+effectiveness of QLIP for multimodal understanding and text-conditioned image
+generation with a single model. Specifically, QLIP serves as a drop-in
+replacement for the visual encoder for LLaVA and the image tokenizer for
+LlamaGen with comparable or even better performance. Finally, we demonstrate
+that QLIP enables a unified mixed-modality auto-regressive model for
+understanding and generation.
+]]></content:encoded>
+<pubDate>2025-02-07T18:59:57Z</pubDate>
+<pubDate>2025-02-07T18:59:57Z</pubDate>
+</item>
+<item>
+<title>Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with
+  Leading Short-Context Accuray</title>
+<link>http://arxiv.org/abs/2502.05177v1</link>
+<guid>http://arxiv.org/abs/2502.05177v1</guid>
+<content:encoded><![CDATA[
+
+Establishing the long-context capability of large vision-language models is
+crucial for video understanding, high-resolution image understanding,
+multi-modal agents and reasoning. We introduce Long-VITA, a simple yet
+effective large multi-modal model for long-context visual-language
+understanding tasks. It is adept at concurrently processing and analyzing
+modalities of image, video, and text over 4K frames or 1M tokens while
+delivering advanced performances on short-context multi-modal tasks. We propose
+an effective multi-modal training schema that starts with large language models
+and proceeds through vision-language alignment, general knowledge learning, and
+two sequential stages of long-sequence fine-tuning. We further implement
+context-parallelism distributed inference and logits-masked language modeling
+head to scale Long-VITA to infinitely long inputs of images and texts during
+model inference. Regarding training data, Long-VITA is built on a mix of $17$M
+samples from public datasets only and demonstrates the state-of-the-art
+performance on various multi-modal benchmarks, compared against recent
+cutting-edge models with internal data. Long-VITA is fully reproducible and
+supports both NPU and GPU platforms for training and testing. We hope Long-VITA
+can serve as a competitive baseline and offer valuable insights for the
+open-source community in advancing long-context multi-modal understanding.
+]]></content:encoded>
+<pubDate>2025-02-07T18:59:56Z</pubDate>
+<pubDate>2025-02-07T18:59:56Z</pubDate>
+</item>
+<item>
+<title>MELON: Indirect Prompt Injection Defense via Masked Re-execution and
+  Tool Comparison</title>
+<link>http://arxiv.org/abs/2502.05174v1</link>
+<guid>http://arxiv.org/abs/2502.05174v1</guid>
+<content:encoded><![CDATA[
+
+Recent research has explored that LLM agents are vulnerable to indirect
+prompt injection (IPI) attacks, where malicious tasks embedded in
+tool-retrieved information can redirect the agent to take unauthorized actions.
+Existing defenses against IPI have significant limitations: either require
+essential model training resources, lack effectiveness against sophisticated
+attacks, or harm the normal utilities. We present MELON (Masked re-Execution
+and TooL comparisON), a novel IPI defense. Our approach builds on the
+observation that under a successful attack, the agent's next action becomes
+less dependent on user tasks and more on malicious tasks. Following this, we
+design MELON to detect attacks by re-executing the agent's trajectory with a
+masked user prompt modified through a masking function. We identify an attack
+if the actions generated in the original and masked executions are similar. We
+also include three key designs to reduce the potential false positives and
+false negatives. Extensive evaluation on the IPI benchmark AgentDojo
+demonstrates that MELON outperforms SOTA defenses in both attack prevention and
+utility preservation. Moreover, we show that combining MELON with a SOTA prompt
+augmentation defense (denoted as MELON-Aug) further improves its performance.
+We also conduct a detailed ablation study to validate our key designs.
+]]></content:encoded>
+<pubDate>2025-02-07T18:57:49Z</pubDate>
+<pubDate>2025-02-07T18:57:49Z</pubDate>
+</item>
 
 <item>
 <title>A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene
