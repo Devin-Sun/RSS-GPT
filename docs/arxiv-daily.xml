@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution
   Video Generation</title>
 <link>http://arxiv.org/abs/2502.05179v1</link>
 <guid>http://arxiv.org/abs/2502.05179v1</guid>
 <content:encoded><![CDATA[
-
 DiT diffusion models have achieved great success in text-to-video generation,
 leveraging their scalability in model capacity and data scale. High content and
 motion fidelity aligned with text prompts, however, often require large model
@@ -32,7 +32,6 @@ significantly reducing computational costs and wait times as well as enhancing
 commercial viability .
 ]]></content:encoded>
 <pubDate>2025-02-07T18:59:59Z</pubDate>
-<pubDate>2025-02-07T18:59:59Z</pubDate>
 </item>
 <item>
 <title>QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive
@@ -40,7 +39,6 @@ commercial viability .
 <link>http://arxiv.org/abs/2502.05178v1</link>
 <guid>http://arxiv.org/abs/2502.05178v1</guid>
 <content:encoded><![CDATA[
-
 We introduce Quantized Language-Image Pretraining (QLIP), a visual
 tokenization method that combines state-of-the-art reconstruction quality with
 state-of-the-art zero-shot image understanding. QLIP trains a
@@ -58,7 +56,6 @@ that QLIP enables a unified mixed-modality auto-regressive model for
 understanding and generation.
 ]]></content:encoded>
 <pubDate>2025-02-07T18:59:57Z</pubDate>
-<pubDate>2025-02-07T18:59:57Z</pubDate>
 </item>
 <item>
 <title>Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with
@@ -66,7 +63,6 @@ understanding and generation.
 <link>http://arxiv.org/abs/2502.05177v1</link>
 <guid>http://arxiv.org/abs/2502.05177v1</guid>
 <content:encoded><![CDATA[
-
 Establishing the long-context capability of large vision-language models is
 crucial for video understanding, high-resolution image understanding,
 multi-modal agents and reasoning. We introduce Long-VITA, a simple yet
@@ -88,7 +84,6 @@ can serve as a competitive baseline and offer valuable insights for the
 open-source community in advancing long-context multi-modal understanding.
 ]]></content:encoded>
 <pubDate>2025-02-07T18:59:56Z</pubDate>
-<pubDate>2025-02-07T18:59:56Z</pubDate>
 </item>
 <item>
 <title>MELON: Indirect Prompt Injection Defense via Masked Re-execution and
@@ -96,7 +91,6 @@ open-source community in advancing long-context multi-modal understanding.
 <link>http://arxiv.org/abs/2502.05174v1</link>
 <guid>http://arxiv.org/abs/2502.05174v1</guid>
 <content:encoded><![CDATA[
-
 Recent research has explored that LLM agents are vulnerable to indirect
 prompt injection (IPI) attacks, where malicious tasks embedded in
 tool-retrieved information can redirect the agent to take unauthorized actions.
@@ -117,9 +111,7 @@ augmentation defense (denoted as MELON-Aug) further improves its performance.
 We also conduct a detailed ablation study to validate our key designs.
 ]]></content:encoded>
 <pubDate>2025-02-07T18:57:49Z</pubDate>
-<pubDate>2025-02-07T18:57:49Z</pubDate>
 </item>
-
 <item>
 <title>A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene
   Graphs with Large-Language-Models (LLMs)</title>

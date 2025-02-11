@@ -16202,3 +16202,17 @@ Filter: [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth
 Filter: [Flopping for FLOPs: Leveraging equivariance for computational efficiency](http://arxiv.org/abs/2502.05169v1)
 append_entries: 4
 Finish: 2025-02-10 12:19:19.664677
+------------------------------------------------------
+Started: 2025-02-11 00:48:23.630602
+Existing_entries: 468
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [AuraFusion360: Augmented Unseen Region Alignment for Reference-based
+  360° Unbounded Scene Inpainting](http://arxiv.org/abs/2502.05176v1)
+Filter: [Fillerbuster: Multi-View Scene Completion for Casual Captures](http://arxiv.org/abs/2502.05175v1)
+Filter: [VideoRoPE: What Makes for Good Video Rotary Position Embedding?](http://arxiv.org/abs/2502.05173v1)
+Filter: [Joint MoE Scaling Laws: Mixture of Experts Can Be Memory Efficient](http://arxiv.org/abs/2502.05172v1)
+Filter: [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth
+  Approach](http://arxiv.org/abs/2502.05171v1)
+Filter: [Flopping for FLOPs: Leveraging equivariance for computational efficiency](http://arxiv.org/abs/2502.05169v1)
+append_entries: 0
+Finish: 2025-02-11 00:48:24.187417
