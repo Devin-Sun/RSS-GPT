@@ -16255,3 +16255,23 @@ Filter: [KARST: Multi-Kernel Kronecker Adaptation with Re-Scaling Transmission
 Filter: [Learning an Optimal Assortment Policy under Observational Data](http://arxiv.org/abs/2502.06777v1)
 append_entries: 0
 Finish: 2025-02-12 00:49:13.097427
+------------------------------------------------------
+Started: 2025-02-12 12:19:14.969774
+Existing_entries: 471
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MatSwap: Light-aware material transfers in images](http://arxiv.org/abs/2502.07784v1)
+Filter: [Pippo: High-Resolution Multi-View Humans from a Single Image](http://arxiv.org/abs/2502.07785v1)
+Filter: [Curvature Tuning: Provable Training-free Model Steering From a Single
+  Parameter](http://arxiv.org/abs/2502.07783v1)
+Filter: [A Flag Decomposition for Hierarchical Datasets](http://arxiv.org/abs/2502.07782v1)
+Filter: [DarwinLM: Evolutionary Structured Pruning of Large Language Models](http://arxiv.org/abs/2502.07780v1)
+Filter: [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image
+  Detection](http://arxiv.org/abs/2502.07778v1)
+Filter: [Auditing Prompt Caching in Language Model APIs](http://arxiv.org/abs/2502.07776v1)
+Filter: [Optimistic Interior Point Methods for Sequential Hypothesis Testing by
+  Betting](http://arxiv.org/abs/2502.07774v1)
+Filter: [Automatic Robot Task Planning by Integrating Large Language Model with
+  Genetic Programming](http://arxiv.org/abs/2502.07772v1)
+Filter: [Breaking Down Bias: On The Limits of Generalizable Pruning Strategies](http://arxiv.org/abs/2502.07771v1)
+append_entries: 0
+Finish: 2025-02-12 12:19:15.836925
