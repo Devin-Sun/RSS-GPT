@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>EVEv2: Improved Baselines for Encoder-Free Vision-Language Models</title>
 <link>http://arxiv.org/abs/2502.06788v1</link>
 <guid>http://arxiv.org/abs/2502.06788v1</guid>
 <content:encoded><![CDATA[
-
 Existing encoder-free vision-language models (VLMs) are rapidly narrowing the
 performance gap with their encoder-based counterparts, highlighting the
 promising potential for unified multimodal systems with structural simplicity
@@ -28,14 +28,12 @@ modalities, demonstrating superior data efficiency and strong vision-reasoning
 capability. Code is publicly available at: https://github.com/baaivision/EVE.
 ]]></content:encoded>
 <pubDate>2025-02-10T18:59:58Z</pubDate>
-<pubDate>2025-02-10T18:59:58Z</pubDate>
 </item>
 <item>
 <title>Visual Agentic AI for Spatial Reasoning with a Dynamic API</title>
 <link>http://arxiv.org/abs/2502.06787v1</link>
 <guid>http://arxiv.org/abs/2502.06787v1</guid>
 <content:encoded><![CDATA[
-
 Visual reasoning -- the ability to interpret the visual world -- is crucial
 for embodied agents that operate within three-dimensional scenes. Progress in
 AI has led to vision and language models capable of answering questions from
@@ -52,14 +50,12 @@ effectiveness of our agentic framework for 3D spatial reasoning tasks. Project
 website: https://glab-caltech.github.io/vadar/
 ]]></content:encoded>
 <pubDate>2025-02-10T18:59:35Z</pubDate>
-<pubDate>2025-02-10T18:59:35Z</pubDate>
 </item>
 <item>
 <title>Towards Internet-Scale Training For Agents</title>
 <link>http://arxiv.org/abs/2502.06776v1</link>
 <guid>http://arxiv.org/abs/2502.06776v1</guid>
 <content:encoded><![CDATA[
-
 The predominant approach for training web navigation agents gathers human
 demonstrations for a set of popular websites and hand-written tasks, but it is
 becoming clear that human data are an inefficient resource. We develop a
@@ -81,9 +77,7 @@ data improves their generalization by +149.0% for WebLINX and +156.3% for
 Mind2Web. Code will be available at: data-for-agents.github.io.
 ]]></content:encoded>
 <pubDate>2025-02-10T18:54:05Z</pubDate>
-<pubDate>2025-02-10T18:54:05Z</pubDate>
 </item>
-
 <item>
 <title>FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution
   Video Generation</title>
