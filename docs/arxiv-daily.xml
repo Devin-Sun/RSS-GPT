@@ -4,6 +4,91 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Poly-Autoregressive Prediction for Modeling Interactions</title>
+<link>http://arxiv.org/abs/2502.08646v1</link>
+<guid>http://arxiv.org/abs/2502.08646v1</guid>
+<content:encoded><![CDATA[
+
+We introduce a simple framework for predicting the behavior of an agent in
+multi-agent settings. In contrast to autoregressive (AR) tasks, such as
+language processing, our focus is on scenarios with multiple agents whose
+interactions are shaped by physical constraints and internal motivations. To
+this end, we propose Poly-Autoregressive (PAR) modeling, which forecasts an ego
+agent's future behavior by reasoning about the ego agent's state history and
+the past and current states of other interacting agents. At its core, PAR
+represents the behavior of all agents as a sequence of tokens, each
+representing an agent's state at a specific timestep. With minimal data
+pre-processing changes, we show that PAR can be applied to three different
+problems: human action forecasting in social situations, trajectory prediction
+for autonomous vehicles, and object pose forecasting during hand-object
+interaction. Using a small proof-of-concept transformer backbone, PAR
+outperforms AR across these three scenarios. The project website can be found
+at https://neerja.me/PAR/.
+]]></content:encoded>
+<pubDate>2025-02-12T18:59:43Z</pubDate>
+<pubDate>2025-02-12T18:59:43Z</pubDate>
+</item>
+<item>
+<title>Utility Engineering: Analyzing and Controlling Emergent Value Systems in
+  AIs</title>
+<link>http://arxiv.org/abs/2502.08640v1</link>
+<guid>http://arxiv.org/abs/2502.08640v1</guid>
+<content:encoded><![CDATA[
+
+As AIs rapidly advance and become more agentic, the risk they pose is
+governed not only by their capabilities but increasingly by their propensities,
+including goals and values. Tracking the emergence of goals and values has
+proven a longstanding problem, and despite much interest over the years it
+remains unclear whether current AIs have meaningful values. We propose a
+solution to this problem, leveraging the framework of utility functions to
+study the internal coherence of AI preferences. Surprisingly, we find that
+independently-sampled preferences in current LLMs exhibit high degrees of
+structural coherence, and moreover that this emerges with scale. These findings
+suggest that value systems emerge in LLMs in a meaningful sense, a finding with
+broad implications. To study these emergent value systems, we propose utility
+engineering as a research agenda, comprising both the analysis and control of
+AI utilities. We uncover problematic and often shocking values in LLM
+assistants despite existing control measures. These include cases where AIs
+value themselves over humans and are anti-aligned with specific individuals. To
+constrain these emergent value systems, we propose methods of utility control.
+As a case study, we show how aligning utilities with a citizen assembly reduces
+political biases and generalizes to new scenarios. Whether we like it or not,
+value systems have already emerged in AIs, and much work remains to fully
+understand and control these emergent representations.
+]]></content:encoded>
+<pubDate>2025-02-12T18:55:43Z</pubDate>
+<pubDate>2025-02-12T18:55:43Z</pubDate>
+</item>
+<item>
+<title>CineMaster: A 3D-Aware and Controllable Framework for Cinematic
+  Text-to-Video Generation</title>
+<link>http://arxiv.org/abs/2502.08639v1</link>
+<guid>http://arxiv.org/abs/2502.08639v1</guid>
+<content:encoded><![CDATA[
+
+In this work, we present CineMaster, a novel framework for 3D-aware and
+controllable text-to-video generation. Our goal is to empower users with
+comparable controllability as professional film directors: precise placement of
+objects within the scene, flexible manipulation of both objects and camera in
+3D space, and intuitive layout control over the rendered frames. To achieve
+this, CineMaster operates in two stages. In the first stage, we design an
+interactive workflow that allows users to intuitively construct 3D-aware
+conditional signals by positioning object bounding boxes and defining camera
+movements within the 3D space. In the second stage, these control
+signals--comprising rendered depth maps, camera trajectories and object class
+labels--serve as the guidance for a text-to-video diffusion model, ensuring to
+generate the user-intended video content. Furthermore, to overcome the scarcity
+of in-the-wild datasets with 3D object motion and camera pose annotations, we
+carefully establish an automated data annotation pipeline that extracts 3D
+bounding boxes and camera trajectories from large-scale video data. Extensive
+qualitative and quantitative experiments demonstrate that CineMaster
+significantly outperforms existing methods and implements prominent 3D-aware
+text-to-video generation. Project page: https://cinemaster-dev.github.io/.
+]]></content:encoded>
+<pubDate>2025-02-12T18:55:36Z</pubDate>
+<pubDate>2025-02-12T18:55:36Z</pubDate>
+</item>
 
 <item>
 <title>EVEv2: Improved Baselines for Encoder-Free Vision-Language Models</title>

@@ -16295,3 +16295,31 @@ Filter: [Automatic Robot Task Planning by Integrating Large Language Model with
 Filter: [Breaking Down Bias: On The Limits of Generalizable Pruning Strategies](http://arxiv.org/abs/2502.07771v1)
 append_entries: 0
 Finish: 2025-02-13 00:49:26.236584
+------------------------------------------------------
+Started: 2025-02-13 12:19:17.875038
+Existing_entries: 471
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Poly-Autoregressive Prediction for Modeling Interactions](http://arxiv.org/abs/2502.08646v1)
+Filter: [Re$^3$Sim: Generating High-Fidelity Simulation Data via
+  3D-Photorealistic Real-to-Sim for Robotic Manipulation](http://arxiv.org/abs/2502.08645v1)
+Filter: [Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and
+  learning in neural networks](http://arxiv.org/abs/2502.08644v1)
+Filter: [A Real-to-Sim-to-Real Approach to Robotic Manipulation with
+  VLM-Generated Iterative Keypoint Rewards](http://arxiv.org/abs/2502.08643v1)
+Filter: [SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation](http://arxiv.org/abs/2502.08642v1)
+Filter: [Constructing optimal Wannier functions via potential theory: isolated
+  single band for matrix models](http://arxiv.org/abs/2502.08641v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Utility Engineering: Analyzing and Controlling Emergent Value Systems in
+  AIs](http://arxiv.org/abs/2502.08640v1)
+Append: [CineMaster: A 3D-Aware and Controllable Framework for Cinematic
+  Text-to-Video Generation](http://arxiv.org/abs/2502.08639v1)
+Filter: [Examining Multilingual Embedding Models Cross-Lingually Through
+  LLM-Generated Adversarial Examples](http://arxiv.org/abs/2502.08638v1)
+Filter: [Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or
+  Learning-Based?](http://arxiv.org/abs/2502.08637v1)
+append_entries: 3
+Finish: 2025-02-13 12:19:18.857339
