@@ -16342,3 +16342,11 @@ Filter: [Joint Transmit and Pinching Beamforming for PASS: Optimization-Based or
   Learning-Based?](http://arxiv.org/abs/2502.08637v1)
 append_entries: 0
 Finish: 2025-02-14 00:48:40.240247
+------------------------------------------------------
+Started: 2025-02-14 12:18:55.004238
+Existing_entries: 474
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF
+  Architectures](http://arxiv.org/abs/2502.09623v1)
+append_entries: 0
+Finish: 2025-02-14 12:18:55.992084
