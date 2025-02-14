@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Poly-Autoregressive Prediction for Modeling Interactions</title>
 <link>http://arxiv.org/abs/2502.08646v1</link>
 <guid>http://arxiv.org/abs/2502.08646v1</guid>
 <content:encoded><![CDATA[
-
 We introduce a simple framework for predicting the behavior of an agent in
 multi-agent settings. In contrast to autoregressive (AR) tasks, such as
 language processing, our focus is on scenarios with multiple agents whose
@@ -27,7 +27,6 @@ outperforms AR across these three scenarios. The project website can be found
 at https://neerja.me/PAR/.
 ]]></content:encoded>
 <pubDate>2025-02-12T18:59:43Z</pubDate>
-<pubDate>2025-02-12T18:59:43Z</pubDate>
 </item>
 <item>
 <title>Utility Engineering: Analyzing and Controlling Emergent Value Systems in
@@ -35,7 +34,6 @@ at https://neerja.me/PAR/.
 <link>http://arxiv.org/abs/2502.08640v1</link>
 <guid>http://arxiv.org/abs/2502.08640v1</guid>
 <content:encoded><![CDATA[
-
 As AIs rapidly advance and become more agentic, the risk they pose is
 governed not only by their capabilities but increasingly by their propensities,
 including goals and values. Tracking the emergence of goals and values has
@@ -58,7 +56,6 @@ value systems have already emerged in AIs, and much work remains to fully
 understand and control these emergent representations.
 ]]></content:encoded>
 <pubDate>2025-02-12T18:55:43Z</pubDate>
-<pubDate>2025-02-12T18:55:43Z</pubDate>
 </item>
 <item>
 <title>CineMaster: A 3D-Aware and Controllable Framework for Cinematic
@@ -66,7 +63,6 @@ understand and control these emergent representations.
 <link>http://arxiv.org/abs/2502.08639v1</link>
 <guid>http://arxiv.org/abs/2502.08639v1</guid>
 <content:encoded><![CDATA[
-
 In this work, we present CineMaster, a novel framework for 3D-aware and
 controllable text-to-video generation. Our goal is to empower users with
 comparable controllability as professional film directors: precise placement of
@@ -87,9 +83,7 @@ significantly outperforms existing methods and implements prominent 3D-aware
 text-to-video generation. Project page: https://cinemaster-dev.github.io/.
 ]]></content:encoded>
 <pubDate>2025-02-12T18:55:36Z</pubDate>
-<pubDate>2025-02-12T18:55:36Z</pubDate>
 </item>
-
 <item>
 <title>EVEv2: Improved Baselines for Encoder-Free Vision-Language Models</title>
 <link>http://arxiv.org/abs/2502.06788v1</link>
