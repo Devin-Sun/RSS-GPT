@@ -16444,3 +16444,24 @@ Filter: [DexTrack: Towards Generalizable Neural Tracking Control for Dexterous
 Filter: [RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets](http://arxiv.org/abs/2502.09615v1)
 append_entries: 0
 Finish: 2025-02-17 00:51:52.955195
+------------------------------------------------------
+Started: 2025-02-17 12:19:59.239931
+Existing_entries: 475
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding](http://arxiv.org/abs/2502.10392v1)
+Filter: [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](http://arxiv.org/abs/2502.10391v1)
+Filter: [(How) Can Transformers Predict Pseudo-Random Numbers?](http://arxiv.org/abs/2502.10390v1)
+Filter: [Region-Adaptive Sampling for Diffusion Transformers](http://arxiv.org/abs/2502.10389v1)
+Filter: [Aspect-Oriented Summarization for Psychiatric Short-Term Readmission
+  Prediction](http://arxiv.org/abs/2502.10388v1)
+Filter: [Simplifying DINO via Coding Rate Regularization](http://arxiv.org/abs/2502.10385v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Representation and Interpretation in Artificial and Natural Computing](http://arxiv.org/abs/2502.10383v1)
+Filter: [Balancing the Scales: A Theoretical and Algorithmic Framework for
+  Learning from Imbalanced Data](http://arxiv.org/abs/2502.10381v1)
+Filter: [Unknown Word Detection for English as a Second Language (ESL) Learners
+  Using Gaze and Pre-trained Language Models](http://arxiv.org/abs/2502.10378v1)
+Filter: [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](http://arxiv.org/abs/2502.10377v1)
+append_entries: 1
+Finish: 2025-02-17 12:20:00.342204

@@ -4,6 +4,36 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Representation and Interpretation in Artificial and Natural Computing</title>
+<link>http://arxiv.org/abs/2502.10383v1</link>
+<guid>http://arxiv.org/abs/2502.10383v1</guid>
+<content:encoded><![CDATA[
+
+Artificial computing machinery transforms representations through an
+objective process, to be interpreted subjectively by humans, so the machine and
+the interpreter are different entities, but in the putative natural computing
+both processes are performed by the same agent. The method or process that
+transforms a representation is called here \emph{the mode of computing}. The
+mode used by digital computers is the algorithmic one, but there are others,
+such as quantum computers and diverse forms of non-conventional computing, and
+there is an open-ended set of representational formats and modes that could be
+used in artificial and natural computing. A mode based on a notion of computing
+different from Turing's may perform feats beyond what the Turing Machine does
+but the modes would not be of the same kind and could not be compared. For a
+mode of computing to be more powerful than the algorithmic one, it ought to
+compute functions lacking an effective algorithm, and Church Thesis would not
+hold. Here, a thought experiment including a computational demon using a
+hypothetical mode for such an effect is presented. If there is natural
+computing, there is a mode of natural computing whose properties may be causal
+to the phenomenological experience. Discovering it would come with solving the
+hard problem of consciousness; but if it turns out that such a mode does not
+exist, there is no such thing as natural computing, and the mind is not a
+computational process.
+]]></content:encoded>
+<pubDate>2025-02-14T18:57:29Z</pubDate>
+<pubDate>2025-02-14T18:57:29Z</pubDate>
+</item>
 
 <item>
 <title>MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for
