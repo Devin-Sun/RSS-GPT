@@ -4,6 +4,86 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Idiosyncrasies in Large Language Models</title>
+<link>http://arxiv.org/abs/2502.12150v1</link>
+<guid>http://arxiv.org/abs/2502.12150v1</guid>
+<content:encoded><![CDATA[
+
+In this work, we unveil and study idiosyncrasies in Large Language Models
+(LLMs) -- unique patterns in their outputs that can be used to distinguish the
+models. To do so, we consider a simple classification task: given a particular
+text output, the objective is to predict the source LLM that generates the
+text. We evaluate this synthetic task across various groups of LLMs and find
+that simply fine-tuning existing text embedding models on LLM-generated texts
+yields excellent classification accuracy. Notably, we achieve 97.1% accuracy on
+held-out validation data in the five-way classification problem involving
+ChatGPT, Claude, Grok, Gemini, and DeepSeek. Our further investigation reveals
+that these idiosyncrasies are rooted in word-level distributions. These
+patterns persist even when the texts are rewritten, translated, or summarized
+by an external LLM, suggesting that they are also encoded in the semantic
+content. Additionally, we leverage LLM as judges to generate detailed,
+open-ended descriptions of each model's idiosyncrasies. Finally, we discuss the
+broader implications of our findings, particularly for training on synthetic
+data and inferring model similarity. Code is available at
+https://github.com/locuslab/llm-idiosyncrasies.
+]]></content:encoded>
+<pubDate>2025-02-17T18:59:02Z</pubDate>
+<pubDate>2025-02-17T18:59:02Z</pubDate>
+</item>
+<item>
+<title>HARBOR: Exploring Persona Dynamics in Multi-Agent Competition</title>
+<link>http://arxiv.org/abs/2502.12149v1</link>
+<guid>http://arxiv.org/abs/2502.12149v1</guid>
+<content:encoded><![CDATA[
+
+We investigate factors contributing to LLM agents' success in competitive
+multi-agent environments, using auctions as a testbed where agents bid to
+maximize profit. The agents are equipped with bidding domain knowledge,
+distinct personas that reflect item preferences, and a memory of auction
+history. Our work extends the classic auction scenario by creating a realistic
+environment where multiple agents bid on houses, weighing aspects such as size,
+location, and budget to secure the most desirable homes at the lowest prices.
+Particularly, we investigate three key questions: (a) How does a persona
+influence an agent's behavior in a competitive setting? (b) Can an agent
+effectively profile its competitors' behavior during auctions? (c) How can
+persona profiling be leveraged to create an advantage using strategies such as
+theory of mind? Through a series of experiments, we analyze the behaviors of
+LLM agents and shed light on new findings. Our testbed, called HARBOR, offers a
+valuable platform for deepening our understanding of multi-agent workflows in
+competitive environments.
+]]></content:encoded>
+<pubDate>2025-02-17T18:58:36Z</pubDate>
+<pubDate>2025-02-17T18:58:36Z</pubDate>
+</item>
+<item>
+<title>HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and
+  Generation</title>
+<link>http://arxiv.org/abs/2502.12148v1</link>
+<guid>http://arxiv.org/abs/2502.12148v1</guid>
+<content:encoded><![CDATA[
+
+The remarkable success of the autoregressive paradigm has made significant
+advancement in Multimodal Large Language Models (MLLMs), with powerful models
+like Show-o, Transfusion and Emu3 achieving notable progress in unified image
+understanding and generation. For the first time, we uncover a common
+phenomenon: the understanding capabilities of MLLMs are typically stronger than
+their generative capabilities, with a significant gap between the two. Building
+on this insight, we propose HermesFlow, a simple yet general framework designed
+to seamlessly bridge the gap between understanding and generation in MLLMs.
+Specifically, we take the homologous data as input to curate homologous
+preference data of both understanding and generation. Through Pair-DPO and
+self-play iterative optimization, HermesFlow effectively aligns multimodal
+understanding and generation using homologous preference data. Extensive
+experiments demonstrate the significant superiority of our approach over prior
+methods, particularly in narrowing the gap between multimodal understanding and
+generation. These findings highlight the potential of HermesFlow as a general
+alignment framework for next-generation multimodal foundation models. Code:
+https://github.com/Gen-Verse/HermesFlow
+]]></content:encoded>
+<pubDate>2025-02-17T18:57:51Z</pubDate>
+<pubDate>2025-02-17T18:57:51Z</pubDate>
+</item>
 
 <item>
 <title>Representation and Interpretation in Artificial and Natural Computing</title>

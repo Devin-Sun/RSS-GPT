@@ -16483,3 +16483,28 @@ Filter: [Unknown Word Detection for English as a Second Language (ESL) Learners
 Filter: [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](http://arxiv.org/abs/2502.10377v1)
 append_entries: 0
 Finish: 2025-02-18 00:48:41.512173
+------------------------------------------------------
+Started: 2025-02-18 12:19:34.927523
+Existing_entries: 476
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Diffusion Models without Classifier-free Guidance](http://arxiv.org/abs/2502.12154v1)
+Filter: [Learning Getting-Up Policies for Real-World Humanoid Robots](http://arxiv.org/abs/2502.12152v1)
+Filter: [VoLUT: Efficient Volumetric streaming enhanced by LUT-based
+  super-resolution](http://arxiv.org/abs/2502.12151v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Idiosyncrasies in Large Language Models](http://arxiv.org/abs/2502.12150v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HARBOR: Exploring Persona Dynamics in Multi-Agent Competition](http://arxiv.org/abs/2502.12149v1)
+Append: [HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and
+  Generation](http://arxiv.org/abs/2502.12148v1)
+Filter: [Learning Smooth and Expressive Interatomic Potentials for Physical
+  Property Prediction](http://arxiv.org/abs/2502.12147v1)
+Filter: [Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising
+  Trajectory Sharpening](http://arxiv.org/abs/2502.12146v1)
+Filter: [Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented
+  Generation with Flexible User Control](http://arxiv.org/abs/2502.12145v1)
+Filter: [Small Models Struggle to Learn from Strong Reasoners](http://arxiv.org/abs/2502.12143v1)
+append_entries: 3
+Finish: 2025-02-18 12:19:35.651962
