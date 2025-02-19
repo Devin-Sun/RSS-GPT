@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Idiosyncrasies in Large Language Models</title>
 <link>http://arxiv.org/abs/2502.12150v1</link>
 <guid>http://arxiv.org/abs/2502.12150v1</guid>
 <content:encoded><![CDATA[
-
 In this work, we unveil and study idiosyncrasies in Large Language Models
 (LLMs) -- unique patterns in their outputs that can be used to distinguish the
 models. To do so, we consider a simple classification task: given a particular
@@ -29,14 +29,12 @@ data and inferring model similarity. Code is available at
 https://github.com/locuslab/llm-idiosyncrasies.
 ]]></content:encoded>
 <pubDate>2025-02-17T18:59:02Z</pubDate>
-<pubDate>2025-02-17T18:59:02Z</pubDate>
 </item>
 <item>
 <title>HARBOR: Exploring Persona Dynamics in Multi-Agent Competition</title>
 <link>http://arxiv.org/abs/2502.12149v1</link>
 <guid>http://arxiv.org/abs/2502.12149v1</guid>
 <content:encoded><![CDATA[
-
 We investigate factors contributing to LLM agents' success in competitive
 multi-agent environments, using auctions as a testbed where agents bid to
 maximize profit. The agents are equipped with bidding domain knowledge,
@@ -54,7 +52,6 @@ valuable platform for deepening our understanding of multi-agent workflows in
 competitive environments.
 ]]></content:encoded>
 <pubDate>2025-02-17T18:58:36Z</pubDate>
-<pubDate>2025-02-17T18:58:36Z</pubDate>
 </item>
 <item>
 <title>HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and
@@ -62,7 +59,6 @@ competitive environments.
 <link>http://arxiv.org/abs/2502.12148v1</link>
 <guid>http://arxiv.org/abs/2502.12148v1</guid>
 <content:encoded><![CDATA[
-
 The remarkable success of the autoregressive paradigm has made significant
 advancement in Multimodal Large Language Models (MLLMs), with powerful models
 like Show-o, Transfusion and Emu3 achieving notable progress in unified image
@@ -82,9 +78,7 @@ alignment framework for next-generation multimodal foundation models. Code:
 https://github.com/Gen-Verse/HermesFlow
 ]]></content:encoded>
 <pubDate>2025-02-17T18:57:51Z</pubDate>
-<pubDate>2025-02-17T18:57:51Z</pubDate>
 </item>
-
 <item>
 <title>Representation and Interpretation in Artificial and Natural Computing</title>
 <link>http://arxiv.org/abs/2502.10383v1</link>
