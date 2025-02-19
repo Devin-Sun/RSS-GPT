@@ -4,6 +4,128 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Multimodal Mamba: Decoder-only Multimodal State Space Model via
+  Quadratic to Linear Distillation</title>
+<link>http://arxiv.org/abs/2502.13145v1</link>
+<guid>http://arxiv.org/abs/2502.13145v1</guid>
+<content:encoded><![CDATA[
+
+Recent Multimodal Large Language Models (MLLMs) have achieved remarkable
+performance but face deployment challenges due to their quadratic computational
+complexity, growing Key-Value cache requirements, and reliance on separate
+vision encoders. We propose mmMamba, a framework for developing
+linear-complexity native multimodal state space models through progressive
+distillation from existing MLLMs using moderate academic computational
+resources. Our approach enables the direct conversion of trained decoder-only
+MLLMs to linear-complexity architectures without requiring pre-trained
+RNN-based LLM or vision encoders. We propose an seeding strategy to carve Mamba
+from trained Transformer and a three-stage distillation recipe, which can
+effectively transfer the knowledge from Transformer to Mamba while preserving
+multimodal capabilities. Our method also supports flexible hybrid architectures
+that combine Transformer and Mamba layers for customizable
+efficiency-performance trade-offs. Distilled from the Transformer-based
+decoder-only HoVLE, mmMamba-linear achieves competitive performance against
+existing linear and quadratic-complexity VLMs, while mmMamba-hybrid further
+improves performance significantly, approaching HoVLE's capabilities. At 103K
+tokens, mmMamba-linear demonstrates 20.6$\times$ speedup and 75.8% GPU memory
+reduction compared to HoVLE, while mmMamba-hybrid achieves 13.5$\times$ speedup
+and 60.2% memory savings. Code and models are released at
+https://github.com/hustvl/mmMamba
+]]></content:encoded>
+<pubDate>2025-02-18T18:59:57Z</pubDate>
+<pubDate>2025-02-18T18:59:57Z</pubDate>
+</item>
+<item>
+<title>Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct
+  Preference Optimization</title>
+<link>http://arxiv.org/abs/2502.13146v1</link>
+<guid>http://arxiv.org/abs/2502.13146v1</guid>
+<content:encoded><![CDATA[
+
+The emergence of large Vision Language Models (VLMs) has broadened the scope
+and capabilities of single-modal Large Language Models (LLMs) by integrating
+visual modalities, thereby unlocking transformative cross-modal applications in
+a variety of real-world scenarios. Despite their impressive performance, VLMs
+are prone to significant hallucinations, particularly in the form of
+cross-modal inconsistencies. Building on the success of Reinforcement Learning
+from Human Feedback (RLHF) in aligning LLMs, recent advancements have focused
+on applying direct preference optimization (DPO) on carefully curated datasets
+to mitigate these issues. Yet, such approaches typically introduce preference
+signals in a brute-force manner, neglecting the crucial role of visual
+information in the alignment process. In this paper, we introduce Re-Align, a
+novel alignment framework that leverages image retrieval to construct a
+dual-preference dataset, effectively incorporating both textual and visual
+preference signals. We further introduce rDPO, an extension of the standard
+direct preference optimization that incorporates an additional visual
+preference objective during fine-tuning. Our experimental results demonstrate
+that Re-Align not only mitigates hallucinations more effectively than previous
+methods but also yields significant performance gains in general visual
+question-answering (VQA) tasks. Moreover, we show that Re-Align maintains
+robustness and scalability across a wide range of VLM sizes and architectures.
+This work represents a significant step forward in aligning multimodal LLMs,
+paving the way for more reliable and effective cross-modal applications. We
+release all the code in https://github.com/taco-group/Re-Align.
+]]></content:encoded>
+<pubDate>2025-02-18T18:59:57Z</pubDate>
+<pubDate>2025-02-18T18:59:57Z</pubDate>
+</item>
+<item>
+<title>AIDE: AI-Driven Exploration in the Space of Code</title>
+<link>http://arxiv.org/abs/2502.13138v1</link>
+<guid>http://arxiv.org/abs/2502.13138v1</guid>
+<content:encoded><![CDATA[
+
+Machine learning, the foundation of modern artificial intelligence, has
+driven innovations that have fundamentally transformed the world. Yet, behind
+advancements lies a complex and often tedious process requiring labor and
+compute intensive iteration and experimentation. Engineers and scientists
+developing machine learning models spend much of their time on trial-and-error
+tasks instead of conceptualizing innovative solutions or research hypotheses.
+To address this challenge, we introduce AI-Driven Exploration (AIDE), a machine
+learning engineering agent powered by large language models (LLMs). AIDE frames
+machine learning engineering as a code optimization problem, and formulates
+trial-and-error as a tree search in the space of potential solutions. By
+strategically reusing and refining promising solutions, AIDE effectively trades
+computational resources for enhanced performance, achieving state-of-the-art
+results on multiple machine learning engineering benchmarks, including our
+Kaggle evaluations, OpenAI MLE-Bench and METRs RE-Bench.
+]]></content:encoded>
+<pubDate>2025-02-18T18:57:21Z</pubDate>
+<pubDate>2025-02-18T18:57:21Z</pubDate>
+</item>
+<item>
+<title>Sleepless Nights, Sugary Days: Creating Synthetic Users with Health
+  Conditions for Realistic Coaching Agent Interactions</title>
+<link>http://arxiv.org/abs/2502.13135v1</link>
+<guid>http://arxiv.org/abs/2502.13135v1</guid>
+<content:encoded><![CDATA[
+
+We present an end-to-end framework for generating synthetic users for
+evaluating interactive agents designed to encourage positive behavior changes,
+such as in health and lifestyle coaching. The synthetic users are grounded in
+health and lifestyle conditions, specifically sleep and diabetes management in
+this study, to ensure realistic interactions with the health coaching agent.
+Synthetic users are created in two stages: first, structured data are generated
+grounded in real-world health and lifestyle factors in addition to basic
+demographics and behavioral attributes; second, full profiles of the synthetic
+users are developed conditioned on the structured data. Interactions between
+synthetic users and the coaching agent are simulated using generative
+agent-based models such as Concordia, or directly by prompting a language
+model. Using two independently-developed agents for sleep and diabetes coaching
+as case studies, the validity of this framework is demonstrated by analyzing
+the coaching agent's understanding of the synthetic users' needs and
+challenges. Finally, through multiple blinded evaluations of user-coach
+interactions by human experts, we demonstrate that our synthetic users with
+health and behavioral attributes more accurately portray real human users with
+the same attributes, compared to generic synthetic users not grounded in such
+attributes. The proposed framework lays the foundation for efficient
+development of conversational agents through extensive, realistic, and grounded
+simulated interactions.
+]]></content:encoded>
+<pubDate>2025-02-18T18:56:44Z</pubDate>
+<pubDate>2025-02-18T18:56:44Z</pubDate>
+</item>
 
 <item>
 <title>Idiosyncrasies in Large Language Models</title>
