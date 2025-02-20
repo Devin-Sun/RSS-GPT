@@ -16551,3 +16551,18 @@ Append: [Sleepless Nights, Sugary Days: Creating Synthetic Users with Health
   Conditions for Realistic Coaching Agent Interactions](http://arxiv.org/abs/2502.13135v1)
 append_entries: 4
 Finish: 2025-02-19 12:18:13.459849
+------------------------------------------------------
+Started: 2025-02-20 00:49:48.913013
+Existing_entries: 483
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based
+  Reinforcement Learning](http://arxiv.org/abs/2502.13144v1)
+Filter: [SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and
+  Object Manipulation](http://arxiv.org/abs/2502.13143v1)
+Filter: [Pre-training Auto-regressive Robotic Models with 4D Representations](http://arxiv.org/abs/2502.13142v1)
+Filter: [UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor
+  Attacks and Adversarial Attacks in Large Language Models](http://arxiv.org/abs/2502.13141v1)
+Filter: [Towards Quantum Tensor Decomposition in Biomedical Applications](http://arxiv.org/abs/2502.13140v1)
+Filter: [Theorem Prover as a Judge for Synthetic Data Generation](http://arxiv.org/abs/2502.13137v1)
+append_entries: 0
+Finish: 2025-02-20 00:49:49.915481

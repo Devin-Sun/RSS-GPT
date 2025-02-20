@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Multimodal Mamba: Decoder-only Multimodal State Space Model via
   Quadratic to Linear Distillation</title>
 <link>http://arxiv.org/abs/2502.13145v1</link>
 <guid>http://arxiv.org/abs/2502.13145v1</guid>
 <content:encoded><![CDATA[
-
 Recent Multimodal Large Language Models (MLLMs) have achieved remarkable
 performance but face deployment challenges due to their quadratic computational
 complexity, growing Key-Value cache requirements, and reliance on separate
@@ -34,7 +34,6 @@ and 60.2% memory savings. Code and models are released at
 https://github.com/hustvl/mmMamba
 ]]></content:encoded>
 <pubDate>2025-02-18T18:59:57Z</pubDate>
-<pubDate>2025-02-18T18:59:57Z</pubDate>
 </item>
 <item>
 <title>Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct
@@ -42,7 +41,6 @@ https://github.com/hustvl/mmMamba
 <link>http://arxiv.org/abs/2502.13146v1</link>
 <guid>http://arxiv.org/abs/2502.13146v1</guid>
 <content:encoded><![CDATA[
-
 The emergence of large Vision Language Models (VLMs) has broadened the scope
 and capabilities of single-modal Large Language Models (LLMs) by integrating
 visual modalities, thereby unlocking transformative cross-modal applications in
@@ -68,14 +66,12 @@ paving the way for more reliable and effective cross-modal applications. We
 release all the code in https://github.com/taco-group/Re-Align.
 ]]></content:encoded>
 <pubDate>2025-02-18T18:59:57Z</pubDate>
-<pubDate>2025-02-18T18:59:57Z</pubDate>
 </item>
 <item>
 <title>AIDE: AI-Driven Exploration in the Space of Code</title>
 <link>http://arxiv.org/abs/2502.13138v1</link>
 <guid>http://arxiv.org/abs/2502.13138v1</guid>
 <content:encoded><![CDATA[
-
 Machine learning, the foundation of modern artificial intelligence, has
 driven innovations that have fundamentally transformed the world. Yet, behind
 advancements lies a complex and often tedious process requiring labor and
@@ -92,7 +88,6 @@ results on multiple machine learning engineering benchmarks, including our
 Kaggle evaluations, OpenAI MLE-Bench and METRs RE-Bench.
 ]]></content:encoded>
 <pubDate>2025-02-18T18:57:21Z</pubDate>
-<pubDate>2025-02-18T18:57:21Z</pubDate>
 </item>
 <item>
 <title>Sleepless Nights, Sugary Days: Creating Synthetic Users with Health
@@ -100,7 +95,6 @@ Kaggle evaluations, OpenAI MLE-Bench and METRs RE-Bench.
 <link>http://arxiv.org/abs/2502.13135v1</link>
 <guid>http://arxiv.org/abs/2502.13135v1</guid>
 <content:encoded><![CDATA[
-
 We present an end-to-end framework for generating synthetic users for
 evaluating interactive agents designed to encourage positive behavior changes,
 such as in health and lifestyle coaching. The synthetic users are grounded in
@@ -124,9 +118,7 @@ development of conversational agents through extensive, realistic, and grounded
 simulated interactions.
 ]]></content:encoded>
 <pubDate>2025-02-18T18:56:44Z</pubDate>
-<pubDate>2025-02-18T18:56:44Z</pubDate>
 </item>
-
 <item>
 <title>Idiosyncrasies in Large Language Models</title>
 <link>http://arxiv.org/abs/2502.12150v1</link>
