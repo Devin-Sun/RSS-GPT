@@ -4,6 +4,82 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Autellix: An Efficient Serving Engine for LLM Agents as General Programs</title>
+<link>http://arxiv.org/abs/2502.13965v1</link>
+<guid>http://arxiv.org/abs/2502.13965v1</guid>
+<content:encoded><![CDATA[
+
+Large language model (LLM) applications are evolving beyond simple chatbots
+into dynamic, general-purpose agentic programs, which scale LLM calls and
+output tokens to help AI agents reason, explore, and solve complex tasks.
+However, existing LLM serving systems ignore dependencies between programs and
+calls, missing significant opportunities for optimization. Our analysis reveals
+that programs submitted to LLM serving engines experience long cumulative wait
+times, primarily due to head-of-line blocking at both the individual LLM
+request and the program. To address this, we introduce Autellix, an LLM serving
+system that treats programs as first-class citizens to minimize their
+end-to-end latencies. Autellix intercepts LLM calls submitted by programs,
+enriching schedulers with program-level context. We propose two scheduling
+algorithms-for single-threaded and distributed programs-that preempt and
+prioritize LLM calls based on their programs' previously completed calls. Our
+evaluation demonstrates that across diverse LLMs and agentic workloads,
+Autellix improves throughput of programs by 4-15x at the same latency compared
+to state-of-the-art systems, such as vLLM.
+]]></content:encoded>
+<pubDate>2025-02-19T18:59:30Z</pubDate>
+<pubDate>2025-02-19T18:59:30Z</pubDate>
+</item>
+<item>
+<title>LIDDIA: Language-based Intelligent Drug Discovery Agent</title>
+<link>http://arxiv.org/abs/2502.13959v1</link>
+<guid>http://arxiv.org/abs/2502.13959v1</guid>
+<content:encoded><![CDATA[
+
+Drug discovery is a long, expensive, and complex process, relying heavily on
+human medicinal chemists, who can spend years searching the vast space of
+potential therapies. Recent advances in artificial intelligence for chemistry
+have sought to expedite individual drug discovery tasks; however, there remains
+a critical need for an intelligent agent that can navigate the drug discovery
+process. Towards this end, we introduce LIDDiA, an autonomous agent capable of
+intelligently navigating the drug discovery process in silico. By leveraging
+the reasoning capabilities of large language models, LIDDiA serves as a
+low-cost and highly-adaptable tool for autonomous drug discovery. We
+comprehensively examine LIDDiA, demonstrating that (1) it can generate
+molecules meeting key pharmaceutical criteria on over 70% of 30 clinically
+relevant targets, (2) it intelligently balances exploration and exploitation in
+the chemical space, and (3) it can identify promising novel drug candidates on
+EGFR, a critical target for cancers.
+]]></content:encoded>
+<pubDate>2025-02-19T18:56:12Z</pubDate>
+<pubDate>2025-02-19T18:56:12Z</pubDate>
+</item>
+<item>
+<title>RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision</title>
+<link>http://arxiv.org/abs/2502.13957v1</link>
+<guid>http://arxiv.org/abs/2502.13957v1</guid>
+<content:encoded><![CDATA[
+
+Retrieval-augmented generation (RAG) has shown great potential for
+knowledge-intensive tasks, but its traditional architectures rely on static
+retrieval, limiting their effectiveness for complex questions that require
+sequential information-seeking. While agentic reasoning and search offer a more
+adaptive approach, most existing methods depend heavily on prompt engineering.
+In this work, we introduce RAG-Gym, a unified optimization framework that
+enhances information-seeking agents through fine-grained process supervision at
+each search step. We also propose ReSearch, a novel agent architecture that
+synergizes answer reasoning and search query generation within the RAG-Gym
+framework. Experiments on four challenging datasets show that RAG-Gym improves
+performance by up to 25.6\% across various agent architectures, with ReSearch
+consistently outperforming existing baselines. Further analysis highlights the
+effectiveness of advanced LLMs as process reward judges and the transferability
+of trained reward models as verifiers for different LLMs. Additionally, we
+examine the scaling properties of training and inference in agentic RAG. The
+project homepage is available at https://rag-gym.github.io/.
+]]></content:encoded>
+<pubDate>2025-02-19T18:56:03Z</pubDate>
+<pubDate>2025-02-19T18:56:03Z</pubDate>
+</item>
 
 <item>
 <title>Multimodal Mamba: Decoder-only Multimodal State Space Model via

@@ -16566,3 +16566,28 @@ Filter: [Towards Quantum Tensor Decomposition in Biomedical Applications](http:/
 Filter: [Theorem Prover as a Judge for Synthetic Data Generation](http://arxiv.org/abs/2502.13137v1)
 append_entries: 0
 Finish: 2025-02-20 00:49:49.915481
+------------------------------------------------------
+Started: 2025-02-20 12:19:30.114311
+Existing_entries: 483
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Betsu-Betsu: Multi-View Separable 3D Reconstruction of Two Interacting
+  Objects](http://arxiv.org/abs/2502.13968v1)
+Filter: [FlexTok: Resampling Images into 1D Token Sequences of Flexible Length](http://arxiv.org/abs/2502.13967v1)
+Filter: [Where's the Bug? Attention Probing for Scalable Fault Localization](http://arxiv.org/abs/2502.13966v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autellix: An Efficient Serving Engine for LLM Agents as General Programs](http://arxiv.org/abs/2502.13965v1)
+Filter: [A Training-Free Framework for Precise Mobile Manipulation of Small
+  Everyday Objects](http://arxiv.org/abs/2502.13964v1)
+Filter: [MuDAF: Long-Context Multi-Document Attention Focusing through
+  Contrastive Learning on Attention Heads](http://arxiv.org/abs/2502.13963v1)
+Filter: [Is That Your Final Answer? Test-Time Scaling Improves Selective Question
+  Answering](http://arxiv.org/abs/2502.13962v1)
+Filter: [The Computational Advantage of Depth: Learning High-Dimensional
+  Hierarchical Functions with Gradient Descent](http://arxiv.org/abs/2502.13961v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LIDDIA: Language-based Intelligent Drug Discovery Agent](http://arxiv.org/abs/2502.13959v1)
+Append: [RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision](http://arxiv.org/abs/2502.13957v1)
+append_entries: 3
+Finish: 2025-02-20 12:19:30.987606
