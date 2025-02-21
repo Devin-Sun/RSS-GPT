@@ -16609,3 +16609,27 @@ Filter: [The Computational Advantage of Depth: Learning High-Dimensional
   Hierarchical Functions with Gradient Descent](http://arxiv.org/abs/2502.13961v1)
 append_entries: 0
 Finish: 2025-02-21 00:49:55.813969
+------------------------------------------------------
+Started: 2025-02-21 12:19:20.800854
+Existing_entries: 486
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LServe: Efficient Long-sequence LLM Serving with Unified Sparse
+  Attention](http://arxiv.org/abs/2502.14866v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical
+  and Cultural Artifacts](http://arxiv.org/abs/2502.14865v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Benchmarking Multimodal RAG through a Chart-based Document
+  Question-Answering Generation Framework](http://arxiv.org/abs/2502.14864v1)
+Filter: [Interpretable Text Embeddings and Text Similarity Explanation: A Primer](http://arxiv.org/abs/2502.14862v1)
+Filter: [Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning](http://arxiv.org/abs/2502.14860v1)
+Filter: [FR-Spec: Accelerating Large-Vocabulary Language Models via
+  Frequency-Ranked Speculative Sampling](http://arxiv.org/abs/2502.14856v1)
+Filter: [Prompt-to-Leaderboard](http://arxiv.org/abs/2502.14855v1)
+Filter: [CLIPPER: Compression enables long-context synthetic data generation](http://arxiv.org/abs/2502.14854v1)
+Filter: [On the $H$-property for Step-graphons: Residual Case](http://arxiv.org/abs/2502.14853v1)
+Append: [GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](http://arxiv.org/abs/2502.14848v1)
+append_entries: 3
+Finish: 2025-02-21 12:19:22.632780

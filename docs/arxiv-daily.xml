@@ -4,6 +4,89 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical
+  and Cultural Artifacts</title>
+<link>http://arxiv.org/abs/2502.14865v1</link>
+<guid>http://arxiv.org/abs/2502.14865v1</guid>
+<content:encoded><![CDATA[
+
+Understanding historical and cultural artifacts demands human expertise and
+advanced computational techniques, yet the process remains complex and
+time-intensive. While large multimodal models offer promising support, their
+evaluation and improvement require a standardized benchmark. To address this,
+we introduce TimeTravel, a benchmark of 10,250 expert-verified samples spanning
+266 distinct cultures across 10 major historical regions. Designed for
+AI-driven analysis of manuscripts, artworks, inscriptions, and archaeological
+discoveries, TimeTravel provides a structured dataset and robust evaluation
+framework to assess AI models' capabilities in classification, interpretation,
+and historical comprehension. By integrating AI with historical research,
+TimeTravel fosters AI-powered tools for historians, archaeologists,
+researchers, and cultural tourists to extract valuable insights while ensuring
+technology contributes meaningfully to historical discovery and cultural
+heritage preservation. We evaluate contemporary AI models on TimeTravel,
+highlighting their strengths and identifying areas for improvement. Our goal is
+to establish AI as a reliable partner in preserving cultural heritage, ensuring
+that technological advancements contribute meaningfully to historical
+discovery. Our code is available at:
+\url{https://github.com/mbzuai-oryx/TimeTravel}.
+]]></content:encoded>
+<pubDate>2025-02-20T18:59:51Z</pubDate>
+<pubDate>2025-02-20T18:59:51Z</pubDate>
+</item>
+<item>
+<title>Benchmarking Multimodal RAG through a Chart-based Document
+  Question-Answering Generation Framework</title>
+<link>http://arxiv.org/abs/2502.14864v1</link>
+<guid>http://arxiv.org/abs/2502.14864v1</guid>
+<content:encoded><![CDATA[
+
+Multimodal Retrieval-Augmented Generation (MRAG) enhances reasoning
+capabilities by integrating external knowledge. However, existing benchmarks
+primarily focus on simple image-text interactions, overlooking complex visual
+formats like charts that are prevalent in real-world applications. In this
+work, we introduce a novel task, Chart-based MRAG, to address this limitation.
+To semi-automatically generate high-quality evaluation samples, we propose
+CHARt-based document question-answering GEneration (CHARGE), a framework that
+produces evaluation data through structured keypoint extraction, crossmodal
+verification, and keypoint-based generation. By combining CHARGE with expert
+validation, we construct Chart-MRAG Bench, a comprehensive benchmark for
+chart-based MRAG evaluation, featuring 4,738 question-answering pairs across 8
+domains from real-world documents. Our evaluation reveals three critical
+limitations in current approaches: (1) unified multimodal embedding retrieval
+methods struggles in chart-based scenarios, (2) even with ground-truth
+retrieval, state-of-the-art MLLMs achieve only 58.19% Correctness and 73.87%
+Coverage scores, and (3) MLLMs demonstrate consistent text-over-visual modality
+bias during Chart-based MRAG reasoning. The CHARGE and Chart-MRAG Bench are
+released at https://github.com/Nomothings/CHARGE.git.
+]]></content:encoded>
+<pubDate>2025-02-20T18:59:42Z</pubDate>
+<pubDate>2025-02-20T18:59:42Z</pubDate>
+</item>
+<item>
+<title>GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks</title>
+<link>http://arxiv.org/abs/2502.14848v1</link>
+<guid>http://arxiv.org/abs/2502.14848v1</guid>
+<content:encoded><![CDATA[
+
+Large Language Models (LLMs) have shown great promise in tool-making, yet
+existing frameworks often struggle to efficiently construct reliable toolsets
+and are limited to single-task settings. To address these challenges, we
+propose GATE (Graph-based Adaptive Tool Evolution), an adaptive framework that
+dynamically constructs and evolves a hierarchical graph of reusable tools
+across multiple scenarios. We evaluate GATE on open-ended tasks (Minecraft),
+agent-based tasks (TextCraft, DABench), and code generation tasks (MATH, Date,
+TabMWP). Our results show that GATE achieves up to 4.3x faster milestone
+completion in Minecraft compared to the previous SOTA, and provides an average
+improvement of 9.23% over existing tool-making methods in code generation tasks
+and 10.03% in agent tasks. GATE demonstrates the power of adaptive evolution,
+balancing tool quantity, complexity, and functionality while maintaining high
+efficiency. Code and data are available at
+\url{https://github.com/ayanami2003/GATE}.
+]]></content:encoded>
+<pubDate>2025-02-20T18:56:03Z</pubDate>
+<pubDate>2025-02-20T18:56:03Z</pubDate>
+</item>
 
 <item>
 <title>Autellix: An Efficient Serving Engine for LLM Agents as General Programs</title>
