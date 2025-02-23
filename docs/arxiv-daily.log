@@ -16678,3 +16678,18 @@ Filter: [CLIPPER: Compression enables long-context synthetic data generation](ht
 Filter: [On the $H$-property for Step-graphons: Residual Case](http://arxiv.org/abs/2502.14853v1)
 append_entries: 0
 Finish: 2025-02-23 00:53:44.955118
+------------------------------------------------------
+Started: 2025-02-23 12:17:04.672509
+Existing_entries: 489
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LServe: Efficient Long-sequence LLM Serving with Unified Sparse
+  Attention](http://arxiv.org/abs/2502.14866v1)
+Filter: [Interpretable Text Embeddings and Text Similarity Explanation: A Primer](http://arxiv.org/abs/2502.14862v1)
+Filter: [Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning](http://arxiv.org/abs/2502.14860v1)
+Filter: [FR-Spec: Accelerating Large-Vocabulary Language Models via
+  Frequency-Ranked Speculative Sampling](http://arxiv.org/abs/2502.14856v1)
+Filter: [Prompt-to-Leaderboard](http://arxiv.org/abs/2502.14855v1)
+Filter: [CLIPPER: Compression enables long-context synthetic data generation](http://arxiv.org/abs/2502.14854v1)
+Filter: [On the $H$-property for Step-graphons: Residual Case](http://arxiv.org/abs/2502.14853v1)
+append_entries: 0
+Finish: 2025-02-23 12:17:05.734384
