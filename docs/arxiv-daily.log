@@ -16701,3 +16701,27 @@ Filter: [LServe: Efficient Long-sequence LLM Serving with Unified Sparse
   Attention](http://arxiv.org/abs/2502.14866v1)
 append_entries: 0
 Finish: 2025-02-24 00:51:44.573216
+------------------------------------------------------
+Started: 2025-02-24 12:20:05.595000
+Existing_entries: 489
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval](http://arxiv.org/abs/2502.15682v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One-step Diffusion Models with $f$-Divergence Distribution Matching](http://arxiv.org/abs/2502.15681v1)
+Filter: [Privacy Ripple Effects from Adding or Removing Personal Information in
+  Language Model Training](http://arxiv.org/abs/2502.15680v1)
+Filter: [BOSS: Benchmark for Observation Space Shift in Long-Horizon Task](http://arxiv.org/abs/2502.15679v1)
+Filter: [Testing the limits of fine-tuning to improve reasoning in vision
+  language models](http://arxiv.org/abs/2502.15678v1)
+Filter: [FLEKE: Federated Locate-then-Edit Knowledge Editing](http://arxiv.org/abs/2502.15677v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AutoToM: Automated Bayesian Inverse Planning and Model Discovery for
+  Open-ended Theory of Mind](http://arxiv.org/abs/2502.15676v1)
+Filter: [Exploring subgraph complementation to bounded degree graphs](http://arxiv.org/abs/2502.15675v1)
+Filter: [VaViM and VaVAM: Autonomous Driving through Video Generative Modeling](http://arxiv.org/abs/2502.15672v1)
+Filter: [Probabilistic Formulations for System Identification of Linear Dynamics
+  with Bilinear Observation Models](http://arxiv.org/abs/2502.15667v1)
+append_entries: 2
+Finish: 2025-02-24 12:20:09.548384
