@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>One-step Diffusion Models with $f$-Divergence Distribution Matching</title>
 <link>http://arxiv.org/abs/2502.15681v1</link>
 <guid>http://arxiv.org/abs/2502.15681v1</guid>
 <content:encoded><![CDATA[
-
 Sampling from diffusion models involves a slow iterative process that hinders
 their practical deployment, especially for interactive applications. To
 accelerate generation speed, recent approaches distill a multi-step diffusion
@@ -36,7 +36,6 @@ text-to-image generation on MS-COCO. Project page:
 https://research.nvidia.com/labs/genair/f-distill
 ]]></content:encoded>
 <pubDate>2025-02-21T18:59:20Z</pubDate>
-<pubDate>2025-02-21T18:59:20Z</pubDate>
 </item>
 <item>
 <title>AutoToM: Automated Bayesian Inverse Planning and Model Discovery for
@@ -44,7 +43,6 @@ https://research.nvidia.com/labs/genair/f-distill
 <link>http://arxiv.org/abs/2502.15676v1</link>
 <guid>http://arxiv.org/abs/2502.15676v1</guid>
 <content:encoded><![CDATA[
-
 Theory of Mind (ToM), the ability to understand people's mental variables
 based on their behavior, is key to developing socially intelligent agents.
 Current approaches to Theory of Mind reasoning either rely on prompting Large
@@ -64,9 +62,7 @@ achieves state-of-the-art performance, offering a scalable, robust, and
 interpretable approach to machine Theory of Mind.
 ]]></content:encoded>
 <pubDate>2025-02-21T18:57:52Z</pubDate>
-<pubDate>2025-02-21T18:57:52Z</pubDate>
 </item>
-
 <item>
 <title>Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical
   and Cultural Artifacts</title>
