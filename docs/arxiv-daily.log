@@ -16762,3 +16762,20 @@ Filter: [Emergent Misalignment: Narrow finetuning can produce broadly misaligned
 Filter: [S4S: Solving for a Diffusion Model Solver](http://arxiv.org/abs/2502.17423v1)
 append_entries: 1
 Finish: 2025-02-25 12:19:54.948759
+------------------------------------------------------
+Started: 2025-02-26 00:50:41.461780
+Existing_entries: 492
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards Hierarchical Rectified Flow](http://arxiv.org/abs/2502.17436v1)
+Filter: [GCC: Generative Color Constancy via Diffusing a Color Checker](http://arxiv.org/abs/2502.17435v1)
+Filter: [V-HOP: Visuo-Haptic 6D Object Pose Tracking](http://arxiv.org/abs/2502.17434v1)
+Filter: [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy
+  Learning](http://arxiv.org/abs/2502.17432v1)
+Filter: [CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation](http://arxiv.org/abs/2502.17429v1)
+Filter: [Stronger Neyman Regret Guarantees for Adaptive Experimental Design](http://arxiv.org/abs/2502.17427v1)
+Filter: [Introducing Visual Perception Token into Multimodal Large Language Model](http://arxiv.org/abs/2502.17425v1)
+Filter: [Emergent Misalignment: Narrow finetuning can produce broadly misaligned
+  LLMs](http://arxiv.org/abs/2502.17424v1)
+Filter: [S4S: Solving for a Diffusion Model Solver](http://arxiv.org/abs/2502.17423v1)
+append_entries: 0
+Finish: 2025-02-26 00:50:43.483999
