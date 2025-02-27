@@ -16801,3 +16801,25 @@ Filter: [Disambiguate First Parse Later: Generating Interpretations for Ambiguit
   Resolution in Semantic Parsing](http://arxiv.org/abs/2502.18448v1)
 append_entries: 0
 Finish: 2025-02-26 12:20:12.689176
+------------------------------------------------------
+Started: 2025-02-27 00:50:42.083886
+Existing_entries: 492
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Allocating Variance to Maximize Expectation](http://arxiv.org/abs/2502.18463v1)
+Filter: [Scalable Equilibrium Sampling with Sequential Boltzmann Generators](http://arxiv.org/abs/2502.18462v1)
+Filter: [K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs](http://arxiv.org/abs/2502.18461v1)
+Filter: [DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense
+  Retrievers](http://arxiv.org/abs/2502.18460v1)
+Filter: [LLM-Based Design Pattern Detection](http://arxiv.org/abs/2502.18458v1)
+Filter: [Assessing the Maturity of Cybersecurity Education in Virginia and the
+  Impact of State Level Investment](http://arxiv.org/abs/2502.18456v1)
+Filter: [Evaluating the Effectiveness of Small Language Models in Detecting
+  Refactoring Bugs](http://arxiv.org/abs/2502.18454v1)
+Filter: [FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in
+  Object-Based Common Sense Reasoning for Disaster Response](http://arxiv.org/abs/2502.18452v1)
+Filter: [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open
+  Software Evolution](http://arxiv.org/abs/2502.18449v1)
+Filter: [Disambiguate First Parse Later: Generating Interpretations for Ambiguity
+  Resolution in Semantic Parsing](http://arxiv.org/abs/2502.18448v1)
+append_entries: 0
+Finish: 2025-02-27 00:50:43.048288
