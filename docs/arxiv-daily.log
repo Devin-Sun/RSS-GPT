@@ -16823,3 +16823,31 @@ Filter: [Disambiguate First Parse Later: Generating Interpretations for Ambiguit
   Resolution in Semantic Parsing](http://arxiv.org/abs/2502.18448v1)
 append_entries: 0
 Finish: 2025-02-27 00:50:43.048288
+------------------------------------------------------
+Started: 2025-02-27 12:19:52.199523
+Existing_entries: 492
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Hi Robot: Open-Ended Instruction Following with Hierarchical
+  Vision-Language-Action Models](http://arxiv.org/abs/2502.19417v1)
+Filter: [Norm Growth and Stability Challenges in Localized Sequential Knowledge
+  Editing](http://arxiv.org/abs/2502.19416v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Can Language Models Falsify? Evaluating Algorithmic Reasoning with
+  Counterexample Creation](http://arxiv.org/abs/2502.19414v1)
+Filter: [Project Alexandria: Towards Freeing Scientific Knowledge from Copyright
+  Burdens via LLMs](http://arxiv.org/abs/2502.19413v1)
+Filter: [The Mighty ToRR: A Benchmark for Table Reasoning and Robustness](http://arxiv.org/abs/2502.19412v1)
+Filter: [Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and
+  Reasoning-Driven Code Intelligence in LLMs](http://arxiv.org/abs/2502.19411v1)
+Filter: [Less or More: Towards Glanceable Explanations for LLM Recommendations
+  Using Ultra-Small Devices](http://arxiv.org/abs/2502.19410v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal
+  Large Language Models](http://arxiv.org/abs/2502.19409v1)
+Filter: [Learning Code-Edit Embedding to Model Student Debugging Behavior](http://arxiv.org/abs/2502.19407v1)
+Filter: [Verde: Verification via Refereed Delegation for Machine Learning
+  Programs](http://arxiv.org/abs/2502.19405v1)
+append_entries: 2
+Finish: 2025-02-27 12:19:53.041989
