@@ -4,6 +4,94 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts</title>
+<link>http://arxiv.org/abs/2502.20395v1</link>
+<guid>http://arxiv.org/abs/2502.20395v1</guid>
+<content:encoded><![CDATA[
+
+In large multimodal models (LMMs), the perception of non-language modalities
+(e.g., visual representations) is usually not on par with the large language
+models (LLMs)' powerful reasoning capabilities, deterring LMMs' performance on
+challenging downstream tasks. This weakness has been recently mitigated by
+replacing the vision encoder with a mixture-of-experts (MoE), which provides
+rich, multi-granularity, and diverse representations required by diverse
+downstream tasks. The performance of multimodal MoE largely depends on its
+router, which reweights and mixes the representations of different experts for
+each input. However, we find that the end-to-end trained router does not always
+produce the optimal routing weights for every test sample. To bridge the gap,
+we propose a novel and efficient method "Re-Routing in Test-Time(R2-T2) that
+locally optimizes the vector of routing weights in test-time by moving it
+toward those vectors of the correctly predicted samples in a neighborhood of
+the test sample. We propose three R2-T2 strategies with different optimization
+objectives and neighbor-search spaces. R2-T2 consistently and greatly improves
+state-of-the-art LMMs' performance on challenging benchmarks of diverse tasks,
+without training any base-model parameters.
+]]></content:encoded>
+<pubDate>2025-02-27T18:59:32Z</pubDate>
+<pubDate>2025-02-27T18:59:32Z</pubDate>
+</item>
+<item>
+<title>Walking the Web of Concept-Class Relationships in Incrementally Trained
+  Interpretable Models</title>
+<link>http://arxiv.org/abs/2502.20393v1</link>
+<guid>http://arxiv.org/abs/2502.20393v1</guid>
+<content:encoded><![CDATA[
+
+Concept-based methods have emerged as a promising direction to develop
+interpretable neural networks in standard supervised settings. However, most
+works that study them in incremental settings assume either a static concept
+set across all experiences or assume that each experience relies on a distinct
+set of concepts. In this work, we study concept-based models in a more
+realistic, dynamic setting where new classes may rely on older concepts in
+addition to introducing new concepts themselves. We show that concepts and
+classes form a complex web of relationships, which is susceptible to
+degradation and needs to be preserved and augmented across experiences. We
+introduce new metrics to show that existing concept-based models cannot
+preserve these relationships even when trained using methods to prevent
+catastrophic forgetting, since they cannot handle forgetting at concept, class,
+and concept-class relationship levels simultaneously. To address these issues,
+we propose a novel method - MuCIL - that uses multimodal concepts to perform
+classification without increasing the number of trainable parameters across
+experiences. The multimodal concepts are aligned to concepts provided in
+natural language, making them interpretable by design. Through extensive
+experimentation, we show that our approach obtains state-of-the-art
+classification performance compared to other concept-based models, achieving
+over 2$\times$ the classification performance in some cases. We also study the
+ability of our model to perform interventions on concepts, and show that it can
+localize visual concepts in input images, providing post-hoc interpretations.
+]]></content:encoded>
+<pubDate>2025-02-27T18:59:29Z</pubDate>
+<pubDate>2025-02-27T18:59:29Z</pubDate>
+</item>
+<item>
+<title>Point Policy: Unifying Observations and Actions with Key Points for
+  Robot Manipulation</title>
+<link>http://arxiv.org/abs/2502.20391v1</link>
+<guid>http://arxiv.org/abs/2502.20391v1</guid>
+<content:encoded><![CDATA[
+
+Building robotic agents capable of operating across diverse environments and
+object types remains a significant challenge, often requiring extensive data
+collection. This is particularly restrictive in robotics, where each data point
+must be physically executed in the real world. Consequently, there is a
+critical need for alternative data sources for robotics and frameworks that
+enable learning from such data. In this work, we present Point Policy, a new
+method for learning robot policies exclusively from offline human demonstration
+videos and without any teleoperation data. Point Policy leverages
+state-of-the-art vision models and policy architectures to translate human hand
+poses into robot poses while capturing object states through semantically
+meaningful key points. This approach yields a morphology-agnostic
+representation that facilitates effective policy learning. Our experiments on 8
+real-world tasks demonstrate an overall 75% absolute improvement over prior
+works when evaluated in identical settings as training. Further, Point Policy
+exhibits a 74% gain across tasks for novel object instances and is robust to
+significant background clutter. Videos of the robot are best viewed at
+https://point-policy.github.io/.
+]]></content:encoded>
+<pubDate>2025-02-27T18:59:18Z</pubDate>
+<pubDate>2025-02-27T18:59:18Z</pubDate>
+</item>
 
 <item>
 <title>Can Language Models Falsify? Evaluating Algorithmic Reasoning with
