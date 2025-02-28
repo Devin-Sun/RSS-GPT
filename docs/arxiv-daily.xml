@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Can Language Models Falsify? Evaluating Algorithmic Reasoning with
   Counterexample Creation</title>
 <link>http://arxiv.org/abs/2502.19414v1</link>
 <guid>http://arxiv.org/abs/2502.19414v1</guid>
 <content:encoded><![CDATA[
-
 There is growing excitement about the potential of Language Models (LMs) to
 accelerate scientific discovery. Falsifying hypotheses is key to scientific
 progress, as it allows claims to be iteratively refined over time. This process
@@ -33,7 +33,6 @@ accelerating research and making models self-improve through reliable
 reflective reasoning.
 ]]></content:encoded>
 <pubDate>2025-02-26T18:58:13Z</pubDate>
-<pubDate>2025-02-26T18:58:13Z</pubDate>
 </item>
 <item>
 <title>ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal
@@ -41,7 +40,6 @@ reflective reasoning.
 <link>http://arxiv.org/abs/2502.19409v1</link>
 <guid>http://arxiv.org/abs/2502.19409v1</guid>
 <content:encoded><![CDATA[
-
 Reasoning over sequences of images remains a challenge for multimodal large
 language models (MLLMs). While recent models incorporate multi-image data
 during pre-training, they still struggle to recognize sequential structures,
@@ -63,9 +61,7 @@ bridging the gap between static image understanding and temporally-aware
 reasoning.
 ]]></content:encoded>
 <pubDate>2025-02-26T18:55:06Z</pubDate>
-<pubDate>2025-02-26T18:55:06Z</pubDate>
 </item>
-
 <item>
 <title>Fractal Generative Models</title>
 <link>http://arxiv.org/abs/2502.17437v1</link>
