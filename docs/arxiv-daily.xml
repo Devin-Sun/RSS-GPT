@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts</title>
 <link>http://arxiv.org/abs/2502.20395v1</link>
 <guid>http://arxiv.org/abs/2502.20395v1</guid>
 <content:encoded><![CDATA[
-
 In large multimodal models (LMMs), the perception of non-language modalities
 (e.g., visual representations) is usually not on par with the large language
 models (LLMs)' powerful reasoning capabilities, deterring LMMs' performance on
@@ -29,7 +29,6 @@ state-of-the-art LMMs' performance on challenging benchmarks of diverse tasks,
 without training any base-model parameters.
 ]]></content:encoded>
 <pubDate>2025-02-27T18:59:32Z</pubDate>
-<pubDate>2025-02-27T18:59:32Z</pubDate>
 </item>
 <item>
 <title>Walking the Web of Concept-Class Relationships in Incrementally Trained
@@ -37,7 +36,6 @@ without training any base-model parameters.
 <link>http://arxiv.org/abs/2502.20393v1</link>
 <guid>http://arxiv.org/abs/2502.20393v1</guid>
 <content:encoded><![CDATA[
-
 Concept-based methods have emerged as a promising direction to develop
 interpretable neural networks in standard supervised settings. However, most
 works that study them in incremental settings assume either a static concept
@@ -62,7 +60,6 @@ ability of our model to perform interventions on concepts, and show that it can
 localize visual concepts in input images, providing post-hoc interpretations.
 ]]></content:encoded>
 <pubDate>2025-02-27T18:59:29Z</pubDate>
-<pubDate>2025-02-27T18:59:29Z</pubDate>
 </item>
 <item>
 <title>Point Policy: Unifying Observations and Actions with Key Points for
@@ -70,7 +67,6 @@ localize visual concepts in input images, providing post-hoc interpretations.
 <link>http://arxiv.org/abs/2502.20391v1</link>
 <guid>http://arxiv.org/abs/2502.20391v1</guid>
 <content:encoded><![CDATA[
-
 Building robotic agents capable of operating across diverse environments and
 object types remains a significant challenge, often requiring extensive data
 collection. This is particularly restrictive in robotics, where each data point
@@ -90,9 +86,7 @@ significant background clutter. Videos of the robot are best viewed at
 https://point-policy.github.io/.
 ]]></content:encoded>
 <pubDate>2025-02-27T18:59:18Z</pubDate>
-<pubDate>2025-02-27T18:59:18Z</pubDate>
 </item>
-
 <item>
 <title>Can Language Models Falsify? Evaluating Algorithmic Reasoning with
   Counterexample Creation</title>
