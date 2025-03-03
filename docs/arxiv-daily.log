@@ -16970,3 +16970,21 @@ Filter: [InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](ht
 Filter: [ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting](http://arxiv.org/abs/2502.20386v1)
 append_entries: 0
 Finish: 2025-03-02 12:17:00.009831
+------------------------------------------------------
+Started: 2025-03-03 00:52:55.306023
+Existing_entries: 497
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Sim-to-Real Reinforcement Learning for Vision-Based Dexterous
+  Manipulation on Humanoids](http://arxiv.org/abs/2502.20396v1)
+Filter: [Scalable Signature Kernel Computations for Long Time Series via Local
+  Neumann Series Expansions](http://arxiv.org/abs/2502.20392v1)
+Filter: [InterMimic: Towards Universal Whole-Body Control for Physics-Based
+  Human-Object Interactions](http://arxiv.org/abs/2502.20390v1)
+Filter: [LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language
+  Grounding](http://arxiv.org/abs/2502.20389v1)
+Filter: [Beyond Next-Token: Next-X Prediction for Autoregressive Visual
+  Generation](http://arxiv.org/abs/2502.20388v1)
+Filter: [InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](http://arxiv.org/abs/2502.20387v1)
+Filter: [ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting](http://arxiv.org/abs/2502.20386v1)
+append_entries: 0
+Finish: 2025-03-03 00:52:56.255489
