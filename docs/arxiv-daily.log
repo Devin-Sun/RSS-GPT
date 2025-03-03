@@ -16988,3 +16988,25 @@ Filter: [InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](ht
 Filter: [ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting](http://arxiv.org/abs/2502.20386v1)
 append_entries: 0
 Finish: 2025-03-03 00:52:56.255489
+------------------------------------------------------
+Started: 2025-03-03 12:20:04.354673
+Existing_entries: 497
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](http://arxiv.org/abs/2502.21321v1)
+Filter: [TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle
+  CT Reconstruction](http://arxiv.org/abs/2502.21320v1)
+Filter: [How far can we go with ImageNet for Text-to-Image generation?](http://arxiv.org/abs/2502.21318v1)
+Filter: [Identifying Emerging Concepts in Large Corpora](http://arxiv.org/abs/2502.21315v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating
+  Videos](http://arxiv.org/abs/2502.21314v1)
+Filter: [Unsupervised Parameter Efficient Source-free Post-pretraining](http://arxiv.org/abs/2502.21313v1)
+Filter: [AutoComb: Automated Comb Sign Detector for 3D CTE Scans](http://arxiv.org/abs/2502.21311v1)
+Filter: [FANformer: Improving Large Language Models Through Effective Periodicity
+  Modeling](http://arxiv.org/abs/2502.21309v1)
+Filter: [State-Dependent Conformal Perception Bounds for Neuro-Symbolic
+  Verification of Autonomous Systems](http://arxiv.org/abs/2502.21308v1)
+Filter: [Clustering Context in Off-Policy Evaluation](http://arxiv.org/abs/2502.21304v1)
+append_entries: 1
+Finish: 2025-03-03 12:20:05.642134
