@@ -17010,3 +17010,21 @@ Filter: [State-Dependent Conformal Perception Bounds for Neuro-Symbolic
 Filter: [Clustering Context in Off-Policy Evaluation](http://arxiv.org/abs/2502.21304v1)
 append_entries: 1
 Finish: 2025-03-03 12:20:05.642134
+------------------------------------------------------
+Started: 2025-03-04 00:51:37.456487
+Existing_entries: 498
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](http://arxiv.org/abs/2502.21321v1)
+Filter: [TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle
+  CT Reconstruction](http://arxiv.org/abs/2502.21320v1)
+Filter: [How far can we go with ImageNet for Text-to-Image generation?](http://arxiv.org/abs/2502.21318v1)
+Filter: [Identifying Emerging Concepts in Large Corpora](http://arxiv.org/abs/2502.21315v1)
+Filter: [Unsupervised Parameter Efficient Source-free Post-pretraining](http://arxiv.org/abs/2502.21313v1)
+Filter: [AutoComb: Automated Comb Sign Detector for 3D CTE Scans](http://arxiv.org/abs/2502.21311v1)
+Filter: [FANformer: Improving Large Language Models Through Effective Periodicity
+  Modeling](http://arxiv.org/abs/2502.21309v1)
+Filter: [State-Dependent Conformal Perception Bounds for Neuro-Symbolic
+  Verification of Autonomous Systems](http://arxiv.org/abs/2502.21308v1)
+Filter: [Clustering Context in Off-Policy Evaluation](http://arxiv.org/abs/2502.21304v1)
+append_entries: 0
+Finish: 2025-03-04 00:51:38.869338
