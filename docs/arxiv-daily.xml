@@ -4,6 +4,62 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models</title>
+<link>http://arxiv.org/abs/2503.02883v1</link>
+<guid>http://arxiv.org/abs/2503.02883v1</guid>
+<content:encoded><![CDATA[
+
+Existing autoregressive (AR) image generative models use a token-by-token
+generation schema. That is, they predict a per-token probability distribution
+and sample the next token from that distribution. The main challenge is how to
+model the complex distribution of high-dimensional tokens. Previous methods
+either are too simplistic to fit the distribution or result in slow generation
+speed. Instead of fitting the distribution of the whole tokens, we explore
+using a AR model to generate each token in a feature-by-feature way, i.e.,
+taking the generated features as input and generating the next feature. Based
+on that, we propose ARINAR (AR-in-AR), a bi-level AR model. The outer AR layer
+take previous tokens as input, predicts a condition vector z for the next
+token. The inner layer, conditional on z, generates features of the next token
+autoregressively. In this way, the inner layer only needs to model the
+distribution of a single feature, for example, using a simple Gaussian Mixture
+Model. On the ImageNet 256x256 image generation task, ARINAR-B with 213M
+parameters achieves an FID of 2.75, which is comparable to the state-of-the-art
+MAR-B model (FID=2.31), while five times faster than the latter.
+]]></content:encoded>
+<pubDate>2025-03-04T18:59:56Z</pubDate>
+<pubDate>2025-03-04T18:59:56Z</pubDate>
+</item>
+<item>
+<title>SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and
+  Baseline Models</title>
+<link>http://arxiv.org/abs/2503.02876v1</link>
+<guid>http://arxiv.org/abs/2503.02876v1</guid>
+<content:encoded><![CDATA[
+
+Advancing AI in computational pathology requires large, high-quality, and
+diverse datasets, yet existing public datasets are often limited in organ
+diversity, class coverage, or annotation quality. To bridge this gap, we
+introduce SPIDER (Supervised Pathology Image-DEscription Repository), the
+largest publicly available patch-level dataset covering multiple organ types,
+including Skin, Colorectal, and Thorax, with comprehensive class coverage for
+each organ. SPIDER provides high-quality annotations verified by expert
+pathologists and includes surrounding context patches, which enhance
+classification performance by providing spatial context.
+  Alongside the dataset, we present baseline models trained on SPIDER using the
+Hibou-L foundation model as a feature extractor combined with an
+attention-based classification head. The models achieve state-of-the-art
+performance across multiple tissue categories and serve as strong benchmarks
+for future digital pathology research. Beyond patch classification, the model
+enables rapid identification of significant areas, quantitative tissue metrics,
+and establishes a foundation for multimodal approaches.
+  Both the dataset and trained models are publicly available to advance
+research, reproducibility, and AI-driven pathology development. Access them at:
+https://github.com/HistAI/SPIDER
+]]></content:encoded>
+<pubDate>2025-03-04T18:57:12Z</pubDate>
+<pubDate>2025-03-04T18:57:12Z</pubDate>
+</item>
 
 <item>
 <title>Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating
