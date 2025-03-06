@@ -4,6 +4,84 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems</title>
+<link>http://arxiv.org/abs/2503.03750v1</link>
+<guid>http://arxiv.org/abs/2503.03750v1</guid>
+<content:encoded><![CDATA[
+
+As large language models (LLMs) become more capable and agentic, the
+requirement for trust in their outputs grows significantly, yet at the same
+time concerns have been mounting that models may learn to lie in pursuit of
+their goals. To address these concerns, a body of work has emerged around the
+notion of "honesty" in LLMs, along with interventions aimed at mitigating
+deceptive behaviors. However, evaluations of honesty are currently highly
+limited, with no benchmark combining large scale and applicability to all
+models. Moreover, many benchmarks claiming to measure honesty in fact simply
+measure accuracy--the correctness of a model's beliefs--in disguise. In this
+work, we introduce a large-scale human-collected dataset for measuring honesty
+directly, allowing us to disentangle accuracy from honesty for the first time.
+Across a diverse set of LLMs, we find that while larger models obtain higher
+accuracy on our benchmark, they do not become more honest. Surprisingly, while
+most frontier LLMs obtain high scores on truthfulness benchmarks, we find a
+substantial propensity in frontier LLMs to lie when pressured to do so,
+resulting in low honesty scores on our benchmark. We find that simple methods,
+such as representation engineering interventions, can improve honesty. These
+results underscore the growing need for robust evaluations and effective
+interventions to ensure LLMs remain trustworthy.
+]]></content:encoded>
+<pubDate>2025-03-05T18:59:23Z</pubDate>
+<pubDate>2025-03-05T18:59:23Z</pubDate>
+</item>
+<item>
+<title>CHOP: Mobile Operating Assistant with Constrained High-frequency
+  Optimized Subtask Planning</title>
+<link>http://arxiv.org/abs/2503.03743v1</link>
+<guid>http://arxiv.org/abs/2503.03743v1</guid>
+<content:encoded><![CDATA[
+
+The advancement of visual language models (VLMs) has enhanced mobile device
+operations, allowing simulated human-like actions to address user requirements.
+Current VLM-based mobile operating assistants can be structured into three
+levels: task, subtask, and action. The subtask level, linking high-level goals
+with low-level executable actions, is crucial for task completion but faces two
+challenges: ineffective subtasks that lower-level agent cannot execute and
+inefficient subtasks that fail to contribute to the completion of the
+higher-level task. These challenges stem from VLM's lack of experience in
+decomposing subtasks within GUI scenarios in multi-agent architecture. To
+address these, we propose a new mobile assistant architecture with constrained
+high-frequency o}ptimized planning (CHOP). Our approach overcomes the VLM's
+deficiency in GUI scenarios planning by using human-planned subtasks as the
+basis vector. We evaluate our architecture in both English and Chinese contexts
+across 20 Apps, demonstrating significant improvements in both effectiveness
+and efficiency. Our dataset and code is available at
+https://github.com/Yuqi-Zhou/CHOP
+]]></content:encoded>
+<pubDate>2025-03-05T18:56:16Z</pubDate>
+<pubDate>2025-03-05T18:56:16Z</pubDate>
+</item>
+<item>
+<title>Comparison of Experimental and Theoretical Mechanical Jitter in a THz
+  Communication Link</title>
+<link>http://arxiv.org/abs/2503.03740v1</link>
+<guid>http://arxiv.org/abs/2503.03740v1</guid>
+<content:encoded><![CDATA[
+
+The effect of mechanical vibration (jitter) is an increasingly important
+parameter for next-generation, long-distance wireless communication links and
+the channel models used for their engineering. Existing investigations of
+jitter effects on the terahertz (THz) backhaul channel are theoretical and
+derived primarily from free space optical models. These lack an empirical and
+validated treatment of the true statistical nature of antenna motion. We
+present novel experimental data which reveals that the statistical nature of
+mechanical jitter in 6G links is more complex than previously assumed. An
+unexpected multimodal distribution is discovered, which cannot be fit with the
+commonly cited model. These results compel the refinement of THz channel models
+under jitter and the resulting system performance metrics.
+]]></content:encoded>
+<pubDate>2025-03-05T18:52:05Z</pubDate>
+<pubDate>2025-03-05T18:52:05Z</pubDate>
+</item>
 
 <item>
 <title>ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models</title>
