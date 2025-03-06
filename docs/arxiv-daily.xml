@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models</title>
 <link>http://arxiv.org/abs/2503.02883v1</link>
 <guid>http://arxiv.org/abs/2503.02883v1</guid>
 <content:encoded><![CDATA[
-
 Existing autoregressive (AR) image generative models use a token-by-token
 generation schema. That is, they predict a per-token probability distribution
 and sample the next token from that distribution. The main challenge is how to
@@ -28,7 +28,6 @@ parameters achieves an FID of 2.75, which is comparable to the state-of-the-art
 MAR-B model (FID=2.31), while five times faster than the latter.
 ]]></content:encoded>
 <pubDate>2025-03-04T18:59:56Z</pubDate>
-<pubDate>2025-03-04T18:59:56Z</pubDate>
 </item>
 <item>
 <title>SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and
@@ -36,7 +35,6 @@ MAR-B model (FID=2.31), while five times faster than the latter.
 <link>http://arxiv.org/abs/2503.02876v1</link>
 <guid>http://arxiv.org/abs/2503.02876v1</guid>
 <content:encoded><![CDATA[
-
 Advancing AI in computational pathology requires large, high-quality, and
 diverse datasets, yet existing public datasets are often limited in organ
 diversity, class coverage, or annotation quality. To bridge this gap, we
@@ -58,9 +56,7 @@ research, reproducibility, and AI-driven pathology development. Access them at:
 https://github.com/HistAI/SPIDER
 ]]></content:encoded>
 <pubDate>2025-03-04T18:57:12Z</pubDate>
-<pubDate>2025-03-04T18:57:12Z</pubDate>
 </item>
-
 <item>
 <title>Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating
   Videos</title>
