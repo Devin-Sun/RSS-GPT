@@ -17134,3 +17134,21 @@ Filter: [OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature
 Filter: [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1)
 append_entries: 3
 Finish: 2025-03-06 12:20:07.916917
+------------------------------------------------------
+Started: 2025-03-07 00:52:11.421193
+Existing_entries: 503
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera
+  Control](http://arxiv.org/abs/2503.03751v1)
+Filter: [PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for
+  Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)
+Filter: [Process-based Self-Rewarding Language Models](http://arxiv.org/abs/2503.03746v1)
+Filter: [Constrained Gaussian Wasserstein Optimal Transport with Commutative
+  Covariance Matrices](http://arxiv.org/abs/2503.03744v1)
+Filter: [Opportunistic Routing in Wireless Communications via Learnable
+  State-Augmented Policies](http://arxiv.org/abs/2503.03736v1)
+Filter: [OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature
+  Extraction](http://arxiv.org/abs/2503.03734v1)
+Filter: [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1)
+append_entries: 0
+Finish: 2025-03-07 00:52:12.063946
