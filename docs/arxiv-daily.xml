@@ -4,6 +4,76 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>On Almost Fair and Equitable Allocations of Indivisible Items for
+  Non-monotone Valuations</title>
+<link>http://arxiv.org/abs/2503.05695v1</link>
+<guid>http://arxiv.org/abs/2503.05695v1</guid>
+<content:encoded><![CDATA[
+
+In this work, we revisit well-studied problems of fair allocation of
+indivisible items among agents with general, non-monotone valuations. We
+explore the existence and efficient computation of allocations that satisfy
+either fairness or equity constraints. The fairness notions we consider ensure
+that each agent values her bundle at least as much as others', allowing for
+(any or some) item removal, while the equity guarantees roughly equal
+valuations among agents, with similar adjustments. For objective valuations
+where items are classified as either goods or chores, we present a
+pseudo-polynomial local-search algorithm computing an
+``equitable-up-to-any-good-or-any-chore'' (EQX*) allocation, a weaker version
+of an ``equitable-up-to-any-item" (EQX) allocation. Additionally, we provide a
+polynomial-time greedy algorithm that computes an ``equitable-up-to-one-item"
+(EQ1) allocation, and a similar algorithm returning an EQX* allocation when the
+valuations are also additive. As a key technical contribution of this work, by
+leveraging fixed-point theorems (such as Sperner's Lemma and its variants), we
+establish the existence of ``equitable-up-to-one-good-and-one-chore'' (EQ1*)
+and ``envy-free-up-to-one-good-and-one-chore'' (EF1*) allocations for
+non-negative (and possibly non-objective and non-monotone) valuations. This
+holds even when items are arranged in a path and bundles must form connected
+sub-paths. Additionally, we present a polynomial-time dynamic-programming
+algorithm that computes an EQ1* allocation. Finally, we extend the EF1* and
+EQ1* results to non-positive valuations using a novel multi-coloring variant of
+Sperner's lemma, a combinatorial result of independent interest. For monotone
+non-increasing valuations and path-connected bundles, this implies the
+existence of EF1 and EQ1 allocations, with EQ1 allocations being efficiently
+computable.
+]]></content:encoded>
+<pubDate>2025-03-07T18:58:18Z</pubDate>
+<pubDate>2025-03-07T18:58:18Z</pubDate>
+</item>
+<item>
+<title>GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories
+  Generation in End-to-End Autonomous Driving</title>
+<link>http://arxiv.org/abs/2503.05689v1</link>
+<guid>http://arxiv.org/abs/2503.05689v1</guid>
+<content:encoded><![CDATA[
+
+We propose GoalFlow, an end-to-end autonomous driving method for generating
+high-quality multimodal trajectories. In autonomous driving scenarios, there is
+rarely a single suitable trajectory. Recent methods have increasingly focused
+on modeling multimodal trajectory distributions. However, they suffer from
+trajectory selection complexity and reduced trajectory quality due to high
+trajectory divergence and inconsistencies between guidance and scene
+information. To address these issues, we introduce GoalFlow, a novel method
+that effectively constrains the generative process to produce high-quality,
+multimodal trajectories. To resolve the trajectory divergence problem inherent
+in diffusion-based methods, GoalFlow constrains the generated trajectories by
+introducing a goal point. GoalFlow establishes a novel scoring mechanism that
+selects the most appropriate goal point from the candidate points based on
+scene information. Furthermore, GoalFlow employs an efficient generative
+method, Flow Matching, to generate multimodal trajectories, and incorporates a
+refined scoring mechanism to select the optimal trajectory from the candidates.
+Our experimental results, validated on the Navsim\cite{Dauner2024_navsim},
+demonstrate that GoalFlow achieves state-of-the-art performance, delivering
+robust multimodal trajectories for autonomous driving. GoalFlow achieved PDMS
+of 90.3, significantly surpassing other methods. Compared with other
+diffusion-policy-based methods, our approach requires only a single denoising
+step to obtain excellent performance. The code is available at
+https://github.com/YvanYin/GoalFlow.
+]]></content:encoded>
+<pubDate>2025-03-07T18:52:08Z</pubDate>
+<pubDate>2025-03-07T18:52:08Z</pubDate>
+</item>
 
 <item>
 <title>LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM</title>
