@@ -17315,3 +17315,28 @@ Filter: [Kinodynamic Model Predictive Control for Energy Efficient Locomotion of
   Legged Robots with Parallel Elasticity](http://arxiv.org/abs/2503.05666v1)
 append_entries: 0
 Finish: 2025-03-11 00:52:12.583474
+------------------------------------------------------
+Started: 2025-03-11 12:20:41.825051
+Existing_entries: 506
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle
+  Zero-shot Radiology Recognition?](http://arxiv.org/abs/2503.07487v1)
+Filter: [Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction](http://arxiv.org/abs/2503.07485v1)
+Filter: [Efficient Membership Inference Attacks by Bayesian Neural Network](http://arxiv.org/abs/2503.07482v1)
+Filter: [Learning Physics-Based Full-Body Human Reaching and Grasping from Brief
+  Walking References](http://arxiv.org/abs/2503.07481v1)
+Filter: [QBIT: Quality-Aware Cloud-Based Benchmarking for Robotic Insertion Tasks](http://arxiv.org/abs/2503.07479v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language
+  Reward Models](http://arxiv.org/abs/2503.07478v1)
+Filter: [SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting](http://arxiv.org/abs/2503.07476v1)
+Filter: [Sample Complexity of Nonparametric Closeness Testing for Continuous
+  Distributions and Its Application to Causal Discovery with Hidden Confounding](http://arxiv.org/abs/2503.07475v1)
+Filter: [Augmented Carpentry: Computer Vision-assisted Framework for Manual
+  Fabrication](http://arxiv.org/abs/2503.07473v1)
+Filter: [A Review on Geometry and Surface Inspection in 3D Concrete Printing](http://arxiv.org/abs/2503.07472v1)
+append_entries: 2
+Finish: 2025-03-11 12:20:42.964494

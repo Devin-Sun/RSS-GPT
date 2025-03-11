@@ -4,6 +4,71 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle
+  Zero-shot Radiology Recognition?</title>
+<link>http://arxiv.org/abs/2503.07487v1</link>
+<guid>http://arxiv.org/abs/2503.07487v1</guid>
+<content:encoded><![CDATA[
+
+Recently, multimodal large models (MLLMs) have demonstrated exceptional
+capabilities in visual understanding and reasoning across various
+vision-language tasks. However, MLLMs usually perform poorly in zero-shot
+medical disease recognition, as they do not fully exploit the captured features
+and available medical knowledge. To address this challenge, we propose
+LLaVA-RadZ, a simple yet effective framework for zero-shot medical disease
+recognition. Specifically, we design an end-to-end training strategy, termed
+Decoding-Side Feature Alignment Training (DFAT) to take advantage of the
+characteristics of the MLLM decoder architecture and incorporate
+modality-specific tokens tailored for different modalities, which effectively
+utilizes image and text representations and facilitates robust cross-modal
+alignment. Additionally, we introduce a Domain Knowledge Anchoring Module
+(DKAM) to exploit the intrinsic medical knowledge of large models, which
+mitigates the category semantic gap in image-text alignment. DKAM improves
+category-level alignment, allowing for accurate disease recognition. Extensive
+experiments on multiple benchmarks demonstrate that our LLaVA-RadZ
+significantly outperforms traditional MLLMs in zero-shot disease recognition
+and exhibits the state-of-the-art performance compared to the well-established
+and highly-optimized CLIP-based approaches.
+]]></content:encoded>
+<pubDate>2025-03-10T16:05:40Z</pubDate>
+<pubDate>2025-03-10T16:05:40Z</pubDate>
+</item>
+<item>
+<title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language
+  Reward Models</title>
+<link>http://arxiv.org/abs/2503.07478v1</link>
+<guid>http://arxiv.org/abs/2503.07478v1</guid>
+<content:encoded><![CDATA[
+
+Although large visual-language models (LVLMs) have demonstrated strong
+performance in multimodal tasks, errors may occasionally arise due to biases
+during the reasoning process. Recently, reward models (RMs) have become
+increasingly pivotal in the reasoning process. Specifically, process RMs
+evaluate each reasoning step, outcome RMs focus on the assessment of reasoning
+results, and critique RMs perform error analysis on the entire reasoning
+process, followed by corrections. However, existing benchmarks for
+vision-language RMs (VLRMs) typically assess only a single aspect of their
+capabilities (e.g., distinguishing between two answers), thus limiting the
+all-round evaluation and restricting the development of RMs in the
+visual-language domain. To address this gap, we propose a comprehensive and
+challenging benchmark, dubbed as VLRMBench, encompassing 12,634 questions.
+VLRMBench is constructed based on three distinct types of datasets, covering
+mathematical reasoning, hallucination understanding, and multi-image
+understanding. We design 12 tasks across three major categories, focusing on
+evaluating VLRMs in the aspects of process understanding, outcome judgment, and
+critique generation. Extensive experiments are conducted on 21 open-source
+models and 5 advanced closed-source models, highlighting the challenges posed
+by VLRMBench. For instance, in the `Forecasting Future', a binary
+classification task, the advanced GPT-4o achieves only a 76.0% accuracy.
+Additionally, we perform comprehensive analytical studies, offering valuable
+insights for the future development of VLRMs. We anticipate that VLRMBench will
+serve as a pivotal benchmark in advancing VLRMs. Code and datasets will be
+available at https://github.com/JCruan519/VLRMBench.
+]]></content:encoded>
+<pubDate>2025-03-10T15:52:57Z</pubDate>
+<pubDate>2025-03-10T15:52:57Z</pubDate>
+</item>
 
 <item>
 <title>On Almost Fair and Equitable Allocations of Indivisible Items for
