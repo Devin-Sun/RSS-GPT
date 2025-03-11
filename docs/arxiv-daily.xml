@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>On Almost Fair and Equitable Allocations of Indivisible Items for
   Non-monotone Valuations</title>
 <link>http://arxiv.org/abs/2503.05695v1</link>
 <guid>http://arxiv.org/abs/2503.05695v1</guid>
 <content:encoded><![CDATA[
-
 In this work, we revisit well-studied problems of fair allocation of
 indivisible items among agents with general, non-monotone valuations. We
 explore the existence and efficient computation of allocations that satisfy
@@ -39,7 +39,6 @@ existence of EF1 and EQ1 allocations, with EQ1 allocations being efficiently
 computable.
 ]]></content:encoded>
 <pubDate>2025-03-07T18:58:18Z</pubDate>
-<pubDate>2025-03-07T18:58:18Z</pubDate>
 </item>
 <item>
 <title>GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories
@@ -47,7 +46,6 @@ computable.
 <link>http://arxiv.org/abs/2503.05689v1</link>
 <guid>http://arxiv.org/abs/2503.05689v1</guid>
 <content:encoded><![CDATA[
-
 We propose GoalFlow, an end-to-end autonomous driving method for generating
 high-quality multimodal trajectories. In autonomous driving scenarios, there is
 rarely a single suitable trajectory. Recent methods have increasingly focused
@@ -72,9 +70,7 @@ step to obtain excellent performance. The code is available at
 https://github.com/YvanYin/GoalFlow.
 ]]></content:encoded>
 <pubDate>2025-03-07T18:52:08Z</pubDate>
-<pubDate>2025-03-07T18:52:08Z</pubDate>
 </item>
-
 <item>
 <title>LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM</title>
 <link>http://arxiv.org/abs/2503.04724v1</link>
