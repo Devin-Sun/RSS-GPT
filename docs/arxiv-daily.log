@@ -17366,3 +17366,29 @@ Filter: [Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with
   Blockchain-Based Auditability](http://arxiv.org/abs/2503.07570v1)
 append_entries: 2
 Finish: 2025-03-12 00:51:24.347672
+------------------------------------------------------
+Started: 2025-03-12 12:20:14.592268
+Existing_entries: 510
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long
+  Video Comprehension](http://arxiv.org/abs/2503.08689v1)
+Filter: [Randomness, Not Representation: The Unreliability of Evaluating Cultural
+  Alignment in LLMs](http://arxiv.org/abs/2503.08688v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OmniMamba: Efficient and Unified Multimodal Understanding and Generation
+  via State Space Models](http://arxiv.org/abs/2503.08686v1)
+Filter: ["Principal Components" Enable A New Language of Images](http://arxiv.org/abs/2503.08685v1)
+Filter: [Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents](http://arxiv.org/abs/2503.08684v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous
+  Driving](http://arxiv.org/abs/2503.08683v1)
+Filter: [Self-Taught Self-Correction for Small Language Models](http://arxiv.org/abs/2503.08681v1)
+Filter: [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v1)
+Append: [GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D
+  Garment Reconstruction and Editing](http://arxiv.org/abs/2503.08678v1)
+Filter: [OmniPaint: Mastering Object-Oriented Editing via Disentangled
+  Insertion-Removal Inpainting](http://arxiv.org/abs/2503.08677v1)
+append_entries: 3
+Finish: 2025-03-12 12:20:16.623789
