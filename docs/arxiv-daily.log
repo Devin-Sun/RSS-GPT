@@ -17340,3 +17340,29 @@ Filter: [Augmented Carpentry: Computer Vision-assisted Framework for Manual
 Filter: [A Review on Geometry and Surface Inspection in 3D Concrete Printing](http://arxiv.org/abs/2503.07472v1)
 append_entries: 2
 Finish: 2025-03-11 12:20:42.964494
+------------------------------------------------------
+Started: 2025-03-12 00:51:23.658107
+Existing_entries: 508
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution
+  Autonomous Driving VQA from Peru](http://arxiv.org/abs/2503.07587v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Design as Hope: Reimagining Futures for Seemingly Doomed Problems](http://arxiv.org/abs/2503.07586v1)
+Filter: [Talking to GDELT Through Knowledge Graphs](http://arxiv.org/abs/2503.07584v1)
+Filter: [Neural Combinatorial Optimization via Preference Optimization](http://arxiv.org/abs/2503.07580v1)
+Filter: [Denoising Score Distillation: From Noisy Diffusion Pretraining to
+  One-Step High-Quality Generation](http://arxiv.org/abs/2503.07578v1)
+Filter: [Analyzing Symmetries of Swarms of Mobile Robots Using Equivariant
+  Dynamical Systems](http://arxiv.org/abs/2503.07576v1)
+Filter: [VisBias: Measuring Explicit and Implicit Social Biases in Vision
+  Language Models](http://arxiv.org/abs/2503.07575v1)
+Filter: [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](http://arxiv.org/abs/2503.07572v1)
+Filter: [Concentration via Metastable Mixing, with Applications to the
+  Supercritical Exponential Random Graph Model](http://arxiv.org/abs/2503.07571v1)
+Filter: [Split-n-Chain: Privacy-Preserving Multi-Node Split Learning with
+  Blockchain-Based Auditability](http://arxiv.org/abs/2503.07570v1)
+append_entries: 2
+Finish: 2025-03-12 00:51:24.347672

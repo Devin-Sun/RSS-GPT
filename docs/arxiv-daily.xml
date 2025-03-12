@@ -5,12 +5,69 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution
+  Autonomous Driving VQA from Peru</title>
+<link>http://arxiv.org/abs/2503.07587v1</link>
+<guid>http://arxiv.org/abs/2503.07587v1</guid>
+<content:encoded><![CDATA[
+
+As multimodal foundational models start being deployed experimentally in
+Self-Driving cars, a reasonable question we ask ourselves is how similar to
+humans do these systems respond in certain driving situations -- especially
+those that are out-of-distribution? To study this, we create the Robusto-1
+dataset that uses dashcam video data from Peru, a country with one of the worst
+(aggressive) drivers in the world, a high traffic index, and a high ratio of
+bizarre to non-bizarre street objects likely never seen in training. In
+particular, to preliminarly test at a cognitive level how well Foundational
+Visual Language Models (VLMs) compare to Humans in Driving, we move away from
+bounding boxes, segmentation maps, occupancy maps or trajectory estimation to
+multi-modal Visual Question Answering (VQA) comparing both humans and machines
+through a popular method in systems neuroscience known as Representational
+Similarity Analysis (RSA). Depending on the type of questions we ask and the
+answers these systems give, we will show in what cases do VLMs and Humans
+converge or diverge allowing us to probe on their cognitive alignment. We find
+that the degree of alignment varies significantly depending on the type of
+questions asked to each type of system (Humans vs VLMs), highlighting a gap in
+their alignment.
+]]></content:encoded>
+<pubDate>2025-03-10T17:50:04Z</pubDate>
+<pubDate>2025-03-10T17:50:04Z</pubDate>
+</item>
+<item>
+<title>Design as Hope: Reimagining Futures for Seemingly Doomed Problems</title>
+<link>http://arxiv.org/abs/2503.07586v1</link>
+<guid>http://arxiv.org/abs/2503.07586v1</guid>
+<content:encoded><![CDATA[
+
+Design has the power to cultivate hope, especially in the face of seemingly
+intractable societal challenges. This one-day workshop explores how design
+methodologies -- ranging from problem reframing to participatory, speculative,
+and critical design -- can empower research communities to drive meaningful
+real-world changes. By aligning design thinking with hope theory -- framework
+of viewing hope as "goal-directed," "pathways," and "agentic" thinking
+processes -- we aim to examine how researchers can move beyond focusing on harm
+mitigation and instead reimagine alternative futures. Through hands-on
+activities, participants will engage in problem reframing, develop a taxonomy
+of design methods related to hope, and explore how community-driven design
+approaches can sustain efforts toward societal and individual hope. The
+workshop also interrogates the ethical and practical boundaries of leveraging
+hope in design research. By the end of the session, participants will leave
+with concrete strategies for integrating a hopeful design approach into their
+research, as well as a network for ongoing collaboration. Ultimately, we
+position hopeful design not just as a practical tool for action and
+problem-solving but as a catalyst for cultivating resilience and envisioning
+transformative futures.
+]]></content:encoded>
+<pubDate>2025-03-10T17:49:10Z</pubDate>
+<pubDate>2025-03-10T17:49:10Z</pubDate>
+</item>
+
+<item>
 <title>LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle
   Zero-shot Radiology Recognition?</title>
 <link>http://arxiv.org/abs/2503.07487v1</link>
 <guid>http://arxiv.org/abs/2503.07487v1</guid>
 <content:encoded><![CDATA[
-
 Recently, multimodal large models (MLLMs) have demonstrated exceptional
 capabilities in visual understanding and reasoning across various
 vision-language tasks. However, MLLMs usually perform poorly in zero-shot
@@ -32,7 +89,6 @@ and exhibits the state-of-the-art performance compared to the well-established
 and highly-optimized CLIP-based approaches.
 ]]></content:encoded>
 <pubDate>2025-03-10T16:05:40Z</pubDate>
-<pubDate>2025-03-10T16:05:40Z</pubDate>
 </item>
 <item>
 <title>VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language
@@ -40,7 +96,6 @@ and highly-optimized CLIP-based approaches.
 <link>http://arxiv.org/abs/2503.07478v1</link>
 <guid>http://arxiv.org/abs/2503.07478v1</guid>
 <content:encoded><![CDATA[
-
 Although large visual-language models (LVLMs) have demonstrated strong
 performance in multimodal tasks, errors may occasionally arise due to biases
 during the reasoning process. Recently, reward models (RMs) have become
@@ -67,9 +122,7 @@ serve as a pivotal benchmark in advancing VLRMs. Code and datasets will be
 available at https://github.com/JCruan519/VLRMBench.
 ]]></content:encoded>
 <pubDate>2025-03-10T15:52:57Z</pubDate>
-<pubDate>2025-03-10T15:52:57Z</pubDate>
 </item>
-
 <item>
 <title>On Almost Fair and Equitable Allocations of Indivisible Items for
   Non-monotone Valuations</title>
