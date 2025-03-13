@@ -17400,3 +17400,32 @@ Filter: [QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long
   Video Comprehension](http://arxiv.org/abs/2503.08689v1)
 append_entries: 0
 Finish: 2025-03-13 00:52:09.793309
+------------------------------------------------------
+Started: 2025-03-13 12:20:45.242870
+Existing_entries: 513
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling](http://arxiv.org/abs/2503.09601v1)
+Filter: [MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented
+  Generation System](http://arxiv.org/abs/2503.09600v1)
+Filter: [How to Protect Yourself from 5G Radiation? Investigating LLM Responses
+  to Implicit Misinformation](http://arxiv.org/abs/2503.09598v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PISA Experiments: Exploring Physics Post-Training for Video Diffusion
+  Models by Watching Stuff Drop](http://arxiv.org/abs/2503.09595v1)
+Filter: [SimLingo: Vision-Only Closed-Loop Autonomous Driving with
+  Language-Action Alignment](http://arxiv.org/abs/2503.09594v1)
+Filter: [Parsing the Language of Expression: Enhancing Symbolic Regression with
+  Domain-Aware Symbolic Priors](http://arxiv.org/abs/2503.09592v1)
+Append: [BIMBA: Selective-Scan Compression for Long-Range Video Question
+  Answering](http://arxiv.org/abs/2503.09590v1)
+Filter: [Fair Federated Medical Image Classification Against Quality Shift via
+  Inter-Client Progressive State Matching](http://arxiv.org/abs/2503.09587v1)
+Append: [Auspex: Building Threat Modeling Tradecraft into an Artificial
+  Intelligence-based Copilot](http://arxiv.org/abs/2503.09586v1)
+Filter: [Hierarchical community detection benchmark for heterogeneous
+  inter-community connectivity](http://arxiv.org/abs/2503.09585v1)
+append_entries: 4
+Finish: 2025-03-13 12:20:46.349676

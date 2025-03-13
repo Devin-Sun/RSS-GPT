@@ -4,6 +4,118 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling</title>
+<link>http://arxiv.org/abs/2503.09601v1</link>
+<guid>http://arxiv.org/abs/2503.09601v1</guid>
+<content:encoded><![CDATA[
+
+Score Distillation Sampling (SDS) has emerged as an effective technique for
+leveraging 2D diffusion priors for tasks such as text-to-3D generation. While
+powerful, SDS struggles with achieving fine-grained alignment to user intent.
+To overcome this, we introduce RewardSDS, a novel approach that weights noise
+samples based on alignment scores from a reward model, producing a weighted SDS
+loss. This loss prioritizes gradients from noise samples that yield aligned
+high-reward output. Our approach is broadly applicable and can extend SDS-based
+methods. In particular, we demonstrate its applicability to Variational Score
+Distillation (VSD) by introducing RewardVSD. We evaluate RewardSDS and
+RewardVSD on text-to-image, 2D editing, and text-to-3D generation tasks,
+showing significant improvements over SDS and VSD on a diverse set of metrics
+measuring generation quality and alignment to desired reward models, enabling
+state-of-the-art performance. Project page is available at https://itaychachy.
+github.io/reward-sds/.
+]]></content:encoded>
+<pubDate>2025-03-12T17:59:47Z</pubDate>
+<pubDate>2025-03-12T17:59:47Z</pubDate>
+</item>
+<item>
+<title>PISA Experiments: Exploring Physics Post-Training for Video Diffusion
+  Models by Watching Stuff Drop</title>
+<link>http://arxiv.org/abs/2503.09595v1</link>
+<guid>http://arxiv.org/abs/2503.09595v1</guid>
+<content:encoded><![CDATA[
+
+Large-scale pre-trained video generation models excel in content creation but
+are not reliable as physically accurate world simulators out of the box. This
+work studies the process of post-training these models for accurate world
+modeling through the lens of the simple, yet fundamental, physics task of
+modeling object freefall. We show state-of-the-art video generation models
+struggle with this basic task, despite their visually impressive outputs. To
+remedy this problem, we find that fine-tuning on a relatively small amount of
+simulated videos is effective in inducing the dropping behavior in the model,
+and we can further improve results through a novel reward modeling procedure we
+introduce. Our study also reveals key limitations of post-training in
+generalization and distribution modeling. Additionally, we release a benchmark
+for this task that may serve as a useful diagnostic tool for tracking physical
+accuracy in large-scale video generative model development.
+]]></content:encoded>
+<pubDate>2025-03-12T17:58:14Z</pubDate>
+<pubDate>2025-03-12T17:58:14Z</pubDate>
+</item>
+<item>
+<title>BIMBA: Selective-Scan Compression for Long-Range Video Question
+  Answering</title>
+<link>http://arxiv.org/abs/2503.09590v1</link>
+<guid>http://arxiv.org/abs/2503.09590v1</guid>
+<content:encoded><![CDATA[
+
+Video Question Answering (VQA) in long videos poses the key challenge of
+extracting relevant information and modeling long-range dependencies from many
+redundant frames. The self-attention mechanism provides a general solution for
+sequence modeling, but it has a prohibitive cost when applied to a massive
+number of spatiotemporal tokens in long videos. Most prior methods rely on
+compression strategies to lower the computational cost, such as reducing the
+input length via sparse frame sampling or compressing the output sequence
+passed to the large language model (LLM) via space-time pooling. However, these
+naive approaches over-represent redundant information and often miss salient
+events or fast-occurring space-time patterns. In this work, we introduce BIMBA,
+an efficient state-space model to handle long-form videos. Our model leverages
+the selective scan algorithm to learn to effectively select critical
+information from high-dimensional video and transform it into a reduced token
+sequence for efficient LLM processing. Extensive experiments demonstrate that
+BIMBA achieves state-of-the-art accuracy on multiple long-form VQA benchmarks,
+including PerceptionTest, NExT-QA, EgoSchema, VNBench, LongVideoBench, and
+Video-MME. Code, and models are publicly available at
+https://sites.google.com/view/bimba-mllm.
+]]></content:encoded>
+<pubDate>2025-03-12T17:57:32Z</pubDate>
+<pubDate>2025-03-12T17:57:32Z</pubDate>
+</item>
+<item>
+<title>Auspex: Building Threat Modeling Tradecraft into an Artificial
+  Intelligence-based Copilot</title>
+<link>http://arxiv.org/abs/2503.09586v1</link>
+<guid>http://arxiv.org/abs/2503.09586v1</guid>
+<content:encoded><![CDATA[
+
+We present Auspex - a threat modeling system built using a specialized
+collection of generative artificial intelligence-based methods that capture
+threat modeling tradecraft. This new approach, called tradecraft prompting,
+centers on encoding the on-the-ground knowledge of threat modelers within the
+prompts that drive a generative AI-based threat modeling system. Auspex employs
+tradecraft prompts in two processing stages. The first stage centers on
+ingesting and processing system architecture information using prompts that
+encode threat modeling tradecraft knowledge pertaining to system decomposition
+and description. The second stage centers on chaining the resulting system
+analysis through a collection of prompts that encode tradecraft knowledge on
+threat identification, classification, and mitigation. The two-stage process
+yields a threat matrix for a system that specifies threat scenarios, threat
+types, information security categorizations and potential mitigations. Auspex
+produces formalized threat model output in minutes, relative to the weeks or
+months a manual process takes. More broadly, the focus on bespoke tradecraft
+prompting, as opposed to fine-tuning or agent-based add-ons, makes Auspex a
+lightweight, flexible, modular, and extensible foundational system capable of
+addressing the complexity, resource, and standardization limitations of both
+existing manual and automated threat modeling processes. In this connection, we
+establish the baseline value of Auspex to threat modelers through an evaluation
+procedure based on feedback collected from cybersecurity subject matter experts
+measuring the quality and utility of threat models generated by Auspex on real
+banking systems. We conclude with a discussion of system performance and plans
+for enhancements to Auspex.
+]]></content:encoded>
+<pubDate>2025-03-12T17:54:18Z</pubDate>
+<pubDate>2025-03-12T17:54:18Z</pubDate>
+</item>
 
 <item>
 <title>OmniMamba: Efficient and Unified Multimodal Understanding and Generation
