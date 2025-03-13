@@ -17392,3 +17392,11 @@ Filter: [OmniPaint: Mastering Object-Oriented Editing via Disentangled
   Insertion-Removal Inpainting](http://arxiv.org/abs/2503.08677v1)
 append_entries: 3
 Finish: 2025-03-12 12:20:16.623789
+------------------------------------------------------
+Started: 2025-03-13 00:52:08.825564
+Existing_entries: 513
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long
+  Video Comprehension](http://arxiv.org/abs/2503.08689v1)
+append_entries: 0
+Finish: 2025-03-13 00:52:09.793309

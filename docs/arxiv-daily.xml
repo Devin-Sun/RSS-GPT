@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>OmniMamba: Efficient and Unified Multimodal Understanding and Generation
   via State Space Models</title>
 <link>http://arxiv.org/abs/2503.08686v1</link>
 <guid>http://arxiv.org/abs/2503.08686v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements in unified multimodal understanding and visual generation
 (or multimodal generation) models have been hindered by their quadratic
 computational complexity and dependence on large-scale training data. We
@@ -32,7 +32,6 @@ Transformer-based counterparts. Code and models are released at
 https://github.com/hustvl/OmniMamba
 ]]></content:encoded>
 <pubDate>2025-03-11T17:59:46Z</pubDate>
-<pubDate>2025-03-11T17:59:46Z</pubDate>
 </item>
 <item>
 <title>CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous
@@ -40,7 +39,6 @@ https://github.com/hustvl/OmniMamba
 <link>http://arxiv.org/abs/2503.08683v1</link>
 <guid>http://arxiv.org/abs/2503.08683v1</guid>
 <content:encoded><![CDATA[
-
 Vehicle-to-vehicle (V2V) cooperative autonomous driving holds great promise
 for improving safety by addressing the perception and prediction uncertainties
 inherent in single-agent systems. However, traditional cooperative methods are
@@ -63,7 +61,6 @@ higher success rate across diverse highly interactive V2V driving scenarios.
 Code will be released on https://github.com/cxliu0314/CoLMDriver.
 ]]></content:encoded>
 <pubDate>2025-03-11T17:58:42Z</pubDate>
-<pubDate>2025-03-11T17:58:42Z</pubDate>
 </item>
 <item>
 <title>GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D
@@ -71,7 +68,6 @@ Code will be released on https://github.com/cxliu0314/CoLMDriver.
 <link>http://arxiv.org/abs/2503.08678v1</link>
 <guid>http://arxiv.org/abs/2503.08678v1</guid>
 <content:encoded><![CDATA[
-
 We introduce GarmentCrafter, a new approach that enables non-professional
 users to create and modify 3D garments from a single-view image. While recent
 advances in image generation have facilitated 2D garment design, creating and
@@ -90,9 +86,7 @@ coherence compared to state-of-the-art single-view 3D garment reconstruction
 methods.
 ]]></content:encoded>
 <pubDate>2025-03-11T17:56:03Z</pubDate>
-<pubDate>2025-03-11T17:56:03Z</pubDate>
 </item>
-
 <item>
 <title>Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution
   Autonomous Driving VQA from Peru</title>
