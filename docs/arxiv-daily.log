@@ -17447,3 +17447,21 @@ Filter: [Hierarchical community detection benchmark for heterogeneous
   inter-community connectivity](http://arxiv.org/abs/2503.09585v1)
 append_entries: 0
 Finish: 2025-03-14 00:51:33.018540
+------------------------------------------------------
+Started: 2025-03-14 12:19:34.851371
+Existing_entries: 517
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Studying Classifier(-Free) Guidance From a Classifier-Centric
+  Perspective](http://arxiv.org/abs/2503.10638v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model
+  for Visual Generation and Editing](http://arxiv.org/abs/2503.10639v1)
+Filter: [The Curse of Conditions: Analyzing and Improving Optimal Transport for
+  Conditional Flow-Based Generation](http://arxiv.org/abs/2503.10636v1)
+Filter: [Distilling Diversity and Control in Diffusion Models](http://arxiv.org/abs/2503.10637v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](http://arxiv.org/abs/2503.10634v1)
+append_entries: 2
+Finish: 2025-03-14 12:19:35.689952
