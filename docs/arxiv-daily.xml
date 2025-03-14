@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling</title>
 <link>http://arxiv.org/abs/2503.09601v1</link>
 <guid>http://arxiv.org/abs/2503.09601v1</guid>
 <content:encoded><![CDATA[
-
 Score Distillation Sampling (SDS) has emerged as an effective technique for
 leveraging 2D diffusion priors for tasks such as text-to-3D generation. While
 powerful, SDS struggles with achieving fine-grained alignment to user intent.
@@ -26,7 +26,6 @@ state-of-the-art performance. Project page is available at https://itaychachy.
 github.io/reward-sds/.
 ]]></content:encoded>
 <pubDate>2025-03-12T17:59:47Z</pubDate>
-<pubDate>2025-03-12T17:59:47Z</pubDate>
 </item>
 <item>
 <title>PISA Experiments: Exploring Physics Post-Training for Video Diffusion
@@ -34,7 +33,6 @@ github.io/reward-sds/.
 <link>http://arxiv.org/abs/2503.09595v1</link>
 <guid>http://arxiv.org/abs/2503.09595v1</guid>
 <content:encoded><![CDATA[
-
 Large-scale pre-trained video generation models excel in content creation but
 are not reliable as physically accurate world simulators out of the box. This
 work studies the process of post-training these models for accurate world
@@ -50,7 +48,6 @@ for this task that may serve as a useful diagnostic tool for tracking physical
 accuracy in large-scale video generative model development.
 ]]></content:encoded>
 <pubDate>2025-03-12T17:58:14Z</pubDate>
-<pubDate>2025-03-12T17:58:14Z</pubDate>
 </item>
 <item>
 <title>BIMBA: Selective-Scan Compression for Long-Range Video Question
@@ -58,7 +55,6 @@ accuracy in large-scale video generative model development.
 <link>http://arxiv.org/abs/2503.09590v1</link>
 <guid>http://arxiv.org/abs/2503.09590v1</guid>
 <content:encoded><![CDATA[
-
 Video Question Answering (VQA) in long videos poses the key challenge of
 extracting relevant information and modeling long-range dependencies from many
 redundant frames. The self-attention mechanism provides a general solution for
@@ -79,7 +75,6 @@ Video-MME. Code, and models are publicly available at
 https://sites.google.com/view/bimba-mllm.
 ]]></content:encoded>
 <pubDate>2025-03-12T17:57:32Z</pubDate>
-<pubDate>2025-03-12T17:57:32Z</pubDate>
 </item>
 <item>
 <title>Auspex: Building Threat Modeling Tradecraft into an Artificial
@@ -87,7 +82,6 @@ https://sites.google.com/view/bimba-mllm.
 <link>http://arxiv.org/abs/2503.09586v1</link>
 <guid>http://arxiv.org/abs/2503.09586v1</guid>
 <content:encoded><![CDATA[
-
 We present Auspex - a threat modeling system built using a specialized
 collection of generative artificial intelligence-based methods that capture
 threat modeling tradecraft. This new approach, called tradecraft prompting,
@@ -114,9 +108,7 @@ banking systems. We conclude with a discussion of system performance and plans
 for enhancements to Auspex.
 ]]></content:encoded>
 <pubDate>2025-03-12T17:54:18Z</pubDate>
-<pubDate>2025-03-12T17:54:18Z</pubDate>
 </item>
-
 <item>
 <title>OmniMamba: Efficient and Unified Multimodal Understanding and Generation
   via State Space Models</title>

@@ -17429,3 +17429,21 @@ Filter: [Hierarchical community detection benchmark for heterogeneous
   inter-community connectivity](http://arxiv.org/abs/2503.09585v1)
 append_entries: 4
 Finish: 2025-03-13 12:20:46.349676
+------------------------------------------------------
+Started: 2025-03-14 00:51:32.323763
+Existing_entries: 517
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented
+  Generation System](http://arxiv.org/abs/2503.09600v1)
+Filter: [How to Protect Yourself from 5G Radiation? Investigating LLM Responses
+  to Implicit Misinformation](http://arxiv.org/abs/2503.09598v1)
+Filter: [SimLingo: Vision-Only Closed-Loop Autonomous Driving with
+  Language-Action Alignment](http://arxiv.org/abs/2503.09594v1)
+Filter: [Parsing the Language of Expression: Enhancing Symbolic Regression with
+  Domain-Aware Symbolic Priors](http://arxiv.org/abs/2503.09592v1)
+Filter: [Fair Federated Medical Image Classification Against Quality Shift via
+  Inter-Client Progressive State Matching](http://arxiv.org/abs/2503.09587v1)
+Filter: [Hierarchical community detection benchmark for heterogeneous
+  inter-community connectivity](http://arxiv.org/abs/2503.09585v1)
+append_entries: 0
+Finish: 2025-03-14 00:51:33.018540
