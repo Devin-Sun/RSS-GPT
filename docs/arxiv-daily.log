@@ -17465,3 +17465,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](http://arxiv.org/abs/2503.10634v1)
 append_entries: 2
 Finish: 2025-03-14 12:19:35.689952
+------------------------------------------------------
+Started: 2025-03-15 00:50:56.584927
+Existing_entries: 519
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Studying Classifier(-Free) Guidance From a Classifier-Centric
+  Perspective](http://arxiv.org/abs/2503.10638v1)
+Filter: [The Curse of Conditions: Analyzing and Improving Optimal Transport for
+  Conditional Flow-Based Generation](http://arxiv.org/abs/2503.10636v1)
+Filter: [Distilling Diversity and Control in Diffusion Models](http://arxiv.org/abs/2503.10637v1)
+Filter: [A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90%
+  Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](http://arxiv.org/abs/2503.10635v1)
+Filter: [Charting and Navigating Hugging Face's Model Atlas](http://arxiv.org/abs/2503.10633v1)
+Filter: [HybridVLA: Collaborative Diffusion and Autoregression in a Unified
+  Vision-Language-Action Model](http://arxiv.org/abs/2503.10631v1)
+Filter: [Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision
+  Transformers?](http://arxiv.org/abs/2503.10632v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](http://arxiv.org/abs/2503.10630v1)
+append_entries: 1
+Finish: 2025-03-15 00:50:57.759492

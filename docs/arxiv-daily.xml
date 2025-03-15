@@ -5,12 +5,43 @@
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
 <item>
+<title>UniGoal: Towards Universal Zero-shot Goal-oriented Navigation</title>
+<link>http://arxiv.org/abs/2503.10630v1</link>
+<guid>http://arxiv.org/abs/2503.10630v1</guid>
+<content:encoded><![CDATA[
+
+In this paper, we propose a general framework for universal zero-shot
+goal-oriented navigation. Existing zero-shot methods build inference framework
+upon large language models (LLM) for specific tasks, which differs a lot in
+overall pipeline and fails to generalize across different types of goal.
+Towards the aim of universal zero-shot navigation, we propose a uniform graph
+representation to unify different goals, including object category, instance
+image and text description. We also convert the observation of agent into an
+online maintained scene graph. With this consistent scene and goal
+representation, we preserve most structural information compared with pure text
+and are able to leverage LLM for explicit graph-based reasoning. Specifically,
+we conduct graph matching between the scene graph and goal graph at each time
+instant and propose different strategies to generate long-term goal of
+exploration according to different matching states. The agent first iteratively
+searches subgraph of goal when zero-matched. With partial matching, the agent
+then utilizes coordinate projection and anchor pair alignment to infer the goal
+location. Finally scene graph correction and goal verification are applied for
+perfect matching. We also present a blacklist mechanism to enable robust switch
+between stages. Extensive experiments on several benchmarks show that our
+UniGoal achieves state-of-the-art zero-shot performance on three studied
+navigation tasks with a single model, even outperforming task-specific
+zero-shot methods and supervised universal methods.
+]]></content:encoded>
+<pubDate>2025-03-13T17:59:48Z</pubDate>
+<pubDate>2025-03-13T17:59:48Z</pubDate>
+</item>
+
+<item>
 <title>GoT: Unleashing Reasoning Capability of Multimodal Large Language Model
   for Visual Generation and Editing</title>
 <link>http://arxiv.org/abs/2503.10639v1</link>
 <guid>http://arxiv.org/abs/2503.10639v1</guid>
 <content:encoded><![CDATA[
-
 Current image generation and editing methods primarily process textual
 prompts as direct inputs without reasoning about visual composition and
 explicit operations. We present Generation Chain-of-Thought (GoT), a novel
@@ -33,14 +64,12 @@ To facilitate future research, we make our datasets, code, and pretrained
 models publicly available at https://github.com/rongyaofang/GoT.
 ]]></content:encoded>
 <pubDate>2025-03-13T17:59:59Z</pubDate>
-<pubDate>2025-03-13T17:59:59Z</pubDate>
 </item>
 <item>
 <title>V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes</title>
 <link>http://arxiv.org/abs/2503.10634v1</link>
 <guid>http://arxiv.org/abs/2503.10634v1</guid>
 <content:encoded><![CDATA[
-
 This paper introduces V$^2$Edit, a novel training-free framework for
 instruction-guided video and 3D scene editing. Addressing the critical
 challenge of balancing original content preservation with editing task
@@ -59,9 +88,7 @@ tasks and complex 3D scene editing tasks, thereby establishing state-of-the-art
 performance in both domains.
 ]]></content:encoded>
 <pubDate>2025-03-13T17:59:55Z</pubDate>
-<pubDate>2025-03-13T17:59:55Z</pubDate>
 </item>
-
 <item>
 <title>RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling</title>
 <link>http://arxiv.org/abs/2503.09601v1</link>
