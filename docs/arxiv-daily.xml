@@ -4,6 +4,61 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
+<link>http://arxiv.org/abs/2503.13444v1</link>
+<guid>http://arxiv.org/abs/2503.13444v1</guid>
+<content:encoded><![CDATA[
+
+Videos, with their unique temporal dimension, demand precise grounded
+understanding, where answers are directly linked to visual, interpretable
+evidence. Despite significant breakthroughs in reasoning capabilities within
+Large Language Models, multi-modal reasoning - especially for videos - remains
+unexplored. In this work, we introduce VideoMind, a novel video-language agent
+designed for temporal-grounded video understanding. VideoMind incorporates two
+key innovations: (i) We identify essential capabilities for video temporal
+reasoning and develop a role-based agentic workflow, including a planner for
+coordinating different roles, a grounder for temporal localization, a verifier
+to assess temporal interval accuracy, and an answerer for question-answering.
+(ii) To efficiently integrate these diverse roles, we propose a novel
+Chain-of-LoRA strategy, enabling seamless role-switching via lightweight LoRA
+adaptors while avoiding the overhead of multiple models, thus balancing
+efficiency and flexibility. Extensive experiments on 14 public benchmarks
+demonstrate that our agent achieves state-of-the-art performance on diverse
+video understanding tasks, including 3 on grounded video question-answering, 6
+on video temporal grounding, and 5 on general video question-answering,
+underscoring its effectiveness in advancing video agent and long-form temporal
+reasoning.
+]]></content:encoded>
+<pubDate>2025-03-17T17:59:33Z</pubDate>
+<pubDate>2025-03-17T17:59:33Z</pubDate>
+</item>
+<item>
+<title>Unified Autoregressive Visual Generation and Understanding with
+  Continuous Tokens</title>
+<link>http://arxiv.org/abs/2503.13436v1</link>
+<guid>http://arxiv.org/abs/2503.13436v1</guid>
+<content:encoded><![CDATA[
+
+We present UniFluid, a unified autoregressive framework for joint visual
+generation and understanding leveraging continuous visual tokens. Our unified
+autoregressive architecture processes multimodal image and text inputs,
+generating discrete tokens for text and continuous tokens for image. We find
+though there is an inherent trade-off between the image generation and
+understanding task, a carefully tuned training recipe enables them to improve
+each other. By selecting an appropriate loss balance weight, the unified model
+achieves results comparable to or exceeding those of single-task baselines on
+both tasks. Furthermore, we demonstrate that employing stronger pre-trained
+LLMs and random-order generation during training is important to achieve
+high-fidelity image generation within this unified framework. Built upon the
+Gemma model series, UniFluid exhibits competitive performance across both image
+generation and understanding, demonstrating strong transferability to various
+downstream tasks, including image editing for generation, as well as visual
+captioning and question answering for understanding.
+]]></content:encoded>
+<pubDate>2025-03-17T17:58:30Z</pubDate>
+<pubDate>2025-03-17T17:58:30Z</pubDate>
+</item>
 
 <item>
 <title>UniGoal: Towards Universal Zero-shot Goal-oriented Navigation</title>
