@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
 <link>http://arxiv.org/abs/2503.13444v1</link>
 <guid>http://arxiv.org/abs/2503.13444v1</guid>
 <content:encoded><![CDATA[
-
 Videos, with their unique temporal dimension, demand precise grounded
 understanding, where answers are directly linked to visual, interpretable
 evidence. Despite significant breakthroughs in reasoning capabilities within
@@ -31,7 +31,6 @@ underscoring its effectiveness in advancing video agent and long-form temporal
 reasoning.
 ]]></content:encoded>
 <pubDate>2025-03-17T17:59:33Z</pubDate>
-<pubDate>2025-03-17T17:59:33Z</pubDate>
 </item>
 <item>
 <title>Unified Autoregressive Visual Generation and Understanding with
@@ -39,7 +38,6 @@ reasoning.
 <link>http://arxiv.org/abs/2503.13436v1</link>
 <guid>http://arxiv.org/abs/2503.13436v1</guid>
 <content:encoded><![CDATA[
-
 We present UniFluid, a unified autoregressive framework for joint visual
 generation and understanding leveraging continuous visual tokens. Our unified
 autoregressive architecture processes multimodal image and text inputs,
@@ -57,9 +55,7 @@ downstream tasks, including image editing for generation, as well as visual
 captioning and question answering for understanding.
 ]]></content:encoded>
 <pubDate>2025-03-17T17:58:30Z</pubDate>
-<pubDate>2025-03-17T17:58:30Z</pubDate>
 </item>
-
 <item>
 <title>UniGoal: Towards Universal Zero-shot Goal-oriented Navigation</title>
 <link>http://arxiv.org/abs/2503.10630v1</link>
