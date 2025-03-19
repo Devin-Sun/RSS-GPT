@@ -17637,3 +17637,26 @@ Filter: [MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling
 Filter: [Deep Belief Markov Models for POMDP Inference](http://arxiv.org/abs/2503.13438v1)
 append_entries: 0
 Finish: 2025-03-19 00:52:34.455442
+------------------------------------------------------
+Started: 2025-03-19 12:20:18.999763
+Existing_entries: 522
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MusicInfuser: Making Video Diffusion Listen and Dance](http://arxiv.org/abs/2503.14505v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aligning Multimodal LLM with Human Preference: A Survey](http://arxiv.org/abs/2503.14504v1)
+Append: [The Power of Context: How Multimodality Improves Image Super-Resolution](http://arxiv.org/abs/2503.14503v1)
+Filter: [Advances in 4D Generation: A Survey](http://arxiv.org/abs/2503.14501v1)
+Filter: [Utilization of Neighbor Information for Image Classification with
+  Different Levels of Supervision](http://arxiv.org/abs/2503.14500v1)
+Filter: [Measuring AI Ability to Complete Long Tasks](http://arxiv.org/abs/2503.14499v1)
+Filter: [Tracking Meets Large Multimodal Models for Driving Scenario
+  Understanding](http://arxiv.org/abs/2503.14498v1)
+Filter: [Temporal Consistency for LLM Reasoning Process Error Identification](http://arxiv.org/abs/2503.14495v1)
+Append: [Deeply Supervised Flow-Based Generative Models](http://arxiv.org/abs/2503.14494v1)
+Filter: [State Space Model Meets Transformer: A New Paradigm for 3D Object
+  Detection](http://arxiv.org/abs/2503.14493v1)
+append_entries: 4
+Finish: 2025-03-19 12:20:19.574820
