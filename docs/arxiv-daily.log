@@ -17675,3 +17675,25 @@ Filter: [State Space Model Meets Transformer: A New Paradigm for 3D Object
   Detection](http://arxiv.org/abs/2503.14493v1)
 append_entries: 0
 Finish: 2025-03-20 00:51:41.820358
+------------------------------------------------------
+Started: 2025-03-20 12:20:54.077616
+Existing_entries: 526
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [More Information is Not Always Better: Connections between Zero-Sum
+  Local Nash Equilibria in Feedback and Open-Loop Information Patterns](http://arxiv.org/abs/2503.15486v1)
+Filter: [TULIP: Towards Unified Language-Image Pretraining](http://arxiv.org/abs/2503.15485v1)
+Filter: [Value Profiles for Encoding Human Variation](http://arxiv.org/abs/2503.15484v1)
+Filter: [Natural Quantization of Neural Networks](http://arxiv.org/abs/2503.15482v1)
+Filter: [Learning to Play Piano in the Real World](http://arxiv.org/abs/2503.15481v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning
+  Tasks](http://arxiv.org/abs/2503.15478v1)
+Filter: [What Makes a Reward Model a Good Teacher? An Optimization Perspective](http://arxiv.org/abs/2503.15477v1)
+Filter: [Cube: A Roblox View of 3D Intelligence](http://arxiv.org/abs/2503.15475v1)
+Filter: [Toward task-driven satellite image super-resolution](http://arxiv.org/abs/2503.15474v1)
+Filter: [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](http://arxiv.org/abs/2503.15470v1)
+append_entries: 2
+Finish: 2025-03-20 12:20:54.642586
