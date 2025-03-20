@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>MusicInfuser: Making Video Diffusion Listen and Dance</title>
 <link>http://arxiv.org/abs/2503.14505v1</link>
 <guid>http://arxiv.org/abs/2503.14505v1</guid>
 <content:encoded><![CDATA[
-
 We introduce MusicInfuser, an approach for generating high-quality dance
 videos that are synchronized to a specified music track. Rather than attempting
 to design and train a new multimodal audio-video model, we show how existing
@@ -23,14 +23,12 @@ assess multiple dimensions of dance generation quality. The project page and
 code are available at https://susunghong.github.io/MusicInfuser.
 ]]></content:encoded>
 <pubDate>2025-03-18T17:59:58Z</pubDate>
-<pubDate>2025-03-18T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Aligning Multimodal LLM with Human Preference: A Survey</title>
 <link>http://arxiv.org/abs/2503.14504v1</link>
 <guid>http://arxiv.org/abs/2503.14504v1</guid>
 <content:encoded><![CDATA[
-
 Large language models (LLMs) can handle a wide variety of general tasks with
 simple prompts, without the need for task-specific training. Multimodal Large
 Language Models (MLLMs), built upon LLMs, have demonstrated impressive
@@ -54,14 +52,12 @@ methods. The project page of this paper is available at
 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment.
 ]]></content:encoded>
 <pubDate>2025-03-18T17:59:56Z</pubDate>
-<pubDate>2025-03-18T17:59:56Z</pubDate>
 </item>
 <item>
 <title>The Power of Context: How Multimodality Improves Image Super-Resolution</title>
 <link>http://arxiv.org/abs/2503.14503v1</link>
 <guid>http://arxiv.org/abs/2503.14503v1</guid>
 <content:encoded><![CDATA[
-
 Single-image super-resolution (SISR) remains challenging due to the inherent
 difficulty of recovering fine-grained details and preserving perceptual quality
 from low-resolution inputs. Existing methods often rely on limited image
@@ -82,14 +78,12 @@ achieving superior visual quality and fidelity. See project page at
 https://mmsr.kfmei.com/.
 ]]></content:encoded>
 <pubDate>2025-03-18T17:59:54Z</pubDate>
-<pubDate>2025-03-18T17:59:54Z</pubDate>
 </item>
 <item>
 <title>Deeply Supervised Flow-Based Generative Models</title>
 <link>http://arxiv.org/abs/2503.14494v1</link>
 <guid>http://arxiv.org/abs/2503.14494v1</guid>
 <content:encoded><![CDATA[
-
 Flow based generative models have charted an impressive path across multiple
 visual generation tasks by adhering to a simple principle: learning velocity
 representations of a linear interpolant. However, we observe that training
@@ -108,9 +102,7 @@ outperforms baselines in text to image generation tasks, as evidenced by
 evaluations on MSCOCO and zero shot GenEval.
 ]]></content:encoded>
 <pubDate>2025-03-18T17:58:08Z</pubDate>
-<pubDate>2025-03-18T17:58:08Z</pubDate>
 </item>
-
 <item>
 <title>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</title>
 <link>http://arxiv.org/abs/2503.13444v1</link>
