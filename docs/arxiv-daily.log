@@ -17711,3 +17711,26 @@ Filter: [Toward task-driven satellite image super-resolution](http://arxiv.org/a
 Filter: [EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining](http://arxiv.org/abs/2503.15470v1)
 append_entries: 0
 Finish: 2025-03-21 00:52:42.555025
+------------------------------------------------------
+Started: 2025-03-21 12:20:00.243546
+Existing_entries: 528
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Sonata: Self-Supervised Learning of Reliable Point Representations](http://arxiv.org/abs/2503.16429v1)
+Filter: [Bridging Continuous and Discrete Tokens for Autoregressive Visual
+  Generation](http://arxiv.org/abs/2503.16430v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [XAttention: Block Sparse Attention with Antidiagonal Scoring](http://arxiv.org/abs/2503.16428v1)
+Filter: [DynamicVis: An Efficient and General Visual Foundation Model for Remote
+  Sensing Image Understanding](http://arxiv.org/abs/2503.16426v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenize Image as a Set](http://arxiv.org/abs/2503.16425v1)
+Filter: [Bézier Splatting for Fast and Differentiable Vector Graphics](http://arxiv.org/abs/2503.16424v1)
+Append: [GAEA: A Geolocation Aware Conversational Model](http://arxiv.org/abs/2503.16423v1)
+Filter: [1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering](http://arxiv.org/abs/2503.16422v1)
+Append: [MagicMotion: Controllable Video Generation with Dense-to-Sparse
+  Trajectory Guidance](http://arxiv.org/abs/2503.16421v1)
+Filter: [SynCity: Training-Free Generation of 3D Worlds](http://arxiv.org/abs/2503.16420v1)
+append_entries: 4
+Finish: 2025-03-21 12:20:00.839410

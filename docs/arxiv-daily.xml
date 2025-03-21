@@ -4,6 +4,128 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>XAttention: Block Sparse Attention with Antidiagonal Scoring</title>
+<link>http://arxiv.org/abs/2503.16428v1</link>
+<guid>http://arxiv.org/abs/2503.16428v1</guid>
+<content:encoded><![CDATA[
+
+Long-Context Transformer Models (LCTMs) are vital for real-world applications
+but suffer high computational costs due to attention's quadratic complexity.
+Block-sparse attention mitigates this by focusing computation on critical
+regions, yet existing methods struggle with balancing accuracy and efficiency
+due to costly block importance measurements. In this paper, we introduce
+XAttention, a plug-and-play framework that dramatically accelerates
+long-context inference in Transformers models using sparse attention.
+XAttention's key innovation is the insight that the sum of antidiagonal values
+(i.e., from the lower-left to upper-right) in the attention matrix provides a
+powerful proxy for block importance. This allows for precise identification and
+pruning of non-essential blocks, resulting in high sparsity and dramatically
+accelerated inference. Across comprehensive evaluations on demanding
+long-context benchmarks-including RULER and LongBench for language, VideoMME
+for video understanding, and VBench for video generation. XAttention achieves
+accuracy comparable to full attention while delivering substantial
+computational gains. We demonstrate up to 13.5x acceleration in attention
+computation. These results underscore XAttention's ability to unlock the
+practical potential of block sparse attention, paving the way for scalable and
+efficient deployment of LCTMs in real-world applications. Code is available at
+https://github.com/mit-han-lab/x-attention.
+]]></content:encoded>
+<pubDate>2025-03-20T17:59:58Z</pubDate>
+<pubDate>2025-03-20T17:59:58Z</pubDate>
+</item>
+<item>
+<title>Tokenize Image as a Set</title>
+<link>http://arxiv.org/abs/2503.16425v1</link>
+<guid>http://arxiv.org/abs/2503.16425v1</guid>
+<content:encoded><![CDATA[
+
+This paper proposes a fundamentally new paradigm for image generation through
+set-based tokenization and distribution modeling. Unlike conventional methods
+that serialize images into fixed-position latent codes with a uniform
+compression ratio, we introduce an unordered token set representation to
+dynamically allocate coding capacity based on regional semantic complexity.
+This TokenSet enhances global context aggregation and improves robustness
+against local perturbations. To address the critical challenge of modeling
+discrete sets, we devise a dual transformation mechanism that bijectively
+converts sets into fixed-length integer sequences with summation constraints.
+Further, we propose Fixed-Sum Discrete Diffusion--the first framework to
+simultaneously handle discrete values, fixed sequence length, and summation
+invariance--enabling effective set distribution modeling. Experiments
+demonstrate our method's superiority in semantic-aware representation and
+generation quality. Our innovations, spanning novel representation and modeling
+strategies, advance visual generation beyond traditional sequential token
+paradigms. Our code and models are publicly available at
+https://github.com/Gengzigang/TokenSet.
+]]></content:encoded>
+<pubDate>2025-03-20T17:59:51Z</pubDate>
+<pubDate>2025-03-20T17:59:51Z</pubDate>
+</item>
+<item>
+<title>GAEA: A Geolocation Aware Conversational Model</title>
+<link>http://arxiv.org/abs/2503.16423v1</link>
+<guid>http://arxiv.org/abs/2503.16423v1</guid>
+<content:encoded><![CDATA[
+
+Image geolocalization, in which, traditionally, an AI model predicts the
+precise GPS coordinates of an image is a challenging task with many downstream
+applications. However, the user cannot utilize the model to further their
+knowledge other than the GPS coordinate; the model lacks an understanding of
+the location and the conversational ability to communicate with the user. In
+recent days, with tremendous progress of large multimodal models (LMMs)
+proprietary and open-source researchers have attempted to geolocalize images
+via LMMs. However, the issues remain unaddressed; beyond general tasks, for
+more specialized downstream tasks, one of which is geolocalization, LMMs
+struggle. In this work, we propose to solve this problem by introducing a
+conversational model GAEA that can provide information regarding the location
+of an image, as required by a user. No large-scale dataset enabling the
+training of such a model exists. Thus we propose a comprehensive dataset GAEA
+with 800K images and around 1.6M question answer pairs constructed by
+leveraging OpenStreetMap (OSM) attributes and geographical context clues. For
+quantitative evaluation, we propose a diverse benchmark comprising 4K
+image-text pairs to evaluate conversational capabilities equipped with diverse
+question types. We consider 11 state-of-the-art open-source and proprietary
+LMMs and demonstrate that GAEA significantly outperforms the best open-source
+model, LLaVA-OneVision by 25.69% and the best proprietary model, GPT-4o by
+8.28%. Our dataset, model and codes are available
+]]></content:encoded>
+<pubDate>2025-03-20T17:59:47Z</pubDate>
+<pubDate>2025-03-20T17:59:47Z</pubDate>
+</item>
+<item>
+<title>MagicMotion: Controllable Video Generation with Dense-to-Sparse
+  Trajectory Guidance</title>
+<link>http://arxiv.org/abs/2503.16421v1</link>
+<guid>http://arxiv.org/abs/2503.16421v1</guid>
+<content:encoded><![CDATA[
+
+Recent advances in video generation have led to remarkable improvements in
+visual quality and temporal coherence. Upon this, trajectory-controllable video
+generation has emerged to enable precise object motion control through
+explicitly defined spatial paths. However, existing methods struggle with
+complex object movements and multi-object motion control, resulting in
+imprecise trajectory adherence, poor object consistency, and compromised visual
+quality. Furthermore, these methods only support trajectory control in a single
+format, limiting their applicability in diverse scenarios. Additionally, there
+is no publicly available dataset or benchmark specifically tailored for
+trajectory-controllable video generation, hindering robust training and
+systematic evaluation. To address these challenges, we introduce MagicMotion, a
+novel image-to-video generation framework that enables trajectory control
+through three levels of conditions from dense to sparse: masks, bounding boxes,
+and sparse boxes. Given an input image and trajectories, MagicMotion seamlessly
+animates objects along defined trajectories while maintaining object
+consistency and visual quality. Furthermore, we present MagicData, a
+large-scale trajectory-controlled video dataset, along with an automated
+pipeline for annotation and filtering. We also introduce MagicBench, a
+comprehensive benchmark that assesses both video quality and trajectory control
+accuracy across different numbers of objects. Extensive experiments demonstrate
+that MagicMotion outperforms previous methods across various metrics. Our
+project page are publicly available at
+https://quanhaol.github.io/magicmotion-site.
+]]></content:encoded>
+<pubDate>2025-03-20T17:59:42Z</pubDate>
+<pubDate>2025-03-20T17:59:42Z</pubDate>
+</item>
 
 <item>
 <title>More Information is Not Always Better: Connections between Zero-Sum
