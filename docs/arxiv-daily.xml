@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>XAttention: Block Sparse Attention with Antidiagonal Scoring</title>
 <link>http://arxiv.org/abs/2503.16428v1</link>
 <guid>http://arxiv.org/abs/2503.16428v1</guid>
 <content:encoded><![CDATA[
-
 Long-Context Transformer Models (LCTMs) are vital for real-world applications
 but suffer high computational costs due to attention's quadratic complexity.
 Block-sparse attention mitigates this by focusing computation on critical
@@ -32,14 +32,12 @@ efficient deployment of LCTMs in real-world applications. Code is available at
 https://github.com/mit-han-lab/x-attention.
 ]]></content:encoded>
 <pubDate>2025-03-20T17:59:58Z</pubDate>
-<pubDate>2025-03-20T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Tokenize Image as a Set</title>
 <link>http://arxiv.org/abs/2503.16425v1</link>
 <guid>http://arxiv.org/abs/2503.16425v1</guid>
 <content:encoded><![CDATA[
-
 This paper proposes a fundamentally new paradigm for image generation through
 set-based tokenization and distribution modeling. Unlike conventional methods
 that serialize images into fixed-position latent codes with a uniform
@@ -59,14 +57,12 @@ paradigms. Our code and models are publicly available at
 https://github.com/Gengzigang/TokenSet.
 ]]></content:encoded>
 <pubDate>2025-03-20T17:59:51Z</pubDate>
-<pubDate>2025-03-20T17:59:51Z</pubDate>
 </item>
 <item>
 <title>GAEA: A Geolocation Aware Conversational Model</title>
 <link>http://arxiv.org/abs/2503.16423v1</link>
 <guid>http://arxiv.org/abs/2503.16423v1</guid>
 <content:encoded><![CDATA[
-
 Image geolocalization, in which, traditionally, an AI model predicts the
 precise GPS coordinates of an image is a challenging task with many downstream
 applications. However, the user cannot utilize the model to further their
@@ -90,7 +86,6 @@ model, LLaVA-OneVision by 25.69% and the best proprietary model, GPT-4o by
 8.28%. Our dataset, model and codes are available
 ]]></content:encoded>
 <pubDate>2025-03-20T17:59:47Z</pubDate>
-<pubDate>2025-03-20T17:59:47Z</pubDate>
 </item>
 <item>
 <title>MagicMotion: Controllable Video Generation with Dense-to-Sparse
@@ -98,7 +93,6 @@ model, LLaVA-OneVision by 25.69% and the best proprietary model, GPT-4o by
 <link>http://arxiv.org/abs/2503.16421v1</link>
 <guid>http://arxiv.org/abs/2503.16421v1</guid>
 <content:encoded><![CDATA[
-
 Recent advances in video generation have led to remarkable improvements in
 visual quality and temporal coherence. Upon this, trajectory-controllable video
 generation has emerged to enable precise object motion control through
@@ -124,9 +118,7 @@ project page are publicly available at
 https://quanhaol.github.io/magicmotion-site.
 ]]></content:encoded>
 <pubDate>2025-03-20T17:59:42Z</pubDate>
-<pubDate>2025-03-20T17:59:42Z</pubDate>
 </item>
-
 <item>
 <title>More Information is Not Always Better: Connections between Zero-Sum
   Local Nash Equilibria in Feedback and Open-Loop Information Patterns</title>
