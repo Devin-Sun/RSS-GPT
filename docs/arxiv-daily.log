@@ -17748,3 +17748,17 @@ Filter: [1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering](http://arx
 Filter: [SynCity: Training-Free Generation of 3D Worlds](http://arxiv.org/abs/2503.16420v1)
 append_entries: 0
 Finish: 2025-03-22 00:51:11.621844
+------------------------------------------------------
+Started: 2025-03-22 12:17:49.681813
+Existing_entries: 532
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Sonata: Self-Supervised Learning of Reliable Point Representations](http://arxiv.org/abs/2503.16429v1)
+Filter: [Bridging Continuous and Discrete Tokens for Autoregressive Visual
+  Generation](http://arxiv.org/abs/2503.16430v1)
+Filter: [DynamicVis: An Efficient and General Visual Foundation Model for Remote
+  Sensing Image Understanding](http://arxiv.org/abs/2503.16426v1)
+Filter: [Bézier Splatting for Fast and Differentiable Vector Graphics](http://arxiv.org/abs/2503.16424v1)
+Filter: [1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering](http://arxiv.org/abs/2503.16422v1)
+Filter: [SynCity: Training-Free Generation of 3D Worlds](http://arxiv.org/abs/2503.16420v1)
+append_entries: 0
+Finish: 2025-03-22 12:17:50.483432
