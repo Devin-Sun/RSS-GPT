@@ -4,6 +4,111 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Position: Interactive Generative Video as Next-Generation Game Engine</title>
+<link>http://arxiv.org/abs/2503.17359v1</link>
+<guid>http://arxiv.org/abs/2503.17359v1</guid>
+<content:encoded><![CDATA[
+
+Modern game development faces significant challenges in creativity and cost
+due to predetermined content in traditional game engines. Recent breakthroughs
+in video generation models, capable of synthesizing realistic and interactive
+virtual environments, present an opportunity to revolutionize game creation. In
+this position paper, we propose Interactive Generative Video (IGV) as the
+foundation for Generative Game Engines (GGE), enabling unlimited novel content
+generation in next-generation gaming. GGE leverages IGV's unique strengths in
+unlimited high-quality content synthesis, physics-aware world modeling,
+user-controlled interactivity, long-term memory capabilities, and causal
+reasoning. We present a comprehensive framework detailing GGE's core modules
+and a hierarchical maturity roadmap (L0-L4) to guide its evolution. Our work
+charts a new course for game development in the AI era, envisioning a future
+where AI-powered generative systems fundamentally reshape how games are created
+and experienced.
+]]></content:encoded>
+<pubDate>2025-03-21T17:59:22Z</pubDate>
+<pubDate>2025-03-21T17:59:22Z</pubDate>
+</item>
+<item>
+<title>HCAST: Human-Calibrated Autonomy Software Tasks</title>
+<link>http://arxiv.org/abs/2503.17354v1</link>
+<guid>http://arxiv.org/abs/2503.17354v1</guid>
+<content:encoded><![CDATA[
+
+To understand and predict the societal impacts of highly autonomous AI
+systems, we need benchmarks with grounding, i.e., metrics that directly connect
+AI performance to real-world effects we care about. We present HCAST
+(Human-Calibrated Autonomy Software Tasks), a benchmark of 189 machine learning
+engineering, cybersecurity, software engineering, and general reasoning tasks.
+We collect 563 human baselines (totaling over 1500 hours) from people skilled
+in these domains, working under identical conditions as AI agents, which lets
+us estimate that HCAST tasks take humans between one minute and 8+ hours.
+Measuring the time tasks take for humans provides an intuitive metric for
+evaluating AI capabilities, helping answer the question "can an agent be
+trusted to complete a task that would take a human X hours?" We evaluate the
+success rates of AI agents built on frontier foundation models, and we find
+that current agents succeed 70-80% of the time on tasks that take humans less
+than one hour, and less than 20% of the time on tasks that take humans more
+than 4 hours.
+]]></content:encoded>
+<pubDate>2025-03-21T17:54:01Z</pubDate>
+<pubDate>2025-03-21T17:54:01Z</pubDate>
+</item>
+<item>
+<title>NdLinear Is All You Need for Representation Learning</title>
+<link>http://arxiv.org/abs/2503.17353v1</link>
+<guid>http://arxiv.org/abs/2503.17353v1</guid>
+<content:encoded><![CDATA[
+
+Many high-impact machine learning tasks involve multi-dimensional data (e.g.,
+images, volumetric medical scans, multivariate time-series). Yet, most neural
+architectures flatten inputs, discarding critical cross-dimension information.
+We introduce NdLinear, a novel linear transformation that preserves these
+structures without extra overhead. By operating separately along each
+dimension, NdLinear captures dependencies that standard fully connected layers
+overlook. Extensive experiments across convolutional, recurrent, and
+transformer-based networks show significant improvements in representational
+power and parameter efficiency. Crucially, NdLinear serves as a foundational
+building block for large-scale foundation models by operating on any unimodal
+or multimodal data in its native form. This removes the need for flattening or
+modality-specific preprocessing. Ndlinear rethinks core architectural
+priorities beyond attention, enabling more expressive, context-aware models at
+scale. We propose NdLinear as a drop-in replacement for standard linear layers
+-- marking an important step toward next-generation neural architectures.
+]]></content:encoded>
+<pubDate>2025-03-21T17:52:44Z</pubDate>
+<pubDate>2025-03-21T17:52:44Z</pubDate>
+</item>
+<item>
+<title>OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning
+  via Iterative Self-Improvement</title>
+<link>http://arxiv.org/abs/2503.17352v1</link>
+<guid>http://arxiv.org/abs/2503.17352v1</guid>
+<content:encoded><![CDATA[
+
+Recent advancements demonstrated by DeepSeek-R1 have shown that complex
+reasoning abilities in large language models (LLMs), including sophisticated
+behaviors such as self-verification and self-correction, can be achieved by RL
+with verifiable rewards and significantly improves model performance on
+challenging tasks such as AIME. Motivated by these findings, our study
+investigates whether similar reasoning capabilities can be successfully
+integrated into large vision-language models (LVLMs) and assesses their impact
+on challenging multimodal reasoning tasks. We consider an approach that
+iteratively leverages supervised fine-tuning (SFT) on lightweight training data
+and Reinforcement Learning (RL) to further improve model generalization.
+Initially, reasoning capabilities were distilled from pure-text R1 models by
+generating reasoning steps using high-quality captions of the images sourced
+from diverse visual datasets. Subsequently, iterative RL training further
+enhance reasoning skills, with each iteration's RL-improved model generating
+refined SFT datasets for the next round. This iterative process yielded
+OpenVLThinker, a LVLM exhibiting consistently improved reasoning performance on
+challenging benchmarks such as MathVista, MathVerse, and MathVision,
+demonstrating the potential of our strategy for robust vision-language
+reasoning. The code, model and data are held at
+https://github.com/yihedeng9/OpenVLThinker.
+]]></content:encoded>
+<pubDate>2025-03-21T17:52:43Z</pubDate>
+<pubDate>2025-03-21T17:52:43Z</pubDate>
+</item>
 
 <item>
 <title>XAttention: Block Sparse Attention with Antidiagonal Scoring</title>
