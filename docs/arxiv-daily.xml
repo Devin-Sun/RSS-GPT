@@ -4,6 +4,96 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Video-T1: Test-Time Scaling for Video Generation</title>
+<link>http://arxiv.org/abs/2503.18942v1</link>
+<guid>http://arxiv.org/abs/2503.18942v1</guid>
+<content:encoded><![CDATA[
+
+With the scale capability of increasing training data, model size, and
+computational cost, video generation has achieved impressive results in digital
+creation, enabling users to express creativity across various domains.
+Recently, researchers in Large Language Models (LLMs) have expanded the scaling
+to test-time, which can significantly improve LLM performance by using more
+inference-time computation. Instead of scaling up video foundation models
+through expensive training costs, we explore the power of Test-Time Scaling
+(TTS) in video generation, aiming to answer the question: if a video generation
+model is allowed to use non-trivial amount of inference-time compute, how much
+can it improve generation quality given a challenging text prompt. In this
+work, we reinterpret the test-time scaling of video generation as a searching
+problem to sample better trajectories from Gaussian noise space to the target
+video distribution. Specifically, we build the search space with test-time
+verifiers to provide feedback and heuristic algorithms to guide searching
+process. Given a text prompt, we first explore an intuitive linear search
+strategy by increasing noise candidates at inference time. As full-step
+denoising all frames simultaneously requires heavy test-time computation costs,
+we further design a more efficient TTS method for video generation called
+Tree-of-Frames (ToF) that adaptively expands and prunes video branches in an
+autoregressive manner. Extensive experiments on text-conditioned video
+generation benchmarks demonstrate that increasing test-time compute
+consistently leads to significant improvements in the quality of videos.
+Project page: https://liuff19.github.io/Video-T1
+]]></content:encoded>
+<pubDate>2025-03-24T17:59:04Z</pubDate>
+<pubDate>2025-03-24T17:59:04Z</pubDate>
+</item>
+<item>
+<title>Training-free Diffusion Acceleration with Bottleneck Sampling</title>
+<link>http://arxiv.org/abs/2503.18940v1</link>
+<guid>http://arxiv.org/abs/2503.18940v1</guid>
+<content:encoded><![CDATA[
+
+Diffusion models have demonstrated remarkable capabilities in visual content
+generation but remain challenging to deploy due to their high computational
+cost during inference. This computational burden primarily arises from the
+quadratic complexity of self-attention with respect to image or video
+resolution. While existing acceleration methods often compromise output quality
+or necessitate costly retraining, we observe that most diffusion models are
+pre-trained at lower resolutions, presenting an opportunity to exploit these
+low-resolution priors for more efficient inference without degrading
+performance. In this work, we introduce Bottleneck Sampling, a training-free
+framework that leverages low-resolution priors to reduce computational overhead
+while preserving output fidelity. Bottleneck Sampling follows a high-low-high
+denoising workflow: it performs high-resolution denoising in the initial and
+final stages while operating at lower resolutions in intermediate steps. To
+mitigate aliasing and blurring artifacts, we further refine the resolution
+transition points and adaptively shift the denoising timesteps at each stage.
+We evaluate Bottleneck Sampling on both image and video generation tasks, where
+extensive experiments demonstrate that it accelerates inference by up to
+3$\times$ for image generation and 2.5$\times$ for video generation, all while
+maintaining output quality comparable to the standard full-resolution sampling
+process across multiple evaluation metrics. Code is available at:
+https://github.com/tyfeld/Bottleneck-Sampling
+]]></content:encoded>
+<pubDate>2025-03-24T17:59:02Z</pubDate>
+<pubDate>2025-03-24T17:59:02Z</pubDate>
+</item>
+<item>
+<title>AdaWorld: Learning Adaptable World Models with Latent Actions</title>
+<link>http://arxiv.org/abs/2503.18938v1</link>
+<guid>http://arxiv.org/abs/2503.18938v1</guid>
+<content:encoded><![CDATA[
+
+World models aim to learn action-controlled prediction models and have proven
+essential for the development of intelligent agents. However, most existing
+world models rely heavily on substantial action-labeled data and costly
+training, making it challenging to adapt to novel environments with
+heterogeneous actions through limited interactions. This limitation can hinder
+their applicability across broader domains. To overcome this challenge, we
+propose AdaWorld, an innovative world model learning approach that enables
+efficient adaptation. The key idea is to incorporate action information during
+the pretraining of world models. This is achieved by extracting latent actions
+from videos in a self-supervised manner, capturing the most critical
+transitions between frames. We then develop an autoregressive world model that
+conditions on these latent actions. This learning paradigm enables highly
+adaptable world models, facilitating efficient transfer and learning of new
+actions even with limited interactions and finetuning. Our comprehensive
+experiments across multiple environments demonstrate that AdaWorld achieves
+superior performance in both simulation quality and visual planning.
+]]></content:encoded>
+<pubDate>2025-03-24T17:58:15Z</pubDate>
+<pubDate>2025-03-24T17:58:15Z</pubDate>
+</item>
 
 <item>
 <title>Position: Interactive Generative Video as Next-Generation Game Engine</title>
