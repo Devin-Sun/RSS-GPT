@@ -17829,3 +17829,19 @@ Filter: [Time-Series U-Net with Recurrence for Noise-Robust Imaging
   Photoplethysmography](http://arxiv.org/abs/2503.17351v1)
 append_entries: 4
 Finish: 2025-03-24 12:21:39.422460
+------------------------------------------------------
+Started: 2025-03-25 00:53:05.569127
+Existing_entries: 536
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural
+  Language Self-Critique](http://arxiv.org/abs/2503.17363v1)
+Filter: [Gumbel-Softmax Flow Matching with Straight-Through Guidance for
+  Controllable Biological Sequence Generation](http://arxiv.org/abs/2503.17361v1)
+Filter: [Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred
+  Image](http://arxiv.org/abs/2503.17358v1)
+Filter: [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1)
+Filter: [Glivenko-Cantelli for $f$-divergence](http://arxiv.org/abs/2503.17355v1)
+Filter: [Time-Series U-Net with Recurrence for Noise-Robust Imaging
+  Photoplethysmography](http://arxiv.org/abs/2503.17351v1)
+append_entries: 0
+Finish: 2025-03-25 00:53:06.716348

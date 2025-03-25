@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Position: Interactive Generative Video as Next-Generation Game Engine</title>
 <link>http://arxiv.org/abs/2503.17359v1</link>
 <guid>http://arxiv.org/abs/2503.17359v1</guid>
 <content:encoded><![CDATA[
-
 Modern game development faces significant challenges in creativity and cost
 due to predetermined content in traditional game engines. Recent breakthroughs
 in video generation models, capable of synthesizing realistic and interactive
@@ -26,14 +26,12 @@ where AI-powered generative systems fundamentally reshape how games are created
 and experienced.
 ]]></content:encoded>
 <pubDate>2025-03-21T17:59:22Z</pubDate>
-<pubDate>2025-03-21T17:59:22Z</pubDate>
 </item>
 <item>
 <title>HCAST: Human-Calibrated Autonomy Software Tasks</title>
 <link>http://arxiv.org/abs/2503.17354v1</link>
 <guid>http://arxiv.org/abs/2503.17354v1</guid>
 <content:encoded><![CDATA[
-
 To understand and predict the societal impacts of highly autonomous AI
 systems, we need benchmarks with grounding, i.e., metrics that directly connect
 AI performance to real-world effects we care about. We present HCAST
@@ -51,14 +49,12 @@ than one hour, and less than 20% of the time on tasks that take humans more
 than 4 hours.
 ]]></content:encoded>
 <pubDate>2025-03-21T17:54:01Z</pubDate>
-<pubDate>2025-03-21T17:54:01Z</pubDate>
 </item>
 <item>
 <title>NdLinear Is All You Need for Representation Learning</title>
 <link>http://arxiv.org/abs/2503.17353v1</link>
 <guid>http://arxiv.org/abs/2503.17353v1</guid>
 <content:encoded><![CDATA[
-
 Many high-impact machine learning tasks involve multi-dimensional data (e.g.,
 images, volumetric medical scans, multivariate time-series). Yet, most neural
 architectures flatten inputs, discarding critical cross-dimension information.
@@ -76,7 +72,6 @@ scale. We propose NdLinear as a drop-in replacement for standard linear layers
 -- marking an important step toward next-generation neural architectures.
 ]]></content:encoded>
 <pubDate>2025-03-21T17:52:44Z</pubDate>
-<pubDate>2025-03-21T17:52:44Z</pubDate>
 </item>
 <item>
 <title>OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning
@@ -84,7 +79,6 @@ scale. We propose NdLinear as a drop-in replacement for standard linear layers
 <link>http://arxiv.org/abs/2503.17352v1</link>
 <guid>http://arxiv.org/abs/2503.17352v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements demonstrated by DeepSeek-R1 have shown that complex
 reasoning abilities in large language models (LLMs), including sophisticated
 behaviors such as self-verification and self-correction, can be achieved by RL
@@ -107,9 +101,7 @@ reasoning. The code, model and data are held at
 https://github.com/yihedeng9/OpenVLThinker.
 ]]></content:encoded>
 <pubDate>2025-03-21T17:52:43Z</pubDate>
-<pubDate>2025-03-21T17:52:43Z</pubDate>
 </item>
-
 <item>
 <title>XAttention: Block Sparse Attention with Antidiagonal Scoring</title>
 <link>http://arxiv.org/abs/2503.16428v1</link>
