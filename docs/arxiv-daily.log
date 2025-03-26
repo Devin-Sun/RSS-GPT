@@ -17867,3 +17867,18 @@ Append: [Training-free Diffusion Acceleration with Bottleneck Sampling](http://a
 Append: [AdaWorld: Learning Adaptable World Models with Latent Actions](http://arxiv.org/abs/2503.18938v1)
 append_entries: 3
 Finish: 2025-03-25 12:20:40.604938
+------------------------------------------------------
+Started: 2025-03-26 00:52:40.224159
+Existing_entries: 539
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Target-Aware Video Diffusion Models](http://arxiv.org/abs/2503.18950v1)
+Filter: [Equivariant Image Modeling](http://arxiv.org/abs/2503.18948v1)
+Filter: [Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of
+  Inpainting Models](http://arxiv.org/abs/2503.18947v1)
+Filter: [Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v1)
+Filter: [DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation](http://arxiv.org/abs/2503.18944v1)
+Filter: [SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language
+  Models for Long-Form Video Understanding](http://arxiv.org/abs/2503.18943v1)
+Filter: [Exploring Training and Inference Scaling Laws in Generative Retrieval](http://arxiv.org/abs/2503.18941v1)
+append_entries: 0
+Finish: 2025-03-26 00:52:45.193816
