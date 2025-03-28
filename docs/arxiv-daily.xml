@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with
   Feature Banks</title>
 <link>http://arxiv.org/abs/2503.20784v1</link>
 <guid>http://arxiv.org/abs/2503.20784v1</guid>
 <content:encoded><![CDATA[
-
 With the rapid advancements in diffusion models and 3D generation techniques,
 dynamic 3D content generation has become a crucial research area. However,
 achieving high-fidelity 4D (dynamic 3D) generation with strong spatial-temporal
@@ -31,7 +31,6 @@ approaches by a large margin and achieves performance on par with
 training-based methods.
 ]]></content:encoded>
 <pubDate>2025-03-26T17:59:31Z</pubDate>
-<pubDate>2025-03-26T17:59:31Z</pubDate>
 </item>
 <item>
 <title>Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile
@@ -39,7 +38,6 @@ training-based methods.
 <link>http://arxiv.org/abs/2503.20776v1</link>
 <guid>http://arxiv.org/abs/2503.20776v1</guid>
 <content:encoded><![CDATA[
-
 Recent advancements in 2D and multimodal models have achieved remarkable
 success by leveraging large-scale training on extensive datasets. However,
 extending these achievements to enable free-form interactions and high-level
@@ -65,7 +63,6 @@ contextually and spatiotemporally aware systems capable of immersive dynamic 4D
 scene interaction.
 ]]></content:encoded>
 <pubDate>2025-03-26T17:56:16Z</pubDate>
-<pubDate>2025-03-26T17:56:16Z</pubDate>
 </item>
 <item>
 <title>Welfare and Cost Aggregation for Multi-Agent Control: When to Choose
@@ -73,7 +70,6 @@ scene interaction.
 <link>http://arxiv.org/abs/2503.20772v1</link>
 <guid>http://arxiv.org/abs/2503.20772v1</guid>
 <content:encoded><![CDATA[
-
 Many multi-agent socio-technical systems rely on aggregating heterogeneous
 agents' costs into a social cost function (SCF) to coordinate resource
 allocation in domains like energy grids, water allocation, or traffic
@@ -91,9 +87,7 @@ demonstrate how the proposed framework can be applied for principled
 allocations of water and transportation resources.
 ]]></content:encoded>
 <pubDate>2025-03-26T17:53:57Z</pubDate>
-<pubDate>2025-03-26T17:53:57Z</pubDate>
 </item>
-
 <item>
 <title>CoLLM: A Large Language Model for Composed Image Retrieval</title>
 <link>http://arxiv.org/abs/2503.19910v1</link>
