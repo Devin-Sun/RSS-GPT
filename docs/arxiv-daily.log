@@ -17961,3 +17961,28 @@ Filter: [Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal
   Consistency](http://arxiv.org/abs/2503.20785v1)
 append_entries: 0
 Finish: 2025-03-28 00:52:31.234093
+------------------------------------------------------
+Started: 2025-03-28 12:20:26.248332
+Existing_entries: 544
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Semantic Library Adaptation: LoRA Retrieval and Fusion for
+  Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VideoMage: Multi-Subject and Motion Customization of Text-to-Video
+  Diffusion Models](http://arxiv.org/abs/2503.21781v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model](http://arxiv.org/abs/2503.21782v1)
+Filter: [X$^{2}$-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time
+  Tomographic Reconstruction](http://arxiv.org/abs/2503.21779v1)
+Filter: [HS-SLAM: Hybrid Representation with Structural Supervision for Improved
+  Dense SLAM](http://arxiv.org/abs/2503.21778v1)
+Filter: [Test-Time Visual In-Context Tuning](http://arxiv.org/abs/2503.21777v1)
+Append: [Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v1)
+Append: [Optimal Stepsize for Diffusion Sampling](http://arxiv.org/abs/2503.21774v1)
+Filter: [StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross
+  Fusion](http://arxiv.org/abs/2503.21775v1)
+Filter: [LOCORE: Image Re-ranking with Long-Context Sequence Modeling](http://arxiv.org/abs/2503.21772v1)
+append_entries: 4
+Finish: 2025-03-28 12:20:26.738510

@@ -4,6 +4,108 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>VideoMage: Multi-Subject and Motion Customization of Text-to-Video
+  Diffusion Models</title>
+<link>http://arxiv.org/abs/2503.21781v1</link>
+<guid>http://arxiv.org/abs/2503.21781v1</guid>
+<content:encoded><![CDATA[
+
+Customized text-to-video generation aims to produce high-quality videos that
+incorporate user-specified subject identities or motion patterns. However,
+existing methods mainly focus on personalizing a single concept, either subject
+identity or motion pattern, limiting their effectiveness for multiple subjects
+with the desired motion patterns. To tackle this challenge, we propose a
+unified framework VideoMage for video customization over both multiple subjects
+and their interactive motions. VideoMage employs subject and motion LoRAs to
+capture personalized content from user-provided images and videos, along with
+an appearance-agnostic motion learning approach to disentangle motion patterns
+from visual appearance. Furthermore, we develop a spatial-temporal composition
+scheme to guide interactions among subjects within the desired motion patterns.
+Extensive experiments demonstrate that VideoMage outperforms existing methods,
+generating coherent, user-controlled videos with consistent subject identities
+and interactions.
+]]></content:encoded>
+<pubDate>2025-03-27T17:59:58Z</pubDate>
+<pubDate>2025-03-27T17:59:58Z</pubDate>
+</item>
+<item>
+<title>Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model</title>
+<link>http://arxiv.org/abs/2503.21782v1</link>
+<guid>http://arxiv.org/abs/2503.21782v1</guid>
+<content:encoded><![CDATA[
+
+Video understanding models often struggle with high computational
+requirements, extensive parameter counts, and slow inference speed, making them
+inefficient for practical use. To tackle these challenges, we propose
+Mobile-VideoGPT, an efficient multimodal framework designed to operate with
+fewer than a billion parameters. Unlike traditional video large multimodal
+models (LMMs), Mobile-VideoGPT consists of lightweight dual visual encoders,
+efficient projectors, and a small language model (SLM), enabling real-time
+throughput. To further improve efficiency, we present an Attention-Based Frame
+Scoring mechanism to select the key-frames, along with an efficient token
+projector that prunes redundant visual tokens and preserves essential
+contextual cues. We evaluate our model across well-established six video
+understanding benchmarks (e.g., MVBench, EgoSchema, NextQA, and PercepTest).
+Our results show that Mobile-VideoGPT-0.5B can generate up to 46 tokens per
+second while outperforming existing state-of-the-art 0.5B-parameter models by 6
+points on average with 40% fewer parameters and more than 2x higher throughput.
+Our code and models are publicly available at:
+https://github.com/Amshaker/Mobile-VideoGPT.
+]]></content:encoded>
+<pubDate>2025-03-27T17:59:58Z</pubDate>
+<pubDate>2025-03-27T17:59:58Z</pubDate>
+</item>
+<item>
+<title>Video-R1: Reinforcing Video Reasoning in MLLMs</title>
+<link>http://arxiv.org/abs/2503.21776v1</link>
+<guid>http://arxiv.org/abs/2503.21776v1</guid>
+<content:encoded><![CDATA[
+
+Inspired by DeepSeek-R1's success in eliciting reasoning abilities through
+rule-based reinforcement learning (RL), we introduce Video-R1 as the first
+attempt to systematically explore the R1 paradigm for eliciting video reasoning
+within multimodal large language models (MLLMs). However, directly applying RL
+training with the GRPO algorithm to video reasoning presents two primary
+challenges: (i) a lack of temporal modeling for video reasoning, and (ii) the
+scarcity of high-quality video-reasoning data. To address these issues, we
+first propose the T-GRPO algorithm, which encourages models to utilize temporal
+information in videos for reasoning. Additionally, instead of relying solely on
+video data, we incorporate high-quality image-reasoning data into the training
+process. We have constructed two datasets: Video-R1-COT-165k for SFT cold start
+and Video-R1-260k for RL training, both comprising image and video data.
+Experimental results demonstrate that Video-R1 achieves significant
+improvements on video reasoning benchmarks such as VideoMMMU and VSI-Bench, as
+well as on general video benchmarks including MVBench and TempCompass, etc.
+Notably, Video-R1-7B attains a 35.8% accuracy on video spatial reasoning
+benchmark VSI-bench, surpassing the commercial proprietary model GPT-4o. All
+codes, models, data are released.
+]]></content:encoded>
+<pubDate>2025-03-27T17:59:51Z</pubDate>
+<pubDate>2025-03-27T17:59:51Z</pubDate>
+</item>
+<item>
+<title>Optimal Stepsize for Diffusion Sampling</title>
+<link>http://arxiv.org/abs/2503.21774v1</link>
+<guid>http://arxiv.org/abs/2503.21774v1</guid>
+<content:encoded><![CDATA[
+
+Diffusion models achieve remarkable generation quality but suffer from
+computational intensive sampling due to suboptimal step discretization. While
+existing works focus on optimizing denoising directions, we address the
+principled design of stepsize schedules. This paper proposes Optimal Stepsize
+Distillation, a dynamic programming framework that extracts theoretically
+optimal schedules by distilling knowledge from reference trajectories. By
+reformulating stepsize optimization as recursive error minimization, our method
+guarantees global discretization bounds through optimal substructure
+exploitation. Crucially, the distilled schedules demonstrate strong robustness
+across architectures, ODE solvers, and noise schedules. Experiments show 10x
+accelerated text-to-image generation while preserving 99.4% performance on
+GenEval. Our code is available at https://github.com/bebebe666/OptimalSteps.
+]]></content:encoded>
+<pubDate>2025-03-27T17:59:46Z</pubDate>
+<pubDate>2025-03-27T17:59:46Z</pubDate>
+</item>
 
 <item>
 <title>FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with
