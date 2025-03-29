@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>VideoMage: Multi-Subject and Motion Customization of Text-to-Video
   Diffusion Models</title>
 <link>http://arxiv.org/abs/2503.21781v1</link>
 <guid>http://arxiv.org/abs/2503.21781v1</guid>
 <content:encoded><![CDATA[
-
 Customized text-to-video generation aims to produce high-quality videos that
 incorporate user-specified subject identities or motion patterns. However,
 existing methods mainly focus on personalizing a single concept, either subject
@@ -27,14 +27,12 @@ generating coherent, user-controlled videos with consistent subject identities
 and interactions.
 ]]></content:encoded>
 <pubDate>2025-03-27T17:59:58Z</pubDate>
-<pubDate>2025-03-27T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Mobile-VideoGPT: Fast and Accurate Video Understanding Language Model</title>
 <link>http://arxiv.org/abs/2503.21782v1</link>
 <guid>http://arxiv.org/abs/2503.21782v1</guid>
 <content:encoded><![CDATA[
-
 Video understanding models often struggle with high computational
 requirements, extensive parameter counts, and slow inference speed, making them
 inefficient for practical use. To tackle these challenges, we propose
@@ -54,14 +52,12 @@ Our code and models are publicly available at:
 https://github.com/Amshaker/Mobile-VideoGPT.
 ]]></content:encoded>
 <pubDate>2025-03-27T17:59:58Z</pubDate>
-<pubDate>2025-03-27T17:59:58Z</pubDate>
 </item>
 <item>
 <title>Video-R1: Reinforcing Video Reasoning in MLLMs</title>
 <link>http://arxiv.org/abs/2503.21776v1</link>
 <guid>http://arxiv.org/abs/2503.21776v1</guid>
 <content:encoded><![CDATA[
-
 Inspired by DeepSeek-R1's success in eliciting reasoning abilities through
 rule-based reinforcement learning (RL), we introduce Video-R1 as the first
 attempt to systematically explore the R1 paradigm for eliciting video reasoning
@@ -82,14 +78,12 @@ benchmark VSI-bench, surpassing the commercial proprietary model GPT-4o. All
 codes, models, data are released.
 ]]></content:encoded>
 <pubDate>2025-03-27T17:59:51Z</pubDate>
-<pubDate>2025-03-27T17:59:51Z</pubDate>
 </item>
 <item>
 <title>Optimal Stepsize for Diffusion Sampling</title>
 <link>http://arxiv.org/abs/2503.21774v1</link>
 <guid>http://arxiv.org/abs/2503.21774v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion models achieve remarkable generation quality but suffer from
 computational intensive sampling due to suboptimal step discretization. While
 existing works focus on optimizing denoising directions, we address the
@@ -104,9 +98,7 @@ accelerated text-to-image generation while preserving 99.4% performance on
 GenEval. Our code is available at https://github.com/bebebe666/OptimalSteps.
 ]]></content:encoded>
 <pubDate>2025-03-27T17:59:46Z</pubDate>
-<pubDate>2025-03-27T17:59:46Z</pubDate>
 </item>
-
 <item>
 <title>FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with
   Feature Banks</title>
