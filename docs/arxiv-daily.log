@@ -18034,3 +18034,19 @@ Filter: [StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross
 Filter: [LOCORE: Image Re-ranking with Long-Context Sequence Modeling](http://arxiv.org/abs/2503.21772v1)
 append_entries: 0
 Finish: 2025-03-30 00:57:20.350249
+------------------------------------------------------
+Started: 2025-03-30 12:18:24.998750
+Existing_entries: 548
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Semantic Library Adaptation: LoRA Retrieval and Fusion for
+  Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)
+Filter: [X$^{2}$-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time
+  Tomographic Reconstruction](http://arxiv.org/abs/2503.21779v1)
+Filter: [HS-SLAM: Hybrid Representation with Structural Supervision for Improved
+  Dense SLAM](http://arxiv.org/abs/2503.21778v1)
+Filter: [Test-Time Visual In-Context Tuning](http://arxiv.org/abs/2503.21777v1)
+Filter: [StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross
+  Fusion](http://arxiv.org/abs/2503.21775v1)
+Filter: [LOCORE: Image Re-ranking with Long-Context Sequence Modeling](http://arxiv.org/abs/2503.21772v1)
+append_entries: 0
+Finish: 2025-03-30 12:18:25.555460
