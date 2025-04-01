@@ -4,6 +4,61 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
+  Policy</title>
+<link>http://arxiv.org/abs/2503.24388v1</link>
+<guid>http://arxiv.org/abs/2503.24388v1</guid>
+<content:encoded><![CDATA[
+
+Reasoning before action and imagining potential outcomes (i.e., world models)
+are essential for embodied agents operating in complex open-world environments.
+Yet, prior work either incorporates only one of these abilities in an
+end-to-end agent or integrates multiple specialized models into an agent
+system, limiting the learning efficiency and generalization of the policy.
+Thus, this paper makes the first attempt to synergize Reasoning and Imagination
+in an end-to-end Generalist policy, termed RIG. To train RIG in an end-to-end
+manner, we construct a data pipeline that progressively integrates and enriches
+the content of imagination and reasoning in the trajectories collected from
+existing agents. The joint learning of reasoning and next image generation
+explicitly models the inherent correlation between reasoning, action, and
+dynamics of environments, and thus exhibits more than $17\times$ sample
+efficiency improvements and generalization in comparison with previous works.
+During inference, RIG first reasons about the next action, produces potential
+action, and then predicts the action outcomes, which offers the agent a chance
+to review and self-correct based on the imagination before taking real actions.
+Experimental results show that the synergy of reasoning and imagination not
+only improves the robustness, generalization, and interoperability of
+generalist policy but also enables test-time scaling to enhance overall
+performance.
+]]></content:encoded>
+<pubDate>2025-03-31T17:59:52Z</pubDate>
+<pubDate>2025-03-31T17:59:52Z</pubDate>
+</item>
+<item>
+<title>Any2Caption:Interpreting Any Condition to Caption for Controllable Video
+  Generation</title>
+<link>http://arxiv.org/abs/2503.24379v1</link>
+<guid>http://arxiv.org/abs/2503.24379v1</guid>
+<content:encoded><![CDATA[
+
+To address the bottleneck of accurate user intent interpretation within the
+current video generation community, we present Any2Caption, a novel framework
+for controllable video generation under any condition. The key idea is to
+decouple various condition interpretation steps from the video synthesis step.
+By leveraging modern multimodal large language models (MLLMs), Any2Caption
+interprets diverse inputs--text, images, videos, and specialized cues such as
+region, motion, and camera poses--into dense, structured captions that offer
+backbone video generators with better guidance. We also introduce Any2CapIns, a
+large-scale dataset with 337K instances and 407K conditions for
+any-condition-to-caption instruction tuning. Comprehensive evaluations
+demonstrate significant improvements of our system in controllability and video
+quality across various aspects of existing video generation models. Project
+Page: https://sqwu.top/Any2Cap/
+]]></content:encoded>
+<pubDate>2025-03-31T17:59:01Z</pubDate>
+<pubDate>2025-03-31T17:59:01Z</pubDate>
+</item>
 
 <item>
 <title>Self-Evolving Multi-Agent Simulations for Realistic Clinical

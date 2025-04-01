@@ -18114,3 +18114,30 @@ Filter: [Light Tree Covers, Routing, and Path-Reporting Oracles via Spanning Tre
 Filter: [Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v1)
 append_entries: 0
 Finish: 2025-04-01 01:00:00.850151
+------------------------------------------------------
+Started: 2025-04-01 12:21:31.899295
+Existing_entries: 550
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](http://arxiv.org/abs/2503.24391v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
+  Policy](http://arxiv.org/abs/2503.24388v1)
+Filter: [SU-YOLO: Spiking Neural Network for Efficient Underwater Object
+  Detection](http://arxiv.org/abs/2503.24389v1)
+Filter: [Consistent Subject Generation via Contrastive Instantiated Concepts](http://arxiv.org/abs/2503.24387v1)
+Filter: [Free360: Layered Gaussian Splatting for Unbounded 360-Degree View
+  Synthesis from Extremely Sparse and Unposed Views](http://arxiv.org/abs/2503.24382v1)
+Filter: [UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in
+  Autonomous Driving](http://arxiv.org/abs/2503.24381v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Any2Caption:Interpreting Any Condition to Caption for Controllable Video
+  Generation](http://arxiv.org/abs/2503.24379v1)
+Filter: [ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning](http://arxiv.org/abs/2503.24378v1)
+Filter: [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for
+  Large Language Models](http://arxiv.org/abs/2503.24377v1)
+Filter: [Exploring the Effect of Reinforcement Learning on Video Understanding:
+  Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)
+append_entries: 2
+Finish: 2025-04-01 12:21:32.705055
