@@ -18094,3 +18094,23 @@ Filter: [Light Tree Covers, Routing, and Path-Reporting Oracles via Spanning Tre
 Filter: [Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v1)
 append_entries: 2
 Finish: 2025-03-31 12:21:04.180728
+------------------------------------------------------
+Started: 2025-04-01 00:59:59.365211
+Existing_entries: 550
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](http://arxiv.org/abs/2503.22679v1)
+Filter: [DSO: Aligning 3D Generators with Simulation Feedback for Physical
+  Soundness](http://arxiv.org/abs/2503.22677v1)
+Filter: [TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D
+  Gaussian Splatting](http://arxiv.org/abs/2503.22676v1)
+Filter: [Think Before Recommend: Unleashing the Latent Reasoning Power for
+  Sequential Recommendation](http://arxiv.org/abs/2503.22675v1)
+Filter: [QuestBench: Can LLMs ask the right question to acquire information in
+  reasoning tasks?](http://arxiv.org/abs/2503.22674v1)
+Filter: [Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder
+  Re-rankers](http://arxiv.org/abs/2503.22672v1)
+Filter: [Light Tree Covers, Routing, and Path-Reporting Oracles via Spanning Tree
+  Covers in Doubling Graphs](http://arxiv.org/abs/2503.22669v1)
+Filter: [Understanding Co-speech Gestures in-the-wild](http://arxiv.org/abs/2503.22668v1)
+append_entries: 0
+Finish: 2025-04-01 01:00:00.850151
