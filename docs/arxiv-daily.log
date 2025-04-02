@@ -18160,3 +18160,12 @@ Filter: [Exploring the Effect of Reinforcement Learning on Video Understanding:
   Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)
 append_entries: 0
 Finish: 2025-04-02 00:54:04.916960
+------------------------------------------------------
+Started: 2025-04-02 12:21:26.061256
+Existing_entries: 552
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](http://arxiv.org/abs/2503.24391v1)
+Filter: [SU-YOLO: Spiking Neural Network for Efficient Underwater Object
+  Detection](http://arxiv.org/abs/2503.24389v1)
+append_entries: 0
+Finish: 2025-04-02 12:21:34.589451
