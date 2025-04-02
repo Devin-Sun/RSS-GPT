@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
   Policy</title>
 <link>http://arxiv.org/abs/2503.24388v1</link>
 <guid>http://arxiv.org/abs/2503.24388v1</guid>
 <content:encoded><![CDATA[
-
 Reasoning before action and imagining potential outcomes (i.e., world models)
 are essential for embodied agents operating in complex open-world environments.
 Yet, prior work either incorporates only one of these abilities in an
@@ -33,7 +33,6 @@ generalist policy but also enables test-time scaling to enhance overall
 performance.
 ]]></content:encoded>
 <pubDate>2025-03-31T17:59:52Z</pubDate>
-<pubDate>2025-03-31T17:59:52Z</pubDate>
 </item>
 <item>
 <title>Any2Caption:Interpreting Any Condition to Caption for Controllable Video
@@ -41,7 +40,6 @@ performance.
 <link>http://arxiv.org/abs/2503.24379v1</link>
 <guid>http://arxiv.org/abs/2503.24379v1</guid>
 <content:encoded><![CDATA[
-
 To address the bottleneck of accurate user intent interpretation within the
 current video generation community, we present Any2Caption, a novel framework
 for controllable video generation under any condition. The key idea is to
@@ -57,9 +55,7 @@ quality across various aspects of existing video generation models. Project
 Page: https://sqwu.top/Any2Cap/
 ]]></content:encoded>
 <pubDate>2025-03-31T17:59:01Z</pubDate>
-<pubDate>2025-03-31T17:59:01Z</pubDate>
 </item>
-
 <item>
 <title>Self-Evolving Multi-Agent Simulations for Realistic Clinical
   Interactions</title>
