@@ -18188,3 +18188,28 @@ Filter: [Exploring the Effect of Reinforcement Learning on Video Understanding:
   Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)
 append_entries: 0
 Finish: 2025-04-03 00:53:11.672641
+------------------------------------------------------
+Started: 2025-04-03 12:21:00.111519
+Existing_entries: 552
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Learning from Streaming Video with Orthogonal Gradients](http://arxiv.org/abs/2504.01961v1)
+Filter: [Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D
+  Reconstruction and Novel View Synthesis](http://arxiv.org/abs/2504.01960v1)
+Filter: [Slot-Level Robotic Placement via Visual Imitation from Single Human
+  Video](http://arxiv.org/abs/2504.01959v1)
+Filter: [GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty
+  Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)
+Filter: [VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in
+  One Step](http://arxiv.org/abs/2504.01956v1)
+Filter: [Scene-Centric Unsupervised Panoptic Segmentation](http://arxiv.org/abs/2504.01955v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Towards Unified Referring Expression Segmentation Across Omni-Level
+  Visual Target Granularities](http://arxiv.org/abs/2504.01954v1)
+Filter: [Deep Representation Learning for Unsupervised Clustering of Myocardial
+  Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v1)
+Filter: [Image Difference Grounding with Natural Language](http://arxiv.org/abs/2504.01952v1)
+Filter: [The LLM Wears Prada: Analysing Gender Bias and Stereotypes through
+  Online Shopping Data](http://arxiv.org/abs/2504.01951v1)
+append_entries: 1
+Finish: 2025-04-03 12:21:01.036724

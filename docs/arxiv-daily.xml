@@ -4,6 +4,43 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Towards Unified Referring Expression Segmentation Across Omni-Level
+  Visual Target Granularities</title>
+<link>http://arxiv.org/abs/2504.01954v1</link>
+<guid>http://arxiv.org/abs/2504.01954v1</guid>
+<content:encoded><![CDATA[
+
+Referring expression segmentation (RES) aims at segmenting the entities'
+masks that match the descriptive language expression. While traditional RES
+methods primarily address object-level grounding, real-world scenarios demand a
+more versatile framework that can handle multiple levels of target granularity,
+such as multi-object, single object or part-level references. This introduces
+great challenges due to the diverse and nuanced ways users describe targets.
+However, existing datasets and models mainly focus on designing grounding
+specialists for object-level target localization, lacking the necessary data
+resources and unified frameworks for the more practical multi-grained RES. In
+this paper, we take a step further towards visual granularity unified RES task.
+To overcome the limitation of data scarcity, we introduce a new
+multi-granularity referring expression segmentation (MRES) task, alongside the
+RefCOCOm benchmark, which includes part-level annotations for advancing
+finer-grained visual understanding. In addition, we create MRES-32M, the
+largest visual grounding dataset, comprising over 32.2M masks and captions
+across 1M images, specifically designed for part-level vision-language
+grounding. To tackle the challenges of multi-granularity RES, we propose
+UniRES++, a unified multimodal large language model that integrates
+object-level and part-level RES tasks. UniRES++ incorporates targeted designs
+for fine-grained visual feature exploration. With the joint model architecture
+and parameters, UniRES++ achieves state-of-the-art performance across multiple
+benchmarks, including RefCOCOm for MRES, gRefCOCO for generalized RES, and
+RefCOCO, RefCOCO+, RefCOCOg for classic RES. To foster future research into
+multi-grained visual grounding, our RefCOCOm benchmark, MRES-32M dataset and
+model UniRES++ will be publicly available at
+https://github.com/Rubics-Xuan/MRES.
+]]></content:encoded>
+<pubDate>2025-04-02T17:58:05Z</pubDate>
+<pubDate>2025-04-02T17:58:05Z</pubDate>
+</item>
 
 <item>
 <title>RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
