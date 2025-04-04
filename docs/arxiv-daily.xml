@@ -4,6 +4,88 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual
+  Editing</title>
+<link>http://arxiv.org/abs/2504.02826v1</link>
+<guid>http://arxiv.org/abs/2504.02826v1</guid>
+<content:encoded><![CDATA[
+
+Large Multi-modality Models (LMMs) have made significant progress in visual
+understanding and generation, but they still face challenges in General Visual
+Editing, particularly in following complex instructions, preserving appearance
+consistency, and supporting flexible input formats. To address this gap, we
+introduce RISEBench, the first benchmark for evaluating Reasoning-Informed
+viSual Editing (RISE). RISEBench focuses on four key reasoning types: Temporal,
+Causal, Spatial, and Logical Reasoning. We curate high-quality test cases for
+each category and propose an evaluation framework that assesses Instruction
+Reasoning, Appearance Consistency, and Visual Plausibility with both human
+judges and an LMM-as-a-judge approach. Our experiments reveal that while
+GPT-4o-Native significantly outperforms other open-source and proprietary
+models, even this state-of-the-art system struggles with logical reasoning
+tasks, highlighting an area that remains underexplored. As an initial effort,
+RISEBench aims to provide foundational insights into reasoning-aware visual
+editing and to catalyze future research. Though still in its early stages, we
+are committed to continuously expanding and refining the benchmark to support
+more comprehensive, reliable, and scalable evaluations of next-generation
+multimodal systems. Our code and data will be released at
+https://github.com/PhoenixZ810/RISEBench.
+]]></content:encoded>
+<pubDate>2025-04-03T17:59:56Z</pubDate>
+<pubDate>2025-04-03T17:59:56Z</pubDate>
+</item>
+<item>
+<title>STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage
+  Security Inspection</title>
+<link>http://arxiv.org/abs/2504.02823v1</link>
+<guid>http://arxiv.org/abs/2504.02823v1</guid>
+<content:encoded><![CDATA[
+
+Advancements in Computer-Aided Screening (CAS) systems are essential for
+improving the detection of security threats in X-ray baggage scans. However,
+current datasets are limited in representing real-world, sophisticated threats
+and concealment tactics, and existing approaches are constrained by a
+closed-set paradigm with predefined labels. To address these challenges, we
+introduce STCray, the first multimodal X-ray baggage security dataset,
+comprising 46,642 image-caption paired scans across 21 threat categories,
+generated using an X-ray scanner for airport security. STCray is meticulously
+developed with our specialized protocol that ensures domain-aware, coherent
+captions, that lead to the multi-modal instruction following data in X-ray
+baggage security. This allows us to train a domain-aware visual AI assistant
+named STING-BEE that supports a range of vision-language tasks, including scene
+comprehension, referring threat localization, visual grounding, and visual
+question answering (VQA), establishing novel baselines for multi-modal learning
+in X-ray baggage security. Further, STING-BEE shows state-of-the-art
+generalization in cross-domain settings. Code, data, and models are available
+at https://divs1159.github.io/STING-BEE/.
+]]></content:encoded>
+<pubDate>2025-04-03T17:59:12Z</pubDate>
+<pubDate>2025-04-03T17:59:12Z</pubDate>
+</item>
+<item>
+<title>Sparse Autoencoders Learn Monosemantic Features in Vision-Language
+  Models</title>
+<link>http://arxiv.org/abs/2504.02821v1</link>
+<guid>http://arxiv.org/abs/2504.02821v1</guid>
+<content:encoded><![CDATA[
+
+Sparse Autoencoders (SAEs) have recently been shown to enhance
+interpretability and steerability in Large Language Models (LLMs). In this
+work, we extend the application of SAEs to Vision-Language Models (VLMs), such
+as CLIP, and introduce a comprehensive framework for evaluating monosemanticity
+in vision representations. Our experimental results reveal that SAEs trained on
+VLMs significantly enhance the monosemanticity of individual neurons while also
+exhibiting hierarchical representations that align well with expert-defined
+structures (e.g., iNaturalist taxonomy). Most notably, we demonstrate that
+applying SAEs to intervene on a CLIP vision encoder, directly steer output from
+multimodal LLMs (e.g., LLaVA) without any modifications to the underlying
+model. These findings emphasize the practicality and efficacy of SAEs as an
+unsupervised approach for enhancing both the interpretability and control of
+VLMs.
+]]></content:encoded>
+<pubDate>2025-04-03T17:58:35Z</pubDate>
+<pubDate>2025-04-03T17:58:35Z</pubDate>
+</item>
 
 <item>
 <title>Towards Unified Referring Expression Segmentation Across Omni-Level
