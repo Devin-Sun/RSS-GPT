@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Towards Unified Referring Expression Segmentation Across Omni-Level
   Visual Target Granularities</title>
 <link>http://arxiv.org/abs/2504.01954v1</link>
 <guid>http://arxiv.org/abs/2504.01954v1</guid>
 <content:encoded><![CDATA[
-
 Referring expression segmentation (RES) aims at segmenting the entities'
 masks that match the descriptive language expression. While traditional RES
 methods primarily address object-level grounding, real-world scenarios demand a
@@ -39,9 +39,7 @@ model UniRES++ will be publicly available at
 https://github.com/Rubics-Xuan/MRES.
 ]]></content:encoded>
 <pubDate>2025-04-02T17:58:05Z</pubDate>
-<pubDate>2025-04-02T17:58:05Z</pubDate>
 </item>
-
 <item>
 <title>RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
   Policy</title>
