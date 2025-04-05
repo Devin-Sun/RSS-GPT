@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual
   Editing</title>
 <link>http://arxiv.org/abs/2504.02826v1</link>
 <guid>http://arxiv.org/abs/2504.02826v1</guid>
 <content:encoded><![CDATA[
-
 Large Multi-modality Models (LMMs) have made significant progress in visual
 understanding and generation, but they still face challenges in General Visual
 Editing, particularly in following complex instructions, preserving appearance
@@ -32,7 +32,6 @@ multimodal systems. Our code and data will be released at
 https://github.com/PhoenixZ810/RISEBench.
 ]]></content:encoded>
 <pubDate>2025-04-03T17:59:56Z</pubDate>
-<pubDate>2025-04-03T17:59:56Z</pubDate>
 </item>
 <item>
 <title>STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage
@@ -40,7 +39,6 @@ https://github.com/PhoenixZ810/RISEBench.
 <link>http://arxiv.org/abs/2504.02823v1</link>
 <guid>http://arxiv.org/abs/2504.02823v1</guid>
 <content:encoded><![CDATA[
-
 Advancements in Computer-Aided Screening (CAS) systems are essential for
 improving the detection of security threats in X-ray baggage scans. However,
 current datasets are limited in representing real-world, sophisticated threats
@@ -60,7 +58,6 @@ generalization in cross-domain settings. Code, data, and models are available
 at https://divs1159.github.io/STING-BEE/.
 ]]></content:encoded>
 <pubDate>2025-04-03T17:59:12Z</pubDate>
-<pubDate>2025-04-03T17:59:12Z</pubDate>
 </item>
 <item>
 <title>Sparse Autoencoders Learn Monosemantic Features in Vision-Language
@@ -68,7 +65,6 @@ at https://divs1159.github.io/STING-BEE/.
 <link>http://arxiv.org/abs/2504.02821v1</link>
 <guid>http://arxiv.org/abs/2504.02821v1</guid>
 <content:encoded><![CDATA[
-
 Sparse Autoencoders (SAEs) have recently been shown to enhance
 interpretability and steerability in Large Language Models (LLMs). In this
 work, we extend the application of SAEs to Vision-Language Models (VLMs), such
@@ -84,9 +80,7 @@ unsupervised approach for enhancing both the interpretability and control of
 VLMs.
 ]]></content:encoded>
 <pubDate>2025-04-03T17:58:35Z</pubDate>
-<pubDate>2025-04-03T17:58:35Z</pubDate>
 </item>
-
 <item>
 <title>Towards Unified Referring Expression Segmentation Across Omni-Level
   Visual Target Granularities</title>
