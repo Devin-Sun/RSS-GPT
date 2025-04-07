@@ -4,6 +4,58 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>MME-Unify: A Comprehensive Benchmark for Unified Multimodal
+  Understanding and Generation Models</title>
+<link>http://arxiv.org/abs/2504.03641v1</link>
+<guid>http://arxiv.org/abs/2504.03641v1</guid>
+<content:encoded><![CDATA[
+
+Existing MLLM benchmarks face significant challenges in evaluating Unified
+MLLMs (U-MLLMs) due to: 1) lack of standardized benchmarks for traditional
+tasks, leading to inconsistent comparisons; 2) absence of benchmarks for
+mixed-modality generation, which fails to assess multimodal reasoning
+capabilities. We present a comprehensive evaluation framework designed to
+systematically assess U-MLLMs. Our benchmark includes: Standardized Traditional
+Task Evaluation. We sample from 12 datasets, covering 10 tasks with 30
+subtasks, ensuring consistent and fair comparisons across studies." 2. Unified
+Task Assessment. We introduce five novel tasks testing multimodal reasoning,
+including image editing, commonsense QA with image generation, and geometric
+reasoning. 3. Comprehensive Model Benchmarking. We evaluate 12 leading U-MLLMs,
+such as Janus-Pro, EMU3, VILA-U, and Gemini2-flash, alongside specialized
+understanding (e.g., Claude-3.5-Sonnet) and generation models (e.g., DALL-E-3).
+Our findings reveal substantial performance gaps in existing U-MLLMs,
+highlighting the need for more robust models capable of handling mixed-modality
+tasks effectively. The code and evaluation data can be found in
+https://mme-unify.github.io/.
+]]></content:encoded>
+<pubDate>2025-04-04T17:59:55Z</pubDate>
+<pubDate>2025-04-04T17:59:55Z</pubDate>
+</item>
+<item>
+<title>Bonsai: Interpretable Tree-Adaptive Grounded Reasoning</title>
+<link>http://arxiv.org/abs/2504.03640v1</link>
+<guid>http://arxiv.org/abs/2504.03640v1</guid>
+<content:encoded><![CDATA[
+
+To develop general-purpose collaborative agents, humans need reliable AI
+systems that can (1) adapt to new domains and (2) transparently reason with
+uncertainty to allow for verification and correction. Black-box models
+demonstrate powerful data processing abilities but do not satisfy these
+criteria due to their opaqueness, domain specificity, and lack of uncertainty
+awareness. We introduce Bonsai, a compositional and probabilistic reasoning
+system that generates adaptable inference trees by retrieving relevant
+grounding evidence and using it to compute likelihoods of sub-claims derived
+from broader natural language inferences. Bonsai's reasoning power is tunable
+at test-time via evidence scaling and it demonstrates reliable handling of
+varied domains including transcripts, photographs, videos, audio, and
+databases. Question-answering and human alignment experiments demonstrate that
+Bonsai matches the performance of domain-specific black-box methods while
+generating interpretable, grounded, and uncertainty-aware reasoning traces.
+]]></content:encoded>
+<pubDate>2025-04-04T17:59:50Z</pubDate>
+<pubDate>2025-04-04T17:59:50Z</pubDate>
+</item>
 
 <item>
 <title>Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual

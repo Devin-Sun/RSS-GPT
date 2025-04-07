@@ -18342,3 +18342,29 @@ Filter: [BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose
   Estimation](http://arxiv.org/abs/2504.02812v1)
 append_entries: 0
 Finish: 2025-04-07 00:55:26.580169
+------------------------------------------------------
+Started: 2025-04-07 12:21:49.144044
+Existing_entries: 556
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MME-Unify: A Comprehensive Benchmark for Unified Multimodal
+  Understanding and Generation Models](http://arxiv.org/abs/2504.03641v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bonsai: Interpretable Tree-Adaptive Grounded Reasoning](http://arxiv.org/abs/2504.03640v1)
+Filter: [Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions](http://arxiv.org/abs/2504.03639v1)
+Filter: [An Algebraic Geometry Approach to Viewing Graph Solvability](http://arxiv.org/abs/2504.03637v1)
+Filter: [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling
+  Law for Reasoning](http://arxiv.org/abs/2504.03635v1)
+Filter: [Modeling Charging Demand and Quantifying Flexibility Bounds for
+  Large-Scale BEV Fleets](http://arxiv.org/abs/2504.03633v1)
+Filter: [Performance Analysis of HPC applications on the Aurora Supercomputer:
+  Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs](http://arxiv.org/abs/2504.03632v1)
+Filter: [SeGuE: Semantic Guided Exploration for Mobile Robots](http://arxiv.org/abs/2504.03629v1)
+Filter: [Improving Interoperability in Scientific Computing via MaRDI Open
+  Interfaces](http://arxiv.org/abs/2504.03628v1)
+Filter: [Quantum Speedups for Markov Chain Monte Carlo Methods with Application
+  to Optimization](http://arxiv.org/abs/2504.03626v1)
+append_entries: 2
+Finish: 2025-04-07 12:22:00.081441
