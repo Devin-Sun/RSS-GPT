@@ -18368,3 +18368,22 @@ Filter: [Quantum Speedups for Markov Chain Monte Carlo Methods with Application
   to Optimization](http://arxiv.org/abs/2504.03626v1)
 append_entries: 2
 Finish: 2025-04-07 12:22:00.081441
+------------------------------------------------------
+Started: 2025-04-08 00:53:12.630804
+Existing_entries: 558
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions](http://arxiv.org/abs/2504.03639v1)
+Filter: [An Algebraic Geometry Approach to Viewing Graph Solvability](http://arxiv.org/abs/2504.03637v1)
+Filter: [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling
+  Law for Reasoning](http://arxiv.org/abs/2504.03635v1)
+Filter: [Modeling Charging Demand and Quantifying Flexibility Bounds for
+  Large-Scale BEV Fleets](http://arxiv.org/abs/2504.03633v1)
+Filter: [Performance Analysis of HPC applications on the Aurora Supercomputer:
+  Exploring the Impact of HBM-Enabled Intel Xeon Max CPUs](http://arxiv.org/abs/2504.03632v1)
+Filter: [SeGuE: Semantic Guided Exploration for Mobile Robots](http://arxiv.org/abs/2504.03629v1)
+Filter: [Improving Interoperability in Scientific Computing via MaRDI Open
+  Interfaces](http://arxiv.org/abs/2504.03628v1)
+Filter: [Quantum Speedups for Markov Chain Monte Carlo Methods with Application
+  to Optimization](http://arxiv.org/abs/2504.03626v1)
+append_entries: 0
+Finish: 2025-04-08 00:53:13.445831
