@@ -18387,3 +18387,26 @@ Filter: [Quantum Speedups for Markov Chain Monte Carlo Methods with Application
   to Optimization](http://arxiv.org/abs/2504.03626v1)
 append_entries: 0
 Finish: 2025-04-08 00:53:13.445831
+------------------------------------------------------
+Started: 2025-04-08 12:21:23.006604
+Existing_entries: 558
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CREA: A Collaborative Multi-Agent Framework for Creative Content
+  Generation with Diffusion Models](http://arxiv.org/abs/2504.05306v1)
+Filter: [URECA: Unique Region Caption Anything](http://arxiv.org/abs/2504.05305v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gaussian Mixture Flow Matching Models](http://arxiv.org/abs/2504.05304v1)
+Filter: [InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)
+Filter: [S^4M: Boosting Semi-Supervised Instance Segmentation with SAM](http://arxiv.org/abs/2504.05301v1)
+Filter: [Dimension-Free Convergence of Diffusion Models for Approximate Gaussian
+  Mixtures](http://arxiv.org/abs/2504.05300v1)
+Append: [SmolVLM: Redefining small and efficient multimodal models](http://arxiv.org/abs/2504.05299v1)
+Filter: [One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)
+Filter: [Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather
+  Effects](http://arxiv.org/abs/2504.05296v1)
+Filter: [Dion: A Communication-Efficient Optimizer for Large Models](http://arxiv.org/abs/2504.05295v1)
+append_entries: 3
+Finish: 2025-04-08 12:21:25.028444
