@@ -18425,3 +18425,27 @@ Filter: [Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather
 Filter: [Dion: A Communication-Efficient Optimizer for Large Models](http://arxiv.org/abs/2504.05295v1)
 append_entries: 0
 Finish: 2025-04-09 00:53:44.602190
+------------------------------------------------------
+Started: 2025-04-09 12:21:13.232481
+Existing_entries: 561
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning
+  through Bayesian Optimization](http://arxiv.org/abs/2504.06265v1)
+Filter: [D^2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic
+  Scenes](http://arxiv.org/abs/2504.06264v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OmniSVG: A Unified Scalable Vector Graphics Generation Model](http://arxiv.org/abs/2504.06263v1)
+Filter: [Hogwild! Inference: Parallel LLM Generation via Concurrent Attention](http://arxiv.org/abs/2504.06261v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](http://arxiv.org/abs/2504.06260v1)
+Filter: [PainNet: Statistical Relation Network with Episode-Based Training for
+  Pain Estimation](http://arxiv.org/abs/2504.06257v1)
+Append: [Transfer between Modalities with MetaQueries](http://arxiv.org/abs/2504.06256v1)
+Filter: [Fixing non-blocking data structures for better compatibility with memory
+  reclamation schemes](http://arxiv.org/abs/2504.06254v1)
+Filter: [Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut](http://arxiv.org/abs/2504.06253v1)
+Filter: [Fractal and Regular Geometry of Deep Neural Networks](http://arxiv.org/abs/2504.06250v1)
+append_entries: 3
+Finish: 2025-04-09 12:21:14.073761
