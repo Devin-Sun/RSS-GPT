@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>CREA: A Collaborative Multi-Agent Framework for Creative Content
   Generation with Diffusion Models</title>
 <link>http://arxiv.org/abs/2504.05306v1</link>
 <guid>http://arxiv.org/abs/2504.05306v1</guid>
 <content:encoded><![CDATA[
-
 Creativity in AI imagery remains a fundamental challenge, requiring not only
 the generation of visually compelling content but also the capacity to add
 novel, expressive, and artistically rich transformations to images. Unlike
@@ -29,14 +29,12 @@ generative design, and human-AI co-creation. To the best of our knowledge, this
 is the first work to introduce the task of creative editing.
 ]]></content:encoded>
 <pubDate>2025-04-07T17:59:51Z</pubDate>
-<pubDate>2025-04-07T17:59:51Z</pubDate>
 </item>
 <item>
 <title>Gaussian Mixture Flow Matching Models</title>
 <link>http://arxiv.org/abs/2504.05304v1</link>
 <guid>http://arxiv.org/abs/2504.05304v1</guid>
 <content:encoded><![CDATA[
-
 Diffusion models approximate the denoising distribution as a Gaussian and
 predict its mean, whereas flow matching models reparameterize the Gaussian mean
 as flow velocity. However, they underperform in few-step sampling due to
@@ -56,14 +54,12 @@ matching baselines in generation quality, achieving a Precision of 0.942 with
 only 6 sampling steps on ImageNet 256$\times$256.
 ]]></content:encoded>
 <pubDate>2025-04-07T17:59:42Z</pubDate>
-<pubDate>2025-04-07T17:59:42Z</pubDate>
 </item>
 <item>
 <title>SmolVLM: Redefining small and efficient multimodal models</title>
 <link>http://arxiv.org/abs/2504.05299v1</link>
 <guid>http://arxiv.org/abs/2504.05299v1</guid>
 <content:encoded><![CDATA[
-
 Large Vision-Language Models (VLMs) deliver exceptional performance but
 require significant computational resources, limiting their deployment on
 mobile and edge devices. Smaller VLMs typically mirror design choices of larger
@@ -86,9 +82,7 @@ enhance multimodal performance, facilitating practical, energy-efficient
 deployments at significantly smaller scales.
 ]]></content:encoded>
 <pubDate>2025-04-07T17:58:57Z</pubDate>
-<pubDate>2025-04-07T17:58:57Z</pubDate>
 </item>
-
 <item>
 <title>MME-Unify: A Comprehensive Benchmark for Unified Multimodal
   Understanding and Generation Models</title>
