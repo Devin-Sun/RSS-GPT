@@ -4,12 +4,12 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>OmniSVG: A Unified Scalable Vector Graphics Generation Model</title>
 <link>http://arxiv.org/abs/2504.06263v1</link>
 <guid>http://arxiv.org/abs/2504.06263v1</guid>
 <content:encoded><![CDATA[
-
 Scalable Vector Graphics (SVG) is an important image format widely adopted in
 graphic design because of their resolution independence and editability. The
 study of generating high-quality SVG has continuously drawn attention from both
@@ -29,14 +29,12 @@ demonstrates its potential for integration into professional SVG design
 workflows.
 ]]></content:encoded>
 <pubDate>2025-04-08T17:59:49Z</pubDate>
-<pubDate>2025-04-08T17:59:49Z</pubDate>
 </item>
 <item>
 <title>FEABench: Evaluating Language Models on Multiphysics Reasoning Ability</title>
 <link>http://arxiv.org/abs/2504.06260v1</link>
 <guid>http://arxiv.org/abs/2504.06260v1</guid>
 <content:encoded><![CDATA[
-
 Building precise simulations of the real world and invoking numerical solvers
 to answer quantitative problems is an essential requirement in engineering and
 science. We present FEABench, a benchmark to evaluate the ability of large
@@ -58,14 +56,12 @@ problems in the real world. The code is available at
 https://github.com/google/feabench
 ]]></content:encoded>
 <pubDate>2025-04-08T17:59:39Z</pubDate>
-<pubDate>2025-04-08T17:59:39Z</pubDate>
 </item>
 <item>
 <title>Transfer between Modalities with MetaQueries</title>
 <link>http://arxiv.org/abs/2504.06256v1</link>
 <guid>http://arxiv.org/abs/2504.06256v1</guid>
 <content:encoded><![CDATA[
-
 Unified multimodal models aim to integrate understanding (text output) and
 generation (pixel output), but aligning these different modalities within a
 single architecture often demands complex training recipes and careful data
@@ -82,9 +78,7 @@ flexible and can be easily instruction-tuned for advanced applications such as
 image editing and subject-driven generation.
 ]]></content:encoded>
 <pubDate>2025-04-08T17:58:47Z</pubDate>
-<pubDate>2025-04-08T17:58:47Z</pubDate>
 </item>
-
 <item>
 <title>CREA: A Collaborative Multi-Agent Framework for Creative Content
   Generation with Diffusion Models</title>
