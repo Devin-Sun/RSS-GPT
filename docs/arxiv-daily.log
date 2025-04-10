@@ -18466,3 +18466,26 @@ Filter: [Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut](
 Filter: [Fractal and Regular Geometry of Deep Neural Networks](http://arxiv.org/abs/2504.06250v1)
 append_entries: 0
 Finish: 2025-04-10 00:53:37.546238
+------------------------------------------------------
+Started: 2025-04-10 12:21:08.422806
+Existing_entries: 564
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual
+  Learning](http://arxiv.org/abs/2504.07097v1)
+Filter: [OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training
+  Tokens](http://arxiv.org/abs/2504.07096v1)
+Filter: [Neural Motion Simulator: Pushing the Limit of World Models in
+  Reinforcement Learning](http://arxiv.org/abs/2504.07095v1)
+Filter: [FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution](http://arxiv.org/abs/2504.07093v1)
+Filter: [Are We Done with Object-Centric Learning?](http://arxiv.org/abs/2504.07092v1)
+Filter: [AssistanceZero: Scalably Solving Assistance Games](http://arxiv.org/abs/2504.07091v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OmniCaptioner: One Captioner to Rule Them All](http://arxiv.org/abs/2504.07089v1)
+Filter: [KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on
+  Textualized Knowledge Graphs](http://arxiv.org/abs/2504.07087v1)
+Filter: [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths
+  to Reproducibility](http://arxiv.org/abs/2504.07086v1)
+Filter: [Identifying Unknown Stochastic Dynamics via Finite expression methods](http://arxiv.org/abs/2504.07085v1)
+append_entries: 1
+Finish: 2025-04-10 12:21:09.540442
