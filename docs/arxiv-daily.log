@@ -18509,3 +18509,29 @@ Filter: [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Path
 Filter: [Identifying Unknown Stochastic Dynamics via Finite expression methods](http://arxiv.org/abs/2504.07085v1)
 append_entries: 0
 Finish: 2025-04-11 00:53:57.543975
+------------------------------------------------------
+Started: 2025-04-11 12:21:08.880338
+Existing_entries: 565
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Cat, Rat, Meow: On the Alignment of Language Model and Human
+  Term-Similarity Judgments](http://arxiv.org/abs/2504.07965v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PixelFlow: Pixel-Space Generative Models with Flow](http://arxiv.org/abs/2504.07963v1)
+Filter: [C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization
+  for Test-Time Expert Re-Mixing](http://arxiv.org/abs/2504.07964v1)
+Filter: [Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction](http://arxiv.org/abs/2504.07961v1)
+Filter: [GLUS: Global-Local Reasoning Unified into A Single Large Language Model
+  for Video Segmentation](http://arxiv.org/abs/2504.07962v1)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VisualCloze: A Universal Image Generation Framework via Visual
+  In-Context Learning](http://arxiv.org/abs/2504.07960v1)
+Filter: [CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera
+  Color Constancy](http://arxiv.org/abs/2504.07959v1)
+Filter: [Detect Anything 3D in the Wild](http://arxiv.org/abs/2504.07958v1)
+Append: [MM-IFEngine: Towards Multimodal Instruction Following](http://arxiv.org/abs/2504.07957v1)
+Filter: [VCR-Bench: A Comprehensive Evaluation Framework for Video
+  Chain-of-Thought Reasoning](http://arxiv.org/abs/2504.07956v1)
+append_entries: 3
+Finish: 2025-04-11 12:21:09.731607

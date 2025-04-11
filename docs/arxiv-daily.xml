@@ -4,6 +4,87 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>PixelFlow: Pixel-Space Generative Models with Flow</title>
+<link>http://arxiv.org/abs/2504.07963v1</link>
+<guid>http://arxiv.org/abs/2504.07963v1</guid>
+<content:encoded><![CDATA[
+
+We present PixelFlow, a family of image generation models that operate
+directly in the raw pixel space, in contrast to the predominant latent-space
+models. This approach simplifies the image generation process by eliminating
+the need for a pre-trained Variational Autoencoder (VAE) and enabling the whole
+model end-to-end trainable. Through efficient cascade flow modeling, PixelFlow
+achieves affordable computation cost in pixel space. It achieves an FID of 1.98
+on 256$\times$256 ImageNet class-conditional image generation benchmark. The
+qualitative text-to-image results demonstrate that PixelFlow excels in image
+quality, artistry, and semantic control. We hope this new paradigm will inspire
+and open up new opportunities for next-generation visual generation models.
+Code and models are available at https://github.com/ShoufaChen/PixelFlow.
+]]></content:encoded>
+<pubDate>2025-04-10T17:59:56Z</pubDate>
+<pubDate>2025-04-10T17:59:56Z</pubDate>
+</item>
+<item>
+<title>VisualCloze: A Universal Image Generation Framework via Visual
+  In-Context Learning</title>
+<link>http://arxiv.org/abs/2504.07960v1</link>
+<guid>http://arxiv.org/abs/2504.07960v1</guid>
+<content:encoded><![CDATA[
+
+Recent progress in diffusion models significantly advances various image
+generation tasks. However, the current mainstream approach remains focused on
+building task-specific models, which have limited efficiency when supporting a
+wide range of different needs. While universal models attempt to address this
+limitation, they face critical challenges, including generalizable task
+instruction, appropriate task distributions, and unified architectural design.
+To tackle these challenges, we propose VisualCloze, a universal image
+generation framework, which supports a wide range of in-domain tasks,
+generalization to unseen ones, unseen unification of multiple tasks, and
+reverse generation. Unlike existing methods that rely on language-based task
+instruction, leading to task ambiguity and weak generalization, we integrate
+visual in-context learning, allowing models to identify tasks from visual
+demonstrations. Meanwhile, the inherent sparsity of visual task distributions
+hampers the learning of transferable knowledge across tasks. To this end, we
+introduce Graph200K, a graph-structured dataset that establishes various
+interrelated tasks, enhancing task density and transferable knowledge.
+Furthermore, we uncover that our unified image generation formulation shared a
+consistent objective with image infilling, enabling us to leverage the strong
+generative priors of pre-trained infilling models without modifying the
+architectures.
+]]></content:encoded>
+<pubDate>2025-04-10T17:59:42Z</pubDate>
+<pubDate>2025-04-10T17:59:42Z</pubDate>
+</item>
+<item>
+<title>MM-IFEngine: Towards Multimodal Instruction Following</title>
+<link>http://arxiv.org/abs/2504.07957v1</link>
+<guid>http://arxiv.org/abs/2504.07957v1</guid>
+<content:encoded><![CDATA[
+
+The Instruction Following (IF) ability measures how well Multi-modal Large
+Language Models (MLLMs) understand exactly what users are telling them and
+whether they are doing it right. Existing multimodal instruction following
+training data is scarce, the benchmarks are simple with atomic instructions,
+and the evaluation strategies are imprecise for tasks demanding exact output
+constraints. To address this, we present MM-IFEngine, an effective pipeline to
+generate high-quality image-instruction pairs. Our MM-IFEngine pipeline yields
+large-scale, diverse, and high-quality training data MM-IFInstruct-23k, which
+is suitable for Supervised Fine-Tuning (SFT) and extended as MM-IFDPO-23k for
+Direct Preference Optimization (DPO). We further introduce MM-IFEval, a
+challenging and diverse multi-modal instruction-following benchmark that
+includes (1) both compose-level constraints for output responses and
+perception-level constraints tied to the input images, and (2) a comprehensive
+evaluation pipeline incorporating both rule-based assessment and judge model.
+We conduct SFT and DPO experiments and demonstrate that fine-tuning MLLMs on
+MM-IFInstruct-23k and MM-IFDPO-23k achieves notable gains on various IF
+benchmarks, such as MM-IFEval (+10.2$\%$), MIA (+7.6$\%$), and IFEval
+(+12.3$\%$). The full data and evaluation code will be released on
+https://github.com/SYuan03/MM-IFEngine.
+]]></content:encoded>
+<pubDate>2025-04-10T17:59:12Z</pubDate>
+<pubDate>2025-04-10T17:59:12Z</pubDate>
+</item>
 
 <item>
 <title>OmniCaptioner: One Captioner to Rule Them All</title>
