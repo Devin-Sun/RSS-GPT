@@ -18651,3 +18651,21 @@ Filter: [Surrogate-based optimization of system architectures subject to hidden
   constraints](http://arxiv.org/abs/2504.08721v1)
 append_entries: 2
 Finish: 2025-04-14 12:21:16.202306
+------------------------------------------------------
+Started: 2025-04-15 00:55:11.309606
+Existing_entries: 570
+Fetching from https://export.arxiv.org/api/query?search_query=cat:cs.*&sortBy=submittedDate&sortOrder=descending
+Filter: [Towards an Understanding of Context Utilization in Code Intelligence](http://arxiv.org/abs/2504.08734v1)
+Filter: [Quantum Large Language Model Fine-Tuning](http://arxiv.org/abs/2504.08732v1)
+Filter: [Dimension reduction for derivative-informed operator learning: An
+  analysis of approximation errors](http://arxiv.org/abs/2504.08730v1)
+Filter: [Steering CLIP's vision transformer with sparse autoencoders](http://arxiv.org/abs/2504.08729v1)
+Filter: [Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections
+  of Images](http://arxiv.org/abs/2504.08727v1)
+Filter: [Interaction-Required Suggestions for Control, Ownership, and Awareness
+  in Human-AI Co-Writing](http://arxiv.org/abs/2504.08726v1)
+Filter: [Deriving the Gradients of Some Popular Optimal Transport Algorithms](http://arxiv.org/abs/2504.08722v1)
+Filter: [Surrogate-based optimization of system architectures subject to hidden
+  constraints](http://arxiv.org/abs/2504.08721v1)
+append_entries: 0
+Finish: 2025-04-15 00:55:12.065994

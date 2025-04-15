@@ -4,13 +4,13 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+
 <item>
 <title>GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
   Autoregressive Image Generation</title>
 <link>http://arxiv.org/abs/2504.08736v1</link>
 <guid>http://arxiv.org/abs/2504.08736v1</guid>
 <content:encoded><![CDATA[
-
 In autoregressive (AR) image generation, visual tokenizers compress images
 into compact discrete latent tokens, enabling efficient training of downstream
 autoregressive models for visual generation via next-token prediction. While
@@ -33,7 +33,6 @@ parameters, GigaTok achieves state-of-the-art performance in reconstruction,
 downstream AR generation, and downstream AR representation quality.
 ]]></content:encoded>
 <pubDate>2025-04-11T17:59:58Z</pubDate>
-<pubDate>2025-04-11T17:59:58Z</pubDate>
 </item>
 <item>
 <title>DocAgent: A Multi-Agent System for Automated Code Documentation
@@ -41,7 +40,6 @@ downstream AR generation, and downstream AR representation quality.
 <link>http://arxiv.org/abs/2504.08725v1</link>
 <guid>http://arxiv.org/abs/2504.08725v1</guid>
 <content:encoded><![CDATA[
-
 High-quality code documentation is crucial for software development
 especially in the era of AI. However, generating it automatically using Large
 Language Models (LLMs) remains challenging, as existing approaches often
@@ -57,9 +55,7 @@ robust approach for reliable code documentation generation in complex and
 proprietary repositories.
 ]]></content:encoded>
 <pubDate>2025-04-11T17:50:08Z</pubDate>
-<pubDate>2025-04-11T17:50:08Z</pubDate>
 </item>
-
 <item>
 <title>PixelFlow: Pixel-Space Generative Models with Flow</title>
 <link>http://arxiv.org/abs/2504.07963v1</link>
