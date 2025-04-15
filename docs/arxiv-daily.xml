@@ -4,6 +4,90 @@
 <title>ArXiv Query: search_query=cat:cs.*&amp;amp;id_list=&amp;amp;start=0&amp;amp;max_results=10</title>
 <link>http://arxiv.org/api//Sr0Ktnalppie/A9qvr4BIZuOfQ</link>
 
+<item>
+<title>InternVL3: Exploring Advanced Training and Test-Time Recipes for
+  Open-Source Multimodal Models</title>
+<link>http://arxiv.org/abs/2504.10479v1</link>
+<guid>http://arxiv.org/abs/2504.10479v1</guid>
+<content:encoded><![CDATA[
+
+We introduce InternVL3, a significant advancement in the InternVL series
+featuring a native multimodal pre-training paradigm. Rather than adapting a
+text-only large language model (LLM) into a multimodal large language model
+(MLLM) that supports visual inputs, InternVL3 jointly acquires multimodal and
+linguistic capabilities from both diverse multimodal data and pure-text corpora
+during a single pre-training stage. This unified training paradigm effectively
+addresses the complexities and alignment challenges commonly encountered in
+conventional post-hoc training pipelines for MLLMs. To further improve
+performance and scalability, InternVL3 incorporates variable visual position
+encoding (V2PE) to support extended multimodal contexts, employs advanced
+post-training techniques such as supervised fine-tuning (SFT) and mixed
+preference optimization (MPO), and adopts test-time scaling strategies
+alongside an optimized training infrastructure. Extensive empirical evaluations
+demonstrate that InternVL3 delivers superior performance across a wide range of
+multi-modal tasks. In particular, InternVL3-78B achieves a score of 72.2 on the
+MMMU benchmark, setting a new state-of-the-art among open-source MLLMs. Its
+capabilities remain highly competitive with leading proprietary models,
+including ChatGPT-4o, Claude 3.5 Sonnet, and Gemini 2.5 Pro, while also
+maintaining strong pure-language proficiency. In pursuit of open-science
+principles, we will publicly release both the training data and model weights
+to foster further research and development in next-generation MLLMs.
+]]></content:encoded>
+<pubDate>2025-04-14T17:59:25Z</pubDate>
+<pubDate>2025-04-14T17:59:25Z</pubDate>
+</item>
+<item>
+<title>MIEB: Massive Image Embedding Benchmark</title>
+<link>http://arxiv.org/abs/2504.10471v1</link>
+<guid>http://arxiv.org/abs/2504.10471v1</guid>
+<content:encoded><![CDATA[
+
+Image representations are often evaluated through disjointed, task-specific
+protocols, leading to a fragmented understanding of model capabilities. For
+instance, it is unclear whether an image embedding model adept at clustering
+images is equally good at retrieving relevant images given a piece of text. We
+introduce the Massive Image Embedding Benchmark (MIEB) to evaluate the
+performance of image and image-text embedding models across the broadest
+spectrum to date. MIEB spans 38 languages across 130 individual tasks, which we
+group into 8 high-level categories. We benchmark 50 models across our
+benchmark, finding that no single method dominates across all task categories.
+We reveal hidden capabilities in advanced vision models such as their accurate
+visual representation of texts, and their yet limited capabilities in
+interleaved encodings and matching images and texts in the presence of
+confounders. We also show that the performance of vision encoders on MIEB
+correlates highly with their performance when used in multimodal large language
+models. Our code, dataset, and leaderboard are publicly available at
+https://github.com/embeddings-benchmark/mteb.
+]]></content:encoded>
+<pubDate>2025-04-14T17:54:28Z</pubDate>
+<pubDate>2025-04-14T17:54:28Z</pubDate>
+</item>
+<item>
+<title>Art3D: Training-Free 3D Generation from Flat-Colored Illustration</title>
+<link>http://arxiv.org/abs/2504.10466v1</link>
+<guid>http://arxiv.org/abs/2504.10466v1</guid>
+<content:encoded><![CDATA[
+
+Large-scale pre-trained image-to-3D generative models have exhibited
+remarkable capabilities in diverse shape generations. However, most of them
+struggle to synthesize plausible 3D assets when the reference image is
+flat-colored like hand drawings due to the lack of 3D illusion, which are often
+the most user-friendly input modalities in art content creation. To this end,
+we propose Art3D, a training-free method that can lift flat-colored 2D designs
+into 3D. By leveraging structural and semantic features with pre- trained 2D
+image generation models and a VLM-based realism evaluation, Art3D successfully
+enhances the three-dimensional illusion in reference images, thus simplifying
+the process of generating 3D from 2D, and proves adaptable to a wide range of
+painting styles. To benchmark the generalization performance of existing
+image-to-3D models on flat-colored images without 3D feeling, we collect a new
+dataset, Flat-2D, with over 100 samples. Experimental results demonstrate the
+performance and robustness of Art3D, exhibiting superior generalizable capacity
+and promising practical applicability. Our source code and dataset will be
+publicly available on our project page: https://joy-jy11.github.io/ .
+]]></content:encoded>
+<pubDate>2025-04-14T17:53:10Z</pubDate>
+<pubDate>2025-04-14T17:53:10Z</pubDate>
+</item>
 
 <item>
 <title>GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for
